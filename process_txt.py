@@ -1,10 +1,12 @@
+import os
+
 def process_text_file(input_file, output_file):
     import re
 
     # 读取文本文件内容
     with open(input_file, 'r', encoding='gbk') as f:
         content = f.read().strip()  # 去掉多余的换行符
-
+    content = re.sub(r"\n\s+\n", "\n\n", content)
     # 以空行分割内容为数组
     sections = content.split('\n\n')
 
@@ -14,6 +16,7 @@ def process_text_file(input_file, output_file):
     # 获取标题，英文原文和中文翻译
     title = sections[0].strip()
     english_text = sections[2].strip()
+    english_text = re.sub(r"U\.S\.", "U S ", english_text)
     chinese_text = sections[-1].strip()
 
     # 处理生词表
@@ -33,7 +36,11 @@ def process_text_file(input_file, output_file):
 
     # 确保中英文句子数量一致
     if len(english_sentences) != len(chinese_sentences):
-        print(english_sentences, "\n", chinese_sentences,flush=True)
+        print(f"英文句子数量：{len(english_sentences)}")
+        print(f"中文句子数量：{len(chinese_sentences)}")
+        print(input_file)
+        for eng, chi in zip(english_sentences, chinese_sentences):
+            print(eng, chi)
         raise ValueError("英文句子和中文句子数量不匹配")
 
     # 写入到新文件
@@ -54,8 +61,23 @@ def process_text_file(input_file, output_file):
             f.write(eng + '\n')
             f.write(chi + '\n\n')
 
+def process_directory(input_dir, output_dir):
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+
+    for filename in os.listdir(input_dir):
+        input_path = os.path.join(input_dir, filename)
+        if os.path.isfile(input_path):
+            output_path = os.path.join(output_dir, f"output_{filename}")
+            try:
+                process_text_file(input_path, output_path)
+                print(f"处理完成: {filename} -> {output_path}")
+            except Exception as e:
+                print(f"处理文件 {filename} 时出错:")
+
 # 调用示例
-input_file = '1to4/3/1.TXT'  # 输入文件名
-output_file = 'output.txt'  # 输出文件名
-process_text_file(input_file, output_file)
-print("文件处理完成，结果已写入：", output_file)
+input_dir = '1to4/4/ass'  # 输入文件夹
+input_dir_txt = '1to4/4/txt'  # 输入文件夹
+process_directory(input_dir, output_dir)
+print("所有文件处理完成。")
+
