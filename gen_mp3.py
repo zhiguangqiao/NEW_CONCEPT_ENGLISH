@@ -40,8 +40,8 @@ def process_directory(input_dir, output_dir):
 
     for filename in os.listdir(input_dir):
         input_path = os.path.join(input_dir, filename)
-        if os.path.isfile(input_path) and filename.endswith('.txt'):
-            output_path = os.path.join(output_dir, filename + '.mp3')
+        if os.path.isfile(input_path) and filename.endswith('.TXT'):
+            output_path = os.path.join(output_dir, os.path.splitext(filename)[0] + '.mp3')
             try:
                 process_text_file(input_path, output_path)
                 print(f"处理完成: {filename} -> {output_path}")
@@ -50,7 +50,7 @@ def process_directory(input_dir, output_dir):
 
 # 调用示例
 input_dir = '1to4/3'  # 输入文件夹
-output_dir = '1to4/3/text'  # 输出文件夹
+output_dir = '1to4/3/listen'  # 输出文件夹
 process_directory(input_dir, output_dir)
 print("所有文件处理完成。")
 

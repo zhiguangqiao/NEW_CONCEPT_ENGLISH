@@ -27,8 +27,8 @@ def add_ass_to_video(video_file, ass_file):
     subprocess.run(ffmpeg_command)
     print(f"处理完成: -> {video_file}")
 
-ass_dir = "1to4/4/ass"
-video_dir = "1to4/4/listen/video"
+ass_dir = "1to4/3/ass2"
+video_dir = "1to4/3/listen/video"
 
 # convert_mp3_to_video("1to4/4/listen/4-L1-L2_1.mp3", "blackboard.jpg", "1to4/4/listen/video/4-L1-L2_1.mp4")
 

@@ -9,7 +9,7 @@ def get_word_dict(text_file):
     content = re.sub(r"\n\s+\n", "\n\n", content)
     new_words_dict = {}
     if len(content) > 0:
-        matches = re.findall(r" {4}(\S.*?)\n([a-z]+\. {2}\S+)\n", content)
+        matches = re.findall(r" {4}(\S.*?)\n([a-z]+\. +\S+)\n", content)
         for match in matches:
             if match:
                 word, meaning = match

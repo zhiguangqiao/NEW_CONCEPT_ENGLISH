@@ -36,10 +36,9 @@ def convert_mp3_to_video(mp3_file, image_file, output_file):
     #     output_file
     # ]
     # subprocess.run(ffmpeg_command)
-input_dir = "1to4/4/listen"
-output_dir = "1to4/4/listen/video"
+input_dir = "1to4/3/listen"
+output_dir = "1to4/3/listen/video"
 
-# convert_mp3_to_video("1to4/4/listen/4-L1-L2_1.mp3", "blackboard.jpg", "1to4/4/listen/video/4-L1-L2_1.mp4")
 
 #
 for filename in os.listdir(input_dir):
