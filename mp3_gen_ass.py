@@ -1,7 +1,9 @@
 # coding:utf-8
+import sys
+
 import whisper
-from moviepy.audio.io.AudioFileClip import AudioFileClip
-from mutagen.mp3 import MP3
+# from moviepy.audio.io.AudioFileClip import AudioFileClip
+# from mutagen.mp3 import MP3
 from googletrans import Translator
 import os
 
@@ -83,6 +85,11 @@ def transcribe_mp3_to_ass(mp3_file, ass_file, model, translator):
         model: Whisper 模型对象。
         translator: googletrans 翻译器对象。
     """
+
+    if os.path.exists(ass_file):
+        print(f"Error: Output ass_file file '{ass_file}' already exists.")
+        return
+
     # 使用 Whisper 转录音频
     print(f"正在转录文件: {mp3_file}，请稍候...")
     result = model.transcribe(mp3_file, language="en")
@@ -117,6 +124,8 @@ def batch_process_mp3_to_ass(input_dir, output_dir, model_name="base"):
         os.makedirs(output_dir)
 
     # 加载 Whisper 模型
+    # 使用 apple mac torch 加速
+
     model = whisper.load_model(model_name)
     translator = Translator()
 
@@ -130,8 +139,25 @@ def batch_process_mp3_to_ass(input_dir, output_dir, model_name="base"):
 
 if __name__ == "__main__":
     # 输入目录和输出目录
-    input_directory = "1to4/3/listen"
-    output_directory = "1to4/3/ass"
+    # 参数读取第一个为 inputdirectory，参数读取第二个为 outputdirectory
+    # 如果没有输入参数，则默认为 "1to4/3/listen"
+    # 如果没有输出参数，则默认为 "1to4/3/ass"
+
+    input_directory = sys.argv[1]
+    output_directory = sys.argv[2]
+
+    # 如果没有输入参数，或参数为空字符串则报错退出
+    if not input_directory or not output_directory:
+        print("请输入输入目录和输出目录！")
+        exit(1)
+
+    # 入股 input_directory 不存在，则打印错误退出
+    if not os.path.exists(input_directory):
+        print(f"输入目录 {input_directory} 不存在！")
+        exit(1)
+
+    if not os.path.exists(output_directory):
+        os.makedirs(output_directory)
 
     # 批量处理 MP3 文件
     batch_process_mp3_to_ass(input_directory, output_directory)
