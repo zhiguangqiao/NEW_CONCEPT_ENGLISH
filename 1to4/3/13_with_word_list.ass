@@ -1,0 +1,28 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.28,Default,,0,0,0,, Lesson 13. It's only me. After her husband had gone to work. Mrs. Richard sent her children\N第13课。只是我。丈夫去上班后。理查德夫人送她的孩子
+Dialogue: 0,0:00:07.28,0:00:14.16,Default,,0,0,0,, to school and went upstairs to her bedroom. She was too excited to do any housework that morning.\N上学，上楼去她的卧室。那天早上，她太兴奋了，无法做任何家务劳动。
+Dialogue: 0,0:00:14.16,0:00:18.24,Default,,0,0,0,, For in the evening she would be going to a fancy dress part with her husband.\N在晚上，她将与丈夫一起去一件高档的衣服。
+Dialogue: 0,0:00:19.04,0:00:23.76,Default,,0,0,0,, costume: n.   化装服\N She intended to dress up as a ghost and as she had made her costume the night before.\N她打算打扮成鬼魂，就像前一天晚上做服装一样。
+Dialogue: 0,0:00:24.64,0:00:29.60,Default,,0,0,0,, costume: n.   化装服, consist: v.   由……组成, sheet: n.   被单\N She was impatient to try it on. Though the costume consisted only of a sheet,\N她不耐烦地尝试。尽管服装仅由一张床单组成，但
+Dialogue: 0,0:00:30.00,0:00:37.04,Default,,0,0,0,, effective: adj. 有明显效果的，有作用的\N it was very effective. After putting it on, Mrs. Richard's went downstairs. She wanted to find out\N这非常有效。戴上它后，理查德夫人下楼。她想找出答案
+Dialogue: 0,0:00:37.04,0:00:43.20,Default,,0,0,0,, whether it would be comfortable to wear. Just as Mrs. Richard's was entering the dining room,\N是否舒适穿。就像理查德夫人进入餐厅一样，
+Dialogue: 0,0:00:43.20,0:00:49.28,Default,,0,0,0,, there was a knock on the front door. She knew that it must be the baker. She had told him to come\N前门有一个敲门声。她知道那一定是面包师。她告诉他来
+Dialogue: 0,0:00:49.28,0:00:55.20,Default,,0,0,0,, straight in if ever she failed to open the door and to leave the bread on. The kitchen table,\N直到她都没有打开门，把面包放在上面。厨房桌子，
+Dialogue: 0,0:00:55.20,0:01:01.68,Default,,0,0,0,, not wanting to frighten the poor man. Mrs. Richard's quickly hid in the small storeroom under the stairs.\N不想吓train穷人。理查德夫人迅速藏在楼梯下面的小仓库中。
+Dialogue: 0,0:01:02.24,0:01:08.40,Default,,0,0,0,, She heard the front door open and heavy footsteps in the hall. Suddenly the door of the storeroom\N她听到前门打开，大厅里的脚步很重。突然的仓库门
+Dialogue: 0,0:01:08.40,0:01:14.64,Default,,0,0,0,, was opened and a man entered. Mrs. Richard's realized that it must be the man from the electricity\N被打开，一个男人进入。理查德夫人意识到这一定是电力的人
+Dialogue: 0,0:01:14.64,0:01:22.40,Default,,0,0,0,, board who had come to read the. Meater. She tried to explain the situation, saying, it's only me.\N来阅读的董事会。meater。她试图解释情况，说，这只是我。
+Dialogue: 0,0:01:22.40,0:01:29.28,Default,,0,0,0,, pace: n.   一步\N But it was too late. The man let out cry and jump back several paces. When Mrs. Richard's walked\N但是为时已晚。该男子哭了起来，跳了起来。当理查德夫人走路时
+Dialogue: 0,0:01:29.28,0:01:39.60,Default,,0,0,0,, slam: v.   砰地关上\N towards him. He fled, slamming the door behind him.\N对他。他逃跑了，猛击了身后的门。

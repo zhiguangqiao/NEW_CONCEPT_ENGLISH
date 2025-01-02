@@ -1,0 +1,40 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.22,Default,,0,0,0,,Lesson 4 Seeing hands\N\N能看见东西的手\N\N
+Dialogue: 0,0:00:04.22,0:00:07.84,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答问题.\N\N
+Dialogue: 0,0:00:07.84,0:00:12.70,Default,,0,0,0,,How did Vera disover she had this gift of second sight?\N\N维拉是怎样发现自己有第二视力这种天赋的?\N\N
+Dialogue: 0,0:00:12.70,0:00:16.93,Default,,0,0,0,,Several cases have been reported in Russia recently\N\N俄罗斯最近报导了几个事例,\N\N
+Dialogue: 0,0:00:16.93,0:00:21.13,Default,,0,0,0,,of people who can read and detect colours with their fingers,\N\N有人能用手指看书识字和辨认颜色,\N\N
+Dialogue: 0,0:00:21.13,0:00:24.37,Default,,0,0,0,,and even see through solid doors and walls.\N\N甚至能透过厚实的门和墙看到东西.\N\N
+Dialogue: 0,0:00:24.37,0:00:32.54,Default,,0,0,0,,One case concerns an 11-year-old schoolgirl Vera Petrova,who has normal vision\N\N其中有一例谈到有个名叫维拉·彼托洛娃的11岁女学生.其视力与常人一样\N\N
+Dialogue: 0,0:00:32.54,0:00:36.67,Default,,0,0,0,,but who can also perceive things with different parts of her skin,\N\N但她还能用皮肤的不同部位辨认东西,\N\N
+Dialogue: 0,0:00:36.67,0:00:39.25,Default,,0,0,0,,and through solid walls.\N\N甚至看穿坚实的墙壁.\N\N
+Dialogue: 0,0:00:39.25,0:00:42.84,Default,,0,0,0,,This ability was first noticed by her father.\N\N是她父亲首先发现她这一功能的.\N\N
+Dialogue: 0,0:00:42.84,0:00:46.68,Default,,0,0,0,,One day she came into his office\N\N一天,维拉走进父亲的办公室,\N\N
+Dialogue: 0,0:00:46.68,0:00:50.05,Default,,0,0,0,,safe: n.  保险柜\N\Nand happened to put her hands on the door of a locked safe.\N\N偶然把手放在一个锁着的保险柜的门上,\N\N
+Dialogue: 0,0:00:50.05,0:00:56.47,Default,,0,0,0,,Suddenly she asked her father why he kept so many old newspapers locked away there,\N\N她突然问父亲为什么把这么多的旧报纸锁在柜子里\N\N
+Dialogue: 0,0:00:56.47,0:01:00.61,Default,,0,0,0,,and even described the way they were done up in bundles.\N\N还说了报纸捆扎的情况.\N\N
+Dialogue: 0,0:01:00.61,0:01:07.10,Default,,0,0,0,,Vera's curious talent was brought to the notice of a scientific research institute\N\N维拉的特异功能引起了一个科研单位的注意.\N\N
+Dialogue: 0,0:01:07.10,0:01:10.57,Default,,0,0,0,,Ulyanovsk: n.  乌里扬诺夫斯克\N\Nin the town of Ulyanovsk,near where she lives,\N\N这个科研所位于她家附近乌里扬诺夫斯克城.\N\N
+Dialogue: 0,0:01:10.57,0:01:13.90,Default,,0,0,0,,and in April she was given a series of tests\N\N4月里,她接受了一系列的测试,\N\N
+Dialogue: 0,0:01:13.90,0:01:19.06,Default,,0,0,0,,commission: n.  委员会\N\Nby a special commission of the Ministry of Health of the Russian Federal Republic.\N\N是俄罗斯卫生部的一个特别委员会进行的.\N\N
+Dialogue: 0,0:01:19.06,0:01:25.69,Default,,0,0,0,,During these tests she was able to read a newspaper through an opaque screen and,\N\N在这些测试中,她能隔着不透明的屏幕读报纸.\N\N
+Dialogue: 0,0:01:25.69,0:01:30.91,Default,,0,0,0,,stranger still,by moving her elbow over a child's game of Lotto\N\N更为奇怪的是,她把肘部在儿童玩的"罗托"纸牌上移动一下,\N\N
+Dialogue: 0,0:01:30.91,0:01:35.38,Default,,0,0,0,,she was able to describe the figures and colours printed on it;\N\N便能说出上面的数字和颜色.\N\N
+Dialogue: 0,0:01:35.38,0:01:40.13,Default,,0,0,0,,slipper: n.  拖鞋\N\Nand,in another instance,wearing stockings and slippers,\N\N还有一次,她穿着长筒袜子和拖鞋,aa\N\N
+Dialogue: 0,0:01:40.13,0:01:46.69,Default,,0,0,0,,to make out with her foot the outlines and colours of a picture hidden under a carpet.\N\N能用脚识别出藏在地毯下面的一幅画的轮廓和颜色.\N\N
+Dialogue: 0,0:01:46.69,0:01:52.78,Default,,0,0,0,,Other experiments showed that her knees and shoulders had a similar sensitivity.\N\N其他实验表明,她的膝盖和双肩有类似的感觉能力.\N\N
+Dialogue: 0,0:01:52.78,0:01:58.68,Default,,0,0,0,,During all these tests Vera was blindfold; and indeed,\N\N在所有这些实验中,维拉的双眼都是蒙着的.而且千真万确,\N\N
+Dialogue: 0,0:01:58.68,0:02:03.63,Default,,0,0,0,,except when blindfold she lacked the ability to perceive things with her skin.\N\N如果不蒙上双眼她的皮肤就不再具有识别物体的能力.\N\N
+Dialogue: 0,0:02:03.63,0:02:08.63,Default,,0,0,0,,It was also found that although she could perceive things with her fingers this ability ceased the moment her hands were wet.\N\N同时还发现,尽管她能用手指识别东西,但她的手一旦弄湿了, 这种功能便会立即消失.\N\N

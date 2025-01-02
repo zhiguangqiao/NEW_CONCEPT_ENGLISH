@@ -1,0 +1,35 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:08.24,Default,,0,0,0,, Lesson 26. Wanted. A large biscuit tin. No one can avoid being influenced by advertisements.\N第26课。想要。大型饼干锡。没有人可以避免受到广告的影响。
+Dialogue: 0,0:00:08.24,0:00:14.72,Default,,0,0,0,, pride: v.   骄傲, taste: n.   鉴赏力\N Much as we may pride ourselves on our good taste, we are no longer free to choose the things we want.\N正如我们可能以自己的良好品味而自豪的那样，我们不再自由选择想要的东西。
+Dialogue: 0,0:00:14.72,0:00:20.72,Default,,0,0,0,, exert: v.   施加, subtle: aj.  微妙的，难以捉摸的\N For advertising exerts a subtle influence on us. In their efforts to persuade us to buy this\N对于广告，对我们产生了微妙的影响。在他们说服我们购买此事的努力中
+Dialogue: 0,0:00:20.72,0:00:27.12,Default,,0,0,0,, or that product. Advertisers have made a close study of human nature and have classified all our\N或该产品。广告商对人性进行了仔细研究，并将我们所有的所有
+Dialogue: 0,0:00:27.12,0:00:34.00,Default,,0,0,0,, little weaknesses. Advertisers discovered years ago that all of us love to get something for nothing.\N很少的弱点。广告商几年前发现，我们所有人都喜欢一无所获。
+Dialogue: 0,0:00:34.80,0:00:41.28,Default,,0,0,0,, magic: adj. 有奇妙作用\N An advertisement which begins with the magic word free can rarely go wrong. These days,\N从魔术词免费开始的广告很少会出错。这些日子，
+Dialogue: 0,0:00:41.28,0:00:48.80,Default,,0,0,0,, advertiser: n.   做广告的人, sample: n.   样品\N advertisers not only offer free samples, but free cars, free houses, and free trips around the\N广告商不仅提供免费的样品，而且提供免费的汽车，免费的房屋和免费旅行
+Dialogue: 0,0:00:48.80,0:00:55.20,Default,,0,0,0,, devise: v.   设计，想出\N world as well. They devise hundreds of competitions which will enable us to win huge sums of money.\N世界也是如此。他们设计了数百场比赛，这将使我们能够赢得巨额资金。
+Dialogue: 0,0:00:56.00,0:01:01.92,Default,,0,0,0,, advertiser: n.   做广告的人, capture: v.   吸引，赢得\N Radio and television have made it possible for advertisers to capture the attention of millions of\N广播和电视使广告商有可能吸引数百万的关注
+Dialogue: 0,0:01:02.80,0:01:09.12,Default,,0,0,0,, manufacturer: n.   生产厂家，制造商\N people in this way. During a radio program, a company of biscuit manufacturers once ask\N人们以这种方式。在广播节目中，一家饼干制造商曾经询问
+Dialogue: 0,0:01:09.12,0:01:15.36,Default,,0,0,0,, listeners to bake biscuits and send them to their factory. They offered to pay $10\N听众烘烤饼干并将其发送到工厂。他们提出要支付10美元
+Dialogue: 0,0:01:15.36,0:01:22.00,Default,,0,0,0,, a pound for the biggest biscuit baked by a listener. The response to this competition was tremendous.\N一磅为听众烘烤的最大饼干。对这场比赛的反应是巨大的。
+Dialogue: 0,0:01:22.64,0:01:29.28,Default,,0,0,0,, Before long, biscuits of all shapes and sizes began arriving at the factory. One lady brought\N不久之后，各种形状和尺寸的饼干开始到达工厂。一位女士带来
+Dialogue: 0,0:01:29.28,0:01:36.88,Default,,0,0,0,, wheelbarrow: n.   独轮手推车\N in a biscuit on a wheelbarrow. It weighed nearly 500 pounds. A little later, a man came along with a\N在独轮车上的饼干中。它重近500磅。过了一会儿，一个男人带着一个
+Dialogue: 0,0:01:36.88,0:01:42.88,Default,,0,0,0,, boot: n.  （汽车尾部的）行李箱\N biscuit which occupied the whole boot of his car. All the biscuits that were sent were carefully\N饼干占据了他汽车的整个靴子。所有发送的饼干都仔细
+Dialogue: 0,0:01:42.88,0:01:49.44,Default,,0,0,0,, weighed. The largest was 713 pounds. It seemed certain that this would win the price.\N称重。最大的是713磅。似乎可以肯定的是，这将赢得价格。
+Dialogue: 0,0:01:49.92,0:01:56.64,Default,,0,0,0,, But just before the competition closed, a lorry arrived at the factory with a truly colossal biscuit\N但是在比赛结束之前，一辆卡车带着一个真正巨大的饼干到达了工厂
+Dialogue: 0,0:01:56.64,0:02:04.24,Default,,0,0,0,, which weighed 2,400 pounds. It had been baked by a college student who had used over 1,000 pounds of\N重2400磅。它是由一名使用超过1000磅的大学生烘烤的
+Dialogue: 0,0:02:04.24,0:02:13.12,Default,,0,0,0,, ingredient: n.   配料\N flour, 800 pounds of sugar, 200 pounds of fat, and 400 pounds of various other ingredients.\N面粉，800磅的糖，200磅的脂肪和400磅的其他各种成分。
+Dialogue: 0,0:02:13.12,0:02:17.20,Default,,0,0,0,, crane: n.   起重机\N It was so heavy that a crane had to be used to remove it from the lorry.\N它是如此沉重，以至于必须使用起重机将其从货车上取出。
+Dialogue: 0,0:02:18.00,0:02:22.24,Default,,0,0,0,, manufacturer: n.   生产厂家，制造商, anticipate: v.   预期，预料\N The manufacturers had to pay more money than they had anticipated.\N制造商必须支付的钱比预期的要多。
+Dialogue: 0,0:02:22.24,0:02:27.20,Default,,0,0,0,, Are they bought the biscuit from the student for $24,000?\N他们是否以24,000美元的价格从学生那里购买了饼干？

@@ -1,0 +1,34 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.96,Default,,0,0,0,, lovable: adj. 可爱的, eccentric: n.   （行为）古怪人\N Lesson 31. A lovable eccentric. True eccentric's never deliberately set out to draw attention\N第31课。可爱的古怪。真正的怪人从未故意引起注意
+Dialogue: 0,0:00:06.96,0:00:12.64,Default,,0,0,0,, disregard: v.   不顾，漠视, convention: n.   习俗，风俗, conscious: adj. 感觉到的，意识到的\N to themselves. They disregard social conventions without being conscious that they are doing\N对自己。他们无视社会惯例，而没有意识到自己在做
+Dialogue: 0,0:00:12.64,0:00:19.20,Default,,0,0,0,, invariably: adv. 总是，经常地\N anything extraordinary. This invariably wins them the love and respect of others. For they\N任何非凡的。这总是赢得他们他人的爱与尊重。因为他们
+Dialogue: 0,0:00:19.20,0:00:26.00,Default,,0,0,0,, routine: n.   常规；惯例\N add color to the dull routine of everyday life. Up to the time of his death. Richard Colson was\N为日常生活的沉闷习惯增添色彩。直到他去世的时候。理查德·科尔森（Richard Colson）是
+Dialogue: 0,0:00:26.00,0:00:32.72,Default,,0,0,0,, shrewd: adj. 精明的\N one of the most notable figures in our town. He was a shrewd and wealthy businessman. But most\N我们镇上最著名的人物之一。他是一位精明而富有的商人。但大多数
+Dialogue: 0,0:00:32.72,0:00:38.80,Default,,0,0,0,, people in the town hardly knew anything about this side of his life. He was known to us all as\N镇上的人们几乎对他一生的这一面一无所知。他被我们所有人都称为
+Dialogue: 0,0:00:38.80,0:00:45.68,Default,,0,0,0,, eccentric: n.   （行为）古怪人, eccentricity: n.   怪僻, legendary: adj. 传奇般的, snob: n.   势利小人，谄上欺下的人\N Dickey and his eccentricity had become legendary long before he died. Dickey dislikes snobbs\N迪基（Dickey）和他的怪癖在他去世之前就已经成为传奇人物。Dickey不喜欢势利小人
+Dialogue: 0,0:00:45.68,0:00:53.12,Default,,0,0,0,, intensely: adv. 强烈地\N intensely, though he owned a large car. He hardly ever used it, preferring always to go on foot,\N强烈地，尽管他拥有一辆大型汽车。他几乎从未使用过，更喜欢总是步行，
+Dialogue: 0,0:00:53.12,0:00:59.92,Default,,0,0,0,, even when it was raining heavily. He refused to carry an umbrella. One day, he walked into an\N即使下雨了。他拒绝携带雨伞。有一天，他走进了
+Dialogue: 0,0:00:59.92,0:01:07.04,Default,,0,0,0,, expensive shop after having been caught in a particularly heavy shower. He wanted to buy a $300\N昂贵的商店被送入特别沉重的淋浴间。他想买300美元
+Dialogue: 0,0:01:07.04,0:01:13.60,Default,,0,0,0,, watch for his wife. But he was in such a bidraggled condition that an assistant refused to serve him.\N看着他的妻子。但是他处于bidragggggggggg的状态，助手拒绝为他服务。
+Dialogue: 0,0:01:14.40,0:01:20.96,Default,,0,0,0,, Dickey left the shop without a word and returned carrying a large cloth bag. As it was extremely\N迪基一言不发地离开了商店，然后带着一个大布袋返回。因为这是非常
+Dialogue: 0,0:01:20.96,0:01:27.84,Default,,0,0,0,, dump: v.   把……砰的一声抛下\N heavy, he dumped it on the counter. The assistant asked him to leave. But Dickey paid no attention\N沉重，他把它扔在柜台上。助手要求他离开。但是迪基没有注意
+Dialogue: 0,0:01:27.84,0:01:35.12,Default,,0,0,0,, to him and requested to see the manager. Recognizing who the customer was, the manager was most\N给他，并要求去看经理。认识到客户是谁，经理是最多的
+Dialogue: 0,0:01:35.12,0:01:41.92,Default,,0,0,0,, apologetic: adj. 道歉的, reprimand: v.   训斥\N apologetic and reprimanded the assistant severely. When Dickey was given the watch, the presented\N道歉并严厉谴责助手。当迪基被给予手表时，提出了
+Dialogue: 0,0:01:41.92,0:01:49.20,Default,,0,0,0,, the assistant with the cloth bag. It contained $300 in pennies. He insisted on the assistance\N带布袋的助手。它包含300美元的便士。他坚持协助
+Dialogue: 0,0:01:49.20,0:01:56.56,Default,,0,0,0,, counting the money before he left, 30,000 pennies in all. On another occasion, he invited a number\N在他离开之前计算这笔钱，总共有30,000便士。在另一个场合，他邀请了一个号码
+Dialogue: 0,0:01:56.56,0:02:03.20,Default,,0,0,0,, of important critics to see his private collection of modern paintings. This exhibition received a\N重要的批评家看到他的私人绘画集。这个展览收到了
+Dialogue: 0,0:02:03.20,0:02:08.80,Default,,0,0,0,, great deal of attention in the press. For though the pictures were supposed to be the work of famous\N媒体上的关注很大。因为尽管图片应该是名人的作品
+Dialogue: 0,0:02:08.80,0:02:15.76,Default,,0,0,0,, stage: v.   暗中策划, elaborate: adj. 精心构思的\N artists, they had in fact been painted by Dickey. It took him four years to stage this elaborate\N艺术家，他们实际上是由迪基（Dickey）绘制的。他花了四年的时间才登上这个精致的
+Dialogue: 0,0:02:15.76,0:02:25.76,Default,,0,0,0,, joke simply to prove that critics do not always know what they are talking about.\N只是为了证明批评家并不总是知道他们在说什么。

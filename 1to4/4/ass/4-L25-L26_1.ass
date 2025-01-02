@@ -1,0 +1,55 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.07,Default,,0,0,0,,Lesson 25 Non-auditory effects of noise\N\N噪音的非听觉效应\N\N
+Dialogue: 0,0:00:07.07,0:00:10.91,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:10.91,0:00:16.93,Default,,0,0,0,,What conclusion does the author draw about noise and health in this piece?\N\N作者在本文对噪音和健康得出了什么结论?\N\N
+Dialogue: 0,0:00:16.93,0:00:20.48,Default,,0,0,0,,Many people in industry and the Services,\N\N在工业部门工作和在军队中服役的许多人\N\N
+Dialogue: 0,0:00:20.48,0:00:23.33,Default,,0,0,0,,who have practical experience of noise,\N\N对噪音有切身的体会,\N\N
+Dialogue: 0,0:00:23.33,0:00:27.67,Default,,0,0,0,,regard any investigation of this question as a waste of time;\N\N他们认为对这个问题进行调查是浪费时间,\N\N
+Dialogue: 0,0:00:27.67,0:00:33.40,Default,,0,0,0,,they are not prepared even to admit the possibility that noise affects people.\N\N甚至不愿承认噪音可能对人有影响.\N\N
+Dialogue: 0,0:00:33.40,0:00:34.99,Default,,0,0,0,,On the other hand,\N\N另一方面,\N\N
+Dialogue: 0,0:00:34.99,0:00:43.10,Default,,0,0,0,,plea: n.  要求\N\Nthose who dislike noise will sometimes use most inadequate evidence to support their pleas for a quieter society.\N\N那些讨厌噪音的人有时会用不充分的证据来支持他们希望有一个较安静的社会环境的要求.\N\N
+Dialogue: 0,0:00:43.10,0:00:49.08,Default,,0,0,0,,abatement: n.  减少\N\NThis is a pity,because noise abatement really is a good cause,\N\N要求减少噪音确实是件好事,但是很遗憾\N\N
+Dialogue: 0,0:00:49.08,0:00:54.45,Default,,0,0,0,,discredit: v.  怀疑\N\Nand it is likely to be discredited if it gets to be associated with bad science.\N\N如果它与拙劣的科学掺杂在一起的话,就不会被人们所信任.\N\N
+Dialogue: 0,0:00:54.45,0:01:01.24,Default,,0,0,0,,allegation: n.  断言\N\NOne allegation often made is that noise produces mental illness.\N\N常见的一种指责是,噪音能引起精神病.\N\N
+Dialogue: 0,0:01:01.24,0:01:05.44,Default,,0,0,0,,A recent article in a weekly newspaper,for instance,\N\N例如,最近一家周报刊登了一篇文章,\N\N
+Dialogue: 0,0:01:05.44,0:01:11.31,Default,,0,0,0,,was headed with a striking illustration of a lady in a state of considerable distress,\N\N文章上方有一幅引人注目的插图,是一位表情沮丧的女子.\N\N
+Dialogue: 0,0:01:11.31,0:01:17.64,Default,,0,0,0,,caption: n.  插图说明, wreck: n.  残废人\N\Nwith the caption 'She was yet another victim,reduced to a screaming wreck'.\N\N图的文字说明是:"她是又一个受害者,成了只会尖叫的可怜虫."\N\N
+Dialogue: 0,0:01:17.64,0:01:23.59,Default,,0,0,0,,On turning eagerly to the text,one learns that the lady was a typist\N\N当人们急切地看完正文后,便知道这位女子是个打字员,\N\N
+Dialogue: 0,0:01:23.59,0:01:27.93,Default,,0,0,0,,who found the sound of office typewriters worried her more and more\N\N办公室打字机的声音使她越来越烦恼,\N\N
+Dialogue: 0,0:01:27.93,0:01:32.12,Default,,0,0,0,,until eventually she had to go into a mental hospital.\N\N最终住进了精神病院.\N\N
+Dialogue: 0,0:01:32.12,0:01:36.58,Default,,0,0,0,,snag: n.  疑难之处，障碍, anecdote: n.  轶闻\N\NNow the snag in this sort of anecdote is of course\N\N这类奇闻的疑难之处是\N\N
+Dialogue: 0,0:01:36.58,0:01:39.77,Default,,0,0,0,,that one cannot distinguish cause and effect.\N\N无法区别因果关系.\N\N
+Dialogue: 0,0:01:39.77,0:01:42.92,Default,,0,0,0,,Was the noise a cause of the illness,\N\N是噪音引起了(精神)病呢\N\N
+Dialogue: 0,0:01:42.92,0:01:46.84,Default,,0,0,0,,or were the complaints about noise merely a symptom?\N\N还是(精神)病的症状之一是对噪音的抱怨?\N\N
+Dialogue: 0,0:01:46.84,0:01:50.09,Default,,0,0,0,,Another patient might equally well complain\N\N另有一位病人可能同样有理由抱怨说,\N\N
+Dialogue: 0,0:01:50.09,0:01:54.21,Default,,0,0,0,,slander: v.  诽谤, persecute: v.  迫害\N\Nthat her neighbours were combining to slander her and persecute her,\N\N她的邻居们正在联合起来对她进行诽谤和迫害,\N\N
+Dialogue: 0,0:01:54.21,0:01:57.70,Default,,0,0,0,,and yet one might be cautious about believing this statement.\N\N不过,人们不会轻信她的抱怨.\N\N
+Dialogue: 0,0:01:57.70,0:02:01.13,Default,,0,0,0,,What is needed in the case of noise\N\N对于噪音问题,\N\N
+Dialogue: 0,0:02:01.13,0:02:05.74,Default,,0,0,0,,is a study of large numbers of people living under noisy conditions,\N\N需要对大量生活在噪音中的人进行研究,\N\N
+Dialogue: 0,0:02:05.74,0:02:10.56,Default,,0,0,0,,to discover whether they are mentally ill more often than other people are.\N\N看一看他们是否比其他人更易患精神病.\N\N
+Dialogue: 0,0:02:10.56,0:02:14.80,Default,,0,0,0,,Some time ago the United States Navy, for instance,\N\N例如,美国海军前些时候\N\N
+Dialogue: 0,0:02:14.80,0:02:19.28,Default,,0,0,0,,examined a very large number of men working on aircraft carriers:\N\N调查了许多在航空母舰上工作的人,\N\N
+Dialogue: 0,0:02:19.28,0:02:22.87,Default,,0,0,0,,the study was known as Project Anehin.\N\N这次调查被称之为: "安内英工程".\N\N
+Dialogue: 0,0:02:22.87,0:02:27.62,Default,,0,0,0,,plea: n.  要求\N\NIt can be unpleasant to live even several miles from an aerodrome;\N\N即使住在离机场几英里以外的地方,机场的噪音也会使人难受.\N\N
+Dialogue: 0,0:02:27.62,0:02:34.72,Default,,0,0,0,,squadron: n.  中队\N\Nif you think what it must be like to share the deck of a ship with several squadrons of jet aircraft,\N\N如果你能想像出和几个中队的喷气机同在一个甲板上是什么滋味的话,\N\N
+Dialogue: 0,0:02:34.72,0:02:39.50,Default,,0,0,0,,you will realize that a modern navy is a good place to study noise.\N\N你就会认识到现代海军是研究噪音的好地方.\N\N
+Dialogue: 0,0:02:39.50,0:02:44.81,Default,,0,0,0,,But neither psychiatric interviews nor objective tests\N\N但是,不管是进行精神病学的调查访问,还是进行客观的测试,\N\N
+Dialogue: 0,0:02:44.81,0:02:48.61,Default,,0,0,0,,were able to show any effects upon these American sailors.\N\N都不能显示噪音对这些美国水兵有任何影响.\N\N
+Dialogue: 0,0:02:48.61,0:02:54.39,Default,,0,0,0,,This result merely confirms earlier American and British studies:\N\N这个结果只不过证实了美国和英国早些时候的研究结论:\N\N
+Dialogue: 0,0:02:54.39,0:02:57.76,Default,,0,0,0,,if there is any effect of noise upon mental health,\N\N如果噪音对精神健康有影响的话,\N\N
+Dialogue: 0,0:02:57.76,0:03:03.74,Default,,0,0,0,,diagnosis: n.  诊所\N\Nit must be so small that present methods of psychiatric diagnosis cannot find it.\N\N那也一定是微乎其微,以致现代的精神病诊断方法还发现不了.\N\N
+Dialogue: 0,0:03:03.74,0:03:09.21,Default,,0,0,0,,That does not prove that it does not exist;but it does mean\N\N这并不是证实不存在噪音对健康的影响.但它确实说明,\N\N
+Dialogue: 0,0:03:09.21,0:03:14.08,Default,,0,0,0,,orphanage: n.  孤儿院\N\Nthat noise is less dangerous than,say being brought up in an orphanage\N\N噪音的危险性--比如说--比在孤儿院长大所受的危害小一些\N\N
+Dialogue: 0,0:03:14.08,0:03:19.08,Default,,0,0,0,,--which really is a mental health hazard.\N\N孤儿院才是真正危害精神健康的地方.\N\N

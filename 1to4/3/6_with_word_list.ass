@@ -1,0 +1,38 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.68,Default,,0,0,0,, Lesson 6.\N第6课。
+Dialogue: 0,0:00:01.68,0:00:03.08,Default,,0,0,0,, Smash and grab.\N砸碎并抓住。
+Dialogue: 0,0:00:03.08,0:00:07.92,Default,,0,0,0,, Piccadilly: n.   皮卡迪利大街\N The expensive shops in a famous near Piccadilly were just opening.\N一家著名的皮卡迪利附近昂贵的商店刚刚开业。
+Dialogue: 0,0:00:07.92,0:00:12.20,Default,,0,0,0,, arcade: n.   有拱廊的街道（两旁常设商店）\N At this time of the morning, the arcade was almost empty.\N在早晨的这个时候，街机几乎是空的。
+Dialogue: 0,0:00:12.20,0:00:13.60,Default,,0,0,0,, Mr. Taylor.\N泰勒先生。
+Dialogue: 0,0:00:13.60,0:00:17.52,Default,,0,0,0,, ring: n.   戒指\N The owner of a jewelry shop was admiring a new display.\N一家珠宝店的所有者正在欣赏新展示。
+Dialogue: 0,0:00:17.52,0:00:23.36,Default,,0,0,0,, Two of his assistants had been working busily since 8 o'clock and had only just finished.\N他的两名助手从8点开始就忙于工作，刚刚完成。
+Dialogue: 0,0:00:23.36,0:00:29.48,Default,,0,0,0,, necklace: n.   项链, ring: n.   戒指, background: n.   背景\N Diamond necklaces and rings had been beautifully arranged on a background of Black Velvet.\N钻石项链和环在黑色天鹅绒的背景上精美布置。
+Dialogue: 0,0:00:29.48,0:00:35.52,Default,,0,0,0,, After gazing at the display for several minutes, Mr. Taylor went back into his shop.\N凝视着展示的几分钟后，泰勒先生回到了他的商店。
+Dialogue: 0,0:00:35.52,0:00:39.10,Default,,0,0,0,, The silence was suddenly broken when a large car.\N一辆大车突然破裂了沉默。
+Dialogue: 0,0:00:39.10,0:00:43.60,Default,,0,0,0,, arcade: n.   有拱廊的街道（两旁常设商店）, ring: n.   戒指, headlight: n.   （汽车等）前灯\N With its headlights on and its home blaring, roared down the arcade.\N大灯亮着，房屋吹来，咆哮着街机。
+Dialogue: 0,0:00:43.60,0:00:46.76,Default,,0,0,0,, It came to a stop outside the jewelers.\N它停在珠宝商外面。
+Dialogue: 0,0:00:46.76,0:00:51.68,Default,,0,0,0,, One man stayed at the wheel while two others with black stocking over their faces jump out\N一个男人呆在方向盘上，另外两个人脸上有黑色的袜子跳了出来
+Dialogue: 0,0:00:51.68,0:00:56.32,Default,,0,0,0,, and smashed the window of the shop with iron bars.\N并用铁杆砸碎了商店的窗户。
+Dialogue: 0,0:00:56.32,0:00:59.44,Default,,0,0,0,, While this was going on, Mr. Taylor was upset.\N在此过程中，泰勒先生不高兴。
+Dialogue: 0,0:00:59.44,0:01:04.56,Default,,0,0,0,, staff: n.   全体工作人员\N He and his staff began throwing furniture out of the window.\N他和他的员工开始将家具扔到窗外。
+Dialogue: 0,0:01:04.56,0:01:07.60,Default,,0,0,0,, arcade: n.   有拱廊的街道（两旁常设商店）\N Chairs and tables went flying into the arcade.\N椅子和桌子飞入街机。
+Dialogue: 0,0:01:07.60,0:01:10.76,Default,,0,0,0,, One of the thieves was struck by a heavy statue.\N其中一个小偷被一个沉重的雕像击中。
+Dialogue: 0,0:01:10.76,0:01:15.52,Default,,0,0,0,, But he was too busy helping himself to diamonds to notice any pain.\N但是他忙于帮助自己去钻石，注意到任何痛苦。
+Dialogue: 0,0:01:15.52,0:01:18.36,Default,,0,0,0,, raid: n.   偷袭\N The raid was all over in three minutes.\N突袭在三分钟内结束了。
+Dialogue: 0,0:01:18.36,0:01:24.04,Default,,0,0,0,, scramble: v.   爬行, fantastic: adj. 非常大的\N For the men scrambled back into the car and it moved off at a fantastic speed.\N对于这些人来说，爬上了汽车，它以惊人的速度移动。
+Dialogue: 0,0:01:24.04,0:01:29.14,Default,,0,0,0,, Just as it was leaving, Mr. Taylor rushed out and ran after it throwing astrays in\N就在离开时，泰勒先生冲出了
+Dialogue: 0,0:01:29.14,0:01:30.82,Default,,0,0,0,, faces.\N面孔。
+Dialogue: 0,0:01:30.82,0:01:33.78,Default,,0,0,0,, But it was impossible to stop the thieves.\N但是不可能阻止小偷。
+Dialogue: 0,0:01:33.78,0:01:37.02,Default,,0,0,0,, They had got away with thousands of pounds worth of diamonds.\N他们逃脱了数千磅的钻石。

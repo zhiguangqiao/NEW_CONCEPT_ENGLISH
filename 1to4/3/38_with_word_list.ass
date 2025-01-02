@@ -1,0 +1,30 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:09.60,Default,,0,0,0,, calendar: n.   历法，日历, historian: n.   历史学家, unique: adj. 无与伦比的\N Lesson 38. The first calendar. Future historians will be in a unique position when they come to record the history of our own times.\N第38课。第一个日历。未来的历史学家在记录自己时代的历史时将处于独特的位置。
+Dialogue: 0,0:00:09.60,0:00:16.80,Default,,0,0,0,, steadily: adv. 不断地\N They will hardly know which facts to select from the great mass of evidence that steadily accumulates.\N他们几乎不知道从稳步积累的大量证据中选择哪些事实。
+Dialogue: 0,0:00:16.80,0:00:29.36,Default,,0,0,0,, solely: adv. 唯一地, video: n.   录像, bewilder: v.   令人眼花缭乱\N What is more, they will not have to rely solely on the written word. Films, videos, CDs and CD-ROMs are just some of the bewildering amount of information they will have.\N而且，他们不必仅依靠书面词。电影，视频，CD和CD-ROM只是他们将拥有的一些令人困惑的信息。
+Dialogue: 0,0:00:29.36,0:00:40.56,Default,,0,0,0,, historian: n.   历史学家\N They will be able, as it were, to see and hear us in action. But the historian attempting to reconstruct the distant past has always faced with a difficult task.\N他们将能够看到并听到我们的行动。但是，试图重建遥远过去的历史学家一直面临着一项艰巨的任务。
+Dialogue: 0,0:00:40.56,0:00:51.76,Default,,0,0,0,, deduce: v.   推断，推理, scanty: adj. 不足的，贫乏的, clue: n.   线索, insignificant: adj. 不重要的, shed: v.   使流出，泻\N He has to deduce what he can from the few scanty clues available. Even seemingly insignificant remains can shed interesting light on the history of early man.\N他必须从可用的几个少数线索中推断出他能做的一切。即使看似微不足道的遗体也可能对早期人的历史展现出有趣的启示。
+Dialogue: 0,0:00:51.76,0:00:58.56,Default,,0,0,0,, calendar: n.   历法，日历, historian: n.   历史学家, advent: n.   出现，到来，来临, agriculture: n.   农业\N Up to now, historians have assumed that calendars came into being with the advent of agriculture.\N到目前为止，历史学家认为日历是随着农业的出现而开始的。
+Dialogue: 0,0:00:58.56,0:01:03.76,Default,,0,0,0,, For then man was faced with a real need to understand something about the seasons.\N因为那时，人面临着真正需要了解季节的东西。
+Dialogue: 0,0:01:03.76,0:01:12.36,Default,,0,0,0,, assumption: n.   假定，设想, dot: n.   小圆点\N Recent scientific evidence seems to indicate that this assumption is incorrect. Historians have long been puzzled by dots.\N最近的科学证据似乎表明该假设是不正确的。历史学家长期以来一直被点困惑。
+Dialogue: 0,0:01:12.36,0:01:19.56,Default,,0,0,0,, symbol: n.   符号, engrave: v.   雕刻, ivory: n.   象牙制品, mammoth: n.   （古）长毛象, tusk: n.   獠牙，长牙，象牙\N Lines and symbols which have been engraved on walls, bones, and the ivory tusks of mammoths.\N刻在墙壁，骨头和象牙象牙上的线条和符号。
+Dialogue: 0,0:01:19.56,0:01:25.96,Default,,0,0,0,, nomad: n.   游牧民\N The nomads who made these markings lived by hunting and fishing during the last ice age which began.\N在开始的最后一个冰河时代，制作这些标记的游牧民族通过狩猎和钓鱼生活。
+Dialogue: 0,0:01:26.16,0:01:35.16,Default,,0,0,0,, About 35,000 BC and ended about 10,000 BC by correlating markings made in various parts of the world.\N公元前约35,000，结束了约10,000公里，通过将世界各地的标记相关联。
+Dialogue: 0,0:01:35.16,0:01:43.96,Default,,0,0,0,, phase: n.   月相，天相\N Historians have been able to read this difficult code. They have found that it is connected with the passage of days and the phases of the moon.\N历史学家能够阅读此困难的代码。他们发现它与几天的流逝和月球相关。
+Dialogue: 0,0:01:43.96,0:01:54.76,Default,,0,0,0,, calendar: n.   历法，日历, primitive: adj. 原始的, depict: v.   描画，描绘\N It is, in fact, a primitive type of calendar. It has long been known that the hunting scenes depicted on walls were not simply a form of artistic.\N实际上，它是一种原始类型的日历。早就知道，墙上描绘的狩猎场景不仅仅是一种艺术形式。
+Dialogue: 0,0:01:54.76,0:02:01.56,Default,,0,0,0,, Expression, they had a definite meaning. For they were as near as early man could get to writing.\N表达，它们具有明确的含义。因为他们和早期的人一样接近写作。
+Dialogue: 0,0:02:01.56,0:02:07.36,Default,,0,0,0,, It is possible that there is a definite relation between these paintings and the markings that.\N这些绘画与标记之间可能存在明确的关系。
+Dialogue: 0,0:02:07.36,0:02:16.36,Default,,0,0,0,, Sometimes accompany them. It seems that man was making a real effort to understand the seasons 20,000 years earlier than has.\N有时会陪伴他们。看来，男人正在努力地了解20，000年的季节。
+Dialogue: 0,0:02:16.36,0:02:17.56,Default,,0,0,0,, Been supposed.\N被认为。

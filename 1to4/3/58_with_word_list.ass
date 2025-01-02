@@ -1,0 +1,65 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.28,Default,,0,0,0,, Lesson 58, a spot of bother.\N第58课，一个麻烦的地方。
+Dialogue: 0,0:00:03.28,0:00:08.12,Default,,0,0,0,, The old lady was glad to be back at the block of flats where she lived.\N这位老太太很高兴回到她居住的公寓街区。
+Dialogue: 0,0:00:08.12,0:00:14.08,Default,,0,0,0,, Her shopping had tired her and her basket ad-grown heavier with every step of the way home.\N她的购物使她和篮子广告越来越重，回家的每一步。
+Dialogue: 0,0:00:14.08,0:00:17.84,Default,,0,0,0,, life: n.   电梯\N In the life her thoughts were on lunch and a good rest.\N在生活中，她的想法是在午餐和休息良好的生活中。
+Dialogue: 0,0:00:17.84,0:00:22.96,Default,,0,0,0,, But when she got out at her own floor, both were forgotten in her sudden discovery that\N但是当她在自己的地板上出去时，两人都在突然发现
+Dialogue: 0,0:00:22.96,0:00:25.32,Default,,0,0,0,, her front door was open.\N她的前门是打开的。
+Dialogue: 0,0:00:25.32,0:00:30.20,Default,,0,0,0,, monstrous: adj. 极大的，可怕的\N She was thinking that she must reprimand her home health the next morning for such a monstrous\N她认为她必须第二天早上谴责自己的家庭健康
+Dialogue: 0,0:00:30.20,0:00:31.68,Default,,0,0,0,, peace.\N和平。
+Dialogue: 0,0:00:31.68,0:00:36.60,Default,,0,0,0,, negligence: n.   粗心大意\N Of negligence, when she remembered that she had gone shopping after the home help had\N疏忽大意，当她想起自己在家后去购物时
+Dialogue: 0,0:00:36.60,0:00:41.88,Default,,0,0,0,, left and she knew that she had turned both keys in their locks.\N左，她知道她已经把两个钥匙都插在他们的锁中。
+Dialogue: 0,0:00:41.88,0:00:47.44,Default,,0,0,0,, She walked slowly into the hall and at once noticed that all the room doors were open.\N她慢慢走进大厅，立刻注意到所有房间的门都是打开的。
+Dialogue: 0,0:00:47.44,0:00:52.24,Default,,0,0,0,, Yet following her regular practice she had shut them before going out.\N然而，在她的常规练习之后，她在外出之前关闭了它们。
+Dialogue: 0,0:00:52.24,0:00:54.12,Default,,0,0,0,, Looking into the drawing room.\N看着客厅。
+Dialogue: 0,0:00:54.12,0:00:57.84,Default,,0,0,0,, She saw a scene of confusion over by her riding desk.\N她在骑行桌上看到了一个混乱的场景。
+Dialogue: 0,0:00:57.84,0:01:03.56,Default,,0,0,0,, It was as clear as daylight than that burglars had forced an entry during her absence.\N这与日光一样清楚，而小偷在她缺席期间迫使入境。
+Dialogue: 0,0:01:03.56,0:01:08.40,Default,,0,0,0,, Her first impulse was to go round all the rooms looking for the thieves.\N她的第一个冲动是四处寻找小偷的房间。
+Dialogue: 0,0:01:08.40,0:01:13.72,Default,,0,0,0,, prudent: adj. 谨慎的\N But then she decided that at her age it might be more prudent to have someone with her.\N但是随后她决定，在她的年龄，与她在一起可能会更加谨慎。
+Dialogue: 0,0:01:13.72,0:01:16.96,Default,,0,0,0,, So she went to fetch the porter from his basement.\N于是她去了他的地下室拿起搬运工。
+Dialogue: 0,0:01:16.96,0:01:20.08,Default,,0,0,0,, By this time her legs were beginning to tremble.\N到这个时候，她的腿开始颤抖。
+Dialogue: 0,0:01:20.08,0:01:24.44,Default,,0,0,0,, So she sat down and accepted a cup of very strong tea.\N因此，她坐下来接受了一杯非常强的茶。
+Dialogue: 0,0:01:24.44,0:01:26.96,Default,,0,0,0,, While he telephoned the police.\N当他打电话给警察时。
+Dialogue: 0,0:01:26.96,0:01:29.52,Default,,0,0,0,, composure: n.   镇静，沉着\N Then, her composure regained.\N然后，她的镇定得以恢复。
+Dialogue: 0,0:01:29.52,0:01:33.88,Default,,0,0,0,, intruder: n.   入侵者（尤指欲行窃者）\N She was ready to set off with the porter's assistance to search for nay intruders who\N她准备出发搬运工的协助，以寻找不在的入侵者
+Dialogue: 0,0:01:33.88,0:01:35.56,Default,,0,0,0,, might still.\N可能还在。
+Dialogue: 0,0:01:35.56,0:01:37.52,Default,,0,0,0,, lurk: v.   潜藏\N Be lurking in her flat.\N潜伏在她的公寓里。
+Dialogue: 0,0:01:37.52,0:01:39.60,Default,,0,0,0,, They went through the rooms.\N他们穿过房间。
+Dialogue: 0,0:01:39.60,0:01:41.80,Default,,0,0,0,, Being careful to touch nothing.\N小心什么都不碰。
+Dialogue: 0,0:01:41.80,0:01:46.52,Default,,0,0,0,, hinder: v.   妨碍, fingerprint: n.   指纹\N As they did not want to hinder the police in their search for fingerprints.\N因为他们不想阻碍警察寻找指纹。
+Dialogue: 0,0:01:46.52,0:01:48.84,Default,,0,0,0,, inconceivable: adj. 不可思议的\N The chaos was inconceivable.\N混乱是不可想象的。
+Dialogue: 0,0:01:48.84,0:01:54.36,Default,,0,0,0,, veritable: adj. 真正的，地地道道的, magpie: n.   喜欢收藏物品的人\N She had lived in the flat for 30 years and was a veritable magpie at hoarding.\N她在公寓里生活了30年，在ho积中是一个名副其实的喜p。
+Dialogue: 0,0:01:54.36,0:02:00.16,Default,,0,0,0,, toss: v.   扔\N And it seemed as though everything she possessed had been tossed out and turned over and over.\N似乎她所拥有的一切都被扔掉，一遍又一遍地翻身。
+Dialogue: 0,0:02:00.16,0:02:04.40,Default,,0,0,0,, discard: v.   丢弃\N At least sorting out the things she should have discarded years ago was now being made\N至少要整理她几年前应该放弃的东西
+Dialogue: 0,0:02:04.40,0:02:05.72,Default,,0,0,0,, easier for.\N更容易。
+Dialogue: 0,0:02:05.72,0:02:11.48,Default,,0,0,0,, constable: n.   警察\N Her, then a police inspector arrived with a constable and she told them of her discovery\N她，然后一名警察检查员带着警员到达，她告诉他们她的发现
+Dialogue: 0,0:02:11.48,0:02:14.16,Default,,0,0,0,, ransack: v.   洗劫\N of the ransacked flat.\N洗劫公寓的。
+Dialogue: 0,0:02:14.16,0:02:17.48,Default,,0,0,0,, fingerprint: n.   指纹\N The inspector began to look for fingerprints.\N检查员开始寻找指纹。
+Dialogue: 0,0:02:17.48,0:02:22.24,Default,,0,0,0,, constable: n.   警察\N While the constable checked that the front door locks had not been forced.\N当警员检查前门锁是否没有被迫。
+Dialogue: 0,0:02:22.24,0:02:28.32,Default,,0,0,0,, balcony: n.   阳台\N Thereby proving that the burglars had either used skeleton keys or entered over the balcony.\N从而证明了窃贼使用了骨架钥匙，要么在阳台上进入。
+Dialogue: 0,0:02:28.32,0:02:30.88,Default,,0,0,0,, fingerprint: n.   指纹\N There was no trace of fingerprints.\N没有指纹的痕迹。
+Dialogue: 0,0:02:30.88,0:02:35.88,Default,,0,0,0,, But the inspector found a dirty red bundle that contained jewelry which the old lady said\N但是检查员发现了一个肮脏的红色捆绑包，其中包含珠宝，老太太说
+Dialogue: 0,0:02:35.88,0:02:36.88,Default,,0,0,0,, was not.\N不是。
+Dialogue: 0,0:02:36.88,0:02:37.88,Default,,0,0,0,, Her's.\N她的。
+Dialogue: 0,0:02:37.88,0:02:43.12,Default,,0,0,0,, So their entry into this flat was apparently not the burglars' first job that day and\N因此，他们进入这个公寓的人显然不是那天盗窃者的第一份工作，
+Dialogue: 0,0:02:43.12,0:02:44.68,Default,,0,0,0,, they must.\N他们必须。
+Dialogue: 0,0:02:44.68,0:02:46.08,Default,,0,0,0,, They have been disturbed.\N他们被打扰了。
+Dialogue: 0,0:02:46.08,0:02:50.60,Default,,0,0,0,, The inspector then asked the old lady to try to check what was missing by the next day\N然后，检查员要求老太太尝试检查第二天缺少的东西
+Dialogue: 0,0:02:50.60,0:02:52.44,Default,,0,0,0,, and advised.\N并建议。
+Dialogue: 0,0:02:52.44,0:02:56.28,Default,,0,0,0,, Her not to stay alone in the flat for a few nights.\N她不要一个人在公寓里呆几个晚上。
+Dialogue: 0,0:02:56.28,0:02:59.36,Default,,0,0,0,, The old lady though there was a fussy creature.\N老太太虽然有一个挑剔的生物。
+Dialogue: 0,0:02:59.36,0:03:01.88,Default,,0,0,0,, But since the porter agreed with him.\N但是自从搬运工同意他以来。
+Dialogue: 0,0:03:01.88,0:03:06.12,Default,,0,0,0,, She rang up her daughter and asked for her help in what she described as a little spot\N她打了个女儿，在她描述的小地方寻求帮助
+Dialogue: 0,0:03:06.12,0:03:06.88,Default,,0,0,0,, of bother.\N打扰。

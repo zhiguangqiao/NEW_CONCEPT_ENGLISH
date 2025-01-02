@@ -1,0 +1,45 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:08.40,Default,,0,0,0,, Lesson 50. New Year resolutions. The New Year is a time for resolutions. Mentally, at least,\N第50课。新年决议。新的一年是决议的时候。至少在精神上，
+Dialogue: 0,0:00:08.40,0:00:14.88,Default,,0,0,0,, compile: v.   编辑，编制, formidable: adj. 令人畏惧的\N most of us could compile formidable lists of dose, and, don'ts. The same old favorites\N我们大多数人都可以汇总强大的剂量列表，以及不做。同样的旧收藏夹
+Dialogue: 0,0:00:14.88,0:00:21.60,Default,,0,0,0,, recur: v.   再发生，又出现, regularity: n.   规律性\N recur year in year out with monotonous regularity. We resolve to get up earlier each morning.\N单调规律性的年度重复。我们决心每天早晨起床。
+Dialogue: 0,0:00:21.60,0:00:27.84,Default,,0,0,0,, Eat less. Find more time to play with the children. Do a thousand and one jobs about the house.\N少吃。寻找更多时间与孩子们一起玩。为房子做一千和一项工作。
+Dialogue: 0,0:00:28.40,0:00:34.80,Default,,0,0,0,, Be nice to people we don't, like. Drive carefully. And take the dog for a walk every day.\N对我们不喜欢的人很好。小心地开车。每天带狗散步。
+Dialogue: 0,0:00:34.80,0:00:40.96,Default,,0,0,0,, accomplishment: n.   成就, attainment: n.   达到\N Past experience has taught us that certain accomplishments are beyond attainment. If we remain\N过去的经验告诉我们，某些成就是无法实现的。如果我们留下来
+Dialogue: 0,0:00:40.96,0:00:47.20,Default,,0,0,0,, in veteran smokers, it is only because we have so often experienced the frustration that results\N在退伍军人吸烟者中，这仅仅是因为我们经常经常经历挫败感
+Dialogue: 0,0:00:47.20,0:00:53.28,Default,,0,0,0,, self-improvement: n.   自我完善, scheme: n.   简单的计划，方案\N from failure. Most of us fail in our efforts at self-improvement because our schemes are too\N从失败。我们大多数人都在自我完善的努力中失败了，因为我们的方案也是
+Dialogue: 0,0:00:53.28,0:00:59.68,Default,,0,0,0,, ambitious: adj. 雄心勃勃的\N ambitious and we. Never have time to carry them out. We also make the fundamental error of\N雄心勃勃，我们。永远没有时间执行它们。我们还犯了根本错误
+Dialogue: 0,0:00:59.68,0:01:06.16,Default,,0,0,0,, announcing our resolutions to everybody so that we look even. More foolish when we slip back into\N向所有人宣布我们的决议，以便我们看起来更加看。当我们溜回到
+Dialogue: 0,0:01:06.16,0:01:13.68,Default,,0,0,0,, pitfall: n.   意外的困难，易犯的错误\N our battled ways. Aware of these pitfalls, this year I attempted to keep my resolutions to myself.\N我们的战斗方式。意识到这些陷阱，今年我试图将自己的决议保留给自己。
+Dialogue: 0,0:01:13.68,0:01:20.40,Default,,0,0,0,, modest: adj. 要求不过分的\N I limited myself to two modest ambitions. To do physical exercise every morning and to read more\N我将自己限于两个谦虚的野心。每天早晨进行体育锻炼并阅读更多
+Dialogue: 0,0:01:20.48,0:01:26.40,Default,,0,0,0,, of an evening. An all night party on New Year's Eve provided me with a good excuse for not\N一个晚上。除夕的全夜聚会为我提供了一个很好的借口
+Dialogue: 0,0:01:26.40,0:01:32.96,Default,,0,0,0,, carrying out either of. These new resolutions on the first day of the year. But on the second,\N执行任何一个。这些新决议在一年中的第一天。但是第二
+Dialogue: 0,0:01:32.96,0:01:39.76,Default,,0,0,0,, I applied myself acidwously to the task. The daily exercises lasted only 11 minutes and I\N我将自己应用于任务。每日练习持续了11分钟，我
+Dialogue: 0,0:01:39.76,0:01:46.40,Default,,0,0,0,, self-discipline: n.   自我约束\N proposed to do them early in the morning. Before anyone had got up, the self-discipline required\N建议在清晨做。在任何人起床之前，需要自律
+Dialogue: 0,0:01:46.40,0:01:53.84,Default,,0,0,0,, to drag myself out of bed 11 minutes earlier than usual was. Considerable, nevertheless,\N比平常早11分钟将自己拖出床。不过，尽管如此
+Dialogue: 0,0:01:53.84,0:01:58.72,Default,,0,0,0,, I managed to creep down into the living room for two days before anyone found me out.\N在任何人发现我之前，我设法爬进了客厅两天。
+Dialogue: 0,0:01:59.52,0:02:04.88,Default,,0,0,0,, frame: n.   躯体\N After jumping about on the carpet and twisting the human frame into uncomfortable positions,\N在地毯上跳来跳去并将人框架扭曲成不舒服的位置之后，
+Dialogue: 0,0:02:05.76,0:02:11.92,Default,,0,0,0,, betray: v.   暴露，显露\N I sat down at the breakfast table in an exhausted condition. It was this that betrayed me.\N我坐在早餐桌上，状况良好。就是这样背叛了我。
+Dialogue: 0,0:02:11.92,0:02:18.56,Default,,0,0,0,, troop: v.   成群结队地走动\N The next morning the whole family trooped in to watch the performance. That was really unsettling,\N第二天早上，整个家庭都在观看表演。那真的很令人不安，
+Dialogue: 0,0:02:18.56,0:02:24.24,Default,,0,0,0,, taunt: n.   嘲笑，奚落人的话, jibe: n.   嘲弄，挖苦\N but I fended off the taunts and jibes of the family good humoredly and soon everybody got used to.\N但是我幽默地消除了家人的嘲讽和魔力，很快每个人都习惯了。
+Dialogue: 0,0:02:25.04,0:02:32.32,Default,,0,0,0,, wane: v.   逐渐变小，变弱\N The idea, however, my enthusiasm waned, the time I spend at exercises gradually diminished.\N但是，我的热情逐渐减弱，我在锻炼上花费的时间逐渐减少。
+Dialogue: 0,0:02:32.96,0:02:40.56,Default,,0,0,0,, Little by little the 11 minutes fell to zero. By January 10th, I was back to where I had started from.\N11分钟逐渐降至零。到1月10日，我回到了我开始的地方。
+Dialogue: 0,0:02:40.56,0:02:45.44,Default,,0,0,0,, I argued that if I spent less time exhausting myself at exercises in the morning,\N我认为，如果我早上花更少的时间在锻炼中疲惫不堪，
+Dialogue: 0,0:02:46.24,0:02:52.00,Default,,0,0,0,, I would keep my mind fresh for reading when I got home formwork resisting the hypnotizing effect of\N当我回到家的模板上，我会全心全意阅读，以抵抗的催眠效果
+Dialogue: 0,0:02:52.80,0:03:00.64,Default,,0,0,0,, television. I sat in my room for a few evenings with my eyes glued to book. One night, however,\N电视。我坐在房间里度过了几个晚上，我的眼睛粘着预订。但是，有一天晚上
+Dialogue: 0,0:03:00.64,0:03:06.64,Default,,0,0,0,, feeling cold and lonely, I went downstairs and sat in front of the television pretending to read.\N我感到寒冷和孤独，我下楼，坐在电视前，假装读书。
+Dialogue: 0,0:03:07.44,0:03:13.68,Default,,0,0,0,, undoing: n.   祸根，毁灭的原因\N That proved to be my undoing. For I soon got back to my old bad habit of dozing off in front of the\N事实证明这是我的失败。因为我很快回到了我的旧坏习惯
+Dialogue: 0,0:03:13.68,0:03:21.12,Default,,0,0,0,, screen: n.   电视机屏幕\N screen. I still haven't given up my resolution to do more reading. In fact, I have just bought a book\N屏幕。我仍然没有放弃我的决议来进行更多阅读。实际上，我刚买了一本书
+Dialogue: 0,0:03:21.12,0:03:27.76,Default,,0,0,0,, entitled How to Read a Thousand Words a Minute. Perhaps it will solve my problem, but I just haven't\N题为“如何阅读一千个单词”。也许它会解决我的问题，但我只是没有
+Dialogue: 0,0:03:27.76,0:03:35.76,Default,,0,0,0,, had time to read it.\N有时间阅读它。

@@ -1,0 +1,50 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.43,Default,,0,0,0,,Lesson 17 A man-made disease\N\N人为的疾病\N\N
+Dialogue: 0,0:00:05.43,0:00:09.41,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:09.41,0:00:15.10,Default,,0,0,0,,myxomatosis: n.  多发性粘液瘤\N\NWhat factor helped to spread the disease of myxomatosis?\N\N什么因素助长了多发性粘液瘤疾病的蔓延?\N\N
+Dialogue: 0,0:00:15.10,0:00:18.47,Default,,0,0,0,,settlement: n.  新拓居地\N\NIn the early days of the settlement of Australia,\N\N在澳大利亚移民初期,\N\N
+Dialogue: 0,0:00:18.47,0:00:23.54,Default,,0,0,0,,settler: n.  移居者\N\Nenterprising settlers unwisely introduced the European rabbit.\N\N一些有创业精神的移民不明智地把欧洲兔子引进了澳大利亚.\N\N
+Dialogue: 0,0:00:23.54,0:00:28.49,Default,,0,0,0,,Antipodes: n.  新西兰和澳大利亚（英）\N\NThis rabbit had no natural enemies in the Antipodes,\N\N这种兔子在澳大利亚及新西兰没有天敌,\N\N
+Dialogue: 0,0:00:28.49,0:00:34.62,Default,,0,0,0,,abandon: n.  放任，纵情\N\Nso that it multiplied with that promiscuous abandon characteristic of rabbits.\N\N因此便以兔子所特有的杂乱交配迅猛繁殖起来.\N\N
+Dialogue: 0,0:00:34.62,0:00:37.55,Default,,0,0,0,,It overran a whole continent.\N\N整个澳洲兔子成灾.\N\N
+Dialogue: 0,0:00:37.55,0:00:42.82,Default,,0,0,0,,devastation: n.  破坏，劫掠, burrow: v.  挖、掘\N\NIt caused devastation by burrowing and by devouring the herbage\N\N它们在地下打洞,\N\N
+Dialogue: 0,0:00:42.82,0:00:46.19,Default,,0,0,0,,which might have maintained millions of sheep and cattle.\N\N吃掉本可以饲养数百万头牛羊的牧草,造成毁灭性的破坏.\N\N
+Dialogue: 0,0:00:46.19,0:00:50.88,Default,,0,0,0,,Scientists discovered that this particular variety of rabbit,\N\N科学家们发现,这种特殊品种的兔子，\N\N
+Dialogue: 0,0:00:50.88,0:00:53.43,Default,,0,0,0,,(and apparently no other animal)\N\N(显然不包括别的动物)\N\N
+Dialogue: 0,0:00:53.43,0:00:58.39,Default,,0,0,0,,virus: n.  病毒, myxomatosis: n.  多发性粘液瘤\N\Nwas susceptible to a fatal virus disease, myxomatosis.\N\N易患一种叫做"多发性粘液瘤"的致命病毒性疾病.\N\N
+Dialogue: 0,0:00:58.39,0:01:02.88,Default,,0,0,0,,burrow: v.  挖、掘, infect: v.  传染\N\NBy infecting animals and letting them loose in the burrows,\N\N通过让染上此病的动物在洞内乱跑,\N\N
+Dialogue: 0,0:01:02.88,0:01:06.47,Default,,0,0,0,,epidemic: n.  流行病\N\Nlocal epidemics of this disease could be created.\N\N就可以使这种疾病在一个地区蔓延起来.\N\N
+Dialogue: 0,0:01:06.47,0:01:10.96,Default,,0,0,0,,mosquito: n.  蚊虫\N\NLater it was found that there was a type of mosquito,\N\N后来又发现,有一种蚊子，\N\N
+Dialogue: 0,0:01:10.96,0:01:16.00,Default,,0,0,0,,carrier: n.  带菌者\N\Nwhich acted as the carrier of this disease and passed it on to the rabbits.\N\N充当了传播这种疾病的媒介,能把此病传染给兔子.\N\N
+Dialogue: 0,0:01:16.00,0:01:20.02,Default,,0,0,0,,mosquito: n.  蚊虫\N\NSo while the rest of the world was trying to get rid of mosquitoes,\N\N因此,世界上其他地方在设法消灭蚊子的时候,\N\N
+Dialogue: 0,0:01:20.02,0:01:23.36,Default,,0,0,0,,Australia was encouraging this one.\N\N澳大利亚却在促使这种蚊子大量繁殖.\N\N
+Dialogue: 0,0:01:23.36,0:01:27.47,Default,,0,0,0,,It effectively spread the disease all over the continent,\N\N蚊子把这种疾病扩散到整个澳洲大陆,\N\N
+Dialogue: 0,0:01:27.47,0:01:30.54,Default,,0,0,0,,and drastically reduced the rabit population.\N\N效果甚佳,结果兔子的数目大为减少.\N\N
+Dialogue: 0,0:01:30.54,0:01:32.85,Default,,0,0,0,,It later became apparent\N\N后来,明显看出,\N\N
+Dialogue: 0,0:01:32.85,0:01:37.35,Default,,0,0,0,,that rabbits were developing a degree of resistance to this disease,\N\N兔子对这种疾病产生了一定程度的免疫力,\N\N
+Dialogue: 0,0:01:37.35,0:01:42.52,Default,,0,0,0,,exterminate: v.  消灭\N\Nso that the rabbit population was unlike- ly to be completely exterminated.\N\N所以兔子不可能被完全消灭.\N\N
+Dialogue: 0,0:01:42.52,0:01:48.60,Default,,0,0,0,,There were hopes,howe- ver,that the problem of the rabbit would become manageable.\N\N但是,已有希望解决兔子所带来的问题.\N\N
+Dialogue: 0,0:01:48.60,0:01:54.62,Default,,0,0,0,,bequeath: v.  把...传给, pest: n.  害虫，有害动物\N\NIronically,Europe, which had bequeathed the rabbit as a pest to Australia,\N\N具有讽刺意味的是,欧洲把这种兔子作为有害动物传给澳洲,\N\N
+Dialogue: 0,0:01:54.62,0:01:58.64,Default,,0,0,0,,pest: n.  害虫，有害动物, pestilence: n.  瘟疫\N\Nacquired this man-made disease as a pestilence.\N\N而欧洲自己却染上了这种为人的瘟疫般的疾病.\N\N
+Dialogue: 0,0:01:58.64,0:02:03.51,Default,,0,0,0,,A French physician decided to get rid of the wild rabbits on his own estate\N\N一位法国内科医生决定除掉自己庄园内的野兔,\N\N
+Dialogue: 0,0:02:03.51,0:02:06.33,Default,,0,0,0,,myxomatosis: n.  多发性粘液瘤\N\Nand introduced myxomatosis.\N\N引进了多发性粘液瘤疾病。\N\N
+Dialogue: 0,0:02:06.33,0:02:11.03,Default,,0,0,0,,confine: n.  范围\N\NIt did not,however, remain within the confines of this estate.\N\N然而,这种疾病并未被局限在他的庄园内,\N\N
+Dialogue: 0,0:02:11.03,0:02:13.20,Default,,0,0,0,,It spread through France,\N\N结果在整个法国蔓延开来 ,\N\N
+Dialogue: 0,0:02:13.20,0:02:17.30,Default,,0,0,0,,pest: n.  害虫，有害动物\N\Nwhere wild rabbits are not generally regarded as a pest\N\N野兔在法国一般不被当作有害动物,\N\N
+Dialogue: 0,0:02:17.30,0:02:20.49,Default,,0,0,0,,but as a sport and a useful food supply,\N\N而被视为打猎的玩物和有用的食物来源,\N\N
+Dialogue: 0,0:02:20.49,0:02:25.37,Default,,0,0,0,,pest: n.  害虫，有害动物\N\Nand it spread to Britain where wild rabbits are regarded as a pest\N\N这种疾病又蔓延到了英国.在英国,野兔被当作有害动物,\N\N
+Dialogue: 0,0:02:25.37,0:02:29.90,Default,,0,0,0,,domesticate: v.  驯养\N\Nbut where domesticated rabbits,equally susceptible to the disease,\N\N可是同样易感染这种疾病的家兔，\N\N
+Dialogue: 0,0:02:29.90,0:02:33.15,Default,,0,0,0,,are the basis of a profitable fur industry.\N\N却是赚钱的毛皮工业的基础.\N\N
+Dialogue: 0,0:02:33.15,0:02:38.15,Default,,0,0,0,,The question became one of whether Man could control the dis- ease he had invented.\N\N现在的问题是,人类能否控制住这种人为的疾病.\N\N

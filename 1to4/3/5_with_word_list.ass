@@ -1,0 +1,29 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.04,Default,,0,0,0,, extreme: n.   极端\N Lesson 5. The Facts. Editors of newspapers and magazines often go to extremes to provide their\N第5课。事实。报纸和杂志的编辑经常去极端
+Dialogue: 0,0:00:07.04,0:00:13.84,Default,,0,0,0,, statistics: n.   统计数字, journalist: n.   新闻记者\N reader with unimportant. Facts and statistics. Last year a journalist had been instructed by a\N读者不重要。事实和统计。去年，一位记者受到了
+Dialogue: 0,0:00:13.84,0:00:20.32,Default,,0,0,0,, well-known magazine to write an article on the President's Palace in a New African Republic.\N著名的杂志在新非洲共和国撰写了一篇有关总统宫殿的文章。
+Dialogue: 0,0:00:20.32,0:00:25.84,Default,,0,0,0,, editor: n.   编辑, publish: v.   出版\N When the article arrived, the editor read the first sentence and then refused to publish it.\N当文章到达时，编辑会阅读第一句话，然后拒绝发布。
+Dialogue: 0,0:00:26.56,0:00:32.48,Default,,0,0,0,, The article began. Hundreds of steps led to the high wall which surrounds the President's Palace.\N文章开始。数百个步骤导致了围绕总统宫殿的高墙。
+Dialogue: 0,0:00:33.52,0:00:39.28,Default,,0,0,0,, editor: n.   编辑, journalist: n.   新闻记者\N The editor at once sent the journalist a facts instructing him find out the exact number of steps\N编辑立即向记者发送了一个事实，指示他找出确切的步骤数量
+Dialogue: 0,0:00:39.28,0:00:46.40,Default,,0,0,0,, journalist: n.   新闻记者\N and the height of the wall. The journalist immediately set out to obtain these important facts,\N和墙的高度。记者立即着手获得这些重要事实，
+Dialogue: 0,0:00:46.40,0:00:52.64,Default,,0,0,0,, editor: n.   编辑, impatient: adj. 不耐烦的\N but that took a long time to send them meanwhile. The editor was getting impatient. For the magazine\N但这花了很长时间才寄给他们。编辑越来越不耐烦。对于杂志
+Dialogue: 0,0:00:52.64,0:00:59.36,Default,,0,0,0,, journalist: n.   新闻记者, fax: n.   传真\N would soon go to press. He sent the journalist two more faxes. But received no reply.\N很快就会按下。他向记者发送了另外两个传真。但没有收到答复。
+Dialogue: 0,0:00:59.36,0:01:05.12,Default,,0,0,0,, journalist: n.   新闻记者, fire: v.   解雇\N He sent yet another facts informing the journalist that if he did not reply soon he would be fired.\N他发出了另一个事实，告知记者，如果他不尽快回答，他将被解雇。
+Dialogue: 0,0:01:05.84,0:01:11.68,Default,,0,0,0,, editor: n.   编辑, journalist: n.   新闻记者, publish: v.   出版\N When the journalist again failed to reply, the editor reluctantly published the article as it\N当记者再次没有回复时，编辑很不情愿地发表了文章
+Dialogue: 0,0:01:11.68,0:01:18.40,Default,,0,0,0,, editor: n.   编辑, journalist: n.   新闻记者, originally: adv. 起初，原先，从前\N had originally been written. A week later, the editor at last received a facts from the journalist\N最初是写的。一周后，编辑终于收到了记者的事实
+Dialogue: 0,0:01:18.48,0:01:25.20,Default,,0,0,0,, not only had the poor man been arrested, but he had been sent to prison as well. However,\N穷人不仅被捕，而且他也被送进监狱。然而，
+Dialogue: 0,0:01:25.20,0:01:30.16,Default,,0,0,0,, editor: n.   编辑\N he had at last been allowed to send a facts in which he informed the editor that he had been\N他终于被允许发送一个事实，他告诉编辑他曾经
+Dialogue: 0,0:01:31.04,0:01:37.12,Default,,0,0,0,, arrested while counting the 1884 steps leading to the 15-foot wall which surrounded the\N在计算1884年的台阶时被捕，通往周围的15英尺墙
+Dialogue: 0,0:01:37.12,0:01:47.12,Default,,0,0,0,, President's Palace.\N总统的宫殿。

@@ -1,0 +1,34 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.20,Default,,0,0,0,, Lesson 27. Nothing to sell. And nothing to buy. It has been said that everyone lives by selling\N第27课。没什么可卖的。没什么可买的。有人说每个人都通过出售生活
+Dialogue: 0,0:00:07.20,0:00:13.84,Default,,0,0,0,, something. In the light of this statement, teachers live by selling knowledge. Philosophers by\N某物。鉴于这一说法，教师通过销售知识生活。哲学家
+Dialogue: 0,0:00:13.84,0:00:19.84,Default,,0,0,0,, wisdom: n.   智慧, priest: n.   牧师, spiritual: adj. 精神上的\N selling wisdom and priests by selling spiritual comfort. Though it may be possible to measure the\N通过出售精神上的舒适来出售智慧和祭司。虽然可以测量
+Dialogue: 0,0:00:19.84,0:00:26.48,Default,,0,0,0,, value of material good in terms of money. It is extremely difficult to estimate the true value of\N物料的价值在金钱方面有益。估计的真实价值非常困难
+Dialogue: 0,0:00:26.48,0:00:32.32,Default,,0,0,0,, the services which people perform for us. There are times when we would willingly give everything\N人们为我们提供的服务。有时我们会愿意给一切
+Dialogue: 0,0:00:32.32,0:00:38.48,Default,,0,0,0,, grudge: v.   不愿给，舍不得给\N we possess to save our lives. Yet we might grudge paying a surge in a high fee for offering\N我们拥有挽救生命。但是，我们可能会gludge亵付出的高额费用
+Dialogue: 0,0:00:38.48,0:00:44.80,Default,,0,0,0,, us precisely this service. The conditions of society are such that skills have to be paid for\N我们正是这项服务。社会的条件使得必须为技能支付
+Dialogue: 0,0:00:44.80,0:00:51.92,Default,,0,0,0,, in the same way that goods are. Paid for at a shop. Everyone has something to sell. Tramps seem\N以商品的方式。在商店付款。每个人都有东西要出售。流浪汉看起来
+Dialogue: 0,0:00:51.92,0:00:58.00,Default,,0,0,0,, to be the only exception to this general rule. Beggars almost sell themselves as human being to\N成为此一般规则的唯一例外。乞g几乎将自己卖给人类
+Dialogue: 0,0:00:58.00,0:01:05.36,Default,,0,0,0,, arouse the pity of passers-by. But real tramps are not beggars. They have nothing to sell and require\N引起了路人的遗憾。但是真正的流浪汉不是乞g。他们没有什么可卖的，需要
+Dialogue: 0,0:01:05.36,0:01:12.96,Default,,0,0,0,, dignity: n.   尊严\N nothing from others. In seeking independence, they do not sacrifice their human dignity. A tramp may\N没有别人。在寻求独立时，他们不会牺牲自己的尊严。流浪汉可能
+Dialogue: 0,0:01:12.96,0:01:19.36,Default,,0,0,0,, deliberately: adv. 故意地\N ask you for money. But he will never ask you to feel sorry for him. He has deliberately chosen to\N要你钱。但是他永远不会要求你为他感到难过。他故意选择
+Dialogue: 0,0:01:19.36,0:01:25.52,Default,,0,0,0,, consequence: n.   后果，结果\N lead the life he leads and is fully aware of the consequences. He may never be sure where the\N过着他过着的生活，并充分意识到后果。他可能永远不确定在哪里
+Dialogue: 0,0:01:25.52,0:01:31.92,Default,,0,0,0,, afflict: v.   使苦恼，折磨\N next meal is coming from. But his is free from the thousands of anxieties which afflict other people.\N下一顿饭来自。但是他摆脱了成千上万的焦虑，这些焦虑却困扰着其他人。
+Dialogue: 0,0:01:32.80,0:01:38.00,Default,,0,0,0,, ease: n.   容易\N His few material possessions make it possible for him to move from place to place with ease.\N他的少数物质财产使他有可能轻松地到达地方。
+Dialogue: 0,0:01:38.88,0:01:45.28,Default,,0,0,0,, nature: n.   大自然\N By having to sleep in the open, he gets far closer to the world of nature than most of us ever do.\N通过必须公开睡觉，他比我们大多数人都更接近自然界。
+Dialogue: 0,0:01:46.08,0:01:54.48,Default,,0,0,0,, He may hunt, beg, or stead occasionally to keep himself alive. He may even, in times of real need,\N他可能会偶尔狩猎，乞求或加油以保持自己的生命。他甚至可能在真正需要的时候
+Dialogue: 0,0:01:54.48,0:02:01.68,Default,,0,0,0,, do a little work, but he will never sacrifice his freedom. We often speak of my even, in times of\N做一点工作，但他永远不会牺牲自己的自由。我们经常谈论我的偶数
+Dialogue: 0,0:02:01.68,0:02:08.80,Default,,0,0,0,, real need, do a little work, but he will never sacrifice his freedom. We often speak of tramps with\N真正的需要，做一些工作，但他永远不会牺牲自己的自由。我们经常谈论流浪汉
+Dialogue: 0,0:02:08.80,0:02:15.20,Default,,0,0,0,, contempt: n.   蔑视的\N contempt and put them in the same class as beggars. But how many of us can honestly say that we have\N蔑视并将它们与乞eg一起放在同一班上。但是我们当中有多少人可以诚实地说我们有
+Dialogue: 0,0:02:15.20,0:02:26.72,Default,,0,0,0,, not felt a little envious of their simple way of? Life and their freedom from care?\N对他们简单的方式不感到有些羡慕吗？生活及其免受护理的自由？

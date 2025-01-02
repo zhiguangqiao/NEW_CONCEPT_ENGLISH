@@ -1,0 +1,45 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.84,Default,,0,0,0,, equal: v.   等于\N Lesson 2.13 equals 1.\N第2.13课等于1。
+Dialogue: 0,0:00:02.84,0:00:07.04,Default,,0,0,0,, Our Vickr is always raising money for one cause or another.\N我们的Vickr总是为一个或另一个原因筹集资金。
+Dialogue: 0,0:00:07.04,0:00:11.92,Default,,0,0,0,, But he has never managed to get enough money to have the church clock repaired.\N但是他从来没有设法获得足够的钱来维修教堂的时钟。
+Dialogue: 0,0:00:11.92,0:00:16.76,Default,,0,0,0,, The big clock which used to strike the hours day and night was damaged many years ago and\N过去几年和黑夜曾经打动几个小时的大时钟被损坏了，并且
+Dialogue: 0,0:00:16.76,0:00:18.16,Default,,0,0,0,, has been.\N一直是。
+Dialogue: 0,0:00:18.16,0:00:20.28,Default,,0,0,0,, Silent ever since.\N从那以后保持沉默。
+Dialogue: 0,0:00:20.28,0:00:24.28,Default,,0,0,0,, One night, however, our Vickr work up with a start.\N但是，有一天，我们的Vickr开始工作。
+Dialogue: 0,0:00:24.28,0:00:26.92,Default,,0,0,0,, The clock was striking the hours.\N时钟打动了小时。
+Dialogue: 0,0:00:26.92,0:00:28.60,Default,,0,0,0,, Looking at his watch.\N看着他的手表。
+Dialogue: 0,0:00:28.60,0:00:30.84,Default,,0,0,0,, He saw that it was one o'clock.\N他看到那是一点点。
+Dialogue: 0,0:00:30.84,0:00:34.48,Default,,0,0,0,, But the bell struck 13 times before it stopped.\N但是钟声击中了13次，然后停止了。
+Dialogue: 0,0:00:34.48,0:00:40.24,Default,,0,0,0,, Armed with a torch, the Vickr went up into the clock tower to see what was going on.\N维克（Vickr）用火炬武装，进入了钟楼，看看发生了什么事。
+Dialogue: 0,0:00:40.24,0:00:47.00,Default,,0,0,0,, In the torch light, he caught sight of a figure whom he immediately recognized as Bill Wilkins.\N在火炬的灯光中，他看到了一个他立即被认为是比尔·威尔金斯的人物。
+Dialogue: 0,0:00:47.00,0:00:48.68,Default,,0,0,0,, Our local grocer.\N我们当地的杂货商。
+Dialogue: 0,0:00:48.68,0:00:51.08,Default,,0,0,0,, Whatever are you doing up here Bill?\N你在这里做什么账单？
+Dialogue: 0,0:00:51.08,0:00:53.16,Default,,0,0,0,, Ask the Vickr in surprise.\N惊讶地问Vickr。
+Dialogue: 0,0:00:53.16,0:00:56.16,Default,,0,0,0,, I'm trying to repair the bell, answered Bill.\N比尔回答，我正在试图修理铃铛。
+Dialogue: 0,0:00:56.16,0:00:59.88,Default,,0,0,0,, I've been coming up here night after night for weeks now.\N我一直在夜晚夜间来这里数周。
+Dialogue: 0,0:00:59.88,0:01:03.56,Default,,0,0,0,, You see, I was hoping to give you a surprise.\N你看，我希望给你一个惊喜。
+Dialogue: 0,0:01:03.56,0:01:06.44,Default,,0,0,0,, You certainly did give me a surprise.\N你当然给我一个惊喜。
+Dialogue: 0,0:01:06.44,0:01:11.04,Default,,0,0,0,, Said the Vickr, you've probably woken up everyone in the village as well.\NVickr说，您也可能也把村里的每个人都醒了。
+Dialogue: 0,0:01:11.04,0:01:14.72,Default,,0,0,0,, Still, I'm glad the bell is working again.\N不过，我很高兴铃铛再次工作。
+Dialogue: 0,0:01:14.72,0:01:15.72,Default,,0,0,0,, That's the trouble.\N那是麻烦。
+Dialogue: 0,0:01:15.72,0:01:17.68,Default,,0,0,0,, Vickr, answered Bill.\NVickr，回答比尔。
+Dialogue: 0,0:01:17.68,0:01:19.12,Default,,0,0,0,, It's working all right.\N一切正常。
+Dialogue: 0,0:01:19.12,0:01:23.44,Default,,0,0,0,, But I'm afraid that at one o'clock it will strike 13 times and there's nothing I can\N但是我恐怕一点点会击中13次，而我无能为力
+Dialogue: 0,0:01:23.44,0:01:24.96,Default,,0,0,0,, do about.\N做。
+Dialogue: 0,0:01:24.96,0:01:27.28,Default,,0,0,0,, It will get used to that.\N它将习惯。
+Dialogue: 0,0:01:27.28,0:01:29.28,Default,,0,0,0,, Bill said the Vickr.\N比尔说Vickr。
+Dialogue: 0,0:01:29.28,0:01:31.68,Default,,0,0,0,, 13 is not as good as one.\N13不如一个。
+Dialogue: 0,0:01:31.68,0:01:33.60,Default,,0,0,0,, But it's better than nothing.\N但总比没有好。
+Dialogue: 0,0:01:33.60,0:01:36.24,Default,,0,0,0,, Now let's go downstairs and have a cup of tea.\N现在让我们下楼，喝杯茶。

@@ -1,0 +1,44 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.51,Default,,0,0,0,,Lesson 21 William S.Hart and the early 'Western' film\N\N威廉.S.哈特和早期的"西部"影片\N\N
+Dialogue: 0,0:00:07.51,0:00:11.03,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:11.03,0:00:17.77,Default,,0,0,0,,How did William Hart's childhood prepare him for his acting role in Western films?\N\N威廉.哈特的童年时代为他在西部电影中扮演角色奠定了什么基础?\N\N
+Dialogue: 0,0:00:17.77,0:00:23.70,Default,,0,0,0,,William S.Hart was, perhaps,the greatest of all Western stars,\N\N威廉.S.哈特大概是美国西部电影明星中的佼佼者.\N\N
+Dialogue: 0,0:00:23.70,0:00:29.46,Default,,0,0,0,,for unlike Gary Cooper and John Wayne he appeared in nothing but Westerns.\N\N他和加里.古柏和约翰.韦恩不同,他只在西部电影中扮演角色.\N\N
+Dialogue: 0,0:00:29.46,0:00:36.62,Default,,0,0,0,,From 1914 to 1924 he was supreme and unchallenged.\N\N在1914年至1924年期间,他首屈一指,独霸影坛.\N\N
+Dialogue: 0,0:00:36.62,0:00:41.89,Default,,0,0,0,,It was Hart who created the basic formula of the Western film,\N\N正是哈特创造了西部电影的基调,\N\N
+Dialogue: 0,0:00:41.89,0:00:46.38,Default,,0,0,0,,protagonist: n.  主角\N\Nand devised the protagonist he played in every film he made,\N\N即在他自己拍摄的影片中他所塑造的主人公的形象:\N\N
+Dialogue: 0,0:00:46.38,0:00:50.84,Default,,0,0,0,,outlaw: n.  逃犯，亡命之徒\N\Nthe good-bad man,the accidental-noble outlaw,\N\N被认为是坏人的好人,出人意料的高尚的逃犯,\N\N
+Dialogue: 0,0:00:50.84,0:00:57.40,Default,,0,0,0,,or the honest-but- framed cowboy,or the sheriff made suspect by vicious gossip;\N\N诚实却遭陷害的牛仔,或因流言蜚语蒙受嫌疑的司法官.\N\N
+Dialogue: 0,0:00:57.40,0:01:03.18,Default,,0,0,0,,in short,the individual in conflict with himself and his frontier environment.\N\N总之,主人公是一个自相矛盾,又与他的拓荒环境相矛盾的人物.\N\N
+Dialogue: 0,0:01:03.18,0:01:06.97,Default,,0,0,0,,Unlike most of his contemporaries in Hollywood,\N\N哈特与大部分同时代在好莱坞的演员不同,\N\N
+Dialogue: 0,0:01:06.97,0:01:09.85,Default,,0,0,0,,Hart actually knew something of the old West.\N\N他确实了解西部早期拓荒生活的一些情况.\N\N
+Dialogue: 0,0:01:09.85,0:01:14.51,Default,,0,0,0,,He had lived in it as a child when it was already disappearing,\N\N作为一个孩子他曾在西部生活过,当时西部拓荒生活正在消失.\N\N
+Dialogue: 0,0:01:14.51,0:01:19.41,Default,,0,0,0,,and his hero was firmly rooted in his memories and experiences,\N\N他塑造的英雄人物深深地扎根于他本人的记忆和经历之中,\N\N
+Dialogue: 0,0:01:19.41,0:01:24.41,Default,,0,0,0,,mythology: n.  神话\N\Nand in both the history and the mythology of the vanished frontier,\N\N也扎根于有关已经消失的拓荒生活的历史和神话之中.\N\N
+Dialogue: 0,0:01:24.41,0:01:30.87,Default,,0,0,0,,And although no period or place in American history has been more absurdly romanticized,\N\N虽然美国历史上没有任何时期或地区比西部拓荒时期更荒谬地被浪漫主义化\N\N
+Dialogue: 0,0:01:30.87,0:01:36.19,Default,,0,0,0,,arena: n.  竞技场在\N\Nmyth and reality did join hands in at least one arena,\N\N但神话和事实至少在某一个舞台上共存,\N\N
+Dialogue: 0,0:01:36.19,0:01:41.08,Default,,0,0,0,,the conflict between the individual and encroaching civilization.\N\N也就是存在于个人与渐渐闯入的文明这两者的冲突之中.\N\N
+Dialogue: 0,0:01:41.08,0:01:47.52,Default,,0,0,0,,Indian: n.  印第安人\N\NMen accustomed to struggling for survival against the elements and Indians\N\N习惯与大自然和印第安人作斗争以求生存的拓荒者\N\N
+Dialogue: 0,0:01:47.52,0:01:51.97,Default,,0,0,0,,bewilder: v.  使手足无措\N\Nwere bewildered by politicians,bankers and businessmen,\N\N被政客、银行家和商人搞得晕头转向,\N\N
+Dialogue: 0,0:01:51.97,0:01:56.61,Default,,0,0,0,,taboo: n.  戒律\N\Nand unhorsed by fences,laws and alien taboos.\N\N最后被圈地法律和外来清规戒律击败.\N\N
+Dialogue: 0,0:01:56.61,0:02:03.50,Default,,0,0,0,,disinherit: v.  剥夺...继承权\N\NHart's good-bad man was always an outsider,always one of the disinherited,\N\N哈特扮演的被误认为坏人的好人总是一个局外人,一个被剥夺继承权的人,\N\N
+Dialogue: 0,0:02:03.50,0:02:08.99,Default,,0,0,0,,and if he found it necessary to shoot a sheriff or rob a bank along the way,\N\N如果他认为在进行过程中有必要枪击一个司法官或抢劫一个银行,\N\N
+Dialogue: 0,0:02:08.99,0:02:13.49,Default,,0,0,0,,his early audiences found it easy to understand and forgive,\N\N他的早期观众很容易接受,觉得应原谅他,\N\N
+Dialogue: 0,0:02:13.49,0:02:19.48,Default,,0,0,0,,Indian: n.  印第安人\N\Nespecially when it was Hart who,in the end,overcame the attacking Indians.\N\N特别是当哈特最后战胜了前来进攻的印第安人时,观众更能原谅他.\N\N
+Dialogue: 0,0:02:19.48,0:02:24.07,Default,,0,0,0,,Audiences in the second decade of the twentieth century\N\N生活在20世纪20年代的观众认为,\N\N
+Dialogue: 0,0:02:24.07,0:02:29.83,Default,,0,0,0,,found it pleasant to escape to a time when life,though hard,was relatively simple.\N\N逃到一个即使艰苦但比较简朴的时代中去是件愉快的事,\N\N
+Dialogue: 0,0:02:29.83,0:02:36.83,Default,,0,0,0,,hypocrisy: n.  伪善\N\NWe still do;living in a world in which undeclared aggression, war,hypocrisy,\N\N我们今天仍有这种感觉.如今,不宣而战的侵略、战争、虚伪、\N\N
+Dialogue: 0,0:02:36.83,0:02:43.30,Default,,0,0,0,,chicanery: n.  诈骗, immolation: n.  杀戮\N\Nchicanery,anarchy and impending immolation are part of our daily lives,\N\N诈骗、无政府状态以及即将临头的毁灭成了我们日常生活的一部分,\N\N
+Dialogue: 0,0:02:43.30,0:02:48.30,Default,,0,0,0,,code: n.  准则\N\Nwe all want a code to live by.\N\N我们都希望有一个赖以生存的行为准则.\N\N

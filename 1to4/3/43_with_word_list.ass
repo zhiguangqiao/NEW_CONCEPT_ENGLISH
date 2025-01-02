@@ -1,0 +1,48 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.72,Default,,0,0,0,, Lesson 43. Fully insured. Insurance companies are normally willing to ensure anything.\N第43课。完全保险。保险公司通常愿意确保任何事情。
+Dialogue: 0,0:00:06.72,0:00:12.80,Default,,0,0,0,, Ensuring public or private property is a standard practice in most countries in the world.\N确保公共或私有财产是世界上大多数国家的标准实践。
+Dialogue: 0,0:00:12.80,0:00:21.04,Default,,0,0,0,, If, however, you were holding an open-air garden party or a Fed it would be equally possible to ensure yourself.\N但是，如果您举行了露天花园聚会或美联储，则同样有可能确保自己。
+Dialogue: 0,0:00:21.04,0:00:28.04,Default,,0,0,0,, In the event of bad weather, needless to say, the bigger the risk an insurance company takes,\N不用说，如果天气恶劣，保险公司承担的风险就越大
+Dialogue: 0,0:00:28.12,0:00:30.84,Default,,0,0,0,, the higher the premium you will have to pay.\N您必须支付的保费越高。
+Dialogue: 0,0:00:30.84,0:00:37.48,Default,,0,0,0,, It is not uncommon to hear that a shipping company has made a claim for cost of salvaging a sunken.\N听到一家航运公司已经索取了挽救沉没的成本的要求，并不少见。
+Dialogue: 0,0:00:37.48,0:00:45.16,Default,,0,0,0,, Ship, but the claim made by a local authority to recover the cost of salvaging the sunken pie dish must.\N船，但是地方当局提出的要求收回挽救沉没馅饼的费用。
+Dialogue: 0,0:00:45.16,0:00:49.80,Default,,0,0,0,, Surely be unique. Admittedly it was an unusual pie dish.\N肯定是独一无二的。诚然，这是一种不寻常的馅饼。
+Dialogue: 0,0:00:49.80,0:00:53.16,Default,,0,0,0,, For it was 18 feet long and 6 feet wide.\N因为它长18英尺，宽6英尺。
+Dialogue: 0,0:00:53.16,0:00:59.72,Default,,0,0,0,, purchase: v.   买, annual: adj. 一年一度的\N It had been purchased by a local authority so that an enormous pie could be baked for an annual fair.\N它是由地方当局购买的，因此可以为年度博览会烘烤巨大的馅饼。
+Dialogue: 0,0:00:59.72,0:01:04.36,Default,,0,0,0,, The pie committee decided that the best way to transport the dish would be by canal.\N派委员会决定，运输这道菜的最佳方法是运河。
+Dialogue: 0,0:01:05.24,0:01:09.64,Default,,0,0,0,, So they ensured it for the trip. Shortly after it was launched,\N因此，他们确保了这次旅行。发射后不久
+Dialogue: 0,0:01:09.64,0:01:13.00,Default,,0,0,0,, the pie committee went to a local inn to celebrate.\N派委员会去了当地的旅馆庆祝。
+Dialogue: 0,0:01:13.00,0:01:18.92,Default,,0,0,0,, teenager: n.  （13至19岁的）青少年\N At the same time, a number of teenagers climbed onto the dish and held a little party of their own.\N同时，许多青少年爬上了盘子，举办了自己的小聚会。
+Dialogue: 0,0:01:19.72,0:01:22.84,Default,,0,0,0,, Dancing proved to be more than the dish could bear.\N事实证明，跳舞超出了这道菜的含义。
+Dialogue: 0,0:01:22.84,0:01:26.84,Default,,0,0,0,, capsize: v.   （船）翻\N For during the party it capsized and sank in seven feet of water.\N因为在聚会期间，它在七英尺的水中倾斜并沉没。
+Dialogue: 0,0:01:27.80,0:01:33.56,Default,,0,0,0,, The pie committee telephoned a local garage owner who arrived in a recovery truck to salvage the\N派委员会打电话给当地的车库老板，后者乘坐恢复卡车挽救了
+Dialogue: 0,0:01:34.36,0:01:37.80,Default,,0,0,0,, shiver: v.   打颤，发抖\N pie dish, shivering in their wet clothes.\N馅饼盘，穿着湿衣服发抖。
+Dialogue: 0,0:01:37.80,0:01:43.00,Default,,0,0,0,, teenager: n.  （13至19岁的）青少年, dive: v.   （头向下）跳水\N The teenagers looked on while three men dived repeatedly into the water to locate the dish.\N青少年看着，三名男子反复跳入水中以找到菜。
+Dialogue: 0,0:01:43.88,0:01:46.52,Default,,0,0,0,, They had little difficulty in finding it,\N他们找不到难以
+Dialogue: 0,0:01:46.52,0:01:49.96,Default,,0,0,0,, haul: v.   拖曳\N but hauling it out of the water proved to be a serious problem.\N但是将其从水中拖出是一个严重的问题。
+Dialogue: 0,0:01:50.76,0:01:55.24,Default,,0,0,0,, The sides of the dish were so smooth that it was almost impossible to attach\N盘子的侧面是如此光滑，几乎不可能固定
+Dialogue: 0,0:01:55.24,0:01:59.56,Default,,0,0,0,, rim: n.   （圆形物品的）外沿，边\N hazards and chains to. The rim without damaging it.\N危害和链条。边缘没有损坏它。
+Dialogue: 0,0:01:59.56,0:02:05.16,Default,,0,0,0,, winch: n.   绞车\N Eventually chains were fixed to one end of the dish and a powerful winch was put into operation.\N最终，链条固定在盘子的一端，并进行了强大的绞车。
+Dialogue: 0,0:02:06.04,0:02:10.28,Default,,0,0,0,, The dish rose to the surface and was gently drawn towards the canal bank.\N这道菜升至表面，并轻轻地朝着运河堤。
+Dialogue: 0,0:02:11.16,0:02:16.44,Default,,0,0,0,, agonizing: adj. 精神紧张的，提心吊胆的, perch: v.   处于（高处）, precariously: adv. 危险地，不稳固地\N For one agonizing moment, the dish was perched precariously on the bank of the canal\N在一个痛苦的时刻，这道菜被p不休地栖息在运河的河岸上
+Dialogue: 0,0:02:16.92,0:02:23.48,Default,,0,0,0,, overbalance: v.   失去平衡\N but it suddenly overbalanced and slid back into the water. The men were now obliged to try once more.\N但是它突然过度平衡并滑入水中。这些人现在不得不再次尝试。
+Dialogue: 0,0:02:24.04,0:02:29.32,Default,,0,0,0,, clamp: n.   夹钳，夹板\N This time they fixed heavy metal clamps to both sides of the dish so that they could fasten the\N这次他们将重金属夹在盘子的两侧都固定
+Dialogue: 0,0:02:30.12,0:02:35.72,Default,,0,0,0,, vertically: adv. 垂直地\N chains. The dish now had to be lifted vertically because one edge was resting against the\N链。现在，这道菜必须垂直抬起，因为一个边缘在靠在
+Dialogue: 0,0:02:35.72,0:02:41.96,Default,,0,0,0,, winch: n.   绞车\N side of the canal. The winch was again put into operation and one of the men started up the truck.\N运河的一侧。绞车再次投入运营，其中一名男子启动了卡车。
+Dialogue: 0,0:02:42.84,0:02:47.96,Default,,0,0,0,, Several minutes later, the dish was again put into operation and one of the water.\N几分钟后，这道菜再次投入运行，其中之一是水。
+Dialogue: 0,0:02:48.84,0:02:54.60,Default,,0,0,0,, torrent: n.   激流，洪流\N Water streamed in torrents over its sides with such force that it set up a huge wave in the canal.\N水在其两侧的洪流中流动，以至于在运河中建立了巨大的波浪。
+Dialogue: 0,0:02:55.40,0:03:00.20,Default,,0,0,0,, rebound: v.   弹回\N There was danger that the wave would rebound off the other side of the bank and send the dish.\N有危险的危险，波浪将反弹从银行的另一侧反弹，然后寄出盘子。
+Dialogue: 0,0:03:01.08,0:03:07.40,Default,,0,0,0,, Plunging into the water again. By working at tremendous speed, the men managed to get the dish\N再次坠入水中。通过以极大的速度工作，这些人设法得到了这道菜
+Dialogue: 0,0:03:07.40,0:03:09.80,Default,,0,0,0,, on to dry land before the wave returned.\N波浪返回之前，要进入干燥的土地。

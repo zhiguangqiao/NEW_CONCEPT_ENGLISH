@@ -1,0 +1,38 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.74,Default,,0,0,0,,Matterhorn: n.  马特霍恩峰（阿尔卑斯山之一，在意大利和瑞士边境）\N\NLesson 3 Matterhorn man\N\N马特霍恩山区人\N\N
+Dialogue: 0,0:00:04.74,0:00:09.51,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答问题.\N\N
+Dialogue: 0,0:00:09.51,0:00:14.68,Default,,0,0,0,,What was the main objective of early mountain climbers?\N\N早期登山者的主要目标是什么?\N\N
+Dialogue: 0,0:00:14.68,0:00:21.78,Default,,0,0,0,,Modern alpinists try to climb mountains by a route which will give them good sport,\N\N现代登山运动员总想找一条能够给他们带来运动乐趣的路线来攀登山峰,\N\N
+Dialogue: 0,0:00:21.78,0:00:25.78,Default,,0,0,0,,and the more difficult it is,the more highly it is regarded.\N\N他们认为,道路愈艰险愈带劲儿.\N\N
+Dialogue: 0,0:00:25.78,0:00:30.89,Default,,0,0,0,,pioneer: v.  开辟，倡导；\N\NIn the pioneering days however,this was not the case at all.\N\N然而,在登山运动的初期,全然不是这种情况.\N\N
+Dialogue: 0,0:00:30.89,0:00:34.95,Default,,0,0,0,,The early climbers were looking for the easiest way to the top\N\N早期登山者所寻找的是通往山顶的最方便的途径,\N\N
+Dialogue: 0,0:00:34.95,0:00:38.34,Default,,0,0,0,,summit: n.  顶峰\N\Nbecause the summit was the prize they sought,\N\N因为顶峰才是他们寻求的目标.\N\N
+Dialogue: 0,0:00:38.34,0:00:41.58,Default,,0,0,0,,attain: v.  到达\N\Nespecially if it had never been attained before.\N\N特别是前人未曾到过的顶峰,更是他们梦寐以求的.\N\N
+Dialogue: 0,0:00:41.58,0:00:45.67,Default,,0,0,0,,It is true that during their explorations\N\N确实,在探险中\N\N
+Dialogue: 0,0:00:45.67,0:00:50.53,Default,,0,0,0,,they often faced difficulties and dangers of the most perilous nature,\N\N他们经常遇到惊心动魄的困难和危险,\N\N
+Dialogue: 0,0:00:50.53,0:00:56.13,Default,,0,0,0,,shudder: v.  不寒而栗\N\Nequipped in a manner which would make a modern climber shudder at the thought,\N\N而他们装备之简陋足以使现代登山者一想起来就不寒而栗.\N\N
+Dialogue: 0,0:00:56.13,0:01:00.39,Default,,0,0,0,,court: v.  追求\N\Nbut they did not go out of their way to court such excitement.\N\N但是,他们并非故意寻求这种刺激.aa\N\N
+Dialogue: 0,0:01:00.39,0:01:06.07,Default,,0,0,0,,They had a single aim, a solitary goal-the top!\N\N他们只有一个目的,唯一的目标-顶峰!\N\N
+Dialogue: 0,0:01:06.07,0:01:12.20,Default,,0,0,0,,pioneer: v.  开辟，倡导；\N\NIt is hard for us to realize nowadays how difficult it was for the pioneers.\N\N我们今天很难想象昔日的登山先驱们是多么艰苦.\N\N
+Dialogue: 0,0:01:12.20,0:01:20.57,Default,,0,0,0,,Except for one or two places such as Zermatt and Chamonix,which had rapidly become popular\N\N除了泽曼特和夏蒙尼等一两个很快出了名的地方外,\N\N
+Dialogue: 0,0:01:20.57,0:01:28.08,Default,,0,0,0,,impoverish: v.  使贫困\N\NAlpine villages tended to be impoverished settlements cut off from civilization by the high mountains.\N\N阿尔卑斯山山区的小村几乎全是与世隔绝的穷乡僻壤,周围高山环抱.\N\N
+Dialogue: 0,0:01:28.08,0:01:32.92,Default,,0,0,0,,Such inns as there were were generally dirty and flea-ridden;\N\N那里的小客栈一般都很肮脏,而且跳蚤猖厥.\N\N
+Dialogue: 0,0:01:32.92,0:01:38.91,Default,,0,0,0,,the food simply local cheese accompanied by bread often twelve months old,\N\N食物是当地的干酪和通常存放了一年之久的面包,\N\N
+Dialogue: 0,0:01:38.91,0:01:41.90,Default,,0,0,0,,all washed down with coarse wine.\N\N就着劣质酒吞下.\N\N
+Dialogue: 0,0:01:41.90,0:01:48.70,Default,,0,0,0,,boast: v.  自恃有\N\NOften a valley boasted no inn at all,and climbers found shelter wherever they could\N\N山谷里常常没有小客栈,登山者只好随遇而安.\N\N
+Dialogue: 0,0:01:48.70,0:01:54.67,Default,,0,0,0,,parishioner: n.  教区居民\N\Nsometimes with the local priest(who was usually as poor as his parishioners),\N\N有时同当地牧师(他通常和他的教民一样穷)住在一起,\N\N
+Dialogue: 0,0:01:54.67,0:01:57.93,Default,,0,0,0,,shepherd: n.  牧羊人\N\Nsometimes with shepherds or cheese-makers.\N\N有时同牧羊人或制乳酪的人住在一起.\N\N
+Dialogue: 0,0:01:57.93,0:02:05.61,Default,,0,0,0,,Invariably the background was the same:dirt and poverty, and very uncomfortable\N\N无论住在哪儿,情况都一样：肮脏、贫穷,极其不舒适.\N\N
+Dialogue: 0,0:02:05.61,0:02:10.61,Default,,0,0,0,,linen: n.  亚麻布床单, the Alps: n.  阿尔卑斯山脉\N\NFor men accustomed to eating seven-course dinners and sleeping between fine linen sheets at home,the change to the Alps must have been very hard indeed.\N\N对于过惯了一顿饭吃7道菜,睡亚麻细布床单的人来说变换一下生活环境来到阿尔卑斯山山区,那一定是很艰难的.\N\N

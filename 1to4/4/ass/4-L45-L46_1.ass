@@ -1,0 +1,69 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.56,Default,,0,0,0,,Lesson 45 Of men and galaxies\N\N人和星系\N\N
+Dialogue: 0,0:00:07.56,0:00:11.37,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:11.37,0:00:17.01,Default,,0,0,0,,What is the most influential factor in any human society?\N\N在任何一个人类社团当中,最具影响力的因素是什么?\N\N
+Dialogue: 0,0:00:17.01,0:00:24.24,Default,,0,0,0,,In man's early days, competition with other creatures must have been critical.\N\N在人类早期,人类与其他生物的竞争一定是必不可少的.\N\N
+Dialogue: 0,0:00:24.24,0:00:28.38,Default,,0,0,0,,But this phase of our development is now finished.\N\N但这个发展阶段已经结束.\N\N
+Dialogue: 0,0:00:28.38,0:00:34.81,Default,,0,0,0,,Indeed,we lack practice and experience nowadays in dealing with primitive conditions.\N\N确实,我们今天缺乏对付原始环境的实践和经验.\N\N
+Dialogue: 0,0:00:34.81,0:00:38.25,Default,,0,0,0,,I am sure that,without modern weapons,\N\N我断定,如果没有现代化的武器,\N\N
+Dialogue: 0,0:00:38.25,0:00:43.31,Default,,0,0,0,,I would make a very poor show of disputing the ownership of a cave with a bear,\N\N要我和一只熊去争洞穴,我会出洋相的,\N\N
+Dialogue: 0,0:00:43.31,0:00:47.40,Default,,0,0,0,,and in this I do not think that I stand alone.\N\N我也相信,出洋相者并非我一人.\N\N
+Dialogue: 0,0:00:47.40,0:00:51.96,Default,,0,0,0,,mosquito: n.  蚊子\N\NThe last creature to compete with man was the mosquito.\N\N能与人竞争的生物最后只有蚊子了,\N\N
+Dialogue: 0,0:00:51.96,0:00:58.26,Default,,0,0,0,,mosquito: n.  蚊子, subdue: v.  征服, drainage: n.  下水系统\N\NBut even the mosquito has been subdued by attention to drainage and by chemical sprays.\N\N然而即使蚊子,也由于我们注意清理污水和喷洒化学药品而被制服了.\N\N
+Dialogue: 0,0:00:58.26,0:01:02.92,Default,,0,0,0,,Competition between ourselves,person against person,\N\N然而人类之间的竞争,人与人,\N\N
+Dialogue: 0,0:01:02.92,0:01:06.97,Default,,0,0,0,,community against community,still persists,however;\N\N团体与团体,依然在进行着,\N\N
+Dialogue: 0,0:01:06.97,0:01:10.11,Default,,0,0,0,,and it is as fierce as it ever was.\N\N而且和以前一样激烈.\N\N
+Dialogue: 0,0:01:10.11,0:01:16.71,Default,,0,0,0,,envision: n.  预想\N\NBut the competition of man against man is not the simple process envisioned in biology.\N\N但是,人与人的竞争并不像生物学中想象的那样是一个简单过程.\N\N
+Dialogue: 0,0:01:16.71,0:01:19.84,Default,,0,0,0,,It is not a simple competition,\N\N它已不是简单的、\N\N
+Dialogue: 0,0:01:19.84,0:01:23.82,Default,,0,0,0,,for a fixed amount of food determined by the physical environment,\N\N由物质环境所决定的、为了争得有限食物而进行的竞争了,\N\N
+Dialogue: 0,0:01:23.82,0:01:26.65,Default,,0,0,0,,because the environment that determines our evolution,\N\N因为决定我们进化环境的主要方面,\N\N
+Dialogue: 0,0:01:26.65,0:01:29.40,Default,,0,0,0,,is no longer essentially physical.\N\N已不再是物质.\N\N
+Dialogue: 0,0:01:29.40,0:01:33.98,Default,,0,0,0,,Our environment is chiefly conditoned by the things we believe.\N\N我们的环境由我们信仰的东西所决定.\N\N
+Dialogue: 0,0:01:33.98,0:01:39.64,Default,,0,0,0,,Morocco: n.  摩洛哥, latitude: n.  纬度\N\NMorocco and California are bits of the Earth in very similar latitudes,\N\N摩洛哥和加利福尼亚是地球上纬度极其相似的两个地方,\N\N
+Dialogue: 0,0:01:39.64,0:01:44.71,Default,,0,0,0,,both on the west coasts of continents with similar climates,\N\N都在各自大陆的西海岸,气候相似,aa\N\N
+Dialogue: 0,0:01:44.71,0:01:48.38,Default,,0,0,0,,and probably with rather similar natural resources.\N\N自然资源也可能相似.\N\N
+Dialogue: 0,0:01:48.38,0:01:52.08,Default,,0,0,0,,Yet their present development is wholly different,\N\N但是,这两个地方目前的发展程度完全不一样.\N\N
+Dialogue: 0,0:01:52.08,0:01:54.84,Default,,0,0,0,,not so much because of different people even,\N\N这倒不是因为人民不同,\N\N
+Dialogue: 0,0:01:54.84,0:01:59.80,Default,,0,0,0,,but because of the di- fferent thoughts that exist in the minds of their inhabitants.\N\N而是由于居民头脑中的思想不同.\N\N
+Dialogue: 0,0:01:59.80,0:02:04.04,Default,,0,0,0,,This is the point I wish to emphasize.\N\N这就是我要强调的论点.\N\N
+Dialogue: 0,0:02:04.04,0:02:09.61,Default,,0,0,0,,The most important factor in our environment is the state of our own minds.\N\N我们环境中最重要的因素就是我们的思想状况.\N\N
+Dialogue: 0,0:02:09.61,0:02:15.81,Default,,0,0,0,,It is well known that where the white man has invaded a primitive culture,\N\N众所周知,凡是白人侵入原始文化的地方,\N\N
+Dialogue: 0,0:02:15.81,0:02:21.93,Default,,0,0,0,,the most destructive effects have come not from physical weapons but from ideas.\N\N破坏作用最大的不是杀人的武器,而是思想.\N\N
+Dialogue: 0,0:02:21.93,0:02:24.43,Default,,0,0,0,,Ideas are dangerous.\N\N思想是危险的.\N\N
+Dialogue: 0,0:02:24.43,0:02:31.17,Default,,0,0,0,,heretic: n.  异教徒，异端邪说\N\NThe Holy Office knew this full well when it caused heretics to be burned in days gone by.\N\N宗教法庭对此是非常清楚的,因此从前它总是把异教徒烧死.\N\N
+Dialogue: 0,0:02:31.17,0:02:37.14,Default,,0,0,0,,Indeed,the concept of free speech only exists in our modern society,\N\N的确,言论自由的概念只存在于我们现代社会中,\N\N
+Dialogue: 0,0:02:37.14,0:02:39.95,Default,,0,0,0,,because when you are inside a community,\N\N因为当你生活在一个社团当中时,\N\N
+Dialogue: 0,0:02:39.95,0:02:44.96,Default,,0,0,0,,you are conditioned by the conventions of the community to such a degree,\N\N社团的风俗习惯会严格地制约你,\N\N
+Dialogue: 0,0:02:44.96,0:02:48.97,Default,,0,0,0,,conceive: v.  想像\N\Nthat it is very difficult to conceive of anything really destructive.\N\N使你很难有破坏性的想法.\N\N
+Dialogue: 0,0:02:48.97,0:02:56.11,Default,,0,0,0,,It is only someone looking on from outsi- de that can inject the dangerous thoughts.\N\N只有外部的旁观者才能灌输危险的思想.\N\N
+Dialogue: 0,0:02:56.11,0:03:02.69,Default,,0,0,0,,I do not doubt that it would be possible to inject ideas into the modern world,\N\N我并不怀疑有可能向现代世界灌输一种思想,\N\N
+Dialogue: 0,0:03:02.69,0:03:04.54,Default,,0,0,0,,that would utterly destroy us.\N\N以便摧毁我们人类.\N\N
+Dialogue: 0,0:03:04.54,0:03:10.31,Default,,0,0,0,,I would like to give you an example,but fortunately I cannot do so.\N\N我愿为你举个例子,但幸亏我举不出.\N\N
+Dialogue: 0,0:03:10.31,0:03:14.46,Default,,0,0,0,,suffice: v.  足够\N\NPerhaps it will suffice to mention the nuclear bomb.\N\N也许提一下核弹就足以说明了.\N\N
+Dialogue: 0,0:03:14.46,0:03:19.51,Default,,0,0,0,,Imagine the effect on a reasonably advanced technological society,\N\N可以设想,对一个科技相当发达,\N\N
+Dialogue: 0,0:03:19.51,0:03:24.82,Default,,0,0,0,,one that still does not possess the bomb, of making it aware of the possibility,\N\N但尚未拥有核弹的社会,如果告诉它制造核弹的可能性,\N\N
+Dialogue: 0,0:03:24.82,0:03:30.15,Default,,0,0,0,,of supplying suffcient details to enable the thing to be constructed.\N\N且向它提供制造核弹的细节,影响将有多大.\N\N
+Dialogue: 0,0:03:30.15,0:03:33.36,Default,,0,0,0,,20 or 30 pages of information,\N\N如果把二三十页的情报,\N\N
+Dialogue: 0,0:03:33.36,0:03:38.86,Default,,0,0,0,,handed to any of the major world powers around the year 1925,\N\N交给1925年前后的任何一个世界强国,\N\N
+Dialogue: 0,0:03:38.86,0:03:42.82,Default,,0,0,0,,would have been sufficient to change the course of world history.\N\N就足以改变世界历史的进程.\N\N
+Dialogue: 0,0:03:42.82,0:03:46.71,Default,,0,0,0,,It is a strange thought,but I believe a correct one,\N\N这是个离奇的想法,不过我认为这个想法是正确的,\N\N
+Dialogue: 0,0:03:46.71,0:03:50.40,Default,,0,0,0,,that twenty or thirty pages of ideas and information,\N\N即相信三三十页材料中的思想和情报,\N\N
+Dialogue: 0,0:03:50.40,0:03:56.59,Default,,0,0,0,,would be capable of turning the present- day world upside down, or even destroying it.\N\N会使当今的世界天翻地覆,甚至毁灭这个世界.\N\N
+Dialogue: 0,0:03:56.59,0:04:01.46,Default,,0,0,0,,conceive: v.  想像\N\NI have often tried to conceive of what those pages might contain,\N\N我常常试图想象这些纸上所写的东西,\N\N
+Dialogue: 0,0:04:01.46,0:04:03.80,Default,,0,0,0,,but of course I cannot do so,\N\N不过我是做不到的,\N\N
+Dialogue: 0,0:04:03.80,0:04:09.24,Default,,0,0,0,,because I am a prisoner of the present-day world,just as all of you are.\N\N因为我和你们大家一样,是当今世界上的凡人.\N\N
+Dialogue: 0,0:04:09.24,0:04:15.39,Default,,0,0,0,,We cannot think outside the particular patterns that our bra- ins are conditioned to,\N\N我们不能脱离我们大脑所限定的模式去思考问题,\N\N
+Dialogue: 0,0:04:15.39,0:04:20.77,Default,,0,0,0,,or,to be more accurate we can think only a very little way outside,\N\N或者,更准确一些说,我们只能稍微偏离一点点,\N\N
+Dialogue: 0,0:04:20.77,0:04:25.77,Default,,0,0,0,,and then only if we are very original.\N\N而仅只这样也需要我们有独创的思想.\N\N

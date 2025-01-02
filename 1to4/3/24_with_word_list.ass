@@ -1,0 +1,36 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.88,Default,,0,0,0,, skeleton: n.   骷髅, seemingly: adv. 表面上地, respectable: adj. 体面的，雅观的\N Lesson 24. A skeleton in the cupboard. We often read in novels how a seemingly respectable\N第24课。橱柜中的骨骼。我们经常读小说中看似受人尊敬的
+Dialogue: 0,0:00:06.88,0:00:14.00,Default,,0,0,0,, conceal: v.   隐藏，隐瞒\N person or family has some terrible secret which has been concealed from strangers for years.\N人或家人有一个可怕的秘密，多年来一直被陌生人隐藏。
+Dialogue: 0,0:00:14.00,0:00:18.88,Default,,0,0,0,, vivid: adj. 生动的\N The English language possesses a vivid saying to describe this sort of situation.\N英语具有生动的说法来描述这种情况。
+Dialogue: 0,0:00:19.68,0:00:26.40,Default,,0,0,0,, skeleton: n.   骷髅, dramatic: adj. 令人激动的，扣人心弦的\N The terrible secret is called a skeleton in the cupboard. At some dramatic moment in the story,\N可怕的秘密称为橱柜中的骨骼。在故事中的某个戏剧性时刻，
+Dialogue: 0,0:00:26.40,0:00:32.48,Default,,0,0,0,, ruin: v.   毁坏\N the terrible secret becomes known and a reputation is ruined. The reader's hair stands on end\N可怕的秘密已知，声誉被毁了。读者的头发直立
+Dialogue: 0,0:00:32.48,0:00:38.48,Default,,0,0,0,, heroine: n.   女主人公\N when he reads in the final pages of the novel that the heroine uh. Dear old lady who had always\N当他在小说的最后一页上读到女主人公时。亲爱的老太太
+Dialogue: 0,0:00:38.48,0:00:44.72,Default,,0,0,0,, been so kind to everybody, had, in her youth, poisoned every one of her five husbands.\N对每个人都如此友善，在她的青年时代，她毒害了五个丈夫中的每一个。
+Dialogue: 0,0:00:45.36,0:00:52.40,Default,,0,0,0,, fiction: n.   小说, varying: adj. 不同的\N It is all very well for such things to occur in fiction. To varying degrees, we all have secrets\N这些事情在小说中都很好。在不同程度上，我们都有秘密
+Dialogue: 0,0:00:52.40,0:00:59.12,Default,,0,0,0,, skeleton: n.   骷髅\N which we do not want even our closest friends to learn. But few of us have skeletons in the cupboard.\N我们甚至不希望我们最亲密的朋友学习。但是我们当中很少有人在橱柜里有骨骼。
+Dialogue: 0,0:00:59.12,0:01:05.20,Default,,0,0,0,, skeleton: n.   骷髅\N The only person I know who has a skeleton in the cupboard is George Carlton. And he is very\N我认识的唯一在橱柜里有骨骼的人是乔治·卡尔顿（George Carlton）。他非常
+Dialogue: 0,0:01:05.20,0:01:12.64,Default,,0,0,0,, medicine: n.   医学\N pound of the fact. George studied medicine in his youth. Instead of becoming a doctor. However,\N事实。乔治在年轻时学习医学。而不是成为医生。然而，
+Dialogue: 0,0:01:12.64,0:01:19.20,Default,,0,0,0,, he became a successful writer of detective stories. I once spend an uncomfortable weekend which I\N他成为侦探故事的成功作家。我曾经度过一个不舒服的周末
+Dialogue: 0,0:01:19.20,0:01:27.04,Default,,0,0,0,, shall never forget at his house. George showed me to the guest room which. He said, was rarely used.\N永远不会在他的房子里忘记。乔治把我带到了客房。他说，很少使用。
+Dialogue: 0,0:01:27.04,0:01:33.28,Default,,0,0,0,, unpack: vt.  （从箱中）取出, stack: v.   （整齐地）堆放，排放\N He told me to unpack my things and then come down to dinner. After I had stacked my shirts and\N他告诉我要解开我的东西，然后下来吃饭。在我堆叠衬衫之后，
+Dialogue: 0,0:01:33.28,0:01:39.44,Default,,0,0,0,, underclothes: n.   内衣, drawer: n.   抽屉\N underclothes in two empty drawers. I decided to hang one of the toe suits I had brought with me in\N两个空抽屉中的底衣服。我决定挂在我带上的一件脚趾西装中
+Dialogue: 0,0:01:39.44,0:01:45.28,Default,,0,0,0,, the cupboard. I opened the cupboard door and then stood in front of two suits I had brought with me\N橱柜。我打开橱柜门，然后站在我带上的两套西装前
+Dialogue: 0,0:01:45.36,0:01:51.20,Default,,0,0,0,, in the cupboard. I opened the cupboard door and then stood in front of its suits I had brought with\N在橱柜里。我打开橱柜门，然后站在我带上的西装前
+Dialogue: 0,0:01:51.20,0:01:58.16,Default,,0,0,0,, skeleton: n.   骷髅\N me in the cupboard. I opened the cupboard door and then stood in front of it petrified. A skeleton\N我在橱柜里。我打开了橱柜门，然后站在它的前面。骨骼
+Dialogue: 0,0:01:58.16,0:02:04.24,Default,,0,0,0,, sway: v.   摇摆\N was dangling before my eyes. The sudden movement of the door made its sway slightly and it gave me\N在我眼前晃来晃去。门的突然动作使它略微摇摆，这给了我
+Dialogue: 0,0:02:04.24,0:02:11.68,Default,,0,0,0,, the impression that it was. About to leap out at me. Dropping my suit, I dashed downstairs to tell\N那是印象。即将向我跳出来。放下衣服，我在楼下说话
+Dialogue: 0,0:02:11.68,0:02:20.00,Default,,0,0,0,, skeleton: n.   骷髅, unsympathetic: adj. 不表同情的，无动于衷的\N George. This was worse than a terrible secret. This was a read skeleton. But George was unsympathetic.\N乔治。这比一个可怕的秘密还要糟糕。这是一个读的骨骼。但是乔治并不同情。
+Dialogue: 0,0:02:20.00,0:02:27.04,Default,,0,0,0,, Oh, that, he said with a smile as if he were talking about an old friend. That's Sebastian. You\N哦，那他笑着说，好像他在谈论一个老朋友。那是塞巴斯蒂安。你
+Dialogue: 0,0:02:27.04,0:02:30.08,Default,,0,0,0,, medical: adj. 医学的\N forget that I was a medical student once upon a time.\N忘了我曾经是一名医学生。

@@ -1,0 +1,29 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.40,Default,,0,0,0,, Lesson 10. The loss of the Titanic. The great ship, Titanic, sailed for New York from South\N第10课。失去泰坦尼克号。泰坦尼克号的大船从南方航行
+Dialogue: 0,0:00:07.40,0:00:19.04,Default,,0,0,0,, Hampton on April 10, 1912. She was carrying 1,316 passengers and crew of 891. Even by modern\N汉普顿于1912年4月10日。她载有1,316名乘客和891的乘员。
+Dialogue: 0,0:00:19.04,0:00:27.36,Default,,0,0,0,, colossal: adj. 庞大的\N standards, the 46,000-ton Titanic was a colossal ship. At the time, however, she was not only\N标准，46,000吨的泰坦尼克号是一艘巨大的船。但是，当时她不仅是
+Dialogue: 0,0:00:27.36,0:00:34.20,Default,,0,0,0,, the largest ship that had ever been built, but was regarded as unsinkable. For she had 16\N有史以来最大的船，但被认为是不可接受的。因为她有16
+Dialogue: 0,0:00:34.20,0:00:40.92,Default,,0,0,0,, watertight: adj. 不漏水的, compartment: n.  （轮船的）密封舱, flood: v.   充满水, float: v.   漂浮，飘浮\N watertight compartments. Even if two of these were flooded, she would still be able to float.\N水密隔室。即使其中两个被淹没了，她仍然可以漂浮。
+Dialogue: 0,0:00:40.92,0:00:46.16,Default,,0,0,0,, tragic: adj. 悲惨的, liner: n.   班船\N The tragic sinking of this great liner will always be remembered. For she went down on her\N这个伟大的衬里的悲惨沉没将永远被记住。因为她跌倒了
+Dialogue: 0,0:00:46.16,0:00:52.76,Default,,0,0,0,, voyage: n.   航行\N first voyage with heavy loss of life. Four days after setting out, while the Titanic\N首次航行，生命损失严重。出发四天，而泰坦尼克号
+Dialogue: 0,0:00:52.76,0:00:59.04,Default,,0,0,0,, iceberg: n.   冰山\N was sailing across the icy water of the North Atlantic. Huge iceberg was suddenly spotted\N正驶过北大西洋的冰冷水。突然发现了巨大的冰山
+Dialogue: 0,0:00:59.04,0:01:05.40,Default,,0,0,0,, lookout: n.   了望员\N by a lookout. After the alarm had been given, the great ship turned sharply to avoid a direct\N通过监视。发出警报后，大船急转弯以避免直接
+Dialogue: 0,0:01:05.40,0:01:11.76,Default,,0,0,0,, collision: n.   碰撞, miss: v.   避开\N collision. The Titanic turned just in time. Narrowly missing the immense walk of ice which\N碰撞。泰坦尼克号及时地转过身。狭窄地错过了巨大的冰
+Dialogue: 0,0:01:11.76,0:01:18.12,Default,,0,0,0,, slight: adj. 轻微的\N rose over 100 feet out of the water beside her. Suddenly, there was a slight trembling\N从她旁边的水中升起超过100英尺。突然，有一点颤抖
+Dialogue: 0,0:01:18.12,0:01:23.56,Default,,0,0,0,, sound from below. And the captain went down to see what had happened. The noise had been\N从下方发出声音。船长下来看看发生了什么。噪音已经
+Dialogue: 0,0:01:23.56,0:01:29.64,Default,,0,0,0,, faint: adj. 微弱的\N so faint that no one though that the ship had been damaged. Below, the captain realized\N如此微弱，以至于没有人损坏了这艘船。下面，船长意识到
+Dialogue: 0,0:01:29.64,0:01:36.32,Default,,0,0,0,, watertight: adj. 不漏水的, compartment: n.  （轮船的）密封舱, horror: n.   恐惧\N to his horror that the Titanic was sinking rapidly. For five of her 16 watertight compartments\N令他惊讶的是，泰坦尼克号正在迅速下沉。她的16个水密隔室中的五个
+Dialogue: 0,0:01:36.32,0:01:41.96,Default,,0,0,0,, flood: v.   充满水, abandon: v.   抛弃, plunge: v.   投入，跳入\N had already been flooded. The order to abandon ship was given and hundreds of people plunged\N已经被淹没了。放弃船只的命令被降低了
+Dialogue: 0,0:01:41.96,0:01:49.56,Default,,0,0,0,, lifeboat: n.   救生船\N into the icy water. As there were not enough lifeboats for everybody, 1,500 lives were lost.\N进入冰冷的水。由于每个人都没有足够的救生艇，因此1,500人丧生。

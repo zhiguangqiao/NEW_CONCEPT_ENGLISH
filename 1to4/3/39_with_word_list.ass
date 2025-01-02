@@ -1,0 +1,34 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.80,Default,,0,0,0,, rough: adj. 崎岖不平的\N Lesson 39. Nothing to worry about. The rough across the plane soon became so bad that we tried\N第39课。没什么可担心的。飞机上的粗糙很快变得如此糟糕，我们尝试了
+Dialogue: 0,0:00:06.80,0:00:12.80,Default,,0,0,0,, to get Bruce to drive back to the village we had come from. Even though the road was littered\N要让布鲁斯开车回到我们来的村庄。即使道路乱扔
+Dialogue: 0,0:00:12.80,0:00:19.92,Default,,0,0,0,, boulder: n.   大石块, pit: v.   使得坑坑洼洼, perturb: v.   使不安\N with boulders and pitted with holes. Bruce was not in the least perturbed. Lansing at his map,\N带有巨石，并带有孔。布鲁斯没有扰动。在他的地图上兰斯
+Dialogue: 0,0:00:19.92,0:00:26.16,Default,,0,0,0,, he informed us that the next village was a mere 20 miles away. It was not that Bruce always\N他告诉我们，下一个村庄只有20英里外。不是布鲁斯总是
+Dialogue: 0,0:00:26.16,0:00:32.48,Default,,0,0,0,, underestimate: v.   低估\N underestimated difficulties. He simply had no sense of danger at all. No matter what the\N低估的困难。他根本没有危险的感觉。不管是什么
+Dialogue: 0,0:00:32.48,0:00:37.92,Default,,0,0,0,, conditions were, he believed that a car should be driven as fast as it could possibly go.\N条件是，他认为应尽可能快地驾驶汽车。
+Dialogue: 0,0:00:38.88,0:00:45.68,Default,,0,0,0,, boulder: n.   大石块, swerve: v.   急转变, scoop: v.   挖出\N As we bumped over EH Dusty Track, we swerved to avoid large boulders. The wheels scooped\N当我们撞到EH Dusty轨道时，我们转弯以避免大巨石。车轮sc起
+Dialogue: 0,0:00:45.68,0:00:51.68,Default,,0,0,0,, hammer: v.   （用锤）击打，锤打, ominously: adv. 有预兆的，不祥的\N up stones which hammered ominously under the car. We felt sure that sooner or later a stone\N上的石头在汽车下不祥地锤击。我们确定迟早是一块石头
+Dialogue: 0,0:00:51.68,0:00:58.72,Default,,0,0,0,, rip: v.   划破，撕，扯, petrol: n.   汽油\N would rip a hole in our petrol tank or damage the engine. Because of this, we kept looking back,\N会在我们的汽油箱中撕裂一个孔或损坏发动机。因此，我们一直回头，
+Dialogue: 0,0:00:58.72,0:01:04.64,Default,,0,0,0,, petrol: n.   汽油\N wondering if we were leaving a trail of oil and petrol behind us. What a relief it was when\N想知道我们是否要留下石油和汽油的痕迹。当
+Dialogue: 0,0:01:04.64,0:01:10.64,Default,,0,0,0,, boulder: n.   大石块, stretch: n.   一大片（平地或水）, obstacle: n.   障碍\N the boulders suddenly disappeared, giving way to a stretch of plane where the only obstacles were\N巨石突然消失了，让位于唯一障碍的飞机上
+Dialogue: 0,0:01:10.64,0:01:16.88,Default,,0,0,0,, clump: n.   丛，簇, fissure: n.   （石，地的）深缝\N clumps of bushes. But there was worse to come. Just ahead of us there was a huge fissure.\N一团灌木丛。但是情况更糟。就在我们前面，有一个巨大的裂痕。
+Dialogue: 0,0:01:17.36,0:01:23.52,Default,,0,0,0,, fissure: n.   （石，地的）深缝, renew: v.   重复, pleading: n.   恳求\N In response to renewed pleadings, Bruce stopped, though we all got out to examine the fissure.\N为了回应新的诉状，布鲁斯停止了，尽管我们都出去检查了裂缝。
+Dialogue: 0,0:01:24.08,0:01:29.92,Default,,0,0,0,, fissure: n.   （石，地的）深缝\N He remained in the car. We informed him that the fissure extended for 50 years and was tow\N他留在车里。我们告诉他，裂缝延长了50年，被拖了
+Dialogue: 0,0:01:29.92,0:01:36.88,Default,,0,0,0,, gear: n.   汽车排档\N feet wide and four feet deep. Even this had no effect. Bruce went into a low gear and drove at\N英尺宽，深四英尺。即使这也没有效果。布鲁斯走进低矮的装备，开车去
+Dialogue: 0,0:01:36.88,0:01:43.44,Default,,0,0,0,, crack: n.   缝隙, zigzag: n.  “之”字形\N a terrifying speed. Keeping the front wheels astride the crack as he followed its zigzag course.\N一个恐怖的速度。在他沿着曲折的路线沿裂缝的过程中，保持前轮横穿裂缝。
+Dialogue: 0,0:01:44.32,0:01:49.76,Default,,0,0,0,, Before we had time to worry about what might happen, we were back on the plane again.\N在我们有时间担心可能发生的事情之前，我们又回到了飞机上。
+Dialogue: 0,0:01:49.76,0:01:55.52,Default,,0,0,0,, Bruce consulted the map once more and told us that the village was now only 15 miles away.\N布鲁斯再次咨询了地图，并告诉我们该村庄现在只有15英里。
+Dialogue: 0,0:01:56.24,0:02:03.20,Default,,0,0,0,, obstacle: n.   障碍, shallow: adj. 浅的\N Our next obstacle was a shallow pool of water about half a mile across. Bruce charged at it,\N我们的下一个障碍是大约半英里处的浅水池。布鲁斯对此充电，
+Dialogue: 0,0:02:03.20,0:02:08.72,Default,,0,0,0,, dashboard: n.   （汽车上的）仪表盘\N but in the middle, the car came to a grinding half. A yellow light on the dashboard\N但是在中间，汽车磨了一半。仪表板上的黄灯
+Dialogue: 0,0:02:08.72,0:02:17.28,Default,,0,0,0,, flashed angrily and Bruce cheerfully announced that there was no oil in the engine.\N愤怒地闪烁着，布鲁斯高兴地宣布发动机中没有石油。

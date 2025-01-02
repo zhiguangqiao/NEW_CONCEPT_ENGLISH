@@ -1,0 +1,57 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.91,Default,,0,0,0,,Lesson 28 Patients and doctors病人与医生\N\N
+Dialogue: 0,0:00:05.91,0:00:09.77,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:09.77,0:00:14.34,Default,,0,0,0,,What are patients looking for when they visit the doctor?\N\N病人看医生时,渴望得到什么?\N\N
+Dialogue: 0,0:00:14.34,0:00:17.58,Default,,0,0,0,,This is a sceptical age,\N\N这是一个怀疑一切的时代\N\N
+Dialogue: 0,0:00:17.58,0:00:24.19,Default,,0,0,0,,forefathers: n.  祖先\N\Nbut although our faith in many of the things in which our forefathers fervently believed has weakened,\N\N可是虽然我们对关于许多事物的、我们祖先所笃信的观念已不太相信,\N\N
+Dialogue: 0,0:00:24.19,0:00:28.23,Default,,0,0,0,,our confidence in the curative properties of the bottle of medicine\N\N我们对瓶装药品疗效的信心\N\N
+Dialogue: 0,0:00:28.23,0:00:30.42,Default,,0,0,0,,remains the same as theirs.\N\N仍与祖辈一样坚定.\N\N
+Dialogue: 0,0:00:30.42,0:00:34.63,Default,,0,0,0,,This modern faith in medicines is proved by the fact\N\N有个事实证实了现代人对药物的信赖,\N\N
+Dialogue: 0,0:00:34.63,0:00:40.29,Default,,0,0,0,,that the annual drug bill of the Health Services is mounting to astronomical figures.\N\N就是卫生部门的年度药费上升到了天文数字,\N\N
+Dialogue: 0,0:00:40.29,0:00:44.04,Default,,0,0,0,,and shows no signs at present of ceasing to rise.\N\N并且目前尚无停止上升的迹象,\N\N
+Dialogue: 0,0:00:44.04,0:00:46.61,Default,,0,0,0,,The majority of the patients\N\N大多数病人\N\N
+Dialogue: 0,0:00:46.61,0:00:50.85,Default,,0,0,0,,attending the medical out-patients departments of our hospitals feel\N\N到医院门诊部看病时觉得\N\N
+Dialogue: 0,0:00:50.85,0:00:56.48,Default,,0,0,0,,that they have not received adequate treatment unless they are able to carry home with them\N\N如果不能带回一些药物回去,就没算得到充分的治疗\N\N
+Dialogue: 0,0:00:56.48,0:01:00.56,Default,,0,0,0,,some tangible remedy in the shape of a bottle of medicine,\N\N象一些看得见摸得着的东西如一瓶药水,\N\N
+Dialogue: 0,0:01:00.56,0:01:04.30,Default,,0,0,0,,ointment: n.  药膏\N\Na box of pills,or a small jar of ointment,\N\N一盒药丸、一小瓶药膏等等.\N\N
+Dialogue: 0,0:01:04.30,0:01:06.78,Default,,0,0,0,,and the doctor in charge of the department\N\N负责门诊的医生\N\N
+Dialogue: 0,0:01:06.78,0:01:10.40,Default,,0,0,0,,is only too ready to provide them with these requirements.\N\N也非常乐意为前来看病的人提供他们想要得到的药物.\N\N
+Dialogue: 0,0:01:10.40,0:01:14.17,Default,,0,0,0,,There is no quicker method of disposing of patients\N\N没有比这样处理病人更快的方法了:\N\N
+Dialogue: 0,0:01:14.17,0:01:16.86,Default,,0,0,0,,than by giving them what they are asking for,\N\N病人要什么就给什么,\N\N
+Dialogue: 0,0:01:16.86,0:01:22.05,Default,,0,0,0,,and since most medical men in the Health Services are overworked\N\N因为卫生部门的大多数医生都超负荷工作,\N\N
+Dialogue: 0,0:01:22.05,0:01:25.11,Default,,0,0,0,,and have little time for offering time-consuming\N\N所以没有多少时间提出一些计费时aa\N\N
+Dialogue: 0,0:01:25.11,0:01:29.31,Default,,0,0,0,,and little-appreciated advice on such subjects as diet,\N\N而又不受人欢迎的忠告,如注意饮食、\N\N
+Dialogue: 0,0:01:29.31,0:01:33.90,Default,,0,0,0,,right living,and the need for abandoning bad habits etc.,\N\N生活有规律、需要克服坏习惯等等,\N\N
+Dialogue: 0,0:01:33.90,0:01:39.69,Default,,0,0,0,,the bottle,the box, and the jar are almost always granted them.\N\N结果就是把瓶药、盒药、罐药开给看病的人而完事大吉.\N\N
+Dialogue: 0,0:01:39.69,0:01:44.24,Default,,0,0,0,,Nor is it only the ignorant and ill-educated person\N\N并不只是那些无知和没受过良好教育的人\N\N
+Dialogue: 0,0:01:44.24,0:01:47.03,Default,,0,0,0,,who has such faith in the bottle of medicine.\N\N才迷信药瓶子.\N\N
+Dialogue: 0,0:01:47.03,0:01:50.24,Default,,0,0,0,,It is recounted of Thomas Carlyle\N\N据说托马斯.卡莱尔有过这么一件事:\N\N
+Dialogue: 0,0:01:50.24,0:01:54.01,Default,,0,0,0,,that when he heard of the illness of his friend,Henry Taylor,\N\N他听说朋友亨利.泰勒病了,\N\N
+Dialogue: 0,0:01:54.01,0:01:56.63,Default,,0,0,0,,he went off immediately to visit him,\N\N就立刻跑去看他,\N\N
+Dialogue: 0,0:01:56.63,0:02:01.49,Default,,0,0,0,,carrying with him in his pocket what remained a bottle of medicine\N\N衣袋里装着一瓶药,\N\N
+Dialogue: 0,0:02:01.49,0:02:05.94,Default,,0,0,0,,prescribe: v.  开药方, indisposition: n.  小病\N\Nformerly prescribed for an indisposition of Mrs.Carlyle's.\N\N那还是以前他妻子不舒服时吃剩下的东西.\N\N
+Dialogue: 0,0:02:05.94,0:02:11.46,Default,,0,0,0,,Carlyle was entirely ignorant of what the bottle in his pocket contained,\N\N卡莱尔不知道药瓶子里装的是什么药,\N\N
+Dialogue: 0,0:02:11.46,0:02:14.99,Default,,0,0,0,,of the nature of the illness from which his friend was suffering,\N\N不知道他的朋友得的是什么病,\N\N
+Dialogue: 0,0:02:14.99,0:02:18.41,Default,,0,0,0,,and of what had previously been wrong with his wife,\N\N也不知道他妻子以前得的是什么病,\N\N
+Dialogue: 0,0:02:18.41,0:02:22.66,Default,,0,0,0,,but a medicine that had worked so well in one form of illness\N\N只知道一种药对一种病有好处,\N\N
+Dialogue: 0,0:02:22.66,0:02:25.86,Default,,0,0,0,,would surely be of equal benefit in another,\N\N肯定对另一种病也会有好处.\N\N
+Dialogue: 0,0:02:25.86,0:02:30.08,Default,,0,0,0,,and comforted by the thought of the help he was bringing to his friend,\N\N想到能对朋友有所帮助,他感到欣慰,\N\N
+Dialogue: 0,0:02:30.08,0:02:32.46,Default,,0,0,0,,he hastened to Henry Taylor's house.\N\N于是急急忙忙来到了亨利.泰勒家里.\N\N
+Dialogue: 0,0:02:32.46,0:02:37.80,Default,,0,0,0,,History does not relate whether his friend accepted his medical help,\N\N他的朋友是否接受了他的药物治疗,历史没有记载,\N\N
+Dialogue: 0,0:02:37.80,0:02:41.08,Default,,0,0,0,,but in all probability he did.\N\N但很可能是接受了.\N\N
+Dialogue: 0,0:02:41.08,0:02:46.50,Default,,0,0,0,,The great advantage of taking medicine is that it makes no demands on the taker\N\N服药的最大优点是:它对服药人没有要求,\N\N
+Dialogue: 0,0:02:46.50,0:02:50.76,Default,,0,0,0,,beyond that of putting up for a moment with a disgusting taste,\N\N只需暂时忍受一下令人作呕的味道即可.\N\N
+Dialogue: 0,0:02:50.76,0:02:54.41,Default,,0,0,0,,and that is what all patients demand of their doctors--\N\N这也正是病人对医生的要求--\N\N
+Dialogue: 0,0:02:54.41,0:02:59.41,Default,,0,0,0,,inconvenience: n.  不便\N\Nto be cured at no inconvenience to themselves.\N\N病要治好,但不要太麻烦.\N\N

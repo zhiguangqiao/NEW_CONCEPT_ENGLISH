@@ -1,0 +1,34 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.36,Default,,0,0,0,, Lesson 30. The death of a ghost. For years, villagers believed that Endley farm was hunted.\N第30课。幽灵的死亡。多年来，村民们认为恩德利农场被猎杀。
+Dialogue: 0,0:00:07.36,0:00:14.24,Default,,0,0,0,, The farm was owned by two brothers. Joe and Bob Cox, they employed a few farm hands.\N该农场由两个兄弟拥有。乔和鲍勃·考克斯（Joe and Bob Cox）雇用了几只农场手。
+Dialogue: 0,0:00:14.24,0:00:20.72,Default,,0,0,0,, But no one was willing to work there long. Every time a worker gave up his job, he told the same\N但是没有人愿意在那里工作很长时间。每当工人放弃工作时，他都告诉
+Dialogue: 0,0:00:20.72,0:00:26.24,Default,,0,0,0,, overnight: adv. 一夜期间\N story. Farm laborers said that they always woke up to find that work had been done overnight.\N故事。农场工人说，他们总是醒来发现工作已经在一夜之间完成。
+Dialogue: 0,0:00:27.04,0:00:32.96,Default,,0,0,0,, He had been cut and cow sheds had been cleaned. A farm worker, who stayed up all night,\N他被切断了，牛棚已经清洗了。一个整夜熬夜的农场工人
+Dialogue: 0,0:00:32.96,0:00:39.44,Default,,0,0,0,, corn: n.   谷物, moonlight: n.   月光\N claimed to have seen a figure cutting corn in the moonlight. In time, it became an accepted fact\N声称已经看到了一个人物在月光中砍伐玉米。随着时间的流逝，这成为一个公认的事实
+Dialogue: 0,0:00:39.44,0:00:45.52,Default,,0,0,0,, conscientious: adj. 认真的\N the Cox brothers employed a conscientious ghost that did most of their work for them.\N考克斯兄弟（Cox Brothers）采用了一个认真的幽灵，为他们做了大部分工作。
+Dialogue: 0,0:00:45.52,0:00:50.16,Default,,0,0,0,, suspect: v.   怀疑\N No one suspected that there might be someone else on the farm who had never been seen.\N没有人怀疑农场上可能有其他人从未见过。
+Dialogue: 0,0:00:51.04,0:00:57.12,Default,,0,0,0,, This was indeed the case. A short time ago, villagers were astonished to learn that the ghost\N确实就是这样。不久前，村民们惊讶地得知鬼魂
+Dialogue: 0,0:00:57.12,0:01:04.56,Default,,0,0,0,, of Endley had died. Everyone went to the funeral. For the ghost, was none other than Eric Cox.\N恩德利（Endley）死了。每个人都参加了葬礼。对于幽灵，就是埃里克·考克斯（Eric Cox）。
+Dialogue: 0,0:01:04.56,0:01:10.08,Default,,0,0,0,, A third brother who was supposed to have died as a young man. After the funeral,\N本应年轻时去世的第三个兄弟。葬礼之后，
+Dialogue: 0,0:01:10.08,0:01:14.32,Default,,0,0,0,, Joe and Bob revealed a secret which they had kept for over 50 years.\N乔和鲍勃（Joe and Bob）透露了他们保留了50多年的秘密。
+Dialogue: 0,0:01:15.28,0:01:21.76,Default,,0,0,0,, Eric had been the eldest son of the family. Very much older than his two brothers. He had been\N埃里克（Eric）曾是家庭的长子。比他的两个兄弟大得多。他曾经
+Dialogue: 0,0:01:21.76,0:01:29.20,Default,,0,0,0,, desert: v.   （军队中）开小差\N obliged to join the army during the Second World War. As he hated army life, he decided to desert\N在第二次世界大战期间不得不参加军队。当他讨厌陆军生活时，他决定抛弃
+Dialogue: 0,0:01:29.20,0:01:35.28,Default,,0,0,0,, regiment: n.   （军队）团\N his regiment. When he learnt that he would be sent abroad, he returned to the farm and his father\N他的团。当他得知自己将被送到国外时，他回到了农场和父亲
+Dialogue: 0,0:01:35.28,0:01:41.92,Default,,0,0,0,, hid him until the end of the war. Fearing the authorities, Eric remained in hiding after the war\N把他藏起来直到战争结束。担心当局，埃里克（Eric）留在战后躲藏起来
+Dialogue: 0,0:01:42.00,0:01:48.32,Default,,0,0,0,, action: n.   战斗\N as well. His father told everybody that Eric had been killed in action. The only other people who\N也他的父亲告诉所有人，埃里克（Eric）在行动中被杀。唯一的其他人
+Dialogue: 0,0:01:48.32,0:01:55.20,Default,,0,0,0,, knew the secret were Joe and Bob. They did not even tell their wives. When their father died,\N知道秘密是乔和鲍勃。他们甚至没有告诉妻子。当他们父亲去世时
+Dialogue: 0,0:01:55.20,0:02:01.76,Default,,0,0,0,, recluse: n.   隐士\N they thought it their duty to keep Eric in hiding. All these years, Eric had lived as a recluse.\N他们认为让埃里克躲藏起来是他们的责任。这些年来，埃里克（Eric）一直是一个隐士。
+Dialogue: 0,0:02:02.32,0:02:07.92,Default,,0,0,0,, He used to sleep during the day and work at night, quite unaware of the fact that he had become\N他曾经白天睡觉，晚上工作，这不知道他已经成为
+Dialogue: 0,0:02:07.92,0:02:17.92,Default,,0,0,0,, the ghost of Endley. When he died, however, his brothers found it impossible to keep the secret any longer.\N恩德利的幽灵。然而，当他去世时，他的兄弟们发现不再保留秘密。

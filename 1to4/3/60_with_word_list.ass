@@ -1,0 +1,55 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:09.00,Default,,0,0,0,, Lesson 60. Too early and too late. Punctuality is a necessary habit in all public affairs in civilized society.\N第60课。为时已晚，为时已晚。守时是文明社会所有公共事务的必要习惯。
+Dialogue: 0,0:00:09.50,0:00:15.50,Default,,0,0,0,, Without it, nothing could ever be brought to a conclusion. Everything would be in state of chaos.\N没有它，永远无法得出结论。一切都会处于混乱状态。
+Dialogue: 0,0:00:16.00,0:00:21.00,Default,,0,0,0,, rural: adv. 农村的, disregard: v.   不顾，无视\N Only an aspartsly populated rural community is it possible to disregard it.\N只有人口稠密的农村社区才有可能无视它。
+Dialogue: 0,0:00:21.50,0:00:26.00,Default,,0,0,0,, punctuality: n.   准时\N In ordinary living, there can be some tolerance of unpunctuality.\N在普通生活中，可能会有一些不正常的宽容。
+Dialogue: 0,0:00:26.50,0:00:34.50,Default,,0,0,0,, intellectual: n.   知识分子, coordinate: v.   协调\N The intellectual, who is working on some obstruist problem, has everything coordinated and organized for the matter in hand.\N正在处理一些obstruist问题的知识分子使一切都协调和组织了有关此事的协调和组织。
+Dialogue: 0,0:00:35.00,0:00:38.00,Default,,0,0,0,, He is therefore forgiven if late for a dinner party.\N因此，如果晚宴迟到，他会被原谅。
+Dialogue: 0,0:00:38.50,0:00:44.00,Default,,0,0,0,, punctuality: n.   准时, reproach: v.   责备\N But people are often reproached for unpunctuality when they're only fall this cutting things fine.\N但是，当人们只跌倒时，人们通常会因不正常而受到责备。
+Dialogue: 0,0:00:44.50,0:00:49.00,Default,,0,0,0,, It is hard for energetic, quick-minded people to waste time.\N精力充沛，思想上的人很难浪费时间。
+Dialogue: 0,0:00:49.50,0:00:54.00,Default,,0,0,0,, So they are often tempted to finish a job before setting out to keep an appointment.\N因此，他们经常在出发之前要完成工作。
+Dialogue: 0,0:00:54.50,0:01:04.00,Default,,0,0,0,, puncture: v.   刺破（轮胎）, diversion: n.   改道，绕道\N If no accidents occur on the way, like punctured tires, diversions of traffic, sudden descent of fog, they will be on time.\N如果途中没有发生任何事故，例如刺穿的轮胎，交通转移，雾突然下降，它们将准时。
+Dialogue: 0,0:01:04.50,0:01:09.50,Default,,0,0,0,, They are often more industrious, useful citizens than those who are never late.\N他们通常比从未迟到的公民更勤奋，有用的公民。
+Dialogue: 0,0:01:10.00,0:01:14.50,Default,,0,0,0,, trial: n.   讨厌的事，人\N The over-punctual can be as much a trial to others as the unpunctual.\N对他人的审判可能与无关紧要的审判一样多。
+Dialogue: 0,0:01:15.00,0:01:19.50,Default,,0,0,0,, The guest who arrives half an hour too soon is the greatest nuisance.\N到达半小时的客人很快是最大的滋扰。
+Dialogue: 0,0:01:20.00,0:01:23.00,Default,,0,0,0,, Some friends of my family had this irritating habit.\N我家人的一些朋友有这种烦人的习惯。
+Dialogue: 0,0:01:23.50,0:01:28.00,Default,,0,0,0,, The only thing to do was ask them to come half an hour later than the other guests.\N唯一要做的就是要求他们比其他客人晚半小时。
+Dialogue: 0,0:01:29.00,0:01:31.00,Default,,0,0,0,, Then they arrived just when we wanted them.\N然后，当我们想要他们时，他们到达了。
+Dialogue: 0,0:01:31.50,0:01:38.50,Default,,0,0,0,, fraction: n.   很小一点儿\N If you are citing a train, it is always better to be comfortably early than even a fraction of a minted too late.\N如果您援引火车的话，那总是比铸造的一小部分舒适地舒适地舒适。
+Dialogue: 0,0:01:39.00,0:01:42.00,Default,,0,0,0,, Although being early may mean wasting a little time.\N尽管早点可能意味着浪费一点时间。
+Dialogue: 0,0:01:42.50,0:01:47.50,Default,,0,0,0,, This will be less than if you miss the train and have to wait an hour or more for the next one.\N这将比您错过火车，不得不等待一个小时或更长时间才能到达下一个。
+Dialogue: 0,0:01:47.50,0:01:56.50,Default,,0,0,0,, And you avoid the frustration of arriving at the very moment when the train is drawing out of the station and being unable to get on it.\N而且，您避免了到达火车从车站抽出而无法上升的那一刻的挫败感。
+Dialogue: 0,0:01:57.00,0:02:03.00,Default,,0,0,0,, An even harder situation is to be on the platform in good time for a train and still to see it go.\N一个更困难的情况是在平台上享受火车的时间，并且仍然可以看到它。
+Dialogue: 0,0:02:03.50,0:02:10.00,Default,,0,0,0,, Off without you. Such an experience befell a certain young girl the first time she was traveling alone.\N没有你。当她第一次独自旅行时，这种经历困扰着一个年轻女孩。
+Dialogue: 0,0:02:11.00,0:02:14.50,Default,,0,0,0,, She entered the station 20 minutes before the train was due.\N火车到期前20分钟进入车站。
+Dialogue: 0,0:02:15.00,0:02:20.00,Default,,0,0,0,, Since her parents had impressed upon her that it would be unforgivable to miss it and cause the.\N由于她的父母给她留下了深刻的印象，即错过它并造成这种情况是不可原谅的。
+Dialogue: 0,0:02:21.00,0:02:24.50,Default,,0,0,0,, Friends with whom she was going to stay to make two journeys to meet her.\N她要和她在一起的朋友们进行两次旅程与她见面。
+Dialogue: 0,0:02:25.50,0:02:28.50,Default,,0,0,0,, She gave her luggage to a porter and showed him her ticket.\N她把行李交给了搬运工，并给他看了票。
+Dialogue: 0,0:02:29.50,0:02:32.50,Default,,0,0,0,, To her horror he said that she was two hours too soon.\N令她恐惧的是，他说她已经太早了两个小时。
+Dialogue: 0,0:02:33.50,0:02:39.00,Default,,0,0,0,, She fell in here handbag for the piece of paper on which her father had written down all the details.\N她掉进了这里手提包，写了父亲写下所有细节的纸。
+Dialogue: 0,0:02:40.00,0:02:42.50,Default,,0,0,0,, Of the journey and gave it to the porter.\N旅程，并把它交给了搬运工。
+Dialogue: 0,0:02:43.00,0:02:48.00,Default,,0,0,0,, He agreed that a train did come into the station at the time on the paper and that it did stop.\N他同意，当时的火车确实进入了纸上的车站，并且确实停止了。
+Dialogue: 0,0:02:48.50,0:02:52.00,Default,,0,0,0,, But only to take on mail. Not passengers.\N但只能接听邮件。不是乘客。
+Dialogue: 0,0:02:52.50,0:02:54.00,Default,,0,0,0,, The girl asked to see a timetable.\N女孩要求看到时间表。
+Dialogue: 0,0:02:55.00,0:02:58.00,Default,,0,0,0,, Feeling sure that her father could not have made such a mistake.\N感到她父亲不会犯这样的错误。
+Dialogue: 0,0:02:59.00,0:03:03.00,Default,,0,0,0,, The porter went to fetch one and arrived back with the station master.\N搬运工去取一个，然后带着车站主人回来。
+Dialogue: 0,0:03:04.00,0:03:09.00,Default,,0,0,0,, flourish: n.    挥舞（打手劳）, microscopic: adj. 微小的\N Who produced it with a flourish and pointed out a microscopic O.O. beside the time of the arrival of.\N他以繁荣的形式产生了它，并指出了微观的O.O.在到达的时间之外。
+Dialogue: 0,0:03:10.00,0:03:16.00,Default,,0,0,0,, The train at his station. This little O indicated that the train only stopped for mail.\N他车站的火车。这个小o表示火车只停下来邮寄。
+Dialogue: 0,0:03:16.50,0:03:19.50,Default,,0,0,0,, Just as that moment the train came into the station.\N就像那一刻火车进入车站一样。
+Dialogue: 0,0:03:20.00,0:03:22.50,Default,,0,0,0,, The girl tears streaming down her face.\N那个女孩泪流满面。
+Dialogue: 0,0:03:23.00,0:03:26.00,Default,,0,0,0,, Begged to be allowed to slip into the guards van.\N恳求被允许滑入警卫面包车。
+Dialogue: 0,0:03:26.50,0:03:28.00,Default,,0,0,0,, adamant: adj. 坚定的，不动摇的\N But the station master was adamant.\N但是车站的主人坚决。
+Dialogue: 0,0:03:29.00,0:03:34.00,Default,,0,0,0,, Rules could not be broken and she had to watch that train disappear towards her destination while.\N规则无法违反，她不得不看着那列火车在目的地时消失。
+Dialogue: 0,0:03:35.00,0:03:36.00,Default,,0,0,0,, She was left behind.\N她被抛在后面。

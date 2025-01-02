@@ -1,0 +1,48 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.42,Default,,0,0,0,,Lesson 31 The sculptor speaks\N\N雕塑家的语言\N\N
+Dialogue: 0,0:00:06.42,0:00:09.97,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:09.97,0:00:16.20,Default,,0,0,0,,What do you have to be able to do to appreciate sculpture?\N\N鉴赏雕塑必须具备什么能力?\N\N
+Dialogue: 0,0:00:16.20,0:00:24.25,Default,,0,0,0,,Appreciation of sculpture depends upon the ability to respond to form in 3 dimensions.\N\N对雕塑的鉴赏力取决于对立体的反应能力.\N\N
+Dialogue: 0,0:00:24.25,0:00:30.71,Default,,0,0,0,,That is perhaps why sculpture has been described as the most difficult of all arts;\N\N雕塑被说成是所有艺术中最难的艺术,可能就是这个道理.\N\N
+Dialogue: 0,0:00:30.71,0:00:40.64,Default,,0,0,0,,certainly it is more difficult than the arts which involve appreciation of flat forms,shape in only two dimensions.\N\N欣赏雕塑品当然比欣赏两维的平面艺术品要难.\N\N
+Dialogue: 0,0:00:40.64,0:00:45.41,Default,,0,0,0,,Many more people are 'form-blind' than colour-blind.\N\N"形盲"的人数比"色盲"的人数要多得多.\N\N
+Dialogue: 0,0:00:45.41,0:00:51.77,Default,,0,0,0,,The child learning to see,first distinguishes only two-dimensional shape;\N\N正在学看东西的儿童起初只会分辨二维形态,\N\N
+Dialogue: 0,0:00:51.77,0:00:56.11,Default,,0,0,0,,it cannot judge distances,depths.\N\N不会判断距离和深度.\N\N
+Dialogue: 0,0:00:56.11,0:01:01.94,Default,,0,0,0,,Later,for its personal safety and practical needs,it has to develop\N\N慢慢地,由于自身安全和实际需要,儿童必须发展\N\N
+Dialogue: 0,0:01:01.94,0:01:08.21,Default,,0,0,0,,(partly by means of touch) the ability to judge roughly 3-dimensonal distances.\N\N(部分通过触觉)粗略判断三维空间距离的能力.\N\N
+Dialogue: 0,0:01:08.21,0:01:12.55,Default,,0,0,0,,But having satisfied the requirements of practical necessity,\N\N但是,大部分人在满足了实际需要后,\N\N
+Dialogue: 0,0:01:12.55,0:01:14.70,Default,,0,0,0,,most people go no further.\N\N就不再继续发展这种能力了.\N\N
+Dialogue: 0,0:01:14.70,0:01:20.35,Default,,0,0,0,,perception: n.  知觉\N\NThough they may attain considerable accuracy in the perception of flat form,\N\N虽然他们对平面形的感觉能达到相当准确的程度,\N\N
+Dialogue: 0,0:01:20.35,0:01:25.26,Default,,0,0,0,,they do not make the further intellectual and emotional effort needed\N\N但他们没有在智力和感情上进一步努力\N\N
+Dialogue: 0,0:01:25.26,0:01:29.15,Default,,0,0,0,,comprehend: v.  理解\N\Nto comprehend form in its full spatial existence.\N\N去理解存在于空间的整个形态.\N\N
+Dialogue: 0,0:01:29.15,0:01:32.43,Default,,0,0,0,,This is what the sculptor must do.\N\N而雕塑家就必须做到这一点.\N\N
+Dialogue: 0,0:01:32.43,0:01:35.84,Default,,0,0,0,,He must strive continually to think of\N\N他必须勤于想象\N\N
+Dialogue: 0,0:01:35.84,0:01:39.82,Default,,0,0,0,,and use,form in its full spatial completeness.\N\N并且利用形体在空间中的完整性.\N\N
+Dialogue: 0,0:01:39.82,0:01:47.31,Default,,0,0,0,,He gets the solid shape as it were,inside his head--he thinks of it,whatever its size,\N\N可以说,当他想象一个物体时,不管其大小,他脑子里得到的是一个立体概念\N\N
+Dialogue: 0,0:01:47.31,0:01:51.75,Default,,0,0,0,,as if he were holding it completely enclosed in the hollow of his hand.\N\N就好像完全握在自己手心里一样.\N\N
+Dialogue: 0,0:01:51.75,0:01:57.80,Default,,0,0,0,,visualize: v.  使具形象，设想\N\NHe mentally visualizes a complex form from all round itself;\N\N他的大脑能从物体周围的各个角度勾画出其复杂的形象,\N\N
+Dialogue: 0,0:01:57.80,0:02:02.68,Default,,0,0,0,,he knows while he looks at one side what the other side is like,\N\N他看物体的一边时,便知道另一边是个什么样子.\N\N
+Dialogue: 0,0:02:02.68,0:02:09.16,Default,,0,0,0,,he identifies himself with its centre of gravity,its mass,its weight;\N\N他把自身和物体重心、质量、重量融为一体.\N\N
+Dialogue: 0,0:02:09.16,0:02:15.56,Default,,0,0,0,,he realizes its volume as the space that the shape displaces in the air.\N\N他能意识到物体的体积,那就是它的形状在空气中所占的空间.\N\N
+Dialogue: 0,0:02:15.56,0:02:23.68,Default,,0,0,0,,And the sensitive observer of sculpture must also learn to feel shape simply as shape,\N\N因此,敏锐的雕塑观赏者也必须学会把形体作为形体来感觉,\N\N
+Dialogue: 0,0:02:23.68,0:02:27.04,Default,,0,0,0,,reminiscence: n.  回忆，联想\N\Nnot as description or reminiscence.\N\N不要靠描述和印象去感觉\N\N
+Dialogue: 0,0:02:27.04,0:02:33.16,Default,,0,0,0,,He must,for example, perceive an egg as a simple single solid shape\N\N以鸟蛋为例,观赏者必须感觉到它是一个单一的实体形态,\N\N
+Dialogue: 0,0:02:33.16,0:02:35.93,Default,,0,0,0,,quite apart from its significance as food,\N\N而完全不靠它的食用意义\N\N
+Dialogue: 0,0:02:35.93,0:02:40.68,Default,,0,0,0,,or from the literary idea that it will become a bird.\N\N或它会变成鸟这样的文学概念来感觉.\N\N
+Dialogue: 0,0:02:40.68,0:02:50.64,Default,,0,0,0,,tadpole: n.  蝌蚪, mushroom: n.  蘑菇\N\NAnd so with solids such as a shell,a nut, a plum,a pear, a tadpole,a mushroom,\N\N对于其他实体,如贝壳,核桃,李子,梨子,蝌蚪,蘑菇,\N\N
+Dialogue: 0,0:02:50.64,0:02:58.50,Default,,0,0,0,,carrot: n.  胡萝卜, bud: n.  花蕾\N\Na mountain peak, a kidney,a carrot, a tree-trunk,a bird, a bud,\N\N山峰,肾脏,胡萝卜,树干,鸟儿,花蕾,\N\N
+Dialogue: 0,0:02:58.50,0:03:04.04,Default,,0,0,0,,lark: n.  云雀, ladybird: n.  瓢虫, bulrush: n.  芦苇\N\Na lark,a ladybird, a bulrush,a bone.\N\N云雀,瓢虫,芦苇及骨头也应这样来感觉.\N\N
+Dialogue: 0,0:03:04.04,0:03:09.30,Default,,0,0,0,,From these he can go on to appreciate more complex forms\N\N从这些形体出发,观赏者可进一步观察更为复杂的形体\N\N
+Dialogue: 0,0:03:09.30,0:03:14.30,Default,,0,0,0,,or combinations of several forms.\N\N或若干形体的组合.\N\N

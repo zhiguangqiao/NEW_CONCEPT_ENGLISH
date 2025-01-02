@@ -1,0 +1,36 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.14,Default,,0,0,0,,Lesson 12 Banks and their customers\N\N银行和顾客\N\N
+Dialogue: 0,0:00:06.14,0:00:10.51,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:10.51,0:00:18.30,Default,,0,0,0,,Why is there no risk to the customer when a bank prints the customer's name on his cheques?\N\N为什么说,银行把储户姓名印在其支票上对储户来说毫无风险?\N\N
+Dialogue: 0,0:00:18.30,0:00:25.96,Default,,0,0,0,,account: n.  账户\N\NWhen anyone opens a current account at a bank,he is lending the bank money.\N\N任何人在银行开一个活期帐户,就等于把钱借给了银行.\N\N
+Dialogue: 0,0:00:25.96,0:00:29.77,Default,,0,0,0,,repayment of which he may demand at any time\N\N这笔钱他可以随时提取,\N\N
+Dialogue: 0,0:00:29.77,0:00:34.79,Default,,0,0,0,,cash: n.  现金\N\Neither in cash or by drawing a cheque in favour of another person.\N\N提取的方式可以是取现金,也可以是开一张以他人为收款人的支票.\N\N
+Dialogue: 0,0:00:34.79,0:00:41.80,Default,,0,0,0,,debtor: n.  借方, creditor: n.  贷方\N\NPrimarily,the banker- customer relationship is that of debtor and creditor--\N\N银行与储户的关系主要是债务人和债权人的关系.\N\N
+Dialogue: 0,0:00:41.80,0:00:48.95,Default,,0,0,0,,account: n.  账户\N\Nwho is which depending on whether the custom- er's account is in credit or is overdrawn\N\N究竟谁是债务人谁是债权人,要看储户的账户是有结余还是透支.\N\N
+Dialogue: 0,0:00:48.95,0:00:53.43,Default,,0,0,0,,But,in addition to that basically simple concept,\N\N除了这一基本的简单的概念外,\N\N
+Dialogue: 0,0:00:53.43,0:00:58.79,Default,,0,0,0,,obligation: n.  义务\N\Nthe bank and its customer owe a large number of obligations to one another.\N\N银行和储户彼此还需承担大量义务.\N\N
+Dialogue: 0,0:00:58.79,0:01:04.57,Default,,0,0,0,,obligation: n.  义务, complication: n.  纠纷\N\NMany of these obligations can give rise to problems and complications\N\N其中许多义务往往引起问题和纠纷.\N\N
+Dialogue: 0,0:01:04.57,0:01:08.88,Default,,0,0,0,,but a bank customer, unlike,say,a buyer of goods,\N\N但是储户不能像货物的买主那样，aa\N\N
+Dialogue: 0,0:01:08.88,0:01:12.72,Default,,0,0,0,,cannot complain that the law is loaded against him.\N\N来抱怨法律对自己不利.\N\N
+Dialogue: 0,0:01:12.72,0:01:19.33,Default,,0,0,0,,The bank must obey its customer's instructions,and not those of anyone else.\N\N银行必须遵照储户的嘱托办事,不能听从其他人的指令.\N\N
+Dialogue: 0,0:01:19.33,0:01:30.13,Default,,0,0,0,,account: n.  账户, debit: v.  把...记入借方\N\NWhen,for example,a customer first opens an account, he instructs the bank to debit his account only in respect of cheques drawn by himself.\N\N比如,储户首次在银行开户时,嘱咐银行，他的存款只能凭他本人签字的支票来提取。\N\N
+Dialogue: 0,0:01:30.13,0:01:35.94,Default,,0,0,0,,specimen: n.  样本\N\NHe gives the bank specimens of his signature,and there is a very firm rule\N\N他把自己签名的样本交给银行,对此有一条非常严格的规定:\N\N
+Dialogue: 0,0:01:35.94,0:01:41.43,Default,,0,0,0,,that the bank has no right or authority to pay out a customer's money on a cheque,\N\N银行没有任何权利或理由把储户的钱，\N\N
+Dialogue: 0,0:01:41.43,0:01:44.99,Default,,0,0,0,,forge: v.  伪造\N\Non which its customer's signature has been forged.\N\N让伪造储户签名的支票取走.\N\N
+Dialogue: 0,0:01:44.99,0:01:49.62,Default,,0,0,0,,forge: v.  伪造, forgery: n.  伪造（文件，签名等）\N\NIt makes no difference that the forgery may have been a very skillful one:\N\N即使伪造得很巧妙,也不能付款,\N\N
+Dialogue: 0,0:01:49.62,0:01:53.83,Default,,0,0,0,,the bank must recognize its customer's signature.\N\N因为银行有责任辨认出其储户的签名.\N\N
+Dialogue: 0,0:01:53.83,0:01:59.89,Default,,0,0,0,,adopt: v.  采用\N\NFor this reason there is no risk to the cus- tomer in the practice, adopted by banks,\N\N因此,在下述银行贯例作法中,储户不会有任何风险,即:\N\N
+Dialogue: 0,0:01:59.89,0:02:02.67,Default,,0,0,0,,of printing the customer's name on his cheques.\N\N把储户姓名印在支票上.\N\N
+Dialogue: 0,0:02:02.67,0:02:07.67,Default,,0,0,0,,forge: v.  伪造, forgery: n.  伪造（文件，签名等）, facilitate: v.  使便利\N\NIf this facilitates forgery,it is the bank which will lose, not the customer.\N\N如果因这种作法出现了伪造的话,受损失的将不是储户,而是银行.\N\N

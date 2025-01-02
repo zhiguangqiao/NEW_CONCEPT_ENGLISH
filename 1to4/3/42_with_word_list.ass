@@ -1,0 +1,44 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:08.16,Default,,0,0,0,, pot-holing: n.   洞穴探险，洞穴探险运动\N Lesson 42. Modern cavemen. Cave exploration. Or pot-holing. As it has come to be known.\N第42课。现代穴居人。洞穴探索。或锅里。众所周知。
+Dialogue: 0,0:00:08.16,0:00:14.16,Default,,0,0,0,, solitude: n.   孤独，寂寞\N Is a relatively new sport. Perhaps it is the desire for solitude or the chance of making an\N是一项相对较新的运动。也许这是孤独的渴望或
+Dialogue: 0,0:00:14.16,0:00:21.20,Default,,0,0,0,, lure: v.   引诱，诱惑\N unexpected discovery that lures. People down to the depths of the earth. It is impossible to give a\N意外的发现引诱。人们走到地球的深处。不可能给
+Dialogue: 0,0:00:21.20,0:00:29.12,Default,,0,0,0,, pot-holer: n.   洞穴探险者\N satisfactory explanation for a pot-holer's motives. For him, caves have the same peculiar fascination\N令人满意的解释锅孔的动机。对他来说，洞穴具有相同的奇特迷恋
+Dialogue: 0,0:00:29.12,0:00:35.36,Default,,0,0,0,, which high mountains have for the climber. They arouse instincts which can only be dimly understood.\N高山为登山者提供。它们引起了只能被昏迷的本能。
+Dialogue: 0,0:00:35.92,0:00:43.20,Default,,0,0,0,, undertaking: n.   任务，工作\N Exploring really deep caves is not a task for the Sunday afternoon rambler. Such undertakings require\N对于周日下午的漫步者来说，探索真正的洞穴并不是一项任务。这样的事业需要
+Dialogue: 0,0:00:43.20,0:00:49.44,Default,,0,0,0,, foresight: n.   预见；深谋远虑\N the precise planning and foresight of military operations. It can take as long as eight days to\N军事行动的确切计划和远见。可能需要长达八天的时间
+Dialogue: 0,0:00:49.44,0:00:56.96,Default,,0,0,0,, rig up rope ladders and to establish supply bases before a. Descent can be made into a very deep cave.\N在绳索梯子上设置绳索，并在a之前建立供应基地。下降可以将其制成一个非常深的洞穴。
+Dialogue: 0,0:00:57.04,0:01:03.20,Default,,0,0,0,, foretell: v.   预言\N Procautions of this sort are necessary. For it is impossible to foretell the exact nature of the\N这种预防措施是必要的。因为不可能预言
+Dialogue: 0,0:01:03.20,0:01:09.28,Default,,0,0,0,, pot-holer: n.   洞穴探险者\N difficulties which will confront the pot-holer. The deepest known cave in the world is the\N会遇到锅炉的困难。世界上最深的洞穴是
+Dialogue: 0,0:01:09.28,0:01:18.48,Default,,0,0,0,, Grenoble: n.   格里诺布尔, chasm: n.   断层，裂口，陷坑\N Goofrey burger near Grenoble. It extends to a depth of 3,723 feet. This immense chasm has been\NGoofrey Burger附近的Grenoble。它延伸到3,723英尺的深度。这种巨大的鸿沟已经
+Dialogue: 0,0:01:18.48,0:01:25.20,Default,,0,0,0,, formed by an underground stream which has tunneled a course through a. Flaw in the rocks. The entrance\N由地下溪流形成，该溪流通过A隧道道上的隧道形成。岩石中的缺陷。入口
+Dialogue: 0,0:01:25.20,0:01:33.52,Default,,0,0,0,, to the cave is on a plateau in the Daffine Alps. As it is only six feet across, it is barely noticeable.\N山洞位于水仙阿尔卑斯山的高原上。由于它只有六英尺，因此几乎没有明显。
+Dialogue: 0,0:01:33.52,0:01:38.56,Default,,0,0,0,, distinguished: adj. 杰出的，著名的\N The cave might never have been discovered has not the entrance been spotted by the distinguished.\N洞穴可能从未被发现，没有被杰出的入口发现。
+Dialogue: 0,0:01:39.52,0:01:46.32,Default,,0,0,0,, pot-holer: n.   洞穴探险者, Everest: n.   珠穆朗玛峰\N French pot-holer burger. Since its discovery, it has become a sort of pot-holer's Everest,\N法国锅汉堡。自发现以来，它已成为一种陶罐的珠穆朗玛峰，
+Dialogue: 0,0:01:46.32,0:01:53.52,Default,,0,0,0,, pot-holer: n.   洞穴探险者\N though a number of descents have been made. Much of it still remains to be explored. A team of pot-holers\N尽管已经下降了。其中的大部分仍然有待探索。一支锅炉团队
+Dialogue: 0,0:01:53.52,0:01:59.84,Default,,0,0,0,, recently went down the Goofrey burger. After entering the narrow gap on the plateau, they climbed\N最近掉下了Goofrey汉堡。进入高原上的狭窄缝隙后，他们爬了
+Dialogue: 0,0:01:59.84,0:02:05.68,Default,,0,0,0,, down the steep sides of the cave until they came to narrow corridor. They had to edge their way\N沿着山洞的陡峭侧面，直到走向狭窄的走廊。他们不得不前进
+Dialogue: 0,0:02:05.68,0:02:13.52,Default,,0,0,0,, along this. Sometimes waiting across shallow streams or swimming across deep pools. Suddenly they\N沿着这个。有时在浅水中等待或在深水游泳池中游泳。突然他们
+Dialogue: 0,0:02:13.52,0:02:19.60,Default,,0,0,0,, waterfall: n.   瀑布\N came to a waterfall which dropped into an underground lake at the bottom of the cave. They plunged\N来到一个瀑布，落入了洞穴底部的地下湖中。他们跌倒了
+Dialogue: 0,0:02:19.76,0:02:26.08,Default,,0,0,0,, gear: n.   一套用具, inflatable: adj. 可充气的\N into the lake. And after loading their gear on an inflatable rubber dinghy, let the current carry\N进入湖。然后将齿轮装在充气橡胶小艇上，让电流携带
+Dialogue: 0,0:02:26.08,0:02:32.56,Default,,0,0,0,, them to the other side. To protect themselves from the icy water, they had to wear special rubber\N他们到另一边。为了保护自己免受冰冷的水，他们必须穿特殊的橡胶
+Dialogue: 0,0:02:32.56,0:02:39.04,Default,,0,0,0,, rubble: n.   碎瓦\N suits. At the far end of the lake, they came to huge piles of rubble which had been washed up by the\N西装。在湖的远端，他们来到了大堆废墟
+Dialogue: 0,0:02:39.04,0:02:45.44,Default,,0,0,0,, insistent: adj. 连续的，不断的, boom: v.   轰响\N water. In this part of the cave, they could hear an insistent booming sound which they found was\N水。在洞穴的这一部分，他们可以听到他们发现的坚持蓬勃的声音
+Dialogue: 0,0:02:45.44,0:02:52.00,Default,,0,0,0,, caused by a small water spout. Shooting down into a pool from the roof of the cave, squeezing\N由小水口引起。从洞穴的屋顶上射入游泳池，挤压
+Dialogue: 0,0:02:52.00,0:03:00.00,Default,,0,0,0,, pot-holer: n.   洞穴探险者, cleft: n.   裂隙，开, cavern: n.   在洞穴\N through a cleft in the rocks. The pot-holers arrived at an enormous cavern. The size of a huge concert hall.\N穿过岩石中的裂缝。储池到达了一个巨大的洞穴。大型音乐厅的大小。
+Dialogue: 0,0:03:00.00,0:03:07.28,Default,,0,0,0,, stalagmite: n.   石笋\N After switching on powerful arc lights, they saw great stalagmites, some of them over 40 feet high,\N打开强大的弧光后，他们看到了伟大的石灰石，其中一些高40英尺高，
+Dialogue: 0,0:03:07.28,0:03:14.24,Default,,0,0,0,, stalactite: n.   钟乳石\N rising up like tree trunks to. Meet the stalactites suspended from the roof. Round about,\N像树干一样上升。遇到悬挂在屋顶的钟乳石。四处走动，
+Dialogue: 0,0:03:14.24,0:03:20.88,Default,,0,0,0,, cavern: n.   在洞穴, limestone: n.   石灰石, glisten: v.   闪烁\N piles of limestone glistened in all the colors of the rainbow. In the eerie silence of the cavern,\N彩虹的所有颜色都闪闪发光。在洞穴的令人毛骨悚然的沉默中
+Dialogue: 0,0:03:20.88,0:03:26.32,Default,,0,0,0,, dome: n.   穹窿，圆顶\N the only sound that could be heard was made by water which dripped continuously from the high dome.\N唯一可以听到的声音是通过从高圆顶连续滴落的水发出的。
+Dialogue: 0,0:03:27.20,0:03:31.20,Default,,0,0,0,, Above them,\N在他们上方，

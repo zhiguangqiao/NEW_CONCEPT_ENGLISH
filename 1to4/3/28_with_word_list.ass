@@ -1,0 +1,32 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:08.00,Default,,0,0,0,, Lesson 28.5 lb. too dear. Small boats loaded with wear sped to the great liner as she was entering the harbor.\N第28.5磅，太亲爱的。小船进入港口时，装满了磨损的小船。
+Dialogue: 0,0:00:08.80,0:00:15.80,Default,,0,0,0,, anchor: v.   停航下锚, deck: n.   甲板\N Before she had anchored, the men from the boats had climbed on board and the decks were sun covered with colorful rugs from.\N在她锚定之前，船上的人爬上了船，甲板上遮盖着五颜六色的地毯。
+Dialogue: 0,0:00:16.70,0:00:25.40,Default,,0,0,0,, silverware: n.   银器, tempt: v.   吸引；引诱\N Persia. Silks from India. Copper coffee pots. And beautiful handmade silverware. It was difficult not to be tempted.\N波斯。来自印度的丝绸。铜咖啡壶。和美丽的手工银器。很难不被诱惑。
+Dialogue: 0,0:00:25.80,0:00:33.80,Default,,0,0,0,, bargain: v.   讨价还价, disembark: v.   下船上岸\N Many of the tourists on board had begun bargaining with the tradesmen. But I decide not to buy anything until I had disembarked.\N船上的许多游客都开始与商人进行谈判。但是我决定不买任何东西，直到我下船。
+Dialogue: 0,0:00:34.30,0:00:39.80,Default,,0,0,0,, assail: v.   纠缠\N I had no sooner got off the ship than I was assailed by a man who wanted to sell me a diamond ring.\N我没有尽快下船，这比我被一个想把钻石戒指卖给我的男人袭击了。
+Dialogue: 0,0:00:40.60,0:00:47.60,Default,,0,0,0,, I had no intention of buying one. But I could not conceal the fact that I was impressed by the size of the diamonds.\N我无意买一个。但是我无法掩盖这样一个事实，即钻石的大小给我留下了深刻的印象。
+Dialogue: 0,0:00:48.50,0:00:54.60,Default,,0,0,0,, marble: n.   小玻璃球\N Some of them were as big as marbles. The man went to great lengths to prove that the diamonds were real.\N其中一些和大理石一样大。该男子竭尽全力证明钻石是真实的。
+Dialogue: 0,0:00:55.40,0:01:02.80,Default,,0,0,0,, As we were walking past a shop, he held a diamond firmly against the window and made a deep impression in the glass.\N当我们走过一家商店时，他牢牢地将钻石固定在窗户上，并在玻璃杯中留下了深刻的印象。
+Dialogue: 0,0:01:03.40,0:01:06.40,Default,,0,0,0,, It took me over half an hour to get rid of him.\N我花了半个多小时才摆脱他。
+Dialogue: 0,0:01:07.10,0:01:11.30,Default,,0,0,0,, The next man to approach me was selling expensive pens and watches.\N接近我的下一个男人是出售昂贵的笔和手表。
+Dialogue: 0,0:01:12.00,0:01:22.60,Default,,0,0,0,, inscribe: v.   刻写，雕\N I examined one of the pens closely. It certainly looked genuine. At the base of the gold cap, the words made in the USA had been nearly inscribed.\N我仔细检查了其中一支。当然看起来很真实。在黄金帽的底部，几乎刻上了美国的单词。
+Dialogue: 0,0:01:23.10,0:01:30.80,Default,,0,0,0,, The man said that the pen was worth $50. But as a special favor, he would let me have it for $30.\N该名男子说这支笔价值50美元。但是，作为一个特别的好处，他会让我以30美元的价格获得它。
+Dialogue: 0,0:01:31.30,0:01:36.80,Default,,0,0,0,, I shook my head and held up five fingers indicating that I was willing to pay $5.\N我摇了摇头，举起了五个手指，表明我愿意支付5美元。
+Dialogue: 0,0:01:37.40,0:01:42.70,Default,,0,0,0,, outrageous: adj. 出人预料的；令人不悦的\N Justiculating wildly, the man acted as if he found my offer outrageous.\N这个男人恰当地说道，好像他发现我的提议令人发指。
+Dialogue: 0,0:01:43.00,0:01:51.90,Default,,0,0,0,, But he eventually reduced the price to $10. Shrugging my shoulders, I began to walk away when a moment later,\N但是他最终将价格降低到10美元。耸了耸肩，稍后我开始走开
+Dialogue: 0,0:01:51.90,0:01:58.20,Default,,0,0,0,, thrust: v.   硬塞给\N he ran after me and thrust the pen into my hands. Though he kept throwing up his arms in despair,\N他跑了我，将笔推到我手中。尽管他一直绝望地伸出胳膊，但
+Dialogue: 0,0:01:58.50,0:02:06.90,Default,,0,0,0,, bargain: v.   讨价还价\N he readily accepted the $5. I have him. I felt especially pleased with my wonderful bargain until I got back to the ship.\N他很容易接受5美元。我有他。在回到船上之前，我对自己的讨价还价感到特别满意。
+Dialogue: 0,0:02:07.50,0:02:15.40,Default,,0,0,0,, No matter how hard I tried, it was impossible to fill this beautiful pen with ink and to this day it has never written a single.\N不管我多么努力，都不可能用墨水填充这支美丽的笔，直到今天，它从未写过。
+Dialogue: 0,0:02:16.00,0:02:17.00,Default,,0,0,0,, World\N世界

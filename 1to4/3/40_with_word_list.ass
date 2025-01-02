@@ -1,0 +1,35 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.88,Default,,0,0,0,, Lesson 40. Who's who? It has never been explained why university students seem to enjoy practical\N第40课。谁是谁？从来没有解释过为什么大学生似乎享受实用
+Dialogue: 0,0:00:06.88,0:00:14.40,Default,,0,0,0,, hoax: n.   骗局，戏弄\N jokes more than else. Students specialize in a particular type of practical joke. The hoax,\N开玩笑不仅仅是。学生专门研究特定类型的实用笑话。骗局，
+Dialogue: 0,0:00:14.40,0:00:20.40,Default,,0,0,0,, deception: n.   欺骗，骗局\N inviting the fire brigade to put out a non-existent fire is a crude form of deception which no.\N邀请消防队发出不存在的火灾是一种欺骗的粗略形式，没有。
+Dialogue: 0,0:00:21.36,0:00:27.76,Default,,0,0,0,, indulge: v.   使沉迷\N Self-respecting student would ever indulge in. Students often create amusing situations which\N自尊的学生会沉迷于。学生经常会创造出有趣的情况
+Dialogue: 0,0:00:27.76,0:00:34.56,Default,,0,0,0,, pneumatic: adj. 气动的\N are funny to everyone except the victims. When a student recently saw two workmen using a pneumatic\N除了受害者以外，对所有人都很有趣。当一个学生最近看到两个工人使用气动
+Dialogue: 0,0:00:34.56,0:00:41.04,Default,,0,0,0,, drill: n.   钻\N drill outside his university, he immediately telephoned the police and informed them that two students\N在大学外钻探，他立即给警察打电话，并告诉他们两个学生
+Dialogue: 0,0:00:41.04,0:00:48.16,Default,,0,0,0,, pneumatic: adj. 气动的, drill: n.   钻\N dressed up as workmen were. Terring up the road with a pneumatic drill. As soon as he had hung up,\N像工人一样打扮。用气动钻头撕毁道路。一旦他挂断电话，
+Dialogue: 0,0:00:48.16,0:00:52.72,Default,,0,0,0,, he went over to the workmen and told them that if a policeman ordered them to go away,\N他去了工人，告诉他们，如果警察命令他们离开，
+Dialogue: 0,0:00:53.52,0:00:59.44,Default,,0,0,0,, they were not take him seriously. He added that a student had dressed up as a policeman and was\N他们没有认真对待他。他补充说，一个学生打扮成警察，当时
+Dialogue: 0,0:00:59.44,0:01:05.92,Default,,0,0,0,, silly: adj. 无意义的，无聊的\N playing all sorts of silly jokes on. People, both the police and the workmen were grateful to the\N在玩各种愚蠢的笑话。人们，警察和工人都感谢
+Dialogue: 0,0:01:05.92,0:01:12.32,Default,,0,0,0,, advance: adj. 预先的，事先获得的, archway: n.   拱形门楼\N student for this piece of advance information. The student did in an archway nearby where he could\N学生获取此预先信息。该学生在附近的拱门上做过
+Dialogue: 0,0:01:12.32,0:01:18.24,Default,,0,0,0,, watch and hear everything that went on. Sure enough, a policeman arrived on the scene and\N观看并听到发生的一切。果然，一名警察到达现场，
+Dialogue: 0,0:01:18.32,0:01:24.80,Default,,0,0,0,, politely asked the workmen to go away. When he received a very rude reply from one of the workmen,\N礼貌地要求工人离开。当他收到一位工人的非常粗鲁的答复时
+Dialogue: 0,0:01:25.68,0:01:31.68,Default,,0,0,0,, he threatened to remove them by force. The workmen told him to do as he pleased and the policeman\N他威胁要用武力将它们拆除。工人告诉他要按照他的意愿和警察做
+Dialogue: 0,0:01:31.68,0:01:38.48,Default,,0,0,0,, remonstrate: v.   规劝，告诫\N telephoned for help. Shortly afterwards, four more policemen arrived and remonstrated with the\N打电话寻求帮助。此后不久，又有四名警察到达并与
+Dialogue: 0,0:01:38.48,0:01:45.28,Default,,0,0,0,, pneumatic: adj. 气动的, drill: n.   钻\N workmen. As the men refused to stop working, the police attempted to seize the pneumatic drill.\N工人。当男子拒绝停止工作时，警察试图抓住气动演习。
+Dialogue: 0,0:01:45.28,0:01:51.28,Default,,0,0,0,, The workmen struggled fiercely and one of them lost his temper. He threatened to call the police.\N工人激烈地挣扎，其中一个失去了脾气。他威胁要报警。
+Dialogue: 0,0:01:51.84,0:01:57.68,Default,,0,0,0,, ironically: adv. 讽刺地\N At this, the police pointed out ironically that this would hardly be necessary as the men were\N在这一点上，警察讽刺地指出，这几乎没有必要
+Dialogue: 0,0:01:57.68,0:02:04.48,Default,,0,0,0,, already under. Arrest pretending to speak seriously. One of the workmen asked if he might make\N已经下了。逮捕假装认真讲话。一个工人问他是否可以做
+Dialogue: 0,0:02:04.48,0:02:10.96,Default,,0,0,0,, grant: v.   同意，准予\N a telephone call before being taken to the station. Permission was granted and a policeman accompanied\N打电话给车站之前。获得许可，并陪同一名警察
+Dialogue: 0,0:02:10.96,0:02:16.96,Default,,0,0,0,, him to a pay phone. Only when he saw that the man was actually telephoning the police did he\N他去打电话。只有当他看到该男子实际上打电话给警察时，他才
+Dialogue: 0,0:02:16.96,0:02:26.96,Default,,0,0,0,, hoax: n.   骗局，戏弄\N realize that they had all. Been the victims of a hoax.\N意识到他们拥有全部。是骗局的受害者。

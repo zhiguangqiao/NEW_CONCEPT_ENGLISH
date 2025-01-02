@@ -1,0 +1,35 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.44,Default,,0,0,0,, Boxing: n.   拳击\N Lesson 21. Daniel Mendoza. Boxing matches were very popular in England 200 years ago.\N第21课。丹尼尔·门多萨（Daniel Mendoza）。拳击比赛在200年前在英格兰非常受欢迎。
+Dialogue: 0,0:00:07.44,0:00:14.48,Default,,0,0,0,, boxer: n.   拳击手, bare: adj. 赤裸的\N In those days, boxers fought with bare fists for prize money. Because of this, they were known as\N在那些日子里，拳击手用裸露的拳头为奖金而战。因此，他们被称为
+Dialogue: 0,0:00:14.48,0:00:21.60,Default,,0,0,0,, crude: adj. 粗野的\N prize fighters. However, boxing was very crude, for these were no rules and a prize fighter could\N奖品战士。但是，拳击非常粗糙，因为这不是规则，奖金可以
+Dialogue: 0,0:00:21.60,0:00:28.32,Default,,0,0,0,, be seriously injured or even killed during a match. One of the most colorful figures in boxing\N在比赛中受到重伤甚至被杀。拳击中最丰富多彩的人物之一
+Dialogue: 0,0:00:28.32,0:00:36.40,Default,,0,0,0,, history was Daniel Mendoza. Who was born in 1764? The use of gloves was not introduced until\N历史是丹尼尔·门多萨（Daniel Mendoza）。谁出生于1764年？直到
+Dialogue: 0,0:00:36.40,0:00:43.68,Default,,0,0,0,, technically: adv. 严格根据法律意义地\N 1860, when the marquee of Queensborough drew up the first set of rules. Though he was technically a\N1860年，当昆斯伯勒的侯爵夫人提出了第一组规则。虽然从技术上讲他是一个
+Dialogue: 0,0:00:43.68,0:00:50.40,Default,,0,0,0,, crude: adj. 粗野的, science: n.   科学\N prize fighter, Mendoza did much to change crude prize fighting into a sport, for he brought science\N门多萨（Mendoza）的奖品战斗机为将粗略的奖品斗争变成一项运动而做了很多，因为他带来了科学
+Dialogue: 0,0:00:50.40,0:00:58.00,Default,,0,0,0,, popularity: n.   名望, adore: v.   崇拜，爱戴\N to the game. In this day, Mendoza enjoyed tremendous popularity. He was adored by Rich and Porra like\N到游戏。在这一天，门多萨享有极大的流行。他被Rich和Porra喜欢
+Dialogue: 0,0:00:58.56,0:01:04.00,Default,,0,0,0,, fame: n.   名声\N Mendoza rose to fame swiftly after a boxing match when he was only 14 years old.\N拳击比赛只有14岁后，门多萨（Mendoza）在拳击比赛后迅速上升。
+Dialogue: 0,0:01:04.72,0:01:10.24,Default,,0,0,0,, boxer: n.   拳击手, eminent: adj. 著名的，杰出的\N This attracted the attention of Richard Humphreys who was then the most eminent boxer in England.\N这吸引了理查德·汉弗莱斯（Richard Humphreys）的注意，他当时是英格兰最杰出的拳击手。
+Dialogue: 0,0:01:11.04,0:01:17.76,Default,,0,0,0,, He offered to train Mendoza and his young pupil was quick to learn. In fact, Mendoza soon\N他提出要训练门多萨，他的年轻学生很快学习。实际上，门多萨很快
+Dialogue: 0,0:01:17.76,0:01:23.76,Default,,0,0,0,, bitterly: adv. 厉害地\N became so successful that Humphreys turned against him. The two men quarreled bitterly and it was\N变得如此成功，以至于汉弗莱斯反对他。两个人痛苦地吵架了，那是
+Dialogue: 0,0:01:23.76,0:01:30.48,Default,,0,0,0,, clear that the argument could only be settled by a fight. A match was held at Stilton, where both\N很明显，该论点只能通过战斗来解决。一场比赛在斯蒂尔顿举行了
+Dialogue: 0,0:01:30.48,0:01:37.76,Default,,0,0,0,, bet: v.   打赌\N men fought for an hour. The public bet a great deal of money on Mendoza. But he was defeated. Mendoza\N男人战斗了一个小时。公众在门多萨（Mendoza）押注了很多钱。但是他被击败了。门多萨
+Dialogue: 0,0:01:37.76,0:01:44.16,Default,,0,0,0,, met Humphreys in the ring on a later occasion and he lost for a second time. It was not until his\N以后在戒指上遇到汉弗莱斯，他第二次输了。直到他
+Dialogue: 0,0:01:44.16,0:01:52.24,Default,,0,0,0,, third match in 1790 that he finally beat Humphreys and became champion of. England, meanwhile, he\N1790年，他终于击败了汉弗莱斯并成为冠军。同时，英格兰
+Dialogue: 0,0:01:52.24,0:01:58.80,Default,,0,0,0,, academy: n.   专业学校\N founded a highly successful academy and even Lord Byron became one of his pupils. He earned\N建立了一所非常成功的学院，甚至拜伦勋爵也成为了他的学生之一。他赚了
+Dialogue: 0,0:01:58.80,0:02:04.80,Default,,0,0,0,, enormous sums of money and was paid as much as $100 for a single appear one of his pupils.\N一笔巨额的钱，单人的薪水高达100美元，出现了他的一位学生。
+Dialogue: 0,0:02:05.76,0:02:11.28,Default,,0,0,0,, He earned enormous sums of money and was paid as much as $100 for a single appearance.\N他赚了巨额资金，单场外观的薪水高达100美元。
+Dialogue: 0,0:02:12.24,0:02:19.28,Default,,0,0,0,, boxer: n.   拳击手, extravagant: adj. 浪费的，奢移的\N Despite this, he was so extravagant that he was always in debt. After he was defeated by a boxer\N尽管如此，他还是如此奢侈，以至于他总是负债累累。在他被拳击手击败之后
+Dialogue: 0,0:02:19.28,0:02:26.00,Default,,0,0,0,, called Gentlemen Jackson. He was quickly forgotten. He was sent to prison for failing to pay his debts\N称为杰克逊先生。他很快被遗忘了。他因未能偿还债务而被送进监狱
+Dialogue: 0,0:02:26.00,0:02:35.84,Default,,0,0,0,, poverty: n.   贫困\N and died in poverty in 1836.\N并于1836年在贫困中死亡。

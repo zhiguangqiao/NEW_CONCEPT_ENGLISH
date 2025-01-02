@@ -1,0 +1,29 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.52,Default,,0,0,0,, dear: adj. 亲爱的，珍贵的；昂贵的\N Lesson 19. A very dear cat. Kidnappers are rarely interested in animals. But they recently took\N第19课。一只非常亲爱的猫。绑架者很少对动物感兴趣。但是他们最近接受了
+Dialogue: 0,0:00:07.52,0:00:15.52,Default,,0,0,0,, considerable: adj. 相当大的, wealthy: adj. 富的，有钱的\N considerable interest in Mrs. Eleanor Ramsey's cat. Mrs. Eleanor Ramsey. A very wealthy old lady\N对埃莉诺·拉姆齐夫人的猫的兴趣非常兴趣。埃莉诺·拉姆西夫人。一个非常富有的老太太
+Dialogue: 0,0:00:15.52,0:00:22.96,Default,,0,0,0,, orderly: adj. 有规律的\N has shared a flat with her cat. Rastus. For a great many years. Rastus leads an orderly life.\N与她的猫分享了一个公寓。拉斯图斯。多年来。拉斯图斯过着有序的生活。
+Dialogue: 0,0:00:23.52,0:00:28.32,Default,,0,0,0,, He usually takes a short walk in the evenings and is always home by seven o'clock.\N他通常在晚上步行一小段路程，总是在七点钟回家。
+Dialogue: 0,0:00:29.20,0:00:36.64,Default,,0,0,0,, One evening, however, he failed to arrive. Mrs. Ramsey got very worried. She looked everywhere\N但是，一个晚上，他未能到达。拉姆齐太太非常担心。她到处看
+Dialogue: 0,0:00:36.64,0:00:43.52,Default,,0,0,0,, disappearance: n.   失踪\N for him but could not find him. Their days after Rastus' disappearance. Mrs. Ramsey received an\N对他来说，但找不到他。他们失踪后的日子。拉姆西夫人收到了
+Dialogue: 0,0:00:43.52,0:00:49.68,Default,,0,0,0,, anonymous: adj. 匿名的\N anonymous letter. The writer stated that Rastus was in safe hands and would be returned immediately\N匿名信。作者说，拉斯图斯是安全的，将立即退还
+Dialogue: 0,0:00:49.68,0:00:57.60,Default,,0,0,0,, ransom: n.   赎金\N if Mrs. Ramsey paid a ransom of $1,000. Mrs. Ramsey was instructed to place the money in a\N如果拉姆齐太太支付了1,000美元的赎金。拉姆齐太太被指示将钱放在
+Dialogue: 0,0:00:57.60,0:01:04.00,Default,,0,0,0,, cardboard: n.   硬纸板\N cardboard box and to leave it outside her door. At first she decided to go to the police.\N纸板箱，将其放在她的门外。起初，她决定去警察。
+Dialogue: 0,0:01:04.00,0:01:09.76,Default,,0,0,0,, But fearing that she would never see Rastus again, the letter had made that quite clear, she.\N但是，她担心她再也见不到拉斯图斯，这封信已经很清楚了。
+Dialogue: 0,0:01:10.64,0:01:17.12,Default,,0,0,0,, kidnapper: n.   绑架者，拐骗者\N Changed her mind, she withdrew $1,000 from her bank and followed the kidnappers' instructions.\N改变了主意，她从银行撤回了1,000美元，并遵循了绑架者的指示。
+Dialogue: 0,0:01:18.00,0:01:23.92,Default,,0,0,0,, kidnapper: n.   绑架者，拐骗者\N The next morning, the box had disappeared but Mrs. Ramsey was sure that the kidnapper would keep\N第二天早上，盒子消失了，但拉姆齐太太确定绑架者会保留
+Dialogue: 0,0:01:24.40,0:01:31.52,Default,,0,0,0,, punctually: adv. 准时地\N his word. Sure enough, Rastus arrived punctually at seven o'clock that evening. He looked very well\N他的话。果然，拉斯图斯（Rastus）当天晚上七点钟出现。他看起来很好
+Dialogue: 0,0:01:31.52,0:01:38.24,Default,,0,0,0,, astound: v.   使吃惊\N though he was rather thirsty. For he drank half a bottle of milk. The police were astounded when Mrs.\N虽然他很渴。因为他喝了半瓶牛奶。夫人夫人时，警察感到惊讶。
+Dialogue: 0,0:01:38.24,0:01:45.04,Default,,0,0,0,, dear: adj. 亲爱的，珍贵的；昂贵的\N Ramsey told them what she had done. She explained that Rastus was very dear to her. Considering the\N拉姆齐告诉他们她做了什么。她解释说，拉斯图斯对她很珍贵。考虑到
+Dialogue: 0,0:01:45.04,0:01:54.16,Default,,0,0,0,, dear: adj. 亲爱的，珍贵的；昂贵的\N amount she paid, he was dear and more ways than one.\N她付的金额，他是亲爱的，而不是一种。

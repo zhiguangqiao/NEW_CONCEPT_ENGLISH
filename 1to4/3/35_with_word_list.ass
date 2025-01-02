@@ -1,0 +1,51 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.16,Default,,0,0,0,, Lesson 35.\N第35课。
+Dialogue: 0,0:00:02.16,0:00:03.28,Default,,0,0,0,, Justice was done.\N正义完成了。
+Dialogue: 0,0:00:03.28,0:00:07.48,Default,,0,0,0,, justice: n.   正义，公正；司法, court: n.   法院, law: n.   法律\N The word justice is usually associated with courts of law.\N正义一词通常与法院有关。
+Dialogue: 0,0:00:07.48,0:00:12.16,Default,,0,0,0,, justice: n.   正义，公正；司法, innocence: n.   无辜\N We might say that justice has been done when a man's innocence or guilt has been proved\N我们可能会说，当一个人的纯真或罪恶感证明了正义
+Dialogue: 0,0:00:12.16,0:00:14.28,Default,,0,0,0,, beyond doubt.\N毫无疑问。
+Dialogue: 0,0:00:14.28,0:00:17.64,Default,,0,0,0,, law: n.   法律\N Justice is part of the complex machinery of the law.\N正义是法律复杂机构的一部分。
+Dialogue: 0,0:00:17.64,0:00:22.20,Default,,0,0,0,, undertake: v.   承担；着手做, arduous: adj. 艰苦的，艰难的\N Those who seek it undertake an arduous journey and can never be sure that they will find\N那些寻求它的人进行了艰苦的旅程，永远无法确定他们会发现
+Dialogue: 0,0:00:22.20,0:00:23.20,Default,,0,0,0,, it.\N它。
+Dialogue: 0,0:00:23.20,0:00:24.20,Default,,0,0,0,, Judges.\N法官。
+Dialogue: 0,0:00:24.20,0:00:28.96,Default,,0,0,0,, However wise or eminent, our human and can make mistakes.\N无论明智或杰出，我们的人都会犯错。
+Dialogue: 0,0:00:28.96,0:00:34.96,Default,,0,0,0,, justice: n.   正义，公正；司法, abstract: adj. 抽象的\N There are rare instances when justice almost ceases to be an abstract concept.\N很少有正义几乎不再是一个抽象的概念。
+Dialogue: 0,0:00:34.96,0:00:39.60,Default,,0,0,0,, interference: n.   干涉\N Reward or punishment are meted out quite independent of human interference.\N奖励或惩罚被完全独立于人类干扰。
+Dialogue: 0,0:00:39.60,0:00:43.80,Default,,0,0,0,, justice: n.   正义，公正；司法\N At such times, justice acts like a living force.\N在这种时候，正义像活力。
+Dialogue: 0,0:00:43.80,0:00:47.04,Default,,0,0,0,, When we use a phrase like, it serves him right.\N当我们使用类似的短语时，它可以为他服务。
+Dialogue: 0,0:00:47.04,0:00:52.88,Default,,0,0,0,, justice: n.   正义，公正；司法\N We are, in part, admitting that a certain set of circumstances has enabled justice to\N我们在某种程度上承认某种情况使正义能够
+Dialogue: 0,0:00:52.88,0:00:55.32,Default,,0,0,0,, accord: n.   一致\N act of its own accord.\N自己的行为。
+Dialogue: 0,0:00:55.32,0:01:00.52,Default,,0,0,0,, premises: n.    房屋\N When a thief was caught on the premises of large jewelry store on morning, the shop\N早上在大型珠宝店的场所捕获小偷时，商店
+Dialogue: 0,0:01:00.52,0:01:06.40,Default,,0,0,0,, assistance must have found it impossible to resist the temptation to say, it serves him.\N援助一定发现不可能抵制诱惑说，这为他服务。
+Dialogue: 0,0:01:06.40,0:01:13.44,Default,,0,0,0,, convert: v.   转变，改变, disused: adj. 不再用的，废弃的, fireplace: n.   壁炉\N Right, the shop was an old converted house with many large, disused fireplaces and tall\N是的，这家商店是一间古老的房子
+Dialogue: 0,0:01:13.44,0:01:15.40,Default,,0,0,0,, narrow chimneys.\N狭窄的烟囱。
+Dialogue: 0,0:01:15.40,0:01:21.20,Default,,0,0,0,, Towards midday, a girl heard a muffed cry coming from behind on of the walls.\N截至中午，一个女孩听到墙壁后面的闷闷不乐的声音。
+Dialogue: 0,0:01:21.20,0:01:24.32,Default,,0,0,0,, As the cry was repeated several times.\N当哭声重复几次时。
+Dialogue: 0,0:01:24.32,0:01:28.80,Default,,0,0,0,, She ran to tell the manager who promptly rang up the fire brigade.\N她跑去告诉经理，后者迅速响起了消防队。
+Dialogue: 0,0:01:28.80,0:01:32.36,Default,,0,0,0,, The cry had certainly come form one of the chimneys.\N哭泣肯定是烟囱之一。
+Dialogue: 0,0:01:32.36,0:01:38.20,Default,,0,0,0,, But as there were so many of them, the firefighters could not be certain which one it was.\N但是，由于其中很多，消防员无法确定它是哪一个。
+Dialogue: 0,0:01:38.20,0:01:42.56,Default,,0,0,0,, They located the right chimney by tapping at the walls and listening for the man's\N他们通过敲击墙壁并聆听男人的烟囱找到了右烟囱
+Dialogue: 0,0:01:42.56,0:01:44.20,Default,,0,0,0,, cries.\N哭了。
+Dialogue: 0,0:01:44.20,0:01:49.08,Default,,0,0,0,, chip: v.   砍，削，凿\N After chipping through a wall which was 18 inches thick, they found that a man had been\N在厚18英寸厚的墙壁后，他们发现一个人已经在
+Dialogue: 0,0:01:49.08,0:01:50.92,Default,,0,0,0,, trapped in the chimney.\N被困在烟囱中。
+Dialogue: 0,0:01:50.92,0:01:53.08,Default,,0,0,0,, As it was extremely narrow.\N因为它非常狭窄。
+Dialogue: 0,0:01:53.08,0:01:55.32,Default,,0,0,0,, The man was unable to move.\N该男子无法移动。
+Dialogue: 0,0:01:55.32,0:02:01.00,Default,,0,0,0,, But the firefighters were eventually able to free him by cutting a huge hole in the wall.\N但是消防员最终能够通过在墙上砍大巨大的洞来释放他。
+Dialogue: 0,0:02:01.00,0:02:02.60,Default,,0,0,0,, The sorry looking.\N对不起。
+Dialogue: 0,0:02:02.60,0:02:04.80,Default,,0,0,0,, emerge: v.   （从某处）出现\N Lackin figure that emerged.\N缺乏出现的数字。
+Dialogue: 0,0:02:04.80,0:02:09.24,Default,,0,0,0,, Admitted at once that he had tried to break into the shop during the night but had got stuck\N立刻承认他试图在夜间闯入商店，但被卡住了
+Dialogue: 0,0:02:09.24,0:02:11.40,Default,,0,0,0,, in the chimney.\N在烟囱。
+Dialogue: 0,0:02:11.40,0:02:14.44,Default,,0,0,0,, He had been there for nearly 10 hours.\N他去过那里近10个小时。
+Dialogue: 0,0:02:14.44,0:02:18.36,Default,,0,0,0,, Dys had been done even before the man was handed over to the police.\N在该男子被移交给警察之前，DYS已经完成。

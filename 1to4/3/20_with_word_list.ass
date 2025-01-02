@@ -1,0 +1,27 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:09.36,Default,,0,0,0,, Lesson 20 Pioneer Pilots. In 1908 Lord Northcliffe offered a prize of $1,000 to the first man who would fly across the\N第20课先锋飞行员。1908年，诺斯克利夫勋爵（Lord Northcliffe
+Dialogue: 0,0:00:10.16,0:00:16.56,Default,,0,0,0,, English Channel. Over a year passed before the first attempt was made. On July 19,\N英语频道。在第一次尝试之前，一年多了。7月19日
+Dialogue: 0,0:00:16.56,0:00:25.04,Default,,0,0,0,, 1,909. In the early morning, Hubert Latham took off from the French coast in his plane that Antoinette Ivey.\N1,909。在清晨，休伯特·拉瑟姆（Hubert Latham）乘飞机从法国海岸起飞，安托瓦内特·艾维（Antoinette Ivey）。
+Dialogue: 0,0:00:26.00,0:00:32.08,Default,,0,0,0,, He had traveled only seven miles across the channel when his engine failed and he was forced to land\N当他的引擎故障时，他只穿过频道七英里，被迫着陆
+Dialogue: 0,0:00:32.08,0:00:37.68,Default,,0,0,0,, on sea. The Antoinette floated on the water until Latham was picked up by a ship.\N在海上。安托瓦内特（Antoinette）漂浮在水上，直到莱瑟姆被船捡起。
+Dialogue: 0,0:00:38.64,0:00:46.32,Default,,0,0,0,, Calais: n.   加来（法国港市）\N Two days alter. Lewis Blarriad arrived near Calais with a plane called NO. 11. Blarriad had been\N两天改变。刘易斯·布拉里亚德（Lewis Blarriad）带着一架名为no的飞机到达了加来附近。11。布拉里亚德一直是
+Dialogue: 0,0:00:46.32,0:00:54.48,Default,,0,0,0,, making planes since 1905 and this was his Latte's model. A week before, he had completed a successful\N自1905年以来制造飞机，这是他的拿铁车的模型。一周前，他完成了成功
+Dialogue: 0,0:00:54.48,0:01:03.36,Default,,0,0,0,, overland: adj. 陆上的\N overland flight during which he covered 26 miles. Latham, however, did not give up easily. He,\N在陆上飞行，他覆盖了26英里。但是，莱瑟姆并不容易放弃。他，
+Dialogue: 0,0:01:03.36,0:01:09.92,Default,,0,0,0,, Calais: n.   加来（法国港市）\N too, arrived near Calais on the same day with a new Antoinette. It looked as if there would be an\N同时，同一天，带着新的安托瓦内特（Antoinette）到达了加来。看起来好像会有
+Dialogue: 0,0:01:09.92,0:01:17.52,Default,,0,0,0,, exciting race across the channel. Both planes were going to take off on July 25th, but Latham failed\N激动人心的比赛遍布整个频道。两架飞机都将在7月25日起飞，但拉瑟姆失败了
+Dialogue: 0,0:01:17.60,0:01:25.84,Default,,0,0,0,, to get up early enough. After making a short test flight at 4.15am, Blarriad set off half an hour later.\N足够早。在凌晨4.15进行了短暂的测试飞行后，Blarriad在半小时后出发。
+Dialogue: 0,0:01:26.40,0:01:33.76,Default,,0,0,0,, His great flight lasted 37 minutes. When he landed near Dover, the first person to greet him was a\N他的出色飞行持续了37分钟。当他降落在多佛附近时，第一个向他打招呼的人是
+Dialogue: 0,0:01:33.76,0:01:39.76,Default,,0,0,0,, local policeman. Latham made another attempt a week later and got within half a mile of Dover.\N当地警察。一周后，莱瑟姆（Latham）再次尝试了多佛（Dover）半英里处。
+Dialogue: 0,0:01:40.56,0:01:46.24,Default,,0,0,0,, But he was unlucky again. His engine failed and he landed on the sea for the second time.\N但是他又不幸了。他的引擎失败，他第二次降落在海上。

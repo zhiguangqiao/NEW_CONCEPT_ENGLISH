@@ -1,0 +1,45 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:08.00,Default,,0,0,0,, permanent: adj. 永久的\N Lesson 52. Mud is mud. My cousin, Harry, keeps a large curiously shaped bottle on permanent\N第52课。泥是泥。我的堂兄哈利（Harry）在永久的
+Dialogue: 0,0:00:08.00,0:00:13.92,Default,,0,0,0,, tint: v.   给……染色, delicate: adj. 淡色的, shade: n.   色度\N display in his study. Despite the fact that the bottle is tinted a delicate shade of green,\N在他的书房中展示。尽管该瓶子被染成绿色的细微阴影，但
+Dialogue: 0,0:00:14.72,0:00:19.20,Default,,0,0,0,, observant: adj. 观察力敏锐的\N an observant visitor would soon notice that it is filled with what looks like a thick.\N一个观察的访客很快会注意到它充满了看起来像厚的东西。
+Dialogue: 0,0:00:20.00,0:00:25.84,Default,,0,0,0,, Grays substance. If you were to ask Harry what was in the bottle, he would tell you that it\N灰色物质。如果你问哈利，瓶子里有什么，他会告诉你
+Dialogue: 0,0:00:25.84,0:00:32.24,Default,,0,0,0,, contained perfumed mud. If you expressed doubt or surprise, he would immediately invite you to\N含有香料的泥浆。如果您表示怀疑或惊讶，他会立即邀请您
+Dialogue: 0,0:00:32.24,0:00:38.32,Default,,0,0,0,, dispel: v.   驱散，消除\N smell it and then to rub some into your skin. This brief experiment would dispel any further\N闻到它，然后将一些摩擦到您的皮肤中。这个简短的实验将进一步驱散
+Dialogue: 0,0:00:38.32,0:00:44.32,Default,,0,0,0,, doubts you might have. The bottle really does contain perfumed mud. How Harry came into the\N您可能会怀疑。该瓶确实确实含有香水的泥浆。哈利如何进入
+Dialogue: 0,0:00:44.32,0:00:50.96,Default,,0,0,0,, outlandish: adj. 稀奇古怪的\N possession of this outlandish stuff makes an interesting story which he is. Fond of relating,\N拥有这种古怪的东西使他成为一个有趣的故事。喜欢联系，
+Dialogue: 0,0:00:50.96,0:00:56.80,Default,,0,0,0,, acquisition: n.   获得\N furthermore, the acquisition of this bottle cured him of a bad habit he had been developing for\N此外，收购这个瓶子使他养成了他一直在养成的坏习惯
+Dialogue: 0,0:00:56.80,0:01:03.60,Default,,0,0,0,, cosmetic: n.   化妆品\N years. Harry used to consider it a great joke to go into expensive cosmetic shops and make out\N年。哈利曾经认为这是一个开玩笑的开玩笑，然后去昂贵的化妆品商店
+Dialogue: 0,0:01:03.60,0:01:09.92,Default,,0,0,0,, fanciful: adj. 想像出来的\N rages. Requests for goods that do not exist he would invent fanciful names on the spot.\N愤怒。对不存在的商品的要求，他将当场发明奇特的名字。
+Dialogue: 0,0:01:10.64,0:01:17.36,Default,,0,0,0,, insoluble: adj. 不可溶解的\N On entering a shop, he would ask for a new perfume called scented shadow or for insoluble bath\N在进入商店时，他会要求一种新的香水，称为气味阴影或不溶性浴室
+Dialogue: 0,0:01:17.44,0:01:24.64,Default,,0,0,0,, cubes. If a shop assistant told him she had not heard of it, he would pretend to be considerably\N立方体。如果商店助手告诉他她没有听说过，他会假装很大
+Dialogue: 0,0:01:24.64,0:01:30.64,Default,,0,0,0,, put out. He loved to be told that one of his imaginary products was temporarily out of stock and\N推出。他喜欢被告知他的一种虚构产品暂时缺货，
+Dialogue: 0,0:01:30.64,0:01:37.60,Default,,0,0,0,, he would. Faithfully promised to call again at some future date, but of course he never did.\N他会。忠实地答应在以后的某个日期再次打电话，但他当然从未这样做。
+Dialogue: 0,0:01:37.60,0:01:42.56,Default,,0,0,0,, How Harry managed to keep a straight face during these performances is quite beyond me.\N哈利在这些表演中如何设法保持直面的面孔超出了我的范围。
+Dialogue: 0,0:01:43.44,0:01:48.16,Default,,0,0,0,, prompt: v.   敦促，激励\N Harry does not need to be prompted to explain how he bought his precious bottle of mud.\N不需要提示哈利（Harry）来解释他如何购买他珍贵的泥浆。
+Dialogue: 0,0:01:49.04,0:01:54.00,Default,,0,0,0,, exclusive: adj. 专售高档商品的\N One day, he went to an exclusive shop in London and asked for, Myrolite.\N有一天，他去了伦敦的一家独家商店，并要求肉饼。
+Dialogue: 0,0:01:54.88,0:02:01.28,Default,,0,0,0,, syllable: n.   音节\N The shop assistant looked puzzled and Harry repeated the word, slowly stressing each syllable.\N商店助理看上去很困惑，哈利重复了这个词，慢慢地强调了每个音节。
+Dialogue: 0,0:02:01.28,0:02:07.52,Default,,0,0,0,, bewilderment: n.   迷惑，糊涂\N When the woman shook her head in bewilderment, Harry went on to explain that Myrolite was a hard.\N当那个女人迷惑地摇了摇头时，哈利继续解释说肉豆蔻是很难的。
+Dialogue: 0,0:02:08.24,0:02:14.08,Default,,0,0,0,, freckle: n.   雀斑, evidently: adv. 显然的，明显地\N Amber liked substance which could be used to remove freckles. This explanation evidently\N琥珀色的物质可用于去除雀斑。这显然是这样的解释
+Dialogue: 0,0:02:14.08,0:02:20.32,Default,,0,0,0,, weird: adj. 奇异的，古怪的\N conveyed something to the woman who searched shelf after shelf. She produced all sorts of weird\N向搜寻架子架子的女人传达了一些东西。她产生了各种各样的怪异
+Dialogue: 0,0:02:20.32,0:02:26.88,Default,,0,0,0,, concoction: n.   调制品\N concoctions, but none of them met with Harry's requirements. When Harry put on his act of being\N混合物，但它们都没有达到哈利的要求。当哈利施加了他的行为
+Dialogue: 0,0:02:26.88,0:02:34.00,Default,,0,0,0,, mildly annoyed, the assistant promised to order some for him. Intoxicated by his success,\N助手很生气，答应为他订购一些。因他的成功而陶醉
+Dialogue: 0,0:02:34.08,0:02:40.88,Default,,0,0,0,, blank: adj. 无表情的，茫然的\N Harry then asked for perfumed mud. He expected the assistant to look at him in blank astonishment.\N哈利然后要求泥泞的泥浆。他希望助手惊讶地看着他。
+Dialogue: 0,0:02:40.88,0:02:46.96,Default,,0,0,0,, However, it was his turn to be surprised. For the woman's eyes immediately lit up and she\N但是，轮到他感到惊讶了。因为女人的眼睛立即亮了，她
+Dialogue: 0,0:02:46.96,0:02:53.60,Default,,0,0,0,, fetched several bottles which she placed on the counter for Harry to inspect. For once,\N她放在柜台上供哈利检查了几瓶瓶子。一次，
+Dialogue: 0,0:02:53.60,0:02:59.20,Default,,0,0,0,, discreetly: adv. 谨慎地\N Harry had to admit defeat. He picked up what seemed to be the smallest bottle and discreetly\N哈利不得不承认失败。他捡起了似乎是最小的瓶子，谨慎的
+Dialogue: 0,0:02:59.20,0:03:05.44,Default,,0,0,0,, asked the price. He was glad to get away with a mere 20 pounds and he beat a hasty retreat.\N问价格。他很高兴能仅仅20磅重20磅，击败了仓促的撤退。
+Dialogue: 0,0:03:06.32,0:03:12.72,Default,,0,0,0,, Clutching the precious bottle under his arm. From then on, Harry decided that this little game he\N抓住他手臂下的珍贵瓶子。从那时起，哈利决定了他
+Dialogue: 0,0:03:12.72,0:03:19.68,Default,,0,0,0,, adorn: v.   装饰，打扮\N had invented might prove to be expensive. The curious bottle, which now adorns the bookcase in his\N发明的可能被证明是昂贵的。好奇的瓶子，现在装饰着他的书架
+Dialogue: 0,0:03:19.68,0:03:29.68,Default,,0,0,0,, cosmetic: n.   化妆品\N study, was his first and last purchase of rare cosmetics.\N研究是他第一次也是最后一次购买稀有化妆品。

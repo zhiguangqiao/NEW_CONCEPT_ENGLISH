@@ -1,0 +1,34 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:08.00,Default,,0,0,0,, largely: adv. 在很大程度上\N Lesson 29. Funny or not? Whether we find a joke funny or not largely depends on where we have been brought up.\N第29课。有趣与否？我们是否发现一个笑话很有趣，这在很大程度上取决于我们的何处。
+Dialogue: 0,0:00:08.00,0:00:13.00,Default,,0,0,0,, The sense of humor is mysteriously bound up with national characteristics.\N幽默感与民族特征有关。
+Dialogue: 0,0:00:13.00,0:00:19.00,Default,,0,0,0,, A. Frenchman, for instance, might find it hard to laugh at a Russian joke.\N例如，法国人可能会发现很难为俄罗斯的笑话笑。
+Dialogue: 0,0:00:19.00,0:00:26.00,Default,,0,0,0,, In the same way, a Russian might fail to see anything amusing in a joke which would make an Englishman laugh to.\N以同样的方式，俄罗斯人可能看不到任何有趣的笑话，这会让英国人大笑。
+Dialogue: 0,0:00:26.00,0:00:31.00,Default,,0,0,0,, comic: adj. 喜剧的，可笑的\N Tears. Most funny stories are based on comic situations.\N眼泪。大多数有趣的故事都是基于漫画的情况。
+Dialogue: 0,0:00:31.00,0:00:37.00,Default,,0,0,0,, universal: adj. 普通的\N In spite of national differences, certain funny situations have a universal appeal.\N尽管存在国家差异，但某些有趣的情况仍具有普遍的吸引力。
+Dialogue: 0,0:00:37.00,0:00:42.00,Default,,0,0,0,, No matter where you live, you would find it difficult not to laugh at.\N无论您住在哪里，您都会发现很难不笑。
+Dialogue: 0,0:00:42.00,0:00:53.00,Default,,0,0,0,, largely: adv. 在很大程度上\N Say, Charlie Chaplin's early films however, a new type of humor, which stems largely from the US, has recently come into fashion.\N假设，查理·卓别林（Charlie Chaplin）的早期电影是一种新型的幽默，主要源于美国，它最近陷入了时尚。
+Dialogue: 0,0:00:53.00,0:01:02.00,Default,,0,0,0,, It is called, Sick Humor. Comedians base their jokes on tragic situation like violent death or serious accidents.\N这被称为病幽默。喜剧演员开玩笑的基础是诸如暴力死亡或严重事故的悲惨局势。
+Dialogue: 0,0:01:02.00,0:01:08.00,Default,,0,0,0,, distasteful: adj. 讨厌的\N Many people find this sort of joke distasteful the following example of, Sick Humor, will enable.\N许多人发现这种笑话令人反感，以下一个病态的幽默将使这样做。
+Dialogue: 0,0:01:08.00,0:01:17.00,Default,,0,0,0,, You to judge for yourself. A man who had broken his right leg was taken to hospital a few weeks before Christmas.\N您要自己判断。一个摔断右腿的男人被送往圣诞节前几周。
+Dialogue: 0,0:01:17.00,0:01:24.00,Default,,0,0,0,, pester: v.   一再要求，纠缠\N From the moment he arrived there, he kept on pestering his doctor to tell him when he would be able to go home.\N从他到达那里的那一刻起，他一直在缠着医生告诉他何时可以回家。
+Dialogue: 0,0:01:24.00,0:01:32.00,Default,,0,0,0,, dread: v.   惧怕, recovery: n.   康复\N He dreaded having to spend Christmas in hospital. Though the doctors did his best, the patient's recovery was slow.\N他害怕必须在医院度过圣诞节。尽管医生尽力而为，但患者的康复速度很慢。
+Dialogue: 0,0:01:32.00,0:01:37.00,Default,,0,0,0,, plaster: n.   熟石膏\N On Christmas day, the man still had his right leg in plaster.\N在圣诞节那天，该男子仍然在石膏上右腿。
+Dialogue: 0,0:01:37.00,0:01:41.00,Default,,0,0,0,, He spent a miserable day in bed thinking of all the fun he was missing.\N他在床上度过了痛苦的一天，想着他失踪的所有乐趣。
+Dialogue: 0,0:01:42.00,0:01:51.00,Default,,0,0,0,, console: v.   安慰，慰问\N The following day, however, the doctor consoled him by telling him that his chances of being able to leave hospital in time for.\N但是，第二天，医生告诉他他能够及时离开医院的机会来安慰他。
+Dialogue: 0,0:01:51.00,0:02:00.00,Default,,0,0,0,, hobble: v.   瘸着腿走\N New Year celebrations were good. The man took heart and, sure enough, on New Year's Eve he was able to hobble along to a party.\N新年庆祝活动很好。这个人振作起来，果然，在除夕，他能够参加聚会。
+Dialogue: 0,0:02:00.00,0:02:07.00,Default,,0,0,0,, compensate: v.   补偿\N To compensate for his unpleasant experiences in hospital, the man drank a little more than was good for him.\N为了弥补他在医院的不愉快经历，该男子喝了一点对他的好处。
+Dialogue: 0,0:02:07.00,0:02:14.00,Default,,0,0,0,, In the process, he enjoyed himself thoroughly and kept telling everybody how much he hated hospitals.\N在此过程中，他非常享受自己，并一直告诉所有人他讨厌医院。
+Dialogue: 0,0:02:14.00,0:02:20.00,Default,,0,0,0,, He was still mumbling something about hospitals at the end of the party when he slipped on a piece.\N当派对尽头，他仍然在喃喃地说医院的东西。
+Dialogue: 0,0:02:20.00,0:02:23.00,Default,,0,0,0,, A vise and broke his left leg.\N虎钳，摔断了他的左腿。

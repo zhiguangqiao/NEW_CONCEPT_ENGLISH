@@ -1,0 +1,58 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.48,Default,,0,0,0,,Lesson 36 The cost of government\N\N36  政府的开支\N\N
+Dialogue: 0,0:00:06.48,0:00:10.63,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:10.63,0:00:16.64,Default,,0,0,0,,What's the most important factor,both in government or business,\N\N无论是政府还是企业,\N\N
+Dialogue: 0,0:00:16.64,0:00:19.42,Default,,0,0,0,,for keeping running costs low?\N\N保持运行费用较低的最重要因素是什么?\N\N
+Dialogue: 0,0:00:19.42,0:00:26.05,Default,,0,0,0,,If a nation is essentialy disunited,it is left to the government to hold it together.\N\N如果一个国家实际上处于分裂状态,使之联合起来就是政府的事了.\N\N
+Dialogue: 0,0:00:26.05,0:00:29.42,Default,,0,0,0,,This increases the expense of government,\N\N这样一来就增加了政府的开支,\N\N
+Dialogue: 0,0:00:29.42,0:00:33.95,Default,,0,0,0,,and reduces correspondingly the amount of economic resources\N\N从而相应地减少了\N\N
+Dialogue: 0,0:00:33.95,0:00:37.05,Default,,0,0,0,,that could be used for developing the country.\N\N可以用来发展国家的那部分经济资源.\N\N
+Dialogue: 0,0:00:37.05,0:00:39.27,Default,,0,0,0,,And it should not be forgotten\N\N不应忘记,\N\N
+Dialogue: 0,0:00:39.27,0:00:43.82,Default,,0,0,0,,how small those resources are in a poor and backward country.\N\N在一个贫穷落后的国家里那部分财力是很有限的.\N\N
+Dialogue: 0,0:00:43.82,0:00:46.35,Default,,0,0,0,,Where the cost of government is high,\N\N凡是政府管理费用高的地方,\N\N
+Dialogue: 0,0:00:46.35,0:00:50.42,Default,,0,0,0,,resources for development are correspondingly low.\N\N用于发展国家经济的资金就会相应地减少.\N\N
+Dialogue: 0,0:00:50.42,0:00:55.37,Default,,0,0,0,,This may be illustrated by comparing the position of a nation\N\N把国家的状况\N\N
+Dialogue: 0,0:00:55.37,0:00:58.34,Default,,0,0,0,,with that of a private business enterprise.\N\N同私人企业的状况加以比较,就可以看清这个问题.\N\N
+Dialogue: 0,0:00:58.34,0:01:05.42,Default,,0,0,0,,incur: v.  承担\N\NAn enterprise has to incur certain costs and expenses in order to stay in business.\N\N一个企业为了继续经营,不得不支出一定的费用和开销.\N\N
+Dialogue: 0,0:01:05.42,0:01:10.54,Default,,0,0,0,,For our purposes,we are concerned only with one kind of cost--\N\N就我们的目的而言,我们只关心一种费用--\N\N
+Dialogue: 0,0:01:10.54,0:01:15.25,Default,,0,0,0,,administer: v.  管理\N\Nthe cost of managing and administering the business.\N\N企业行政管理费.\N\N
+Dialogue: 0,0:01:15.25,0:01:19.22,Default,,0,0,0,,overheads: n.  一般费用\N\NSuch administrative overheads in a business\N\N一家企业的这种行政管理开支\N\N
+Dialogue: 0,0:01:19.22,0:01:22.98,Default,,0,0,0,,are analogous to the cost of government in a nation.\N\N类似于一个国家的政府管理所用的开支.\N\N
+Dialogue: 0,0:01:22.98,0:01:28.55,Default,,0,0,0,,overheads: n.  一般费用\N\NThe administrative overheads of a business are low to the extent\N\N企业的管理费用会降低到相应的程度\N\N
+Dialogue: 0,0:01:28.55,0:01:32.50,Default,,0,0,0,,that everyone working in the business can be trusted to behave in a way\N\N如果企业中的每个人都在真诚地\N\N
+Dialogue: 0,0:01:32.50,0:01:35.63,Default,,0,0,0,,that best promotes the interests of the firm.\N\N为提高企业利润而工作的话.\N\N
+Dialogue: 0,0:01:35.63,0:01:40.11,Default,,0,0,0,,If they can each be trusted to take such responsibilities,\N\N如果企业的每个人都信得过,人人都认真负责,\N\N
+Dialogue: 0,0:01:40.11,0:01:44.63,Default,,0,0,0,,initiative: n.  主动，积极性\N\Nand to exercise such initiative as falls within their sphere,\N\N在各自的工作范围内发挥主动性,\N\N
+Dialogue: 0,0:01:44.63,0:01:48.37,Default,,0,0,0,,overheads: n.  一般费用\N\Nthen administrative overheads will be low.\N\N行政管理费用就会降低.\N\N
+Dialogue: 0,0:01:48.37,0:01:55.35,Default,,0,0,0,,It will be low because it will be necessary to have only one man looking after each job\N\N行政管理费用降低的原因是:每项工作只需一个人去完成,\N\N
+Dialogue: 0,0:01:55.35,0:01:58.82,Default,,0,0,0,,without having another man to check upon what he is doing,\N\N用不着另外再有一个人检查他的工作,\N\N
+Dialogue: 0,0:01:58.82,0:02:03.44,Default,,0,0,0,,keep him in line,and report on him to someone else.\N\N督促他遵守章程,或向有关人士汇报他的工作.\N\N
+Dialogue: 0,0:02:03.44,0:02:10.28,Default,,0,0,0,,But if no one can be trusted to act in a loyal and responsible manner towards his job,\N\N但是,如果企业中谁也不可信赖会对工作尽忠守职\N\N
+Dialogue: 0,0:02:10.28,0:02:16.71,Default,,0,0,0,,checker: n.  检查人员\N\Nthen the business will require armies of administrators,checkers and foremen\N\N那么企业就会需要大批的管理人员、检查人员和带班人员,\N\N
+Dialogue: 0,0:02:16.71,0:02:20.88,Default,,0,0,0,,overheads: n.  一般费用\N\Nand administrative overheads will rise correspondingly.\N\N管理费用就会相应地增加\N\N
+Dialogue: 0,0:02:20.88,0:02:24.57,Default,,0,0,0,,overheads: n.  一般费用\N\NAs administrative overheads rise,\N\N管理费用增加了,\N\N
+Dialogue: 0,0:02:24.57,0:02:30.47,Default,,0,0,0,,so the earnings of the business after meeting the expense of admini stration,will fall;\N\N那么在扣除管理费用后,企业的收入就降低了.\N\N
+Dialogue: 0,0:02:30.47,0:02:35.00,Default,,0,0,0,,dividend: n.  红利\N\Nand the business will have less money to distribute as dividends\N\N因而用于分红的金额\N\N
+Dialogue: 0,0:02:35.00,0:02:38.68,Default,,0,0,0,,or invest directly in its future progress and development.\N\N或直接用于将来开拓和发展的投资就相应地减少了\N\N
+Dialogue: 0,0:02:38.68,0:02:42.34,Default,,0,0,0,,It is precisely the same with a nation.\N\N一个国家的情况也完全相同.\N\N
+Dialogue: 0,0:02:42.34,0:02:45.75,Default,,0,0,0,,To the extent that the people can be relied on\N\N如果人民忠于职守,\N\N
+Dialogue: 0,0:02:45.75,0:02:49.00,Default,,0,0,0,,to behave in a loyal and responsible manner\N\N举止规矩,能受到政府的信赖\N\N
+Dialogue: 0,0:02:49.00,0:02:53.16,Default,,0,0,0,,the government does not require armies of police and civil servants\N\N那么政府就不需要大批的警察和文职人员\N\N
+Dialogue: 0,0:02:53.16,0:02:54.77,Default,,0,0,0,,to keep them in order.\N\N去促使人民遵纪守法.\N\N
+Dialogue: 0,0:02:54.77,0:03:00.02,Default,,0,0,0,,But if a nation is disunited,the government cannot be sure\N\N但是,如果一个国家处于分裂状态,政府不能相信\N\N
+Dialogue: 0,0:03:00.02,0:03:03.41,Default,,0,0,0,,that the actions of the people will be in the interests of the nation;\N\N人民的行动有利于国家,\N\N
+Dialogue: 0,0:03:03.41,0:03:08.94,Default,,0,0,0,,and it will have to watch,check,and control the people accordingly.\N\N那么政府就不得不对人民进行监督、检查和控制.\N\N
+Dialogue: 0,0:03:08.94,0:03:11.36,Default,,0,0,0,,A disunited nation therefore\N\N因此,一个处于分裂状态的国家\N\N
+Dialogue: 0,0:03:11.36,0:03:16.36,Default,,0,0,0,,incur: v.  承担\N\Nhas to incur unduly high costs of government.\N\N必然要支付过高的行政管理费用.\N\N

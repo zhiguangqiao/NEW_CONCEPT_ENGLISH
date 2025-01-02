@@ -1,0 +1,44 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.32,Default,,0,0,0,,espionage: n.  间谍活动\N\NLesson 9 Royal espionage\N\N王室谍报活动\N\N
+Dialogue: 0,0:00:05.32,0:00:08.92,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:08.92,0:00:16.86,Default,,0,0,0,,What important thing did King Alfred learn when he penetrated the Danish camp of Guthrum？\N\N阿尔弗雷德国王潜入到丹麦人古瑟罗姆营地得到什么重要信息?\N\N
+Dialogue: 0,0:00:16.86,0:00:20.92,Default,,0,0,0,,Alfred the Great acted as his own spy,\N\N阿尔弗雷德大帝曾亲自充当间谍.\N\N
+Dialogue: 0,0:00:20.92,0:00:25.05,Default,,0,0,0,,minstrel: n.  中世纪的吟游歌手\N\Nvisiting Danish camps disguised as a minstrel.\N\N他扮作吟游歌手到丹麦军队的营地里侦察.\N\N
+Dialogue: 0,0:00:25.05,0:00:29.40,Default,,0,0,0,,minstrel: n.  中世纪的吟游歌手\N\NIn those days wandering minstrels were welcome everywhere.\N\N当时,浪迹天涯的吟游歌手到处受到欢迎,\N\N
+Dialogue: 0,0:00:29.40,0:00:34.20,Default,,0,0,0,,harp: n.  坚琴\N\NThey were not fighting men,and their harp was their passport.\N\N他们不是作战人员,竖琴就是他们的通行证.\N\N
+Dialogue: 0,0:00:34.20,0:00:37.72,Default,,0,0,0,,ballad: n.  民歌\N\NAlfred had learned many of their ballads in his youth ，\N\N阿尔弗雷德年轻时学过许多民歌,\N\N
+Dialogue: 0,0:00:37.72,0:00:42.94,Default,,0,0,0,,conjuring: n.  魔术\N\Nand could vary his programme with acrobatic tricks and simple conjuring.\N\N并能穿插演一些杂技和小魔术使自己的节目多样化\N\N
+Dialogue: 0,0:00:42.94,0:00:48.82,Default,,0,0,0,,Athelney: n.  阿塞尔纳（英国一个小岛）\N\NWhile Alfred's little army slowly began to gather at Athelney,\N\N当阿尔弗雷德人数不多的军队开始在阿塞尔纳慢慢集结时,\N\N
+Dialogue: 0,0:00:48.82,0:00:53.33,Default,,0,0,0,,the king himself set out to penetrate the camp of Guthrum,\N\N他亲自潜入古瑟罗姆--\N\N
+Dialogue: 0,0:00:53.33,0:00:55.86,Default,,0,0,0,,the commander of the Danish invaders.\N\N丹麦入侵司令官的营地.\N\N
+Dialogue: 0,0:00:55.86,0:01:02.46,Default,,0,0,0,,Chippenham: n.  切本哈姆（英国一个城市）\N\NThese had settled down for the winter at Chippenham:thither Alfred went.\N\N丹麦军已在切本哈姆扎下营准备过冬,阿尔弗雷德便来到此地.\N\N
+Dialogue: 0,0:01:02.46,0:01:05.86,Default,,0,0,0,,He noticed at once that discipline was slack:\N\N他马上发现丹麦军纪律松弛:\N\N
+Dialogue: 0,0:01:05.86,0:01:09.19,Default,,0,0,0,,Dane: n.  丹麦人, conqueror: n.  征服者\N\Nthe Danes had the selfconfidence of conquerors,\N\N他们以征服者自居,\N\N
+Dialogue: 0,0:01:09.19,0:01:12.09,Default,,0,0,0,,precaution: n.  预防，警惕\N\Nand their security precautions were casual.\N\N安全措施马马虎虎.\N\N
+Dialogue: 0,0:01:12.09,0:01:16.79,Default,,0,0,0,,proceeds: n.  所得\N\NThey lived well,on the proceeds of raids on neighbouring regions.\N\N他们靠掠夺附近的地区的财物过着舒适的生活.\N\N
+Dialogue: 0,0:01:16.79,0:01:20.68,Default,,0,0,0,,There they collected women as well as food and drink,\N\N他们不仅搜刮吃喝,而且抢掠妇女,aa\N\N
+Dialogue: 0,0:01:20.68,0:01:23.74,Default,,0,0,0,,and a life of ease had made them soft.\N\N安逸的生活已使丹麦军队变得软弱无力.\N\N
+Dialogue: 0,0:01:23.74,0:01:29.06,Default,,0,0,0,,Athelney: n.  阿塞尔纳（英国一个小岛）\N\NAlfred stayed in the camp a week before he returned to Athelney.\N\N阿尔弗雷德在敌营呆了一个星期后,回到了阿塞尔纳.\N\N
+Dialogue: 0,0:01:29.06,0:01:34.01,Default,,0,0,0,,assemble: v.  集合\N\NThe force there assembled was trivial compared with the Danish horde.\N\N他集结在那里的军队和丹麦大军相比是微不足道的\N\N
+Dialogue: 0,0:01:34.01,0:01:39.43,Default,,0,0,0,,Dane: n.  丹麦人\N\NBut Alfred had deduced that the Danes were no longer fit for prolonged battle:\N\N然而,阿尔弗雷德断定,丹麦人已不再适应持久的战争,\N\N
+Dialogue: 0,0:01:39.43,0:01:43.18,Default,,0,0,0,,commissariat: n.  军粮供应\N\Nand that their commissariat had no organization,\N\N他们的军需供应处于无组织状态,\N\N
+Dialogue: 0,0:01:43.18,0:01:46.05,Default,,0,0,0,,but depended on irregular raids.\N\N只是靠临时抢夺来维持.\N\N
+Dialogue: 0,0:01:46.05,0:01:49.48,Default,,0,0,0,,So,faced with the Danish advance,\N\N因此,面对丹麦人的进攻,\N\N
+Dialogue: 0,0:01:49.48,0:01:53.89,Default,,0,0,0,,Alfred did not risk open battle but harried the enemy.\N\N阿尔弗雷德没有贸然同敌人作战,而是骚扰敌人.\N\N
+Dialogue: 0,0:01:53.89,0:01:57.97,Default,,0,0,0,,Dane: n.  丹麦人\N\NHe was constantly on the move,drawing the Danes after him.\N\N他的部队不停地移动,牵着敌人的鼻子,让他们跟着他跑.\N\N
+Dialogue: 0,0:01:57.97,0:02:03.79,Default,,0,0,0,,assail: v.  袭击\N\NHis patrols halted the raiding parties:hunger assailed the Danish army.\N\N他派出巡逻队阻止敌人抢劫,因而饥饿威胁着丹麦军队.\N\N
+Dialogue: 0,0:02:03.79,0:02:08.30,Default,,0,0,0,,skirmish: n.  小规模战斗\N\NNow Alfred began a long series of skirmishes--\N\N这时,阿尔弗雷德发起一连串小规模进攻,\N\N
+Dialogue: 0,0:02:08.30,0:02:11.53,Default,,0,0,0,,Dane: n.  丹麦人\N\Nand within a month the Danes had surrendered.\N\N结果不出一个月丹麦人就投降了.\N\N
+Dialogue: 0,0:02:11.53,0:02:16.53,Default,,0,0,0,,espionage: n.  间谍活动, episode: n.  一个事件，片断, epic: n.  史诗\N\NThe episode could reasonably serve as a unique epic of royal espionage!\N\N这一幕历史可以说是王室谍报活动中最精彩的篇章.\N\N

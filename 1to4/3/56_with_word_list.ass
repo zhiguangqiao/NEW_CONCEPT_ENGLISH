@@ -1,0 +1,33 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:11.00,Default,,0,0,0,, boundary: n.   界线；边界\N Lesson 47. Our neighbor. The river. The river which forms the eastern boundary of our farm has always played an important part in our lives.\N第47课。我们的邻居。河。形成我们农场东部边界的河流一直在我们的生活中发挥着重要作用。
+Dialogue: 0,0:00:11.00,0:00:18.00,Default,,0,0,0,, Without it we could not make a living. There is only enough spring water to supply the needs of the houses.\N没有它，我们将无法谋生。只有足够的春水来满足房屋的需求。
+Dialogue: 0,0:00:18.00,0:00:24.00,Default,,0,0,0,, pump: v.   用泵抽\N So we have to pump from the river for farm use. We tell river all our secrets.\N因此，我们必须从河中抽水以进行农场使用。我们告诉河所有的秘密。
+Dialogue: 0,0:00:24.00,0:00:34.00,Default,,0,0,0,, overtake: v.   突然降临\N We know instinctively, just as beekeepers with their bees, that misfortune might overtake us if the important events of our lives were not related to it.\N我们本能地知道，就像养蜂人的蜜蜂一样，如果我们的生活中的重要事件与之无关，不幸可能会超越我们。
+Dialogue: 0,0:00:34.00,0:00:45.00,Default,,0,0,0,, backwater: n.   回水河汊\N We have special river birthday parties in the summer. Sometimes we go upstream to a favorite backwater. Sometimes we have our party at the boat house.\N夏天，我们举办了特殊的河流生日聚会。有时我们会向上游到最喜欢的回水。有时我们在船屋举行聚会。
+Dialogue: 0,0:00:45.00,0:00:51.00,Default,,0,0,0,, predecessor: n.   前任，前辈, meadow: n.   草地，草场\N Which a predecessor of ours at the farm build in the meadow hard by the deepest pool for swimming.\N这是我们在最深的游泳池里用力地在草地上建造农场的前身。
+Dialogue: 0,0:00:51.00,0:00:58.00,Default,,0,0,0,, And diving. In a heat wave we choose a midnight birthday party and that is the most exciting of all.\N和潜水。在热浪中，我们选择了午夜生日聚会，这是最令人兴奋的。
+Dialogue: 0,0:00:58.00,0:01:14.00,Default,,0,0,0,, crown: v.   给……戴花环, wreath: n.   花环\N We welcome the seasons by the riverside, crowning the youngest girl with flowers in the spring, holding a summer festival on mid-summer eve, giving thanks for the harvest in the autumn, and throwing a holy wreath into the current in the winter.\N我们欢迎河滨的季节，在春季夏季前夕举行了一个夏季节日的夏季节日，感谢秋天的收获，并在冬季扔了一个圣洁的花环，在春天举行了夏季音乐节。
+Dialogue: 0,0:01:14.00,0:01:23.00,Default,,0,0,0,, occurrence: n.   偶发事件\N After a long period of rain the river may overflow its banks. This is a rare occurrence as our climate seldom gets to extremes.\N经过长时间的雨水，河流可能溢出其河岸。这很少发生，因为我们的气候很少发生极端。
+Dialogue: 0,0:01:23.00,0:01:35.00,Default,,0,0,0,, proportion: n.   部分\N We are lucky in that only the lower fields. Which make up a very small proportion of our farm. Are affected by flooding. But other farms are less favorably cited.\N我们很幸运，只有较低的领域。这占我们农场的一小部分。受洪水影响。但是其他农场的引用不太有利。
+Dialogue: 0,0:01:35.00,0:01:43.00,Default,,0,0,0,, meadow: n.   草地，草场, spell: v.   招致，带来\N And flooding can sometimes spell disaster for their owners. One had winter we watched the river creep up the lower meadows.\N洪水有时会给所有者带来灾难。一个人冬天，我们看着河流爬到下层草地。
+Dialogue: 0,0:01:43.00,0:01:52.00,Default,,0,0,0,, stall: n.   牲口棚\N All the cattle had been moved into stalls and we stood to lose little. We were, however, worried about our nearest neighbors.\N所有的牛都被搬进了摊位，我们几乎没有失去。但是，我们担心我们最近的邻居。
+Dialogue: 0,0:01:52.00,0:02:02.00,Default,,0,0,0,, Whose farm was low lying and who were newcomers to the district. As the floods had put the telephone out of order, we could not find out how they were managing.\N他们的农场谎言低，是该地区的新移民。由于洪水已将电话拒之门外，我们找不到他们的管理方式。
+Dialogue: 0,0:02:02.00,0:02:08.00,Default,,0,0,0,, attic: n.   顶楼, sweeping: adj. 范围广大的\N From an attic window we could get a sweeping view of the river where their land joined ours.\N从阁楼窗口中，我们可以欣赏到他们土地加入我们的河流的景色。
+Dialogue: 0,0:02:09.00,0:02:17.00,Default,,0,0,0,, critical: adj. 危急的, juncture: n.   时刻，关头\N And at the most critical juncture we took turns in watching that point. The first sign of disaster was a dead sheep floating down.\N在最关键的关头，我们轮流观察了这一点。灾难的第一个迹象是一只死绵羊漂浮。
+Dialogue: 0,0:02:17.00,0:02:26.00,Default,,0,0,0,, Next came a horse, swimming bravely, but we were afraid that the strength of the current would prevent its landing anywhere before it.\N接下来是一匹马，勇敢地游泳，但我们担心电流的强度会阻止其在任何地方的任何地方降落。
+Dialogue: 0,0:02:26.00,0:02:38.00,Default,,0,0,0,, raft: n.   木筏\N Became exhausted, suddenly a raft appeared, looking rather like nose arc, carrying the whole family. A few hens, the dogs, cat, and bird in a cage.\N筋疲力尽，突然出现了筏子，看上去像鼻子弧，背着整个家庭。几只母鸡，狗，猫和鸟在笼子里。
+Dialogue: 0,0:02:38.00,0:02:51.00,Default,,0,0,0,, unduly: adv. 过度地, foundations: n.   地基, stoutly: adv. 牢固地，粗壮的, submerge: v.   浸没\N We realized that they must have become unduly frightened by the rising flood. For their house, which had sound foundations, would have stood stoutly even if it had been almost submerged.\N我们意识到，他们一定会因洪水上升而变得过于恐惧。对于他们的房子，即使被淹没了，他们的房子也会坚定地站立。
+Dialogue: 0,0:02:51.00,0:03:02.00,Default,,0,0,0,, meadow: n.   草地，草场, raft: n.   木筏, grapple: v.   抓住\N The men of our family waited down through our flooded meadows with boat hooks. In the hope of being able to grapple a corner of the raft and pull it out of the current towards.\N我们一家人的士兵在我们被淹没的草地上等着船钩等着。希望能够抓住木筏的角落并将其从电流中拉出。
+Dialogue: 0,0:03:02.00,0:03:07.00,Default,,0,0,0,, Our bank, we still think it a miracle that they were able to do so.\N我们的银行，我们仍然认为他们能够这样做是一个奇迹。

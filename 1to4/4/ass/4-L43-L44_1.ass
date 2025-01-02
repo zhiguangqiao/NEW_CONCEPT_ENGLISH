@@ -1,0 +1,77 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.33,Default,,0,0,0,,Lesson 43 Are there strangers in space?\N\N宇宙中有外星人吗?\N\N
+Dialogue: 0,0:00:07.33,0:00:10.97,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:10.97,0:00:18.98,Default,,0,0,0,,What does the 'uniquely rational way' for us,to communicate with other intelligent beings in space depend on?\N\N我们的"唯一合理的,"和其他智力生命联系的方法靠的是什么?\N\N
+Dialogue: 0,0:00:18.98,0:00:24.41,Default,,0,0,0,,We must conclude from the work of those who have studied the origin of life,\N\N根据研究生命起源的人们所作的工作,我们必然会得出这样的结论:\N\N
+Dialogue: 0,0:00:24.41,0:00:28.46,Default,,0,0,0,,that given a planet only approximately like our own,\N\N如果设想有颗行星和我们地球的情况基本相似,\N\N
+Dialogue: 0,0:00:28.46,0:00:31.39,Default,,0,0,0,,life is almost certain to start.\N\N那几乎肯定会产生生命.\N\N
+Dialogue: 0,0:00:31.39,0:00:34.67,Default,,0,0,0,,Of all the planets in our own solar system,\N\N在我们太阳系的所有行星中,\N\N
+Dialogue: 0,0:00:34.67,0:00:40.64,Default,,0,0,0,,we are now pretty certain the Earth is the only one on which life can survive.\N\N我们目前可以肯定的是,地球是生命能存在的唯一行星.\N\N
+Dialogue: 0,0:00:40.64,0:00:48.46,Default,,0,0,0,,Mercury: n.  水星\N\NMars is too dry and poor in oxygen,Venus far too hot,and so is Mercury,\N\N火星太干燥又缺氧,金星太热,水星也一样.\N\N
+Dialogue: 0,0:00:48.46,0:00:52.68,Default,,0,0,0,,and the outer planets have temperatures near absolute zero,\N\N而太阳系的其他行星的温度都接近绝对零度,\N\N
+Dialogue: 0,0:00:52.68,0:00:55.36,Default,,0,0,0,,hydrogen: n.  氢气\N\Nand hydrogen-dominated atmospheres.\N\N并围绕着以氢气为主的大气层.\N\N
+Dialogue: 0,0:00:55.36,0:00:59.59,Default,,0,0,0,,But other suns,stars as the astronomers call them,\N\N但是,其他的太阳,即天文学家所说的恒星,\N\N
+Dialogue: 0,0:00:59.59,0:01:02.37,Default,,0,0,0,,are bound to have planets like our own,\N\N肯定会有像我们地球一样的行星\N\N
+Dialogue: 0,0:01:02.37,0:01:05.62,Default,,0,0,0,,and as the number of stars in the universe is so vast,\N\N因为宇宙中恒星的数目极其庞大,\N\N
+Dialogue: 0,0:01:05.62,0:01:09.09,Default,,0,0,0,,this possibility becomes virtual certainty.\N\N所以这种可能性是肯定无疑的.\N\N
+Dialogue: 0,0:01:09.09,0:01:14.43,Default,,0,0,0,,There are one hundred thousand million stars in our own Milky Way alone,\N\N仅我们的银河系就有1000亿颗恒星,\N\N
+Dialogue: 0,0:01:14.43,0:01:20.81,Default,,0,0,0,,and then there are 3 thousand million other Milky Ways,or galaxies in the universe.\N\N况且在宇宙中还有30亿个天河,即银河系.\N\N
+Dialogue: 0,0:01:20.81,0:01:24.22,Default,,0,0,0,,So the number of stars that we know exist,\N\N因此,我们所知道的现有恒星数目,\N\N
+Dialogue: 0,0:01:24.22,0:01:29.56,Default,,0,0,0,,is now estimated at about 300 million million million.\N\N估计约有30亿×1000亿颗\N\N
+Dialogue: 0,0:01:29.56,0:01:34.30,Default,,0,0,0,,Although perhaps only l per cent of the life that has started somewhere,\N\N虽然在已经产生生命的某个地方,可能只有1%,\N\N
+Dialogue: 0,0:01:34.30,0:01:37.98,Default,,0,0,0,,will develop into highly complex and intelligent patterns,\N\N会发展成高度复杂有智力的生命形态,\N\N
+Dialogue: 0,0:01:37.98,0:01:40.59,Default,,0,0,0,,so vast is the number of planets,\N\N但是行星的数目是那庞大,\N\N
+Dialogue: 0,0:01:40.59,0:01:45.61,Default,,0,0,0,,that intelligent life is bound to be a natural part of the universe.\N\N有智力的生命必然是宇宙的自然组成部分.\N\N
+Dialogue: 0,0:01:45.61,0:01:52.34,Default,,0,0,0,,If then we are so certain that other intelligent life exists in the universe\N\N既然我们如此坚信宇宙中存在着其他有智力的生命\N\N
+Dialogue: 0,0:01:52.34,0:01:55.99,Default,,0,0,0,,why have we had no visitors from outer space yet?\N\N那么我们为什么还未见到外层空间来访的客人呢?\N\N
+Dialogue: 0,0:01:55.99,0:01:57.34,Default,,0,0,0,,First of all,\N\N首先,\N\N
+Dialogue: 0,0:01:57.34,0:02:02.33,Default,,0,0,0,,they may have come to this planet of ours thousands or millions of years ago,\N\N他们可能在几千年前或几百年万年前已来过我们地球,\N\N
+Dialogue: 0,0:02:02.33,0:02:05.44,Default,,0,0,0,,and found our then prevailing primitive state,\N\N并且发现我们地球当时普遍存在着的原始状态,\N\N
+Dialogue: 0,0:02:05.44,0:02:09.03,Default,,0,0,0,,completely uninteresting to their own advanced knowledge.\N\N同他们先进的知识相比是索然无味的.\N\N
+Dialogue: 0,0:02:09.03,0:02:13.81,Default,,0,0,0,,Professor Ronald Bracewell,a leading American radio astronomer,\N\N美国一位重要的射电天文学家罗纳德.布雷斯韦尔教授,\N\N
+Dialogue: 0,0:02:13.81,0:02:18.73,Default,,0,0,0,,argued in Nature that such a superior civilization,\N\N在《自然》杂志上提出了这样的观点:假如有如此高级文明生命,\N\N
+Dialogue: 0,0:02:18.73,0:02:21.15,Default,,0,0,0,,on a visit to our own solar system,\N\N他们访问了我们的太阳系,\N\N
+Dialogue: 0,0:02:21.15,0:02:24.67,Default,,0,0,0,,may have left an automatic messenger behind,\N\N那很可能会在离开太阳系时留下自动化信息装置,\N\N
+Dialogue: 0,0:02:24.67,0:02:28.72,Default,,0,0,0,,to await the possible awakening of an advanced civilization.\N\N等待先进文明的觉醒.\N\N
+Dialogue: 0,0:02:28.72,0:02:33.16,Default,,0,0,0,,Such a messenger, receiving our radio and television signals,\N\N这种自动化信息装置,在接收到我们的无线电和电视信号后,\N\N
+Dialogue: 0,0:02:33.16,0:02:37.30,Default,,0,0,0,,might well re-transmit them back to its home- planet.\N\N完全有可能把这些信号发回到原来的行星.\N\N
+Dialogue: 0,0:02:37.30,0:02:42.82,Default,,0,0,0,,although what impression any other civilization would thus get from us\N\N至于其他文明行星对我们地球会有什么印象,\N\N
+Dialogue: 0,0:02:42.82,0:02:45.09,Default,,0,0,0,,is best left unsaid.\N\N还是不说为好.\N\N
+Dialogue: 0,0:02:45.09,0:02:51.75,Default,,0,0,0,,But here we come up against the most difficult of all obstacles,\N\N然而,我们遇到的最大困难是,\N\N
+Dialogue: 0,0:02:51.75,0:02:55.73,Default,,0,0,0,,to contact with people on other planets--the astronomical distances which separate us.\N\N在和外星人联系中,分隔我们的天文距离.\N\N
+Dialogue: 0,0:02:55.73,0:03:02.34,Default,,0,0,0,,As a reasonable guess, they might,on an average,be 100 light years away.\N\N据合理推算,外星人离我们平均距离也有100光年之远.\N\N
+Dialogue: 0,0:03:02.34,0:03:03.56,Default,,0,0,0,,(A light year\N\N1光年\N\N
+Dialogue: 0,0:03:03.56,0:03:10.29,Default,,0,0,0,,is the distance which light travels at 186,000 miles per second in one year,\N\N是光以每秒186,000英里的速度在一年走的距离,\N\N
+Dialogue: 0,0:03:10.29,0:03:14.60,Default,,0,0,0,,namely 6 million million miles.)\N\N即6万亿英里.\N\N
+Dialogue: 0,0:03:14.60,0:03:18.45,Default,,0,0,0,,Radio waves also travel at the speed of light,\N\N无线电波也是以光速传播的,\N\N
+Dialogue: 0,0:03:18.45,0:03:24.55,Default,,0,0,0,,and assuming such an automatic messenger picked up our first broadcast of the 1920s,\N\N假定外星人的这种自动化信息装置接收到了我们二十年代的第一次广播信号,\N\N
+Dialogue: 0,0:03:24.55,0:03:28.91,Default,,0,0,0,,the message to its home planet is barely halfway there.\N\N那么这个信号在发回到原来的行星途中刚刚走了一半路程.\N\N
+Dialogue: 0,0:03:28.91,0:03:33.28,Default,,0,0,0,,Similarly,our own present primitive chemical rockets,\N\N同样,我们目前使用的原始化学火箭,\N\N
+Dialogue: 0,0:03:33.28,0:03:35.49,Default,,0,0,0,,though good enough to orbit men,\N\N虽然可以把人送入轨道,\N\N
+Dialogue: 0,0:03:35.49,0:03:41.72,Default,,0,0,0,,have no chance of transporting us to the nearest other star, four light years away,\N\N但尚不可能把我们送到离我们最近、相距4光年的其他星球上去,\N\N
+Dialogue: 0,0:03:41.72,0:03:46.05,Default,,0,0,0,,let alone distances of tens or hundreds of light years.\N\N更不用说几十光年或几百光年远的地方了.\N\N
+Dialogue: 0,0:03:46.05,0:03:53.82,Default,,0,0,0,,Fortunately,there is a 'uniquely rational way',for us to communicate with other intelligent beings,\N\N幸运的是,靠一种"唯一合理的方法",我们可以和其他智力生命通讯联系,\N\N
+Dialogue: 0,0:03:53.82,0:03:59.20,Default,,0,0,0,,as Walter Sullivan has put it in his excellent book, We Are not Alone.\N\N这种方法沃尔特.沙利文在其杰作《我们并不孤 独》中曾经阐述.\N\N
+Dialogue: 0,0:03:59.20,0:04:05.77,Default,,0,0,0,,This depends on the precise radio frequency of the 21-cm wavelength,\N\N这种通讯联系要靠21厘米波长的,\N\N
+Dialogue: 0,0:04:05.77,0:04:10.53,Default,,0,0,0,,megacycle: n.  兆周\N\Nor 1420 megacycles per second.\N\N即每秒1420兆周的精确无线电频率.\N\N
+Dialogue: 0,0:04:10.53,0:04:16.56,Default,,0,0,0,,hydrogen: n.  氢气, emission: n.  散发\N\NIt is the natural frequency of emission of the hydrogen atoms in space\N\N这个频率是空间氢原子释放的自然频率,\N\N
+Dialogue: 0,0:04:16.56,0:04:19.70,Default,,0,0,0,,and was discovered by us in 1951,\N\N是在1951年被人类发现的,\N\N
+Dialogue: 0,0:04:19.70,0:04:25.10,Default,,0,0,0,,it must be known to any kind of radio astronomer in the universe.\N\N这个频率是宇宙中任何射电天文学家都应该熟悉的.\N\N
+Dialogue: 0,0:04:25.10,0:04:28.94,Default,,0,0,0,,Once the existence of this wave-length had been discovered,\N\N一旦这种波长的实际存在被发现,\N\N
+Dialogue: 0,0:04:28.94,0:04:34.85,Default,,0,0,0,,it was not long before its use as the uniquely recognizable broadcasting frequency\N\N那过不了多久它,就可以被作为唯一可辨认的广播频率\N\N
+Dialogue: 0,0:04:34.85,0:04:37.84,Default,,0,0,0,,for interstellar communication was suggested.\N\N用于星际间旅行了.\N\N
+Dialogue: 0,0:04:37.84,0:04:43.18,Default,,0,0,0,,Without something of this kind,searching for intelligences on other planets\N\N没有这种手段,要想寻觅其他星球上的智力生命,\N\N
+Dialogue: 0,0:04:43.18,0:04:48.08,Default,,0,0,0,,would be like trying to meet a friend in London without a pre- arranged rendezvous,\N\N就如同去伦敦见一位朋友,事先未约定地点,\N\N
+Dialogue: 0,0:04:48.08,0:04:53.08,Default,,0,0,0,,and absurdly wandering the streets in the hope of a chance encounter.\N\N而荒唐地在街上游逛,以期碰巧遇上一样.\N\N

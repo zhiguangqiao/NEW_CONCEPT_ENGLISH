@@ -1,0 +1,50 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.94,Default,,0,0,0,,Lesson 20 Snake poison\N\N蛇毒\N\N
+Dialogue: 0,0:00:04.94,0:00:09.04,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:09.04,0:00:13.74,Default,,0,0,0,,What are the two different ways in which snake poison acts?\N\N蛇毒发生作用的两种途径是什么?\N\N
+Dialogue: 0,0:00:13.74,0:00:18.65,Default,,0,0,0,,How in came about that snakes manufactured poison is a mystery.\N\N蛇是怎样产生毒液的,这是一个谜.\N\N
+Dialogue: 0,0:00:18.65,0:00:24.08,Default,,0,0,0,,saliva: n.  唾液\N\NOver the periods their saliva,a mild, digestive juice like our own,\N\N蛇的唾液本来和我们人的消化液一样柔和,\N\N
+Dialogue: 0,0:00:24.08,0:00:28.78,Default,,0,0,0,,analysis: n.  分析\N\Nwas converted into a poison that defies analysis even today.\N\N但经过漫长的时间,演变成了今天仍无法分析清楚的毒液.\N\N
+Dialogue: 0,0:00:28.78,0:00:33.19,Default,,0,0,0,,It was not forced upon them by the survival competition;\N\N毒液不是自下而上竞争强加给它们的,\N\N
+Dialogue: 0,0:00:33.19,0:00:37.12,Default,,0,0,0,,prey: n.  被捕食的动物\N\Nthey could have caught and lived on prey without using poison,\N\N它们也可以不用毒液捕捉动物而生存,\N\N
+Dialogue: 0,0:00:37.12,0:00:41.36,Default,,0,0,0,,just as the thousands of non-poisonous snakes still do.\N\N就像今天成千上万的无毒蛇那样.\N\N
+Dialogue: 0,0:00:41.36,0:00:45.05,Default,,0,0,0,,Poison to a snake is merely a luxury;\N\N毒液对毒蛇来说只不过是一种舒适生存的优越手段\N\N
+Dialogue: 0,0:00:45.05,0:00:51.99,Default,,0,0,0,,it enables it to get its food with very little effort,no more effort than one bite.\N\N它能使蛇不用费多大力气就能捕获到食物,轻咬一口即可.\N\N
+Dialogue: 0,0:00:51.99,0:00:57.88,Default,,0,0,0,,And why only snakes? Cats,for instance, would be greatly helped;\N\N为什么只有蛇才有毒液呢?譬如说,如果猫有毒液,那对猫会大有帮助,aa\N\N
+Dialogue: 0,0:00:57.88,0:01:02.74,Default,,0,0,0,,tussle: n.  扭打\N\Nno running fights with large,fierce rats or tussles with grown rabbits--\N\N它就不必再和又大又凶的老鼠边跑边搏斗了,也不必再和大兔子扭斗了--\N\N
+Dialogue: 0,0:01:02.74,0:01:06.31,Default,,0,0,0,,just a bite and no more effort needed.\N\N只要咬一口,就不必再费大力气.\N\N
+Dialogue: 0,0:01:06.31,0:01:10.86,Default,,0,0,0,,carnivore: n.  食肉动物\N\NIn fact,it would be an assistance to all carnivores\N\N事实上,任何食肉动物有了毒液,都能从中获益.\N\N
+Dialogue: 0,0:01:10.86,0:01:14.55,Default,,0,0,0,,though it would be a two-edged weapon when they fought each other.\N\N不过,当它们相互撕打时,毒液就成了双刃剑,可杀死对方,也可被对方杀死.\N\N
+Dialogue: 0,0:01:14.55,0:01:21.73,Default,,0,0,0,,vertebrate: n.  脊椎动物, lizard: n.  蜥蜴\N\NBut,of the vertebrates unpredictable Nature selected only snakes (and one lizard).\N\N然而,在脊椎动物中,大自然神秘地只选择了蛇(还有一种晰蜴).\N\N
+Dialogue: 0,0:01:21.73,0:01:24.54,Default,,0,0,0,,One wonders also why Nature,\N\N人们还不清楚大自然为什么\N\N
+Dialogue: 0,0:01:24.54,0:01:29.57,Default,,0,0,0,,concoct: v.  调制, potency: n.  效力\N\Nwith some snakes concocted poison of such extreme potency.\N\N在某些蛇身上调制出如此高效的毒液来.\N\N
+Dialogue: 0,0:01:29.57,0:01:33.19,Default,,0,0,0,,saliva: n.  唾液, conversion: n.  转变\N\NIn the conversion of saliva into poison,\N\N唾液转变成毒液的过程中\N\N
+Dialogue: 0,0:01:33.19,0:01:38.18,Default,,0,0,0,,one might suppose that a fixed process took place. It did not;\N\N人们可能认为,其中有固定的程序在进行.其实没有.\N\N
+Dialogue: 0,0:01:38.18,0:01:43.59,Default,,0,0,0,,some snakes manufactu- red a poison different in every respect from that of others,\N\N有些蛇产生的毒液在各方面与另外一些毒蛇产生的毒液不相同,\N\N
+Dialogue: 0,0:01:43.59,0:01:49.43,Default,,0,0,0,,arsenic: n.  砒霜, strychnine: n.  马钱子碱\N\Nas different as arsenic is from strychnine,and having different effects.\N\N就像砒霜不同于马钱子碱一样,而且产生的效果也不同.\N\N
+Dialogue: 0,0:01:49.43,0:01:54.44,Default,,0,0,0,,One poison acts on the nerves,the other on the blood.\N\N一种毒液作用于神经,另一种毒液作用于血液.\N\N
+Dialogue: 0,0:01:54.44,0:02:00.12,Default,,0,0,0,,mamba: n.  树眼镜蛇, cobra: n.  眼镜蛇\N\NThe makers of the nerve poison include the mambas and the cobras ,\N\N产生神经毒液的蛇有一种非洲树眼镜蛇和眼镜蛇,\N\N
+Dialogue: 0,0:02:00.12,0:02:03.36,Default,,0,0,0,,venom: n.  毒液\N\Nand their venom is called neurotoxic.\N\N它们的毒液称为神经毒素\N\N
+Dialogue: 0,0:02:03.36,0:02:09.32,Default,,0,0,0,,adder: n.  蝮蛇, rattlesnake: n.  响尾蛇\N\NVipers (adders) and rattlesnakes manufacture the blood poison,\N\N蝰蛇（蝮蛇）和响尾蛇产生血液毒素,\N\N
+Dialogue: 0,0:02:09.32,0:02:11.94,Default,,0,0,0,,which is known as haemolytic.\N\N称为溶血性毒液.\N\N
+Dialogue: 0,0:02:11.94,0:02:18.62,Default,,0,0,0,,Both poisons are unpleasant,but by far the more unpleasant is the blood poison.\N\N这两种毒液都很可怕,但溶血性毒液尤其厉害.\N\N
+Dialogue: 0,0:02:18.62,0:02:23.55,Default,,0,0,0,,It is said that the nerve poison is the more primitive of the two,\N\N据说,神经毒液在两种毒液中是较为原始的一种,\N\N
+Dialogue: 0,0:02:23.55,0:02:29.51,Default,,0,0,0,,that the blood poison is,so to speak, a newer product from an improved formula.\N\N而溶血性毒液,打个比方说,是根据改良配方生产出的一种较新的产品.\N\N
+Dialogue: 0,0:02:29.51,0:02:31.56,Default,,0,0,0,,Be that as it may,\N\N虽然是这样,不过,\N\N
+Dialogue: 0,0:02:31.56,0:02:37.76,Default,,0,0,0,,the nerve poison does its business with man far more quickly than the blood poison.\N\N神经毒液比溶血性毒液在人身上起作用快得多.\N\N
+Dialogue: 0,0:02:37.76,0:02:40.05,Default,,0,0,0,,This,however,means nothing.\N\N但是,这没什么关系,\N\N
+Dialogue: 0,0:02:40.05,0:02:44.22,Default,,0,0,0,,Snakes did not acquire their poison for use against man\N\N因为蛇有毒液不是用来对付人的,\N\N
+Dialogue: 0,0:02:44.22,0:02:47.71,Default,,0,0,0,,prey: n.  被捕食的动物\N\Nbut for use against prey such as rats and mice,\N\N而是对付它的猎物,诸如鼠类,\N\N
+Dialogue: 0,0:02:47.71,0:02:52.71,Default,,0,0,0,,viper: n.  蝰蛇\N\Nand the effects on these of viperine poison is almost immediate.\N\N毒液对这些猎物会立刻起作用.\N\N

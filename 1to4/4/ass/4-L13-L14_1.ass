@@ -1,0 +1,39 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.66,Default,,0,0,0,,Lesson 13 The search for oil\N\N探寻石油\N\N
+Dialogue: 0,0:00:05.66,0:00:09.72,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:09.72,0:00:15.62,Default,,0,0,0,,What do oilmen want to achieve as soon as they strike oil?\N\N石油人钻油时希望获得什么?\N\N
+Dialogue: 0,0:00:15.62,0:00:23.50,Default,,0,0,0,,The deepest holes of all are made for oil, and they go down to as much as 25,000 feet.\N\N在所有洞穴中,为寻找石油所钻的洞是最深的,这些洞可深达25,000英尺.\N\N
+Dialogue: 0,0:00:23.50,0:00:28.19,Default,,0,0,0,,But we do not need to send man down to get the oil out,\N\N但是,我们不必把人送到地下去把石油取出.\N\N
+Dialogue: 0,0:00:28.19,0:00:31.13,Default,,0,0,0,,as we must with other mineral deposits.\N\N像开采其他矿藏那样.\N\N
+Dialogue: 0,0:00:31.13,0:00:36.46,Default,,0,0,0,,boring: n.  钻孔\N\NThe holes are only borings,less than a foot in diameter.\N\N这些洞只不过是一些钻 ,直径不到1英尺.\N\N
+Dialogue: 0,0:00:36.46,0:00:40.63,Default,,0,0,0,,My particular experience is largely in oil,and the search for oil,\N\N我是专门搞石油的,寻找石油，\N\N
+Dialogue: 0,0:00:40.63,0:00:46.82,Default,,0,0,0,,has done more to improve deep drilling than any other mining activity.\N\N比其他任何采矿业对改进深孔钻探作的贡献都要大。\N\N
+Dialogue: 0,0:00:46.82,0:00:51.31,Default,,0,0,0,,When it has been decided where we are going to drill,\N\N当确定钻孔地点后,\N\N
+Dialogue: 0,0:00:51.31,0:00:54.87,Default,,0,0,0,,derrick: n.  井架\N\Nwe put up at the surface an oil derrick\N\N我们就在那里竖起一个井架.\N\N
+Dialogue: 0,0:00:54.87,0:00:59.94,Default,,0,0,0,,It has to be tall because it is like a giant block and tackle.\N\N井架必须很高,因为它像一个巨型滑轮组.\N\N
+Dialogue: 0,0:00:59.94,0:01:02.40,Default,,0,0,0,,and we have to lower into the ground\N\N我们必须把很长的钻杆一节节地钻入地下,\N\N
+Dialogue: 0,0:01:02.40,0:01:06.04,Default,,0,0,0,,haul: v.  拖，拉\N\Nand haul out of the ground great lengths of drill pipe.\N\N然后再从地下接出来.\N\N
+Dialogue: 0,0:01:06.04,0:01:08.75,Default,,0,0,0,,rotate: v.  使转动\N\Nwhich are rotated by an engine at the top,\N\N钻杆顶部安装的发动机带动钻杆旋转,\N\N
+Dialogue: 0,0:01:08.75,0:01:11.69,Default,,0,0,0,,and are fitted with a cutting bit at the bottom.\N\N它的底部装有钻头.\N\N
+Dialogue: 0,0:01:11.69,0:01:17.17,Default,,0,0,0,,geologist: n.  地质学家\N\NThe geologist needs to know what rocks the drill has reached,\N\N地质学家需要知道钻头已经到达什么样的岩层,\N\N
+Dialogue: 0,0:01:17.17,0:01:22.31,Default,,0,0,0,,so every so often a sample is obtained with a coring bit.\N\N因此时常要用取芯钻头取样.\N\N
+Dialogue: 0,0:01:22.31,0:01:25.40,Default,,0,0,0,,It cuts a clean cylinder of rock,\N\N这种钻头能切割一段光滑的圆柱形岩石,\N\N
+Dialogue: 0,0:01:25.40,0:01:29.63,Default,,0,0,0,,from which can be seen the strata the drill has been cutting through.\N\N从中能看出钻头所钻透的地层.\N\N
+Dialogue: 0,0:01:29.63,0:01:34.78,Default,,0,0,0,,Once we get down to the oil,it usually flows to the surface\N\N一旦到达油层,石油就会流到地面上来\N\N
+Dialogue: 0,0:01:34.78,0:01:40.21,Default,,0,0,0,,because great pressure either from gas or water,is pushing it.\N\N由于有来自地下天然气或水的巨大压力推它.\N\N
+Dialogue: 0,0:01:40.21,0:01:43.48,Default,,0,0,0,,This pressure must be under control,\N\N这种压力必须加以控制,\N\N
+Dialogue: 0,0:01:43.48,0:01:48.75,Default,,0,0,0,,circulate: v.  注入，环流\N\Nand we control it by means of the mud which we circulate down the drill pipe.\N\N我们采用的控制方法是让泥浆顺着钻杆向下循环.\N\N
+Dialogue: 0,0:01:48.75,0:01:57.02,Default,,0,0,0,,gusher: n.  喷油井\N\NWe endeavour to avoid the old,romantic idea of a gusher,which wastes oil and gas.\N\N我们尽量避免使用陈旧天真的喷井方法,那样会浪费石油和天然气.\N\N
+Dialogue: 0,0:01:57.02,0:02:02.02,Default,,0,0,0,,We want it to stay down the hole until we can lead it off in a controlled manner.\N\N我们要让石油留在井下,直到我们能用一种有控制的方法把它引上来为止.\N\N

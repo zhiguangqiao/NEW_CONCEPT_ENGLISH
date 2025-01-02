@@ -1,0 +1,44 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.08,Default,,0,0,0,,Lesson 15 Secrecy in industry\N\N工业中的秘密\N\N
+Dialogue: 0,0:00:05.08,0:00:09.33,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:09.33,0:00:15.04,Default,,0,0,0,,secrecy: n.  秘密\N\NWhy is secrecy particularly important in the chemical industries?\N\N为什么在化学工业中,保密尤其重要?\N\N
+Dialogue: 0,0:00:15.04,0:00:16.85,Default,,0,0,0,,2 factors\N\N有两个因素\N\N
+Dialogue: 0,0:00:16.85,0:00:21.77,Default,,0,0,0,,effectiveness: n.  成效，效力\N\Nweigh heavily against the effectiveness of scientific research in industry.\N\N严重地妨碍着工业中科学研究的效率:\N\N
+Dialogue: 0,0:00:21.77,0:00:27.70,Default,,0,0,0,,secrecy: n.  秘密\N\NOne is the general atmosphere of secrecy in which it is carried out,\N\N一是科研工作中普遍存在的保密气氛:\N\N
+Dialogue: 0,0:00:27.70,0:00:32.08,Default,,0,0,0,,the other the lack of freedom of the individual research worker.\N\N二是研究人员缺乏个人自由.\N\N
+Dialogue: 0,0:00:32.08,0:00:36.42,Default,,0,0,0,,inquiry: n.  调查研究\N\NIn so far as any inquiry is a secret one,\N\N任何一项研究都涉及到保密,\N\N
+Dialogue: 0,0:00:36.42,0:00:40.67,Default,,0,0,0,,it naturally limits all those engaged in carrying it out\N\N那些从事科研的人员自然受到了限制.\N\N
+Dialogue: 0,0:00:40.67,0:00:43.98,Default,,0,0,0,,from effective contact with their fellow scientists\N\N他们不能和同行们进行有效接触,\N\N
+Dialogue: 0,0:00:43.98,0:00:46.94,Default,,0,0,0,,either in other countries or in universities,\N\N不管他们是来自其他国家或其他大学,\N\N
+Dialogue: 0,0:00:46.94,0:00:51.75,Default,,0,0,0,,or even,often enough, in other departments of the same firm.\N\N甚至往往不能与本公司的其他部门的同行们进行有效的接触.\N\N
+Dialogue: 0,0:00:51.75,0:00:56.78,Default,,0,0,0,,secrecy: n.  秘密\N\NThe degree of secrecy naturally varies considerably.\N\N保密程度自然差别很大.\N\N
+Dialogue: 0,0:00:56.78,0:01:00.83,Default,,0,0,0,,Some of the bigger firms are engaged in researches\N\N某些大公司进行的研究\N\N
+Dialogue: 0,0:01:00.83,0:01:03.86,Default,,0,0,0,,which are of such general and fundamental nature\N\N属于一般和基础性的研究\N\N
+Dialogue: 0,0:01:03.86,0:01:09.15,Default,,0,0,0,,that it is a positive advantage to them not to keep them secret.\N\N因此不保密对他们才有利\N\N
+Dialogue: 0,0:01:09.15,0:01:13.84,Default,,0,0,0,,process: n.  过程\N\NYet a great many processes depending on such research\N\N然而,依赖这种研究的很多工艺程序\N\N
+Dialogue: 0,0:01:13.84,0:01:16.68,Default,,0,0,0,,secrecy: n.  秘密\N\Nare sought for with complete secrecy\N\N是在完全保密的情况下进行的.\N\N
+Dialogue: 0,0:01:16.68,0:01:20.04,Default,,0,0,0,,patent: n.  专利；\N\Nuntil the stage at which patents can be taken out.\N\N直到可以取得专利权的阶段为止.\N\N
+Dialogue: 0,0:01:20.04,0:01:26.66,Default,,0,0,0,,process: n.  过程, patent: n.  专利；\N\NEven more processes are never patented at all but kept as secret processes.\N\N更多的工艺过程根本就不会取得专利权,而是作为秘方保存着.\N\N
+Dialogue: 0,0:01:26.66,0:01:31.03,Default,,0,0,0,,This applies particularly to chemical industries,\N\N这在化学工业方面尤其突出,\N\N
+Dialogue: 0,0:01:31.03,0:01:34.95,Default,,0,0,0,,where chance discoveries play a much larger part\N\N化学工业中偶然发现的机会要多得多,\N\N
+Dialogue: 0,0:01:34.95,0:01:38.35,Default,,0,0,0,,than they do in physical and mechanical industries.\N\N同物理和机械工业相比.\N\N
+Dialogue: 0,0:01:38.35,0:01:42.17,Default,,0,0,0,,secrecy: n.  秘密\N\NSometimes the secrecy goes to such an extent\N\N有时,保密竟达到了这样的程度,\N\N
+Dialogue: 0,0:01:42.17,0:01:45.56,Default,,0,0,0,,that the whole nature of the research cannot be mentioned.\N\N即连研究工作的整个性质都不准提及.\N\N
+Dialogue: 0,0:01:45.56,0:01:48.06,Default,,0,0,0,,Many firms,for instance\N\N比如,很多公司\N\N
+Dialogue: 0,0:01:48.06,0:01:53.24,Default,,0,0,0,,have great difficulty in obtaining technical or scientific books from libraries\N\N向图书馆借阅科技书籍时感到很困难,\N\N
+Dialogue: 0,0:01:53.24,0:01:56.06,Default,,0,0,0,,because they are unwilling to have their names entered\N\N因为它们不愿让人家记下它们公司的名字\N\N
+Dialogue: 0,0:01:56.06,0:01:58.69,Default,,0,0,0,,as having taken out such and such a book,\N\N和曾经借阅过某某书.\N\N
+Dialogue: 0,0:01:58.69,0:02:04.08,Default,,0,0,0,,agent: n.  情报人员\N\Nfor fear the agents of other firms should be able to trace the kind of research\N\N他们生怕别的公司的情报人员据此摸到\N\N
+Dialogue: 0,0:02:04.08,0:02:09.08,Default,,0,0,0,,they are likely to be undertaking.\N\N他们可能要从事的某项科研项目.\N\N

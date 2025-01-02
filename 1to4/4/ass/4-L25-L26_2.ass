@@ -1,0 +1,56 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.70,Default,,0,0,0,,Lesson 26 The past life of the earth\N\N地球上的昔日生命\N\N
+Dialogue: 0,0:00:07.70,0:00:11.56,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:11.56,0:00:18.03,Default,,0,0,0,,preservation: n.  保存\N\NWhat is the main condition for the preservation of the remains of any living creature?\N\N生物的尸体被保存下来的主要条件是什么?\N\N
+Dialogue: 0,0:00:18.03,0:00:24.64,Default,,0,0,0,,It is animals and plants which lived in or near water\N\N只有生活在水中或水边的动植物\N\N
+Dialogue: 0,0:00:24.64,0:00:27.55,Default,,0,0,0,,whose remains are most likely to be preserved,\N\N其尸体最有可能被保存下来,\N\N
+Dialogue: 0,0:00:27.55,0:00:32.53,Default,,0,0,0,,preservation: n.  保存\N\Nfor one of the necessary conditions of preservation is quick burial,\N\N因保存的必要条件之一是迅速掩埋,\N\N
+Dialogue: 0,0:00:32.53,0:00:36.92,Default,,0,0,0,,and it is only in the seas and rivers, and sometimes lakes,\N\N所以只有在海洋和江河里有时在湖泊里,\N\N
+Dialogue: 0,0:00:36.92,0:00:40.33,Default,,0,0,0,,silt: n.  淤泥\N\Nwhere mud and silt have been continuously deposited,\N\N这些泥沙不停淤积的地方\N\N
+Dialogue: 0,0:00:40.33,0:00:45.18,Default,,0,0,0,,that bodies and the like can be rapidly covered over and preserved.\N\N尸体之类的东西才能被迅速地覆盖而保存下来.\N\N
+Dialogue: 0,0:00:45.18,0:00:49.12,Default,,0,0,0,,But even in the most favourable circumstances\N\N即使是在最有利的环境中,\N\N
+Dialogue: 0,0:00:49.12,0:00:53.79,Default,,0,0,0,,only a small fraction of the creatures that die are preserved in this way\N\N死去的生物中也只有一小部分能被这样保存下来,\N\N
+Dialogue: 0,0:00:53.79,0:00:59.16,Default,,0,0,0,,scavenger: n.  食腐动物\N\Nbefore decay sets in or,even more likely, before scavengers eat them.\N\N在开始腐烂前,或更可能在被食腐动物吃掉之前,被这样保存下来.\N\N
+Dialogue: 0,0:00:59.16,0:01:04.87,Default,,0,0,0,,After all,all living creatures live by feeding on something else,\N\N因为一切生物都是靠吃别的东西来活命的,\N\N
+Dialogue: 0,0:01:04.87,0:01:08.74,Default,,0,0,0,,whether it be plant or animal,dead or alive,\N\N不管这种东西是植物还是动物,死的还是活的,\N\N
+Dialogue: 0,0:01:08.74,0:01:12.73,Default,,0,0,0,,and it is only by chance that such a fate is avoided.\N\N因此,生物偶尔才能避免被吃掉的命运.\N\N
+Dialogue: 0,0:01:12.73,0:01:18.83,Default,,0,0,0,,The remains of plants and animals that lived on land are much more rarely preserved,\N\N曾在陆地上生活过的动植物的遗体被保存下来的更为罕见,\N\N
+Dialogue: 0,0:01:18.83,0:01:22.17,Default,,0,0,0,,for there is seldom anything to cover them over.\N\N因为陆地上几乎没有什么东西覆盖它们.\N\N
+Dialogue: 0,0:01:22.17,0:01:27.30,Default,,0,0,0,,When you think of the innumerable birds that one sees flying about,\N\N你可以想象出天上有看得见的飞来飞去、数不清的鸟,\N\N
+Dialogue: 0,0:01:27.30,0:01:32.74,Default,,0,0,0,,vole: n.  野鼠，鼹鼠\N\Nnot to mention the equally numerous small animals like field mice and voles\N\N地上有无数的老鼠和田鼠之类\N\N
+Dialogue: 0,0:01:32.74,0:01:34.20,Default,,0,0,0,,which you do not see,\N\N这些不显眼的小动物,\N\N
+Dialogue: 0,0:01:34.20,0:01:40.90,Default,,0,0,0,,it is very rarely that one comes across a dead body,except,of course,on the roads.\N\N但是,除非在路上,很少有人遇到这些动物的尸体,\N\N
+Dialogue: 0,0:01:40.90,0:01:48.09,Default,,0,0,0,,decompose: v.  腐烂\N\NThey decompose and are quickly destroyed by the weather or eaten by some other creature.\N\N因为它们腐败之后很快就被风化掉,或被别的动物吃掉了.\N\N
+Dialogue: 0,0:01:48.09,0:01:53.04,Default,,0,0,0,,It is almost always due to some very special circumstances\N\N几乎总是由于某些特殊的条件,\N\N
+Dialogue: 0,0:01:53.04,0:01:55.73,Default,,0,0,0,,that traces of land animals survive,\N\N陆地动物的遗体才被保存下来,\N\N
+Dialogue: 0,0:01:55.73,0:02:02.19,Default,,0,0,0,,as by falling into inaccessible caves,or into an ice crevasse,\N\N如掉进难以到达的洞穴,或冰窟中,aa\N\N
+Dialogue: 0,0:02:02.19,0:02:04.83,Default,,0,0,0,,like the Siberian mammoths,\N\N像西伯利亚长毛象那样,\N\N
+Dialogue: 0,0:02:04.83,0:02:09.71,Default,,0,0,0,,when the whole animal is sometimes preserved,as in a refrigerator.\N\N有时整个动物像被放在冰箱里一样被保存下来.\N\N
+Dialogue: 0,0:02:09.71,0:02:14.23,Default,,0,0,0,,This is what happened to the famous Beresovka mammoth\N\N著名的别林索夫卡长毛象就是这样aa\N\N
+Dialogue: 0,0:02:14.23,0:02:17.11,Default,,0,0,0,,which was found preserved and in good condition.\N\N被保存下来的,而且保存得很好.\N\N
+Dialogue: 0,0:02:17.11,0:02:20.99,Default,,0,0,0,,In his mouth were the remains of fir trees--\N\N它嘴里还留着冷杉--\N\N
+Dialogue: 0,0:02:20.99,0:02:26.18,Default,,0,0,0,,the last meal that he had before he fell into the crevasse and broke his back.\N\N它掉进冰河裂隙折断脊柱之前的最后一顿饭.\N\N
+Dialogue: 0,0:02:26.18,0:02:32.37,Default,,0,0,0,,The mammoth has now been restored in the Palaeontological Museum in St.Petersburg.\N\N这头长毛象已被修复,现存于圣彼得堡古生物学博物馆.\N\N
+Dialogue: 0,0:02:32.37,0:02:35.76,Default,,0,0,0,,Other animals were trapped in tar pits,\N\N有的动物掉进天然沥青坑里被保存了下来,\N\N
+Dialogue: 0,0:02:35.76,0:02:40.65,Default,,0,0,0,,like the elephants, sabre-toothed cats, and numerous other creatures\N\N如大象,剑齿虎和许多其它动物,\N\N
+Dialogue: 0,0:02:40.65,0:02:45.70,Default,,0,0,0,,that are found at Rancho la Brea,which is now just a suburb of Los Angeles.\N\N它们是在兰桥·拉·布里--现在洛杉矶的郊区被发现的.\N\N
+Dialogue: 0,0:02:45.70,0:02:50.84,Default,,0,0,0,,Apparently what happened was that water collected on these tar pits\N\N显然,事情的经过是这样:沥青坑里积存了水,\N\N
+Dialogue: 0,0:02:50.84,0:02:53.55,Default,,0,0,0,,and the bigger animals like the elephants\N\N大象那样的大动物\N\N
+Dialogue: 0,0:02:53.55,0:02:57.42,Default,,0,0,0,,venture: v.  冒险\N\Nventured out on to the apparently firm surface to drink,\N\N冒险到似乎坚固的水面上去饮水,\N\N
+Dialogue: 0,0:02:57.42,0:03:00.28,Default,,0,0,0,,and were promptly bogged in the tar.\N\N立即掉进了沥青坑.\N\N
+Dialogue: 0,0:03:00.28,0:03:04.41,Default,,0,0,0,,And then,when they were dead,the carnivores,\N\N大象死后,一些食肉动物,\N\N
+Dialogue: 0,0:03:04.41,0:03:08.19,Default,,0,0,0,,like the sabretoothed cats and the giant wolves,\N\N如剑齿虎和大灰狼\N\N
+Dialogue: 0,0:03:08.19,0:03:11.74,Default,,0,0,0,,came out to feed and suffered exactly the same fate.\N\N就来吃大象,结果遭到了同样的命运.\N\N
+Dialogue: 0,0:03:11.74,0:03:16.74,Default,,0,0,0,,There are also endless numbers of birds in the tar as well.\N\N沥青坑里还有无数只鸟的尸体.\N\N

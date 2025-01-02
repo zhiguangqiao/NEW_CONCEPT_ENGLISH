@@ -1,0 +1,36 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.76,Default,,0,0,0,, Lesson 15.50 Pents worth of trouble.\N第15章的款项价值。
+Dialogue: 0,0:00:03.76,0:00:07.12,Default,,0,0,0,, appreciate: v.   欣赏，感激\N Children always appreciate small gifts of money.\N孩子们总是欣赏小礼物。
+Dialogue: 0,0:00:07.12,0:00:12.48,Default,,0,0,0,, Mom or dad, of course, provide a regular supply of pocket money.\N当然，爸爸妈妈可以定期提供零用钱。
+Dialogue: 0,0:00:12.48,0:00:16.16,Default,,0,0,0,, But uncles and aunts are always a source of extra income.\N但是叔叔和阿姨始终是额外收入的来源。
+Dialogue: 0,0:00:16.16,0:00:19.92,Default,,0,0,0,, With some children, small sums go a long way.\N有了一些孩子，小额款项走了很长一段路。
+Dialogue: 0,0:00:19.92,0:00:23.76,Default,,0,0,0,, If 50 pens pieces are not exchanged for sweets,\N如果没有将50件笔换成糖果，
+Dialogue: 0,0:00:23.76,0:00:27.04,Default,,0,0,0,, they rattle for months inside money boxes.\N他们在金钱盒中拨动了几个月。
+Dialogue: 0,0:00:27.04,0:00:31.20,Default,,0,0,0,, thrifty: adj. 节约的\N Only very thrifty children manage to fill up a money box.\N只有非常节俭的孩子才能填满钱箱。
+Dialogue: 0,0:00:31.20,0:00:36.64,Default,,0,0,0,, For most of them, 50 pens is a small price to pay for a nice big bar of chocolate.\N对于他们中的大多数人来说，50支笔是为了支付一块漂亮的大巧克力的小代价。
+Dialogue: 0,0:00:37.60,0:00:42.72,Default,,0,0,0,, nephew: n.   侄子，外甥\N My nephew, George, has a money box but it is always empty.\N我的侄子乔治（George）有一个钱盒，但它总是空的。
+Dialogue: 0,0:00:42.72,0:00:47.76,Default,,0,0,0,, Very few of the 50 pens pieces and pound coins I have given him have found their way there.\N我给他的50件笔和磅硬币中很少有人在那里找到了他们的路。
+Dialogue: 0,0:00:48.56,0:00:52.16,Default,,0,0,0,, I gave him 50 pens yesterday and advised him to save it.\N昨天我给了他50支笔，并建议他保存它。
+Dialogue: 0,0:00:52.88,0:00:56.48,Default,,0,0,0,, Instead he bought himself 50 pens worth of trouble.\N取而代之的是，他买了50张子的麻烦。
+Dialogue: 0,0:00:56.48,0:01:02.08,Default,,0,0,0,, bounce: v.   弹起，跳起, pavement: n.   人行道\N On his way to the sweet shop, he dropped his 50 pens and it bounced along the pavement\N在去甜店的途中，他丢下了50支笔，然后沿着人行道弹跳
+Dialogue: 0,0:01:02.08,0:01:03.84,Default,,0,0,0,, and then disappeared down a drain.\N然后消失在排水管上。
+Dialogue: 0,0:01:04.64,0:01:10.48,Default,,0,0,0,, George took off his jacket, rolled up his sleeves and pushed his right arm through the drain cover.\N乔治脱下外套，卷起袖子，将右臂推过排水管。
+Dialogue: 0,0:01:11.36,0:01:14.80,Default,,0,0,0,, He could not find his 50 pens piece anywhere.\N他在任何地方都找不到他的50张笔。
+Dialogue: 0,0:01:14.80,0:01:18.16,Default,,0,0,0,, And what is more, he could no get his arm out.\N而且，他无法伸出手臂。
+Dialogue: 0,0:01:18.16,0:01:22.88,Default,,0,0,0,, A crowd of people gathered around him and a lady rubbed his arm with soap and butter.\N一群人聚集在他周围，一位女士用肥皂和黄油擦了手臂。
+Dialogue: 0,0:01:23.68,0:01:25.92,Default,,0,0,0,, But George was firmly stuck.\N但是乔治被牢牢地陷入了困境。
+Dialogue: 0,0:01:25.92,0:01:31.52,Default,,0,0,0,, brigade: n.   旅，（消防）队, grease: n.   润滑油\N The fire brigade was called an two firefighter freed George using a special type of grease.\N消防队被称为两名消防员使用一种特殊类型的油脂释放乔治。
+Dialogue: 0,0:01:32.48,0:01:38.16,Default,,0,0,0,, George was not too upset by his experience because the lady who owns the sweet shop heard about his.\N乔治并不为自己的经历而沮丧，因为拥有甜蜜店的女士听说了他。
+Dialogue: 0,0:01:39.04,0:01:48.00,Default,,0,0,0,, Troubles and rewarded him with large box of chocolates.\N麻烦，用大盒巧克力奖励他。

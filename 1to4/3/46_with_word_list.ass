@@ -1,0 +1,52 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.88,Default,,0,0,0,, Lesson 46. Do it yourself. So great is our passion for doing things for ourselves.\N第46课。自己做。我们对自己做事的热情是如此之大。
+Dialogue: 0,0:00:06.88,0:00:11.52,Default,,0,0,0,, That we are becoming increasingly less dependent on specialized labor.\N我们越来越依赖专业劳动。
+Dialogue: 0,0:00:11.52,0:00:15.20,Default,,0,0,0,, plead: v.   找（借口），辩解, ignorance: n.   无知，不懂\N No one can plead ignorance of a subject any longer.\N没有人能再无知。
+Dialogue: 0,0:00:15.20,0:00:18.72,Default,,0,0,0,, publication: n.   出版物\N For these are countless do it yourself publications.\N因为这些是自己的出版物。
+Dialogue: 0,0:00:18.72,0:00:21.52,Default,,0,0,0,, Armed with the right tools and materials.\N配备正确的工具和材料。
+Dialogue: 0,0:00:21.52,0:00:26.24,Default,,0,0,0,, Newly wed Galey embark on the task of decorating their own homes.\N新婚盖利（Galey）开始装饰自己的房屋的任务。
+Dialogue: 0,0:00:26.24,0:00:32.96,Default,,0,0,0,, leisure: n.   空闲\N Men, particularly, spend hours of their leisure time installing their own fireplaces.\N尤其是男人，花费数小时的时间安装自己的壁炉。
+Dialogue: 0,0:00:32.96,0:00:38.08,Default,,0,0,0,, Laying out their own gardens. Building garages and making furniture.\N布置自己的花园。建造车库并制作家具。
+Dialogue: 0,0:00:38.08,0:00:42.24,Default,,0,0,0,, keen: adj. 热心的，渴望的\N Some really keen enthusiasts go so far as to build their own computers.\N一些真正敏锐的爱好者甚至可以构建自己的计算机。
+Dialogue: 0,0:00:43.20,0:00:49.44,Default,,0,0,0,, advisory: adj. 咨询的, novice: n.   新手\N Shops cater for the do it yourself craze not only by running special advisory services for novices.\N商店不仅通过为新手开展特殊的咨询服务来迎合自己的热潮。
+Dialogue: 0,0:00:50.32,0:00:54.64,Default,,0,0,0,, consumer: n.   消费者，顾客, assemble: v.   装配，组装\N But by offering consumers bits and pieces which they can assemble at home.\N但是，通过提供可以在家组装的消费者零碎的东西。
+Dialogue: 0,0:00:55.52,0:01:00.00,Default,,0,0,0,, outlet: n.   出路, creative: adj. 创造性的\N Such things provide an excellent outlet for pent up creative energy.\N这样的事情为抑制创造力的精力提供了绝佳的渠道。
+Dialogue: 0,0:01:00.00,0:01:03.04,Default,,0,0,0,, But unfortunately not all of us are born handymen.\N但是不幸的是，并非我们所有人都是天生的杂物。
+Dialogue: 0,0:01:03.76,0:01:09.12,Default,,0,0,0,, resourceful: adj. 足智多谋的\N Some wives tend to believe that their husbands are infinitely resourceful and can fix anything.\N一些妻子倾向于相信他们的丈夫无限足智多谋，可以解决任何问题。
+Dialogue: 0,0:01:09.92,0:01:14.88,Default,,0,0,0,, Even men who can hardly drive a nail in straight are supposed to be born electricians.\N即使是几乎无法驾驶指甲的男人也应该是天生的电工。
+Dialogue: 0,0:01:15.84,0:01:20.56,Default,,0,0,0,, fuse: v.   由于烧断保险丝而短路\N Carpenters. Plummers and mechanics. When lights fuse.\N木匠。水管工和力学。当灯融合时。
+Dialogue: 0,0:01:20.64,0:01:26.72,Default,,0,0,0,, rickety: adj. 要散架的，晃动的, clog: v.   堵塞\N Furniture gets rickety. Pipes get clogged. Or vacuum cleaners fail to operate.\N家具摇摇欲坠。管子被堵塞。或真空吸尘器无法操作。
+Dialogue: 0,0:01:26.72,0:01:30.72,Default,,0,0,0,, Some women assume that their husbands will somehow put things right.\N一些妇女认为自己的丈夫会以某种方式把事情做对。
+Dialogue: 0,0:01:30.72,0:01:36.08,Default,,0,0,0,, delusion: n.   错觉\N The worst thing about the do it yourself game is that sometimes even men live under the delusion.\N关于自己做的最糟糕的事情是，有时甚至男人都生活在妄想之下。
+Dialogue: 0,0:01:36.88,0:01:41.76,Default,,0,0,0,, That they can do anything. Even when they have repeatedly been proved wrong.\N他们可以做任何事情。即使他们一再被证明是错误的。
+Dialogue: 0,0:01:41.76,0:01:44.72,Default,,0,0,0,, It is a question of pride as much as anything else.\N这是一个与其他任何事物一样多的自豪问题。
+Dialogue: 0,0:01:45.44,0:01:49.84,Default,,0,0,0,, Last spring my wife suggested that I call in a man to look at our lawn mower.\N去年春天，我的妻子建议我打电话给一个男人看我们的割草机。
+Dialogue: 0,0:01:50.64,0:01:55.52,Default,,0,0,0,, It had broken down the previous summer. And though I promised to repair it.\N它已经破坏了前夏天。尽管我答应修复它。
+Dialogue: 0,0:01:55.52,0:02:01.44,Default,,0,0,0,, I had never got around it. I would not hear of the suggestion and said that I would fix it myself.\N我从来没有解决过。我不会听到这个建议，并说我会自己修复。
+Dialogue: 0,0:02:02.32,0:02:07.60,Default,,0,0,0,, One Saturday afternoon I hauled the machine into the garden and had a close look at it.\N一个星期六下午，我将机器拖到花园里，仔细看了看它。
+Dialogue: 0,0:02:08.32,0:02:14.64,Default,,0,0,0,, adjustment: n.   调整, screw: n.   螺丝钉\N As far as I could see it needed only a minor adjustment. A turn of a screw here.\N据我所知，它只需要进行较小的调整。这里的螺丝转弯。
+Dialogue: 0,0:02:14.64,0:02:19.20,Default,,0,0,0,, A little tightening up there. A drop of oil and it would be as good as new.\N那里有点收紧。一滴油，它和新的一样好。
+Dialogue: 0,0:02:20.00,0:02:26.40,Default,,0,0,0,, fuse: v.   由于烧断保险丝而短路\N Inevitably the repair job was not quite so simple. The mower firmly refused to mow.\N不可避免地，维修工作并不那么简单。割草机坚定地拒绝割草。
+Dialogue: 0,0:02:26.40,0:02:32.24,Default,,0,0,0,, dismantle: v.   拆卸, chunk: n.   （厚）块\N So I decided to dismantle it. The garden was soon littered with chunks of metal which had once\N所以我决定拆除它。花园很快就散布着曾经有过的金属
+Dialogue: 0,0:02:32.24,0:02:39.68,Default,,0,0,0,, made up a lawn mower. But I was extremely pleased with myself. I had traced the cause of the trouble.\N组成割草机。但是我对自己感到非常满意。我追踪了麻烦的原因。
+Dialogue: 0,0:02:39.68,0:02:42.96,Default,,0,0,0,, snap: v.   绷断\N One of links in the chain that drives the wheels had snapped.\N驱动车轮驱动的链条中的一个链接已经折断。
+Dialogue: 0,0:02:43.76,0:02:49.04,Default,,0,0,0,, insurmountable: adj. 不能克服的，难以对付的\N After buying a new chain I was faced with the insurmountable task of putting the confusing\N购买新连锁店后，我面临着令人困惑的不可或缺的任务
+Dialogue: 0,0:02:49.04,0:02:55.92,Default,,0,0,0,, fuse: v.   由于烧断保险丝而短路, jigsaw: n.   线锯\N jigsaw. Puzzle together again. I was not surprised to find that the machine still refused to work\N拼图。再次拼图。我并不感到惊讶的是，机器仍然拒绝工作
+Dialogue: 0,0:02:55.92,0:03:02.08,Default,,0,0,0,, assemble: v.   装配，组装\N after I had reassembled it. For the simple reason that I was left with several curiously shaped\N我重新组装后。出于简单的原因，我留下了几个好奇的形状
+Dialogue: 0,0:03:02.08,0:03:09.36,Default,,0,0,0,, bits of metal which did not. Seemed to fit anywhere. I gave up in despair. The weeks passed and the\N没有的金属。似乎适合任何地方。我绝望地放弃了。几周过去了
+Dialogue: 0,0:03:09.36,0:03:15.36,Default,,0,0,0,, nag: v.   唠叨不休\N grass grew. When my wife nagged me to do something about it. I told her that either I would have to\N草生长。当我的妻子na咬我做些事情时。我告诉她，要么我必须
+Dialogue: 0,0:03:15.36,0:03:22.24,Default,,0,0,0,, buy a new mower or let the grass grow. Needless to say our house is now surrounded by a jungle.\N购买新的割草机或让草生长。不用说我们的房子现在被丛林所包围。
+Dialogue: 0,0:03:22.24,0:03:27.60,Default,,0,0,0,, Buried somewhere in deep grass there is a rusting lawn mower which I have promised to repair one.\N埋在深草中的某个地方有一个生锈的割草机，我答应修复一个。
+Dialogue: 0,0:03:28.48,0:03:34.08,Default,,0,0,0,, Day\N天

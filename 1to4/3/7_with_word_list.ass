@@ -1,0 +1,20 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.56,Default,,0,0,0,, Lesson 7. Mutilated Ladies. Has it ever happened to you? Have you ever put your trousers in the washing machine and then remembered there was a large bank?\N第7课。残缺的女士。它曾经发生过吗？您是否曾经把裤子放在洗衣机上，然后记得有一家大银行？
+Dialogue: 0,0:00:10.56,0:00:22.18,Default,,0,0,0,, Note in your back pocket? When you rescued your trousers? Did note in your back pocket? When you rescued your trousers? Did you find the note was wider than white?\N在您的后袋里注意？当您救出裤子时？在您的后口袋里注什么了吗？当您救出裤子时？您发现音符比白色宽吗？
+Dialogue: 0,0:00:22.18,0:00:37.28,Default,,0,0,0,, People who live in Britain needn't despair when they made mistakes like this. And a lot of people do. Fortunately for them, the Bank of England has a team called Mutilated Ladies which deals with claims from people who fed.\N居住在英国的人在犯这样的错误时不需要绝望。很多人都这样做。对他们来说幸运的是，英格兰银行拥有一个名为“残肢女士”的团队，该团队处理了喂养人的主张。
+Dialogue: 0,0:00:37.28,0:00:59.42,Default,,0,0,0,, chew: v.   咀嚼, microwave: n.   微波，微波炉, oven: n.   炉灶\N Their money to a machine or to their dog. Dogs. It seems. Love to chew up money. A recent case concerns Jane Butler who's fiancé. John runs a successful furniture business. John had very good day and put his wallet containing $3,000 into the microwave oven for safe keeping.\N他们的钱给机器或狗。狗。它似乎。喜欢咀嚼钱。最近的一个案件涉及未婚夫简·巴特勒。约翰经营一家成功的家具业务。约翰度过了非常好的一天，将他的钱包里装有3,000美元的钱包进入微波炉，以确保保存。
+Dialogue: 0,0:00:59.72,0:01:17.04,Default,,0,0,0,, microwave: n.   微波，微波炉, oven: n.   炉灶\N Then he and Jane went horse riding. When they got home, Jane cooked their dinner in the microwave oven and without realizing it. Cooked her fiancé's wallet as well. Imagine their dismay when they found a beautifully cooked wallet and notes turned to ash.\N然后他和简骑马了。当他们回到家时，简在微波炉烤箱里煮晚餐，而没有意识到。也煮了她的未婚夫钱包。想象一下，当他们找到一个精美的钱包时，他们的沮丧，并说明灰烬。
+Dialogue: 0,0:01:17.04,0:01:39.10,Default,,0,0,0,, Newcastle: n.   纽卡斯尔（英国港市）, identify: v.   鉴定，识别, spokeswoman: n.   女发言人\N John went to see his bank manager who sent the remains of wallet and the money to the special. Department of the Bank of England in Newcastle. The Mutilated Ladies. They examined the remain and John got all his money back. So long as there's something to identify, we will give people their money back, said a spokeswoman for the bank.\N约翰去看了他的银行经理，他的银行经理将钱包和钱寄给了特别。纽卡斯尔英格兰银行部。残酷的女士。他们检查了遗体，约翰把所有的钱都拿回了。银行的女发言人说，只要有什么要识别的东西，我们将把钱还给人们。
+Dialogue: 0,0:01:39.10,0:01:52.16,Default,,0,0,0,, Last year, we paid $1.5 million on 21,000 claims damaged bank notes. The Queen's head appears on English bank notes. And Lady refers to this.\N去年，我们支付了150万美元的21,000张索赔，损坏了银行票据。女王的头出现在英语钞票上。女士提到了这个。

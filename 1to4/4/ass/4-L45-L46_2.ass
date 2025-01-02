@@ -1,0 +1,70 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.52,Default,,0,0,0,,Lesson 46 Hobbies\N\N业余爱好\N\N
+Dialogue: 0,0:00:05.52,0:00:09.52,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:09.52,0:00:16.52,Default,,0,0,0,,Who,according to the author,are 'Fortune's favoured children'?\N\N作者认为什么人是"命运之神的宠儿"?\N\N
+Dialogue: 0,0:00:16.52,0:00:24.83,Default,,0,0,0,,psychologist: n.  心理学家\N\NA gifted American psychologist has said, 'Worry is a spasm of the emotion,\N\N一位天才的美国心理学家曾经说过:"烦恼是感情的发作,\N\N
+Dialogue: 0,0:00:24.83,0:00:29.29,Default,,0,0,0,,the mind catches hold of something and will not let it go.'\N\N此时脑子纠缠住了某种东西又不肯松手."\N\N
+Dialogue: 0,0:00:29.29,0:00:33.08,Default,,0,0,0,,It is useless to argue with the mind in this condition.\N\N在这种情况下,你和头脑争吵让它松手是无济于事的.\N\N
+Dialogue: 0,0:00:33.08,0:00:36.88,Default,,0,0,0,,The stronger the will, the more futile the task.\N\N这种意志越是强烈,这种尝试越是徒劳.\N\N
+Dialogue: 0,0:00:36.88,0:00:42.64,Default,,0,0,0,,insinuate: v.  便潜入，暗示\N\NOne can only gently insinuate something else into its convulsive grasp.\N\N你只能缓和而巧妙地让另一种东西进入痉挛僵持的头脑中.\N\N
+Dialogue: 0,0:00:42.64,0:00:46.22,Default,,0,0,0,,And if this something else is rightly chosen,\N\N如果这些东西选得合适,\N\N
+Dialogue: 0,0:00:46.22,0:00:50.88,Default,,0,0,0,,if it is really attended by the illum- ination of another field of interest,\N\N而且的确受到别的领域的情趣的启迪,\N\N
+Dialogue: 0,0:00:50.88,0:00:56.22,Default,,0,0,0,,grip: n.  紧张\N\Ngradually,and often quite swiftly,the old undue grip relaxes,\N\N那么渐渐地,往往也是很顺利地,原先不适当的紧张就会松弛下来,\N\N
+Dialogue: 0,0:00:56.22,0:00:59.91,Default,,0,0,0,,recuperation: n.  休息\N\Nand the process of recuperation and repair begins.\N\N恢复和修整的过程就会开始.\N\N
+Dialogue: 0,0:00:59.91,0:01:08.89,Default,,0,0,0,,The cultivation of a hobby and new forms of interest,is therefore a policy of the first importance to a public man.\N\N因此,培养一种业余爱好和各种新的兴趣,对一个从事社会活动的人来说,是头等重要的作法.\N\N
+Dialogue: 0,0:01:08.89,0:01:13.10,Default,,0,0,0,,But this is not a business that can be undertaken in a day,\N\N但这并非一日之功,\N\N
+Dialogue: 0,0:01:13.10,0:01:16.93,Default,,0,0,0,,or swiftly improvised by a mere command of the will.\N\N也不是单凭意志一蹴而就的事.\N\N
+Dialogue: 0,0:01:16.93,0:01:22.57,Default,,0,0,0,,The growth of alternative mental interests is a long process.\N\N精神上多种情趣的培养是一个长期的过程.\N\N
+Dialogue: 0,0:01:22.57,0:01:28.41,Default,,0,0,0,,The seeds must be carefully chosen;they must fall on good ground,\N\N你必须从精选良种做起,然后将其植入肥沃的土地,\N\N
+Dialogue: 0,0:01:28.41,0:01:35.76,Default,,0,0,0,,they must be sedulous- ly tended,if the vivi- fying fruits are to be at hand when needed.\N\N还需要勤勉地护理,这样才能在需要的时候可随手摘取充满生机的果实.\N\N
+Dialogue: 0,0:01:35.76,0:01:39.41,Default,,0,0,0,,To be really happy and really safe,\N\N一个人要想真正感到幸福和平安,\N\N
+Dialogue: 0,0:01:39.41,0:01:44.99,Default,,0,0,0,,one ought to have at least two or three hobbies,and they must all be real.\N\N至少应有两三种爱好,而且都比较实际.\N\N
+Dialogue: 0,0:01:44.99,0:01:51.31,Default,,0,0,0,,It is no use starting late in life to say:'I will take an interest in this or that.'\N\N到了晚年才开始说:"我会对这个或那个发生兴趣",已没有用了.\N\N
+Dialogue: 0,0:01:51.31,0:01:55.90,Default,,0,0,0,,aggravate: v.  加剧\N\NSuch an attempt only aggravates the strain of mental effort.\N\N这种愿望只能加剧精神紧张.\N\N
+Dialogue: 0,0:01:55.90,0:02:01.18,Default,,0,0,0,,A man may acquire great knowledge of topics unconnected with his daily work,\N\N一个人可能会获得与其日常工作无关的某些课题的渊博知识,\N\N
+Dialogue: 0,0:02:01.18,0:02:04.75,Default,,0,0,0,,and yet get hardly any benefit or relief.\N\N而没有从中得到什么实益或宽慰.\N\N
+Dialogue: 0,0:02:04.75,0:02:10.64,Default,,0,0,0,,It is no use doing what you like;you have got to like what you do.\N\N干你所喜欢的事是没有用的,你得喜欢你所干的事.\N\N
+Dialogue: 0,0:02:10.64,0:02:16.43,Default,,0,0,0,,Broadly speaking,human beings may be divided into three classes:\N\N泛泛地说,人可以分为3类:\N\N
+Dialogue: 0,0:02:16.43,0:02:18.75,Default,,0,0,0,,those who are toiled to death,\N\N劳累至死的人,\N\N
+Dialogue: 0,0:02:18.75,0:02:23.74,Default,,0,0,0,,those who are worried to death,and those who are bored to death.\N\N忧虑至死的人、无聊至死的人.\N\N
+Dialogue: 0,0:02:23.74,0:02:27.13,Default,,0,0,0,,It is no use offering the manual labourer,\N\N对于体力劳动者来说,\N\N
+Dialogue: 0,0:02:27.13,0:02:30.25,Default,,0,0,0,,tired out with a hard week's sweat and effort,\N\N流汗出力干了一周苦活后,\N\N
+Dialogue: 0,0:02:30.25,0:02:34.76,Default,,0,0,0,,the chance of playing a game of football or baseball on Saturday afternoon.\N\N让他们在星期六下午再踢足球是不合适的.\N\N
+Dialogue: 0,0:02:34.76,0:02:40.38,Default,,0,0,0,,It is no use inviting the politician or the professional or business man,\N\N同样,对于象政界人士、专业技术人员、商人,\N\N
+Dialogue: 0,0:02:40.38,0:02:44.28,Default,,0,0,0,,who has been working or worrying about serious things for six days,\N\N这样的为了严肃的公务操劳或烦恼了6天的人来说,\N\N
+Dialogue: 0,0:02:44.28,0:02:48.86,Default,,0,0,0,,to work or worry about trifling things at the weekend.\N\N在周末再让他们为琐事而动脑子和忧虑也是无益的.\N\N
+Dialogue: 0,0:02:48.86,0:02:53.93,Default,,0,0,0,,As for the unfortunate people who can command everything they want,\N\N至于那些能任意支配一切的"可怜的人",\N\N
+Dialogue: 0,0:02:53.93,0:03:00.13,Default,,0,0,0,,gratify: v.  便满意, caprice: n.  任性\N\Nwho can gratify every caprice and lay their hands on almost every object of desire--\N\N他们能够恣意妄为,能染指一切追求的目标--\N\N
+Dialogue: 0,0:03:00.13,0:03:06.01,Default,,0,0,0,,satiation: n.  满足\N\Nfor them a new pleasu- re a new excitement is only an additional satiation.\N\N对这种人来说,多一种新的乐趣、多一种新的刺激只是增加一分厌腻而已.\N\N
+Dialogue: 0,0:03:06.01,0:03:10.46,Default,,0,0,0,,In vain they rush frantically round from place to place,\N\N他们徒劳地到处狂奔乱跑,\N\N
+Dialogue: 0,0:03:10.46,0:03:15.21,Default,,0,0,0,,boredom: n.  厌烦, clatter: n.  喧闹的谈话\N\Ntrying to escape from avenging boredom by mere clatter and motion.\N\N企图以闲聊和乱窜来摆脱无聊对他们的报复.\N\N
+Dialogue: 0,0:03:15.21,0:03:21.07,Default,,0,0,0,,For them discipline in one form or another is the most hopeful path.\N\N对他们来说,用某种形式的纪律约束他们一下才能有希望使他们走上正道.\N\N
+Dialogue: 0,0:03:21.07,0:03:25.34,Default,,0,0,0,,It may also be said that rational, industrious,\N\N也可以这样说,理智的、勤劳的、\N\N
+Dialogue: 0,0:03:25.34,0:03:29.32,Default,,0,0,0,,useful human beings are divided into two classes:\N\N有用的人可以分为两类:\N\N
+Dialogue: 0,0:03:29.32,0:03:35.65,Default,,0,0,0,,first,those whose work is work and whose pleasure is pleasure;\N\N第一类是分清工作是工作,娱乐是娱乐的人;\N\N
+Dialogue: 0,0:03:35.65,0:03:41.24,Default,,0,0,0,,and secondly,those whose work and pleasure are one.\N\N第二类人的工作和娱乐是一回事.\N\N
+Dialogue: 0,0:03:41.24,0:03:47.48,Default,,0,0,0,,Of these the former are the majority. They have their compensations.\N\N这两类人当中,第一类人是大多数,他们能够得到补偿.\N\N
+Dialogue: 0,0:03:47.48,0:03:52.82,Default,,0,0,0,,The long hours in the office or the factory bring with them as their reward,\N\N在办公室或工厂里长时间的工作给他们带来了酬劳,\N\N
+Dialogue: 0,0:03:52.82,0:03:54.95,Default,,0,0,0,,sustenance: n.  生计\N\Nnot only the means of sustenance,\N\N这不仅是谋生的手段,\N\N
+Dialogue: 0,0:03:54.95,0:04:01.01,Default,,0,0,0,,appetite: n.  欲望\N\Nbut a keen appetite for pleasure even in its simplest and most modest forms.\N\N而且还带来了寻找乐趣的强烈欲望,那怕是最简单的、最低等的乐趣.\N\N
+Dialogue: 0,0:04:01.01,0:04:05.84,Default,,0,0,0,,But Fortune's favoured children belong to the second class,\N\N但是,命运之神的宠儿是第二类人,\N\N
+Dialogue: 0,0:04:05.84,0:04:09.23,Default,,0,0,0,,Their life is a natural harmony.\N\N他们的生活是一种自然的和谐.\N\N
+Dialogue: 0,0:04:09.23,0:04:12.89,Default,,0,0,0,,For them the working hours are never long enough.\N\N对他们来说,工作时间总不会太长.\N\N
+Dialogue: 0,0:04:12.89,0:04:18.23,Default,,0,0,0,,Each day is a holiday, and ordinary holidays, when they come,\N\N每天都是假日,而通常的假期到来时,\N\N
+Dialogue: 0,0:04:18.23,0:04:23.42,Default,,0,0,0,,grudge: v.  怨恨\N\Nare grudged as enforced interruptions in an absorbing vocation.\N\N他们却惋惜这假期强制打断了他们埋头从事的工作.\N\N
+Dialogue: 0,0:04:23.42,0:04:30.00,Default,,0,0,0,,Yet to both classes, the need of an alternative outlook,of a change of atmosphere,\N\N然而对这两种人来说,都需要换一换脑子,改变一下气氛,\N\N
+Dialogue: 0,0:04:30.00,0:04:33.32,Default,,0,0,0,,of a diversion of effort,is essential.\N\N转移一下注意力,这是不可缺少的.\N\N
+Dialogue: 0,0:04:33.32,0:04:38.08,Default,,0,0,0,,Indeed,it may well be that those whose work is their pleasure,\N\N说实在的,把工作当作享受的那些人,\N\N
+Dialogue: 0,0:04:38.08,0:04:43.08,Default,,0,0,0,,are those who most need the means of banishing it at inter- vals from their minds.\N\N可能最需要每隔一段时间把工作从头脑中撇开.\N\N

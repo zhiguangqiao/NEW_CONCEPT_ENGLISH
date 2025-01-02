@@ -1,0 +1,76 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.04,Default,,0,0,0,, Lesson 54.\N第54课。
+Dialogue: 0,0:00:02.04,0:00:03.88,Default,,0,0,0,, Instinct or cleverness?\N本能还是聪明？
+Dialogue: 0,0:00:03.88,0:00:06.60,Default,,0,0,0,, insect: n.   昆虫\N We have been brought up to fear insects.\N我们已经成长为恐惧昆虫。
+Dialogue: 0,0:00:06.60,0:00:11.36,Default,,0,0,0,, We regard them as unnecessary creatures that do more harm than good.\N我们认为它们是不必要的生物，弊大于利。
+Dialogue: 0,0:00:11.36,0:00:14.00,Default,,0,0,0,, wage: v.   进行（斗争）\N We continually wage war on them.\N我们不断地对他们发动战争。
+Dialogue: 0,0:00:14.00,0:00:16.52,Default,,0,0,0,, contaminate: v.   弄脏\N For they contaminate our food.\N因为他们污染了我们的食物。
+Dialogue: 0,0:00:16.52,0:00:17.84,Default,,0,0,0,, Carried diseases.\N携带疾病。
+Dialogue: 0,0:00:17.84,0:00:19.84,Default,,0,0,0,, Or devour our crops.\N或吞噬我们的农作物。
+Dialogue: 0,0:00:19.84,0:00:22.68,Default,,0,0,0,, provocation: n.   惹怒\N They sting or bite without provocation.\N他们刺痛或咬人而无需挑衅。
+Dialogue: 0,0:00:22.68,0:00:26.48,Default,,0,0,0,, They fly uninvited into our rooms on summer nights.\N他们在夏日的夜晚不请自来飞入我们的房间。
+Dialogue: 0,0:00:26.48,0:00:29.24,Default,,0,0,0,, Or beat agest our lighted windows.\N或击败Agest我们的窗户。
+Dialogue: 0,0:00:29.24,0:00:34.76,Default,,0,0,0,, insect: n.   昆虫, spider: n.   蜘蛛, wasp: n.   黄蜂\N We live in dread not only of unpleasant insects like spiders or wasps.\N我们不仅生活在蜘蛛或黄蜂等不愉快的昆虫中。
+Dialogue: 0,0:00:34.76,0:00:37.76,Default,,0,0,0,, moth: n.   飞蛾\N But of quite harmless one like moths.\N但是像飞蛾一样无害的人。
+Dialogue: 0,0:00:37.76,0:00:42.40,Default,,0,0,0,, Reading about them increases our understanding without dispelling our fears.\N阅读它们会增加我们的理解，而不会消除我们的恐惧。
+Dialogue: 0,0:00:42.40,0:00:47.68,Default,,0,0,0,, Knowing that the industrious ant lives in a highly organized society does nothing to prevent\N知道勤奋的蚂蚁生活在一个高度组织的社会中
+Dialogue: 0,0:00:47.68,0:00:49.08,Default,,0,0,0,, us.\N我们。
+Dialogue: 0,0:00:49.08,0:00:53.84,Default,,0,0,0,, revulsion: n.   厌恶, horde: n.   群\N From being filled with revulsion when we find hordes of them crawling over a carefully\N当我们发现成群的成群爬在一个小心的地方时，充满了反感
+Dialogue: 0,0:00:53.84,0:00:54.84,Default,,0,0,0,, prepared.\N准备。
+Dialogue: 0,0:00:54.84,0:00:56.36,Default,,0,0,0,, Pick-knick lunch.\N采摘午餐。
+Dialogue: 0,0:00:56.36,0:00:58.64,Default,,0,0,0,, No matter how much we like honey.\N无论我们多么喜欢蜂蜜。
+Dialogue: 0,0:00:58.64,0:01:04.20,Default,,0,0,0,, uncanny: adj. 神秘的，不可思议的\N Or how much we have read about the uncanny sense of direction which bees possess.\N或我们读了多少关于蜜蜂拥有的不可思议的方向感。
+Dialogue: 0,0:01:04.20,0:01:06.80,Default,,0,0,0,, We have a horror of being stung.\N我们有被刺痛的恐怖。
+Dialogue: 0,0:01:06.80,0:01:09.16,Default,,0,0,0,, Most of our fears are unreasonable.\N我们的大多数恐惧是不合理的。
+Dialogue: 0,0:01:09.16,0:01:11.64,Default,,0,0,0,, erase: v.   擦，抹去\N But they are impossible to erase.\N但是它们是不可能擦除的。
+Dialogue: 0,0:01:11.64,0:01:13.12,Default,,0,0,0,, At the same time.\N同时。
+Dialogue: 0,0:01:13.12,0:01:16.64,Default,,0,0,0,, insect: n.   昆虫\N However, insects are strangely fascinating.\N但是，昆虫令人着迷。
+Dialogue: 0,0:01:16.64,0:01:18.84,Default,,0,0,0,, We enjoy reading about them.\N我们喜欢阅读有关它们的信息。
+Dialogue: 0,0:01:18.84,0:01:21.04,Default,,0,0,0,, Especially when we find that.\N特别是当我们发现这一点时。
+Dialogue: 0,0:01:21.04,0:01:22.72,Default,,0,0,0,, Like the praying mantis.\N就像祈祷的螳螂。
+Dialogue: 0,0:01:22.72,0:01:25.52,Default,,0,0,0,, They lead perfectly horrible lives.\N他们过着完全可怕的生活。
+Dialogue: 0,0:01:25.52,0:01:27.64,Default,,0,0,0,, We enjoy staring at them.\N我们喜欢盯着他们。
+Dialogue: 0,0:01:27.64,0:01:30.52,Default,,0,0,0,, In trance does they go about their business.\N在Trance中，他们是否从事业务。
+Dialogue: 0,0:01:30.52,0:01:31.52,Default,,0,0,0,, Unaware.\N不知道。
+Dialogue: 0,0:01:31.52,0:01:32.52,Default,,0,0,0,, We hope.\N我们希望。
+Dialogue: 0,0:01:32.52,0:01:33.80,Default,,0,0,0,, Of our presence.\N我们的存在。
+Dialogue: 0,0:01:33.80,0:01:38.60,Default,,0,0,0,, spider: n.   蜘蛛\N Who has not stood in awe at the sight of a spider-pouncing on a fly.\N在苍蝇上散发蜘蛛般的声音时，他并没有敬畏。
+Dialogue: 0,0:01:38.60,0:01:43.88,Default,,0,0,0,, beetle: n.   甲虫\N Or a column of ants triumphantly bearing home in enormous dead beetle.\N或一列蚂蚁在巨大的死甲虫中取得了胜利。
+Dialogue: 0,0:01:43.88,0:01:48.68,Default,,0,0,0,, Last summer I spent days in the garden watching thousands of ants crawling up the trunk of\N去年夏天，我在花园里度过了几天，看着成千上万的蚂蚁爬行
+Dialogue: 0,0:01:48.68,0:01:50.56,Default,,0,0,0,, my prize.\N我的奖品。
+Dialogue: 0,0:01:50.56,0:01:51.56,Default,,0,0,0,, Each tree.\N每棵树。
+Dialogue: 0,0:01:51.56,0:01:56.44,Default,,0,0,0,, sheltered: adj. 伤不着的，无危险的\N The tree has grown against a warm wall on a sheltered side of the house.\N这棵树已经在房屋庇护的一侧的温暖墙上长大。
+Dialogue: 0,0:01:56.44,0:01:58.72,Default,,0,0,0,, I am especially proud of it.\N我为此感到特别自豪。
+Dialogue: 0,0:01:58.72,0:02:02.60,Default,,0,0,0,, Not only because it has survived several severe winters.\N不仅因为它在几个严重的冬季中幸存下来。
+Dialogue: 0,0:02:02.60,0:02:06.56,Default,,0,0,0,, luscious: adj. 甘美的\N But because it occasionally produces luscious peaches.\N但是因为它偶尔会产生甜美的桃子。
+Dialogue: 0,0:02:06.56,0:02:07.60,Default,,0,0,0,, During the summer.\N在夏天。
+Dialogue: 0,0:02:07.60,0:02:12.32,Default,,0,0,0,, I noticed that the leaves of the tree were beginning to wither.\N我注意到树的叶子开始枯萎。
+Dialogue: 0,0:02:12.32,0:02:17.64,Default,,0,0,0,, insect: n.   昆虫, aphid: n.   蚜虫, underside: n.   底面，下侧\N Clusters of tin insects called aphids were to be found on the underside of the leaves.\N在叶子的底面发现了一群称为蚜虫的锡昆虫。
+Dialogue: 0,0:02:17.64,0:02:22.96,Default,,0,0,0,, colony: n.   一群\N They were visited by a large colony of ants which obtained a sort of honey from them.\N一大批蚂蚁拜访了他们，从中获得了一种蜂蜜。
+Dialogue: 0,0:02:22.96,0:02:28.08,Default,,0,0,0,, I immediately embarked on an experiment which, even though it failed to get rid of the\N我立即开始了一个实验，即使它未能摆脱
+Dialogue: 0,0:02:28.08,0:02:32.24,Default,,0,0,0,, ants, kept me fascinated for 24 hours.\N蚂蚁让我着迷24小时。
+Dialogue: 0,0:02:32.24,0:02:35.60,Default,,0,0,0,, sticky: adj. 粘的\N I bound the base of the tree with sticky tape.\N我用粘带绑住树的底部。
+Dialogue: 0,0:02:35.60,0:02:39.08,Default,,0,0,0,, aphid: n.   蚜虫\N Making it impossible for the ants to reach the aphids.\N使蚂蚁无法到达蚜虫。
+Dialogue: 0,0:02:39.08,0:02:42.96,Default,,0,0,0,, The tape was so stick that they did not dare to cross it.\N胶带是如此坚固，以至于他们不敢越过它。
+Dialogue: 0,0:02:42.96,0:02:48.64,Default,,0,0,0,, scurry: v.   小步跑\N For a long time, I watched them scurrying around the base of the tree in bewilderment.\N很长一段时间以来，我看着他们迷惑地围着树的底部刺痛。
+Dialogue: 0,0:02:48.64,0:02:53.56,Default,,0,0,0,, I even went out at midnight with a torch and noted with satisfaction.\N我什至在午夜用火炬出去，并满意地注意到。
+Dialogue: 0,0:02:53.56,0:02:55.00,Default,,0,0,0,, And surprise.\N和惊喜。
+Dialogue: 0,0:02:55.00,0:02:59.44,Default,,0,0,0,, sticky: adj. 粘的, swarm: v.   聚集\N That the ants were still swarming around the sticky tape without being able to do anything\N蚂蚁仍然在粘带周围蜂拥而至，而无需做任何事情
+Dialogue: 0,0:02:59.44,0:03:00.76,Default,,0,0,0,, about it.\N关于它。
+Dialogue: 0,0:03:00.76,0:03:06.16,Default,,0,0,0,, I got up early next morning hoping to find that the ants had given up in despair.\N我第二天一早起床，希望发现蚂蚁绝望地放弃了。
+Dialogue: 0,0:03:06.16,0:03:10.00,Default,,0,0,0,, Instead, I saw that they had discovered a new root.\N相反，我看到他们发现了一个新的根。
+Dialogue: 0,0:03:10.00,0:03:14.72,Default,,0,0,0,, They were climbing up the wall of the house and then on to the leaves of the tree.\N他们正在爬上房子的墙壁，然后爬到树的叶子上。
+Dialogue: 0,0:03:14.72,0:03:20.04,Default,,0,0,0,, ingenuity: n.   机灵\N I realized sadly that I had been completely defeated by their ingenuity.\N我可悲地意识到自己的独创性被完全击败了。
+Dialogue: 0,0:03:20.04,0:03:24.80,Default,,0,0,0,, The ants had been quick to find an answer to my thoroughly unscientific methods.\N蚂蚁很快找到了我彻底不科学方法的答案。

@@ -1,0 +1,26 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:08.00,Default,,0,0,0,, unrealistic: adj. 不真实\N Lesson 12. Life on a desert island. Most of us have formed an unrealistic picture of life on a desert island.\N第12课。在荒岛上的生活。我们大多数人在荒岛上构成了生活不切实际。
+Dialogue: 0,0:00:08.50,0:00:14.50,Default,,0,0,0,, paradise: n.   天堂，乐士\N We sometimes imagine a desert island to be a sort of paradise where the sun always shines.\N我们有时会想象一个荒岛是一种天堂，太阳总是闪耀。
+Dialogue: 0,0:00:15.00,0:00:21.00,Default,,0,0,0,, Life there is simple and good. Ripe fruit falls from the trees and you never have to work.\N生活是简单而美好的。成熟的水果从树上掉下来，您永远不必工作。
+Dialogue: 0,0:00:21.30,0:00:24.50,Default,,0,0,0,, The other side of the picture is quite the opposite.\N图片的另一侧恰恰相反。
+Dialogue: 0,0:00:24.50,0:00:30.50,Default,,0,0,0,, wretched: adj. 可怜的，艰苦的, starve: v.   挨饿\N Life on a desert island is wretched. You either starve to death or live like Robinson Crusoe.\N荒岛上的生活很可怜。您要么饿死，要么像鲁滨逊·克鲁索（Robinson Crusoe）一样生活。
+Dialogue: 0,0:00:31.00,0:00:37.00,Default,,0,0,0,, element: n.   成分\N Waiting for a boat which never comes. Perhaps there is an element of truth in both these pictures.\N等待一条永不来的船。这两张图片中都有一个真理的元素。
+Dialogue: 0,0:00:37.50,0:00:46.00,Default,,0,0,0,, opportunity: n.   机会, coral: n.   珊瑚\N But fewists have had the opportunity to find out. Two men who recently spent five days on a coral island wish they had stayed there longer.\N但是很少有人有机会找出答案。最近在一个珊瑚岛上度过五天的两个男人希望他们呆在那里更长的时间。
+Dialogue: 0,0:00:47.00,0:00:52.00,Default,,0,0,0,, Miami: n.   迈阿密（美国最南的城市）\N They were taking a badly damaged boat from the Virgin Islands to Miami to have it repaired.\N他们从维尔京群岛到迈阿密乘坐严重损坏的船进行修复。
+Dialogue: 0,0:00:52.50,0:01:06.50,Default,,0,0,0,, coral: n.   珊瑚, dinghy: n.   救生筏，小船, Caribbean: n.   加勒比海\N During the journey their boat began to sink. They quickly loaded a small rubber dinghy with food, matches, and cans of beer and rode for a few miles across the Caribbean until they arrived at a tiny coral.\N在旅途中，他们的船开始下沉。他们迅速在加勒比海地区迅速装满了一个小橡胶小艇，啤酒和罐子骑了几英里，直到他们到达了一个很小的珊瑚。
+Dialogue: 0,0:01:07.00,0:01:12.00,Default,,0,0,0,, Island, there were hardly any trees on the island and there was no water.\N岛上，岛上几乎没有树木，没有水。
+Dialogue: 0,0:01:12.50,0:01:20.50,Default,,0,0,0,, dinghy: n.   救生筏，小船\N But this did not prove to be a problem. The men collected rainwater in the rubber dinghy. As they had brought a spear gun with them.\N但这并不是一个问题。这些人在橡皮艇中收集了雨水。当他们带着长矛枪时。
+Dialogue: 0,0:01:20.50,0:01:28.50,Default,,0,0,0,, lobster: n.   龙虾\N They had plenty to eat. They caught lobster and fish every day. And as one of them put it eight like kings.\N他们有很多东西可以吃。他们每天都捕获龙虾和钓鱼。正如他们中的一个人一样，它像国王一样。
+Dialogue: 0,0:01:29.50,0:01:35.50,Default,,0,0,0,, tanker: n.   油轮, genuinely: adv. 由衷地\N When a passing tanker rescued them five days later. Both men were genuinely sorry that they had to leave.\N五天后，一辆过往的油轮救出了他们。这两个男人真的很遗憾他们不得不离开。

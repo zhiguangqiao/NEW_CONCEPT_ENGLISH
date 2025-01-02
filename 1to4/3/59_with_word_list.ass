@@ -1,0 +1,43 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:08.40,Default,,0,0,0,, amass: v.   积聚\N Lesson 59. Collecting. People tend to amass possessions. Sometimes without being aware of doing so.\N第59课。收集。人们倾向于积累财产。有时不知道这样做。
+Dialogue: 0,0:00:08.40,0:00:13.68,Default,,0,0,0,, Indeed they can have a delightful surprise when they find something useful which they did not know.\N确实，当他们发现一些有用的东西时，他们会感到惊讶。
+Dialogue: 0,0:00:14.56,0:00:20.32,Default,,0,0,0,, indiscriminate: adj. 不加选择的\N They owned. Those who never have to move house become indiscriminate collectors of what can only be\N他们拥有。那些永远不必搬家的人成为不可行的收藏家
+Dialogue: 0,0:00:20.32,0:00:27.68,Default,,0,0,0,, clutter: n.   一堆杂物\N described. As clutter, they leave unwanted objects in drawers. Coberds and addicts for years.\N描述。作为混乱，它们将不需要的物体留在抽屉中。多年来，科伯德和成瘾者。
+Dialogue: 0,0:00:28.24,0:00:34.96,Default,,0,0,0,, In the belief that they may one day need just those very things. As they grow old, people also\N相信他们可能有一天只需要那些事情。随着年龄的增长，人们也
+Dialogue: 0,0:00:34.96,0:00:41.68,Default,,0,0,0,, accumulate belongings for two other reasons. Lack of physical and mental energy. Both of which\N积累物品是出于其他两个原因。缺乏身心能量。这两个
+Dialogue: 0,0:00:41.68,0:00:47.68,Default,,0,0,0,, are essential in turning out and throwing away. And sentiment, things owned for a long time are\N对于出来并扔掉至关重要。和情感，很长一段时间拥有的东西是
+Dialogue: 0,0:00:47.68,0:00:54.72,Default,,0,0,0,, full associations with the past. Perhaps with relatives who are dead. And so they gradually acquire\N与过去完全关联。也许是死了的亲戚。因此他们逐渐获得
+Dialogue: 0,0:00:54.72,0:01:00.80,Default,,0,0,0,, a value beyond their true worth. Some things are collected deliberately in the home in an attempt to\N超出他们真正价值的价值。有些事情是故意在家里收集的，以试图
+Dialogue: 0,0:01:00.80,0:01:07.52,Default,,0,0,0,, string: n.   细线\N avoid waste. Among these I would list string and brown paper. Kept by thrifty people when a\N避免浪费。其中，我将列出弦乐和牛皮纸。当一个节俭的人保持
+Dialogue: 0,0:01:07.52,0:01:14.32,Default,,0,0,0,, requisite: n.   必需品\N parcel has been opened. To save buying these two requisites. Collecting small items can easily\N包裹已经打开。保存购买这两个必需品。收集小物品很容易
+Dialogue: 0,0:01:14.32,0:01:20.32,Default,,0,0,0,, mania: n.   癖好, sketch: n.   草图，图样\N become a mania. I know someone who always cuts sketches out from newspapers of model clothes that\N成为躁狂症。我知道有人总是从模特衣服的报纸上剪掉素描
+Dialogue: 0,0:01:20.32,0:01:27.44,Default,,0,0,0,, she would like to. Buy if she had the money. As she is not rich. The chances that she will ever be\N她想。如果她有钱，买。因为她不钱。她将永远存在的机会
+Dialogue: 0,0:01:27.44,0:01:34.00,Default,,0,0,0,, remote: adj. （机会，可能性）少的，小的, strong-minded: adj. 意志坚强的\N able to afford such purchases or remote. But she is never sufficiently strong-minded to be able to\N能够负担此类购买或遥控器。但是她从来没有足够的思想
+Dialogue: 0,0:01:34.00,0:01:41.20,Default,,0,0,0,, stop the practice. It is a harmless bait. But it litters up her desk to such an extent that every time\N停止练习。这是一个无害的诱饵。但是它在她的桌子上徘徊在一定程度上
+Dialogue: 0,0:01:41.20,0:01:48.24,Default,,0,0,0,, she opens it. Loose bits of paper fall out in every direction. Collecting as a serious hobby is\N她打开了。松散的纸朝各个方向掉下来。作为一个严肃的爱好是
+Dialogue: 0,0:01:48.24,0:01:55.68,Default,,0,0,0,, relaxation: n.   休息，娱乐\N quite different and has many advantages. It provides relaxation for leisure hours. As just looking\N完全不同，有许多优势。它为休闲时间提供放松。只是看
+Dialogue: 0,0:01:55.68,0:02:02.40,Default,,0,0,0,, at one's treasures is always a joy. One does not have to go outside for amusement. Since the collection\N在自己的宝藏上总是很高兴。一个人不必出去娱乐。自收藏以来
+Dialogue: 0,0:02:02.40,0:02:11.36,Default,,0,0,0,, is housed at home. Whatever it consists of. Stamps. Records. First editions of books China. Glass.\N被安置在家里。无论它包含什么。邮票。记录。中国书籍的第一版。玻璃。
+Dialogue: 0,0:02:11.36,0:02:19.92,Default,,0,0,0,, Antique furniture. Pictures. Model cars. Stuffed birds. Toy animals. There is always something to do in\N古董家具。图片。模型车。毛绒鸟。玩具动物。总有事情要做
+Dialogue: 0,0:02:19.92,0:02:26.16,Default,,0,0,0,, verify: v.   查证，核实\N connection with it. From finding the right place for the latest edition. To verifying facts in\N与之连接。从找到最新版本的正确位置。验证事实
+Dialogue: 0,0:02:26.16,0:02:33.28,Default,,0,0,0,, reference books. This hobby educates one not only in the chosen subject. But also in general matters\N参考书。这种爱好不仅在所选的主题中教育一个。但总的来说
+Dialogue: 0,0:02:33.28,0:02:40.32,Default,,0,0,0,, bearing: n.    关系，联系\N which have some bearing on it. There are also other benefits. One wants to meet like minded collectors.\N有一些方面。还有其他好处。一个人想遇到志趣相投的收藏家。
+Dialogue: 0,0:02:40.32,0:02:48.40,Default,,0,0,0,, To get advice. To compare notes. To exchange articles. To show off the latest find. So one's circle\N获得建议。比较笔记。交换文章。展示最新发现。所以一个人的圈子
+Dialogue: 0,0:02:48.40,0:02:55.84,Default,,0,0,0,, of friends grows. Soon the hobby leads to travel. Perhaps to a meeting in another town. Possibly a\N朋友的成长。很快，爱好会导致旅行。也许要在另一个城镇开会。可能是一个
+Dialogue: 0,0:02:55.84,0:03:01.84,Default,,0,0,0,, specimen: n.   标本\N trip abroad in search of a rare specimen. For collectors are not confined to any one country.\N出国旅行以寻找一个罕见的标本。因为收藏家不仅限于任何一个国家。
+Dialogue: 0,0:03:02.32,0:03:08.48,Default,,0,0,0,, Over the years. One may well become authority on one's hobby and will very probably be asked to\N历年。一个人可能会成为一个人的爱好的权威，很可能会被要求
+Dialogue: 0,0:03:08.48,0:03:16.56,Default,,0,0,0,, give informal. Talks to little gatherings and then. If successful. To larger audiences. In this way\N给予非正式。与小聚会进行交谈。如果成功。给较大的受众。这样
+Dialogue: 0,0:03:16.56,0:03:23.52,Default,,0,0,0,, self confidence grows. First from mastering a subject. Then from being able to take about it.\N自信会增长。首先是掌握主题。然后从能够接受它。
+Dialogue: 0,0:03:23.52,0:03:31.44,Default,,0,0,0,, constructively: adv. 有益的，积极的, contented: adj. 心满意足的, boredom: n.    烦恼，无聊\N Collecting. By occupying spare time so constructively. Makes a person contented. With no time for boredom.\N收集。通过如此建设性地占用业余时间。让一个人满足。没有时间无聊。

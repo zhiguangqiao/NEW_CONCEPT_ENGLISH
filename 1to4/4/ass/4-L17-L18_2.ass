@@ -1,0 +1,52 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.56,Default,,0,0,0,,Lesson 18 Porpoises\N\N海豚\N\N
+Dialogue: 0,0:00:04.56,0:00:08.25,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:08.25,0:00:13.52,Default,,0,0,0,,porpoise: n.  海豚\N\NWhat would you say is the main characteristic of porpoises?\N\N你认为海豚的主要特征是什么?\N\N
+Dialogue: 0,0:00:13.52,0:00:17.70,Default,,0,0,0,,mariner: n.  水手\N\NThere has long been a superstition among mariners\N\N长期以来,海员中流传着一种迷信说法,\N\N
+Dialogue: 0,0:00:17.70,0:00:22.93,Default,,0,0,0,,porpoise: n.  海豚\N\Nthat porpoises will save drowning men by pushing them to the surface,\N\N认为海豚会把快要淹死的人托到水面,救人性命;\N\N
+Dialogue: 0,0:00:22.93,0:00:28.27,Default,,0,0,0,,shark: n.  鲨鱼, formation: n.  队形\N\Nor protect them from sharks by surrounding them in defensive formation.\N\N或在人们周围列队保护,使他们免遭鲨鱼伤害.\N\N
+Dialogue: 0,0:00:28.27,0:00:31.84,Default,,0,0,0,,Marine Studio biologists have pointed out that,\N\N海洋摄影室的生物学家指出,\N\N
+Dialogue: 0,0:00:31.84,0:00:33.89,Default,,0,0,0,,however intelligent they may be,\N\N无论海豚多么聪明,\N\N
+Dialogue: 0,0:00:33.89,0:00:39.16,Default,,0,0,0,,dolphin: n.  海豚科动物\N\Nit is probably a mistake to credit dolphins with any motive of lifesaving.\N\N认为它们有救人的动机可能是错误的.\N\N
+Dialogue: 0,0:00:39.16,0:00:44.91,Default,,0,0,0,,On the occasions when they have pushed to shore an unconscious human being\N\N当它们偶尔把一个失去知觉的人推到岸边时,\N\N
+Dialogue: 0,0:00:44.91,0:00:50.06,Default,,0,0,0,,they have much more likely done it out of curiosity or for sport,\N\N更大的可能是出于好奇或游戏,\N\N
+Dialogue: 0,0:00:50.06,0:00:52.90,Default,,0,0,0,,as in riding the bow waves of a ship.\N\N就像它们追逐被船首犁开的浪花一样.\N\N
+Dialogue: 0,0:00:52.90,0:00:57.87,Default,,0,0,0,,porpoise: n.  海豚\N\NIn 1928 some porpoises were photographed,\N\N1928年,有人拍摄到了海豚，\N\N
+Dialogue: 0,0:00:57.87,0:01:02.24,Default,,0,0,0,,beaver: n.  海狸\N\Nworking like beavers to push ashore a waterlogged mattress.\N\N像海狸一样把浸透水的床垫推上岸的情景.\N\N
+Dialogue: 0,0:01:02.24,0:01:07.68,Default,,0,0,0,,shark: n.  鲨鱼\N\NIf,as has been reported,they have protected humans from sharks,\N\N正如报道中所说,如果海豚保护人不受鲨鱼侵害,\N\N
+Dialogue: 0,0:01:07.68,0:01:11.48,Default,,0,0,0,,it may have been because curiosity attracted them\N\N那它们可能是出于好奇:\N\N
+Dialogue: 0,0:01:11.48,0:01:15.25,Default,,0,0,0,,shark: n.  鲨鱼, scent: n.  香味\N\Nand because the scent of a possible meal attracted the sharks.\N\N而鲨鱼可能是闻到了可以美食一顿的香味.\N\N
+Dialogue: 0,0:01:15.25,0:01:19.01,Default,,0,0,0,,shark: n.  鲨鱼\N\NPorpoises and sharks are natural enemies.\N\N海豚和鲨鱼是天然仇敌,\N\N
+Dialogue: 0,0:01:19.01,0:01:23.94,Default,,0,0,0,,ensue: v.  接着发生\N\NIt is possible that upon such an occasion a battle ensued,\N\N双方可能随之发生搏斗,\N\N
+Dialogue: 0,0:01:23.94,0:01:27.26,Default,,0,0,0,,shark: n.  鲨鱼\N\Nwith the sharks being driven away or killed.\N\N搏斗结果是海豚赶走或咬死鲨鱼.\N\N
+Dialogue: 0,0:01:27.26,0:01:31.04,Default,,0,0,0,,Whether it be bird, fish or beast,\N\N不管是鸟,是鱼,还是野兽,\N\N
+Dialogue: 0,0:01:31.04,0:01:34.49,Default,,0,0,0,,porpoise: n.  海豚, intrigue: v.  引起兴趣\N\Nthe porpoise is intrigued with anything that is alive,\N\N海豚对凡是活动的东西都感兴趣,\N\N
+Dialogue: 0,0:01:34.49,0:01:37.53,Default,,0,0,0,,They are constantly after the turtles,\N\N它们经常追逐海龟,\N\N
+Dialogue: 0,0:01:37.53,0:01:41.12,Default,,0,0,0,,who peacefully submit to all sorts of indignities.\N\N海龟则温顺地忍受着各种侮辱.\N\N
+Dialogue: 0,0:01:41.12,0:01:47.32,Default,,0,0,0,,snout: n.  口鼻部\N\NOne young calf especi- ally enjoyed raising a turtle to the surface with his snout,\N\N一只小海豚特别喜欢用鼻子把海龟推到水面,\N\N
+Dialogue: 0,0:01:47.32,0:01:50.96,Default,,0,0,0,,aquaplane: n.  驾浪滑水板\N\Nand then shoving him across the tank like an aquaplane.\N\N然后像滑水板一样把海龟从水池的这一边推到那一边.\N\N
+Dialogue: 0,0:01:50.96,0:01:58.17,Default,,0,0,0,,porpoise: n.  海豚\N\NAlmost any day a young porpoises may be seen trying to turn a 300- pound sea turtle over,\N\N几乎每天都可以看到一只小海豚试图地把一只300磅重的海龟翻过来,\N\N
+Dialogue: 0,0:01:58.17,0:02:03.54,Default,,0,0,0,,snout: n.  口鼻部\N\Nby sticking his snout under the edge of his shell and pushing up for dear life.\N\N它把鼻子顶入海龟的硬壳下面,拼命地顶.\N\N
+Dialogue: 0,0:02:03.54,0:02:08.82,Default,,0,0,0,,porpoise: n.  海豚\N\NThis is not easy,and may require two porpoises working together.\N\N这并非易事,可能需要两只海豚合伙干才行.\N\N
+Dialogue: 0,0:02:08.82,0:02:13.66,Default,,0,0,0,,oceanarium: n.  水族馆\N\NIn another game,as the turtle swims across the oceanarium,\N\N在另一场游戏中,当海龟游过水族馆时,\N\N
+Dialogue: 0,0:02:13.66,0:02:19.41,Default,,0,0,0,,porpoise: n.  海豚, swoop: v.  猛扑, belly: n.  腹部, butt: v.  碰撞\N\Nthe first porpoise swoops down from above and butts his shell with his belly.\N\N第一只海豚从上方猛扑下去,用腹部撞击龟壳.\N\N
+Dialogue: 0,0:02:19.41,0:02:22.69,Default,,0,0,0,,This knocks the turtle down several feet.\N\N这一下子把海龟撞下去好几英尺.\N\N
+Dialogue: 0,0:02:22.69,0:02:25.58,Default,,0,0,0,,equilibrium: n.  平衡\N\NHe no sooner recovers his equilibrium,\N\N海龟刚恢复平衡,\N\N
+Dialogue: 0,0:02:25.58,0:02:29.77,Default,,0,0,0,,porpoise: n.  海豚, crack: n.  重击\N\Nthan the next porpoises comes along and hits him another crack.\N\N第二只海豚又冲过来猛击一下.\N\N
+Dialogue: 0,0:02:29.77,0:02:34.93,Default,,0,0,0,,butt: v.  碰撞\N\NEventually the turtle has been butted all the way down to the floor of the tank.\N\N这只海龟最终被撞到池底.\N\N
+Dialogue: 0,0:02:34.93,0:02:38.77,Default,,0,0,0,,He is now satisfied merely to try to stand up,\N\N此时的海龟,只要能站起来就满足了,\N\N
+Dialogue: 0,0:02:38.77,0:02:43.33,Default,,0,0,0,,porpoise: n.  海豚\N\Nbut as soon as he does so a porpoise knocks him flat.\N\N但它刚站起来,就被一只海豚击倒.\N\N
+Dialogue: 0,0:02:43.33,0:02:47.73,Default,,0,0,0,,The turtle at last gives up by pulling his feet under his shell\N\N海龟终于屈服了,将4条腿缩进壳内.\N\N
+Dialogue: 0,0:02:47.73,0:02:52.73,Default,,0,0,0,,and the game is over.\N\N游戏到此结束.\N\N

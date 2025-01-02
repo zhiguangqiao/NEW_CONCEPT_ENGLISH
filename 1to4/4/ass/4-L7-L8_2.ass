@@ -1,0 +1,40 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.64,Default,,0,0,0,,standard: n.  标准\N\NLesson 8 Trading standards\N\N贸易标准\N\N
+Dialogue: 0,0:00:04.64,0:00:08.18,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:08.18,0:00:12.56,Default,,0,0,0,,What makes trading between rich countries difficult?\N\N发达国家之间的贸易困难是什么造成的?\N\N
+Dialogue: 0,0:00:12.56,0:00:21.30,Default,,0,0,0,,slaughter: v.  屠宰, grace: v.  给...增光\N\NChickens slaughtered in the United States, claim officials in Brussels,are not fit to grace European tables.\N\N布鲁塞尔的官员说,在美国屠宰的鸡 ,不适于用来装点欧洲的餐桌.\N\N
+Dialogue: 0,0:00:21.30,0:00:28.64,Default,,0,0,0,,No,say the Americans: our fowl are fine,we simply clean them in a different way.\N\N不,美国人说,我们的家禽很好,只是我们使用了另一种清洗方式.\N\N
+Dialogue: 0,0:00:28.64,0:00:34.89,Default,,0,0,0,,tariff: n.  关税\N\NThese days,it is differences in national regulations, far more than tariffs,\N\N当前,是各国管理条例上的差异,而不是关税\N\N
+Dialogue: 0,0:00:34.89,0:00:39.04,Default,,0,0,0,,that put sand in the wheels of trade between rich countries\N\N阻碍了发达国家之间的贸易.\N\N
+Dialogue: 0,0:00:39.04,0:00:42.57,Default,,0,0,0,,It is not just farmers who are complaining.\N\N并不仅仅是农民在抱怨.\N\N
+Dialogue: 0,0:00:42.57,0:00:47.68,Default,,0,0,0,,standard: n.  标准\N\NAn electric razor that meets the European Union's safety standards,\N\N一把符合欧洲联盟安全标准的电动剃须刀，\N\N
+Dialogue: 0,0:00:47.68,0:00:53.33,Default,,0,0,0,,must be approved by American testers before it can be sold in the United States,\N\N必须得到美国检测人员的认可,方可在美国市场销售,\N\N
+Dialogue: 0,0:00:53.33,0:00:59.14,Default,,0,0,0,,dialysis: n.  分离，分解；透析，渗析\N\Nand an American-made dialysis machine needs the EU's okay\N\N而美国制造的透析仪也要得到欧盟的首肯\N\N
+Dialogue: 0,0:00:59.14,0:01:01.25,Default,,0,0,0,,before it hits the market in Europe.\N\N才能进入欧洲市场.\N\N
+Dialogue: 0,0:01:01.25,0:01:08.33,Default,,0,0,0,,electrocute: v.  使触电身亡\N\NAs it happens,a razor that is safe in Europe is unlikely to electrocute Americans.\N\N碰巧在欧洲使用安全的剃须刀不大可能使美国人触电身亡,\N\N
+Dialogue: 0,0:01:08.33,0:01:12.72,Default,,0,0,0,,So,ask businesses on both sides of the Atlantic,\N\N因此,大西洋两岸的企业都在问,\N\N
+Dialogue: 0,0:01:12.72,0:01:16.22,Default,,0,0,0,,why have two lots of tests where one would do?\N\N当一套测试可以解决问题时,为什么需要两套呢?\N\N
+Dialogue: 0,0:01:16.22,0:01:23.81,Default,,0,0,0,,Politicians agree,in principle,so America and the EU have been trying to reach a deal\N\N政治家在原则上同意了,因此,美国和欧洲一直在寻求达成协议,\N\N
+Dialogue: 0,0:01:23.81,0:01:27.88,Default,,0,0,0,,eliminate: v.  消灭\N\Nwhich would eliminate the need to double-test many products.\N\N以便为许多产品取消双重检查.\N\N
+Dialogue: 0,0:01:27.88,0:01:34.99,Default,,0,0,0,,They hope to finish in time for a trade summit between America and the EU on May 28th\N\N他们希望尽早达成协议,为5月28日举行的美欧贸易的最高级会议做准备.\N\N
+Dialogue: 0,0:01:34.99,0:01:38.06,Default,,0,0,0,,Although negotiators are optimistic,\N\N虽然谈判代表持乐观态度\N\N
+Dialogue: 0,0:01:38.06,0:01:43.27,Default,,0,0,0,,the details are compl- ex enough that they may be hard-pressed to get a deal at all.\N\N但协议细节如此复杂,他们所面临的困难很可能使他们根本无法取得一致.\N\N
+Dialogue: 0,0:01:43.27,0:01:48.13,Default,,0,0,0,,Why? One difficulty is to construct the agreements.\N\N为什么呢?困难之一是起草这些协议.\N\N
+Dialogue: 0,0:01:48.13,0:01:53.49,Default,,0,0,0,,standard: n.  标准, accord: n.  协议, device: n.  仪器，器械\N\Nhe Americans would happily reach one accord on standards for medical devices\N\N美国人很愿意先就医疗器械的标准达成一个协议,\N\N
+Dialogue: 0,0:01:53.49,0:01:56.27,Default,,0,0,0,,hammer out: v.  推敲\N\Nand then hammer out different pacts covering,say,\N\N然后推敲出不同的合同,用以涵盖--比如说，\N\N
+Dialogue: 0,0:01:56.27,0:01:59.24,Default,,0,0,0,,electronic goods and drug manufacturing\N\N-电子产品和药品的生产.\N\N
+Dialogue: 0,0:01:59.24,0:02:06.57,Default,,0,0,0,,The EU--following fine continental traditions --wants agreement on general principles,\N\N欧洲人遵循优良的大陆传统,则希望就普遍的原则取得一致,\N\N
+Dialogue: 0,0:02:06.57,0:02:09.42,Default,,0,0,0,,which could be applied to many typs of products\N\N而这些原则适用于许多不同产品,\N\N
+Dialogue: 0,0:02:09.42,0:02:14.42,Default,,0,0,0,,and perhaps extended to other countries.\N\N同时可能延伸到其它国家\N\N

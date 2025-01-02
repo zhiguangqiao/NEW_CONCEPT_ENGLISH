@@ -1,0 +1,49 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.70,Default,,0,0,0,,Lesson 23 Bird flight\N\N鸟的飞行方法\N\N
+Dialogue: 0,0:00:04.70,0:00:08.52,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:08.52,0:00:13.53,Default,,0,0,0,,What are the two main types of bird flight described by the author?\N\N作者描述了鸟类哪两种主要飞行方式?\N\N
+Dialogue: 0,0:00:13.53,0:00:18.41,Default,,0,0,0,,No two sorts of birds practise quite the same sort of flight;\N\N没有任何两种鸟的飞行方式是相同的.\N\N
+Dialogue: 0,0:00:18.41,0:00:23.53,Default,,0,0,0,,the varieties are infinite;but two classes may be roughly seen.\N\N鸟的飞行方式千差万别,但大体上可分为两类.\N\N
+Dialogue: 0,0:00:23.53,0:00:26.82,Default,,0,0,0,,Any ship that crosses the Pacific\N\N任何一艘横渡太平洋的轮船\N\N
+Dialogue: 0,0:00:26.82,0:00:30.88,Default,,0,0,0,,albatross: n.  信天翁\N\Nis accompanied for many days by the smaller albatross,\N\N都会有一种小信天翁伴随飞行许多天.\N\N
+Dialogue: 0,0:00:30.88,0:00:33.84,Default,,0,0,0,,which may keep company with the vessel for an hour\N\N它们随船飞行一小时\N\N
+Dialogue: 0,0:00:33.84,0:00:37.61,Default,,0,0,0,,without visible or more than occasional movement of wing.\N\N也难得见其扇动一下翅膀\N\N
+Dialogue: 0,0:00:37.61,0:00:42.50,Default,,0,0,0,,The currents of air that the walls of the ship direct upwards,\N\N沿船体上升的气流\N\N
+Dialogue: 0,0:00:42.50,0:00:45.05,Default,,0,0,0,,as well as in the line of its course,\N\N和沿航线向前的气流\N\N
+Dialogue: 0,0:00:45.05,0:00:48.60,Default,,0,0,0,,are enough to give the great bird with its immense wings\N\N给这种巨翼大鸟以\N\N
+Dialogue: 0,0:00:48.60,0:00:51.18,Default,,0,0,0,,sustenance: n.  支撑力\N\Nsufficient sustenance and progress.\N\N足够的浮力和推力.\N\N
+Dialogue: 0,0:00:51.18,0:00:54.93,Default,,0,0,0,,albatross: n.  信天翁, glider: n.  滑翔者\N\NThe albatross is the king of the gliders,\N\N信天翁是滑翔飞行的鸟类之王,\N\N
+Dialogue: 0,0:00:54.93,0:00:59.06,Default,,0,0,0,,harness: v.  利用\N\Nthe class of fliers which harness the air to their purpose,\N\N它能自如地驾驭空气,\N\N
+Dialogue: 0,0:00:59.06,0:01:01.48,Default,,0,0,0,,but must yield to its opposition.\N\N但必须顺气流飞行.\N\N
+Dialogue: 0,0:01:01.48,0:01:06.10,Default,,0,0,0,,In the contrary school,the duck is supreme.\N\N与滑翔鸟相对的另一类鸟中,数野鸭本领量高.\N\N
+Dialogue: 0,0:01:06.10,0:01:12.29,Default,,0,0,0,,It comes nearer to the engines with which man has 'conquered' the air,as he boasts.\N\N它更近乎全人类自夸"征服"了空气的发动机.\N\N
+Dialogue: 0,0:01:12.29,0:01:17.90,Default,,0,0,0,,endow: v.  赋有\N\NDuck,and like them the pigeons,are endowed with steel-like muscles,\N\N野鸭及与它们相似的鸽子有天赋的钢铁般的肌肉,\N\N
+Dialogue: 0,0:01:17.90,0:01:20.84,Default,,0,0,0,,that are a good part of the weight of the bird,\N\N占了体重的很大一部分.\N\N
+Dialogue: 0,0:01:20.84,0:01:25.62,Default,,0,0,0,,ply: v.  不断地供给\N\Nand these will ply the short wings with such irresistible power\N\N这些肌肉以巨大的力量扇动短小的翅膀,\N\N
+Dialogue: 0,0:01:25.62,0:01:30.07,Default,,0,0,0,,gale: n.  大风\N\Nthat they can bore for long distances through an opposing gale\N\N使这类鸟能顶着大风飞行很远的路程\N\N
+Dialogue: 0,0:01:30.07,0:01:32.16,Default,,0,0,0,,before exhaustion follows.\N\N才会疲劳.\N\N
+Dialogue: 0,0:01:32.16,0:01:36.36,Default,,0,0,0,,partridge: n.  鹧鸪\N\NTheir humbler followers,such as partridges,\N\N次于野鸭和鸽子的鸟,如鹧鸪,\N\N
+Dialogue: 0,0:01:36.36,0:01:40.46,Default,,0,0,0,,propulsion: n.  推进力\N\Nhave a like power of strong propulsion, but soon tire.\N\N有相似的巨大推动力,但很快会疲劳.\N\N
+Dialogue: 0,0:01:40.46,0:01:43.52,Default,,0,0,0,,You may pick them up in utter exhaustion,\N\N你可捡到一些因筋疲力尽而摔下来的鹧鸪\N\N
+Dialogue: 0,0:01:43.52,0:01:47.33,Default,,0,0,0,,if wind over the sea has driven them to a long journey.\N\N如果海风驱使它们飞行很长距离.\N\N
+Dialogue: 0,0:01:47.33,0:01:51.88,Default,,0,0,0,,The swallow shares the virtues of both schools in highest measure.\N\N燕子充分兼有这两类鸟的长处,\N\N
+Dialogue: 0,0:01:51.88,0:01:58.16,Default,,0,0,0,,It tires not,nor does it boast of its power; but belongs to the air\N\N它既不疲劳,也不炫耀自己的飞翔力:在空中十分自如,\N\N
+Dialogue: 0,0:01:58.16,0:02:03.86,Default,,0,0,0,,travelling it may be six thousand miles to and from its northern nesting home,\N\N可以飞行6,000英里,去去归归于北方做窝的老家,\N\N
+Dialogue: 0,0:02:03.86,0:02:09.10,Default,,0,0,0,,slip: v.  滑行\N\Nfeeding its flown young as it flies, and slipping through a medium\N\N一边飞一边喂养会飞的雏燕,它在气流中自由滑翔,\N\N
+Dialogue: 0,0:02:09.10,0:02:13.32,Default,,0,0,0,,that seems to help its passage even when the wind is adverse.\N\N即便是顶风时,似乎气流也在帮它前进.\N\N
+Dialogue: 0,0:02:13.32,0:02:16.02,Default,,0,0,0,,Such birds do us good,\N\N这些鸟对我们是有益的,\N\N
+Dialogue: 0,0:02:16.02,0:02:20.25,Default,,0,0,0,,omen: n.  预兆\N\Nthough we no longer take omens from their flight on this side and that;\N\N虽然我们不再从它们的飞翔姿态来占卜吉凶,\N\N
+Dialogue: 0,0:02:20.25,0:02:22.89,Default,,0,0,0,,and even the most superstitious villagers\N\N连最迷信的村民\N\N
+Dialogue: 0,0:02:22.89,0:02:27.89,Default,,0,0,0,,no longer take off their hats to the magpie and wish it good-morning.\N\N也不再对喜鹊脱帽行礼,祝它早安了.\N\N

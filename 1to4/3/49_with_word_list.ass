@@ -1,0 +1,45 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.04,Default,,0,0,0,, Lesson 49. The ideal servant. It is a good thing my aunt Harriet died years ago. If she were\N第49课。理想的仆人。我的哈丽雅特姨妈几年前去世是一件好事。如果她是
+Dialogue: 0,0:00:07.04,0:00:13.52,Default,,0,0,0,, alive today she would not be able to air her views on her favorite topic of conversation.\N今天活着，她将无法对自己最喜欢的谈话话题发表自己的看法。
+Dialogue: 0,0:00:13.52,0:00:19.36,Default,,0,0,0,, Domestic servants. Aunt Harriet lived in that leisurely age when servants were employed to do\N家庭仆人。哈里特姨妈住在那个悠闲的年龄，当时雇用了仆人
+Dialogue: 0,0:00:19.36,0:00:27.44,Default,,0,0,0,, rambling: adj. 杂乱无章的, sentimentally: adv. 感情上，多情地\N housework. She had a huge, rambling country house called, the Gables. She was sentimentally attached\N家务。她有一个巨大的杂乱无章的乡间别墅，叫山墙。她情绪依恋
+Dialogue: 0,0:00:27.44,0:00:33.76,Default,,0,0,0,, to this house. For even though it was far too big for her needs, she persisted in living there\N到这所房子。因为即使她的需求太大了，她仍然坚持住在那里
+Dialogue: 0,0:00:33.76,0:00:40.56,Default,,0,0,0,, lavishly: adv. 慷慨地，大方地\N long after her husband's death. Before she grew old, Aunt Harriet used to entertain lavishly.\N丈夫去世很久。在她变老之前，哈丽雅特姨妈曾经很娱乐。
+Dialogue: 0,0:00:40.56,0:00:46.32,Default,,0,0,0,, I often visited the Gables when I was boy. No matter how many guests were present, the\N我小时候经常去山墙。不管有多少客人，
+Dialogue: 0,0:00:46.32,0:00:53.52,Default,,0,0,0,, great house was always a maculad. The parkay floors shown like mirrors. Highly polished silver was\N伟大的房子一直是玛利亚德。像镜子一样显示的Parkay地板。高度抛光的银是
+Dialogue: 0,0:00:53.52,0:01:00.24,Default,,0,0,0,, gleam: v.   发亮，闪光\N displayed in gleaming glass cabinets. Even my uncle's huge collection of books was kept miraculously\N显示在闪闪发光的玻璃柜中。甚至我叔叔的大量书籍都被奇迹般地保存下来
+Dialogue: 0,0:01:00.24,0:01:07.76,Default,,0,0,0,, preside: v.   指挥, invisible: adj. 看不见的，无形的, scrub: v.   擦拭，刷洗\N free from dust-dant Harriet presided over an invisible army of servants that continuously scrubbed,\N没有尘土飞扬的哈丽雅特主持一支隐形的仆人军队，这些仆人不断擦洗，
+Dialogue: 0,0:01:07.76,0:01:14.32,Default,,0,0,0,, cleaned, and polished. She always referred to them as the shifting population. For they came\N清洁和抛光。她总是将他们称为变化的人口。因为他们来了
+Dialogue: 0,0:01:14.32,0:01:20.16,Default,,0,0,0,, and went with such frequency that I never even got a chance to learn their names. Though my aunt\N并以这样的频率走了，我什至从未有机会学习他们的名字。虽然我的姨妈
+Dialogue: 0,0:01:20.16,0:01:27.60,Default,,0,0,0,, enlightened: adj. 开明的\N pursued what was. In those days, an enlightened policy, in that she never allowed her domestic staff\N追求什么。在那些日子里，一项开明的政策，因为她从未允许她的国内员工
+Dialogue: 0,0:01:27.60,0:01:34.16,Default,,0,0,0,, to work more than eight hours a day. She was extremely difficult to please. While she always\N每天工作八个小时以上。她很难取悦。而她总是
+Dialogue: 0,0:01:34.16,0:01:40.08,Default,,0,0,0,, fickleness: n.   变化无常, unrelenting: adj. 不屈不挠的，不松懈的确良\N criticized the fickleness of human nature, she carried on an unrelenting search for the ideal\N批评人性的善变，她不屈不挠地寻找理想
+Dialogue: 0,0:01:40.08,0:01:47.44,Default,,0,0,0,, disillusion: v.   使幻想破灭的\N servant to the end of her days. Even after she had been sadly disillusioned by Bessie, Bessie worked\N仆人到她的日子结束。即使在她被贝西（Bessie）幻灭后，贝西（Bessie）也工作了
+Dialogue: 0,0:01:47.44,0:01:53.52,Default,,0,0,0,, for Aunt Harriet for three years. During that time she so gained my aunt's confidence that she was\N为哈丽雅特姨妈三年。在那段时间里，她使我的姨妈充满信心
+Dialogue: 0,0:01:53.52,0:01:59.36,Default,,0,0,0,, put in charge of the domestic staff. Aunt Harriet could not find words to praise Bessie's\N负责国内员工。哈丽雅特姨妈找不到赞美贝西的话
+Dialogue: 0,0:01:59.36,0:02:07.52,Default,,0,0,0,, qualification: n.    资格，能力\N industriousness and efficiency. In addition to all her other qualifications, Bessie was an expert cook.\N勤奋和效率。除了所有其他资格外，贝西还是一位专业的厨师。
+Dialogue: 0,0:02:07.52,0:02:12.72,Default,,0,0,0,, She acted the role of the perfect servant for three years before Aunt Harriet discovered her.\N在哈丽雅特姨妈发现她之前，她扮演了完美仆人的角色三年。
+Dialogue: 0,0:02:13.44,0:02:20.08,Default,,0,0,0,, Little weakness. After being absent from the gables for a week, my aunt unexpectedly returned\N小弱点。在山墙缺席一个星期之后，我的姨妈意外回来了
+Dialogue: 0,0:02:20.08,0:02:27.44,Default,,0,0,0,, one afternoon with a party of guests and instructed Bessie to prepare. Dinner. No only was the meal well\N一个下午与客人聚会，并指示贝西做准备。晚餐。这顿饭不仅很好
+Dialogue: 0,0:02:27.44,0:02:34.24,Default,,0,0,0,, below the usual standard, but Bessie seemed unable to walk steadily. She bumped into the furniture\N低于通常的标准，但贝西似乎无法稳定行走。她撞到家具
+Dialogue: 0,0:02:34.24,0:02:40.24,Default,,0,0,0,, and kept mumbling about the guests. When she came in with the last course, a huge pudding,\N并一直在喃喃自语。当她参加上一门课程，一个巨大的布丁时，
+Dialogue: 0,0:02:40.32,0:02:46.72,Default,,0,0,0,, she tripped on the carpet and the pudding went flying through the air. Narely missed my aunt\N她绊倒在地毯上，布丁飞过空中。毫无疑问我的姑姑
+Dialogue: 0,0:02:46.72,0:02:53.04,Default,,0,0,0,, mirth: n.   欢笑，高兴\N and crashed on the dining table with considerable force. Though this caused great mirth among the guests.\N并用相当大的力量在餐桌上坠毁。尽管这在客人中引起了极大的欢乐。
+Dialogue: 0,0:02:53.76,0:02:59.84,Default,,0,0,0,, Aunt Harriet was horrified. She reluctantly came to the conclusion that Bessie was drunk.\N哈丽雅特姨妈很害怕。她勉强得出结论是贝西喝醉了。
+Dialogue: 0,0:02:59.84,0:03:05.84,Default,,0,0,0,, The guests had, of course, realized this from the moment Bessie opened the door for them and\N当然，客人从贝西（Bessie）为他们打开大门的那一刻就意识到了这一点
+Dialogue: 0,0:03:06.64,0:03:13.12,Default,,0,0,0,, long before the final catastrophe had had a difficult time trying to conceal their amusement.\N在最后一场灾难很难掩盖自己的娱乐之前很久。
+Dialogue: 0,0:03:13.12,0:03:19.44,Default,,0,0,0,, The poor girl was dismissed instantly. After her departure, Aunt Harriet discovered that there\N这个可怜的女孩立即被解雇。她离开后，哈丽雅特姨妈发现那里
+Dialogue: 0,0:03:19.44,0:03:25.84,Default,,0,0,0,, were piles of empty wine bottles of all shapes and sizes neatly. Stacked in what had once been\N是一堆整齐的所有形状和尺寸的空葡萄酒瓶。堆放在曾经的事物中
+Dialogue: 0,0:03:25.84,0:03:30.96,Default,,0,0,0,, Bessie's wardrobe, they had mysteriously found their way there from the wine cellar.\N贝西的衣柜，他们神秘地从酒窖里找到了自己的路。

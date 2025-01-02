@@ -1,0 +1,36 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:08.24,Default,,0,0,0,, credulous: adj. 轻信的\N Lesson 36. A chance in a million. We are less credulous than we used to be. In the 19th century,\N第36课。一百万的机会。我们不比以前的信仰。在19世纪，
+Dialogue: 0,0:00:08.24,0:00:13.76,Default,,0,0,0,, a novelist would bring his story to a conclusion by presenting his readers with a series of\N小说家会通过向读者展示一系列的一系列故事来结束他的故事
+Dialogue: 0,0:00:14.56,0:00:21.44,Default,,0,0,0,, improbable: adj. 不大可能的, obscure: adj. 不起眼的\N coincidences. Most of them wildly improbable. Readers happily accepted the fact that an obscure\N巧合。他们中的大多数非常不可能。读者高兴地接受了一个晦涩的事实
+Dialogue: 0,0:00:21.44,0:00:28.16,Default,,0,0,0,, presume: v.   假定\N maid servant was really the hero's mother. A long-lost brother, who was presumed dead,\N女仆仆人确实是英雄的母亲。一个被假定死了的久违的兄弟
+Dialogue: 0,0:00:28.16,0:00:32.88,Default,,0,0,0,, wickedly: adv. 心眼坏地，居心叵测地, plot: v.   密谋, downfall: n.   倒台，垮台\N was really alive all the time and wickedly plotting to bring about the hero's downfall.\N一直都活着，邪恶地计划使英雄的垮台。
+Dialogue: 0,0:00:33.68,0:00:41.76,Default,,0,0,0,, naive: adj. 天真的, unacceptable: adj. 不能接受的\N And so on, modern readers would find such naive solution totally unacceptable. Yet, in real life,\N等等，现代读者会发现这种天真的解决方案完全无法接受。然而，在现实生活中，
+Dialogue: 0,0:00:41.76,0:00:47.68,Default,,0,0,0,, conspire: v.   （事件）巧合促成\N circumstances do sometimes conspire to bring about coincidences which anyone but a 19th.\N情况有时确实共同实现了19日以外的任何人的巧合。
+Dialogue: 0,0:00:48.56,0:00:55.92,Default,,0,0,0,, incredible: adj. 难以置信的\N Century novelist would find incredible. When I was a boy, my grandfather told me how a German taxi driver,\N世纪小说家会发现不可思议。当我还是个男孩的时候，我的祖父告诉我，德国出租车司机如何
+Dialogue: 0,0:00:56.64,0:01:01.44,Default,,0,0,0,, Franz Busman, found a brother who was thought to have been killed 20 years before.\N弗朗兹·布曼（Franz Busman）发现了一个兄弟，他被认为在20年前被杀。
+Dialogue: 0,0:01:02.32,0:01:08.96,Default,,0,0,0,, While on a walking tour with his wife, he stooped to talk to a workman. After they had gone on,\N与妻子一起徒步旅行时，他弯下腰与一个工人交谈。他们继续前进，
+Dialogue: 0,0:01:08.96,0:01:15.36,Default,,0,0,0,, Mrs. Busman commented on the workman's close resemblance to her husband and even suggested that he\N布曼夫人评论了工人与丈夫的密切相似之处，甚至建议他
+Dialogue: 0,0:01:16.24,0:01:22.08,Default,,0,0,0,, scorn: n.   嘲弄，挖苦\N might be his brother. Franz poured scorn on the idea, pointing out that his brother had been\N可能是他的兄弟。弗朗兹（Franz）嘲笑这个想法，指出他的兄弟已经
+Dialogue: 0,0:01:22.08,0:01:28.72,Default,,0,0,0,, acquaint: v.   使了解\N killed in action during the war. Though Mrs. Busman fully acquainted with this story, she thought\N战争期间行动中被杀。尽管布曼太太完全熟悉这个故事，但她认为
+Dialogue: 0,0:01:28.72,0:01:34.96,Default,,0,0,0,, that there was a chance in a million that she might be right. A few days later, she sent a boy\N一百万的机会她可能是对的。几天后，她派了一个男孩
+Dialogue: 0,0:01:34.96,0:01:41.60,Default,,0,0,0,, to the workman to ask him if his name was Hans Busman. Needless to say, the man's name was\N向工人问他，他的名字是否叫汉斯·布曼（Hans Busman）。不用说，这个人的名字是
+Dialogue: 0,0:01:41.60,0:01:48.16,Default,,0,0,0,, reunite: v.   使团聚\N Hans Busman and he really was Franz's long-lost brother. When the brothers were reunited,\N汉斯·布曼（Hans Busman）和他确实是弗朗兹（Franz）久的久违的兄弟。当兄弟们团聚时，
+Dialogue: 0,0:01:48.24,0:01:54.48,Default,,0,0,0,, Hans explained how it was that he was still alive. After having been wounded towards the end of the war,\N汉斯解释了他还活着的情况。在战争结束时受伤后，
+Dialogue: 0,0:01:54.48,0:02:00.88,Default,,0,0,0,, he had been sent to hospital and was separated from his unit. The hospital had been bombed and\N他被送往医院，并与他的单位分开。医院被轰炸了，
+Dialogue: 0,0:02:00.88,0:02:08.32,Default,,0,0,0,, Hans had made his way back into Western Germany on foot. Meanwhile, his unit was lost and all records\N汉斯步行回到德国。同时，他的单位丢失了，所有记录
+Dialogue: 0,0:02:08.32,0:02:14.72,Default,,0,0,0,, of him had been destroyed. Hans returned to his family home, but the house had been bombed and\N他中的中断被摧毁了。汉斯回到了他的家中，但房子被轰炸了，
+Dialogue: 0,0:02:14.72,0:02:21.04,Default,,0,0,0,, no one in the neighborhood knew what had become of the inhabitants, assuming that his family had\N假设他的家人有
+Dialogue: 0,0:02:21.04,0:02:27.04,Default,,0,0,0,, been killed during an air raid. Hans settled down in a village 50 miles away where he had remained\N在一次空袭中被杀。汉斯定居在50英里外的一个村庄
+Dialogue: 0,0:02:27.04,0:02:35.04,Default,,0,0,0,, ever since.\N从那以后。

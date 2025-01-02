@@ -1,0 +1,67 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.36,Default,,0,0,0,, Lesson 48, the silent village, in this much-traveled world.\N第48课，寂静的村庄，在这个漫长的世界中。
+Dialogue: 0,0:00:05.36,0:00:10.00,Default,,0,0,0,, inaccessible: adj. 难接近的,达不到的\N There are still thousands of places which are inaccessible to tourists.\N仍然有成千上万个游客无法进入的地方。
+Dialogue: 0,0:00:10.00,0:00:15.36,Default,,0,0,0,, hospitable: adj. 不好客的\N We always assume that villagers in remote places are friendly and hospitable.\N我们总是假设偏远地区的村民很友好且热情好客。
+Dialogue: 0,0:00:15.36,0:00:20.88,Default,,0,0,0,, But people who are cut off not only from foreign tourists, but even from their own countrymen\N但是，不仅被外国游客隔绝的人，甚至与自己的同胞隔绝
+Dialogue: 0,0:00:20.88,0:00:23.64,Default,,0,0,0,, hostile: adj. 不友好的,有敌意的\N can be hostile to travelers.\N可能对旅行者有敌意。
+Dialogue: 0,0:00:23.64,0:00:28.72,Default,,0,0,0,, Visits to really remote villages are seldom enjoyable, as my wife and I discovered during\N我和我的妻子在我妻子期间发现的，对真正偏远的村庄的访问很少
+Dialogue: 0,0:00:28.72,0:00:30.24,Default,,0,0,0,, a tour.\N游览。
+Dialogue: 0,0:00:30.24,0:00:35.44,Default,,0,0,0,, Through the Balkans, we had spent several days in a small town and visited a number of\N通过巴尔干，我们在一个小镇上度过了几天，并参观了许多
+Dialogue: 0,0:00:35.44,0:00:38.16,Default,,0,0,0,, vicinity: n.   周围,近邻\N old churches in the vicinity.\N附近的老教堂。
+Dialogue: 0,0:00:38.16,0:00:40.40,Default,,0,0,0,, These attracted many visitors.\N这些吸引了许多游客。
+Dialogue: 0,0:00:40.40,0:00:45.28,Default,,0,0,0,, architectural: adj. 建筑的\N For they were not only of great architectural interest, but contained a large number of\N因为它们不仅具有极大的建筑兴趣，而且包含了很多
+Dialogue: 0,0:00:45.28,0:00:48.36,Default,,0,0,0,, fresco: n.   壁画\N beautifully preserved frescoes as well.\N保存精美的壁画。
+Dialogue: 0,0:00:48.36,0:00:54.48,Default,,0,0,0,, On the day before our departure, several busloads of tourists descended on the town.\N在我们离开的前一天，几个游客降落在镇上。
+Dialogue: 0,0:00:54.48,0:00:56.60,Default,,0,0,0,, This was more than we could bear.\N这超出了我们的忍受。
+Dialogue: 0,0:00:56.60,0:01:02.12,Default,,0,0,0,, So we decided to spend our last day exploring the countryside, taking a path which led\N因此，我们决定花最后一天探索乡村，走一条路。
+Dialogue: 0,0:01:02.12,0:01:03.60,Default,,0,0,0,, out of the town.\N出门在城里。
+Dialogue: 0,0:01:03.60,0:01:07.64,Default,,0,0,0,, We crossed a few fields until we came to a dense wood.\N我们越过了几个田地，直到我们来到一块茂密的木头。
+Dialogue: 0,0:01:07.64,0:01:10.48,Default,,0,0,0,, abruptly: adv. 突然地,意外地\N We expected the path to end abruptly.\N我们期望突然结束的道路。
+Dialogue: 0,0:01:10.48,0:01:13.76,Default,,0,0,0,, But we found that it traced its way through the trees.\N但是我们发现它可以追溯到树木。
+Dialogue: 0,0:01:13.76,0:01:19.12,Default,,0,0,0,, tramp: v.   徒步行进\N We tramped through the wood for over two hours until we arrived at a deep stream.\N我们在木头上擦了两个多小时，直到我们到达一条深溪。
+Dialogue: 0,0:01:19.12,0:01:22.52,Default,,0,0,0,, We could see that the path continued on the other side.\N我们可以看到这条路在另一侧继续。
+Dialogue: 0,0:01:22.52,0:01:26.56,Default,,0,0,0,, But we had no idea how we could get across the stream.\N但是我们不知道如何跨越流。
+Dialogue: 0,0:01:26.56,0:01:30.12,Default,,0,0,0,, moor: v.   （用绳、链、锚）系（船）\N Suddenly my wife spotted a boat moored to the bank.\N突然，我的妻子发现一艘停泊在银行的船。
+Dialogue: 0,0:01:30.12,0:01:32.80,Default,,0,0,0,, In it there was a boatman fast asleep.\N里面有一个船夫快速入睡。
+Dialogue: 0,0:01:32.80,0:01:37.36,Default,,0,0,0,, ferry: v.   （用渡船）运\N We gently woke him up and asked him to ferry us to the other side.\N我们轻轻地叫醒他，要求他将我们渡到另一边。
+Dialogue: 0,0:01:37.36,0:01:43.36,Default,,0,0,0,, Though he was reluctant to do so at first, we eventually persuaded him to take us.\N尽管他最初不愿这样做，但我们最终说服了他带我们。
+Dialogue: 0,0:01:43.36,0:01:48.36,Default,,0,0,0,, The path led to a tiny village perched on the steep sides of a mountain.\N这条小路导致一个小村庄栖息在山的陡峭侧面。
+Dialogue: 0,0:01:48.36,0:01:53.72,Default,,0,0,0,, rag: n.   破烂衣服\N The place consisted of a straggling unmade road which was lined on either side by small\N这个地方由一条散乱的道路组成
+Dialogue: 0,0:01:53.72,0:01:55.36,Default,,0,0,0,, houses.\N房屋。
+Dialogue: 0,0:01:55.36,0:01:59.46,Default,,0,0,0,, Even under a clear blue sky, the village looked forbidding.\N即使在晴朗的蓝天下，村庄也看上去很禁止。
+Dialogue: 0,0:01:59.46,0:02:04.52,Default,,0,0,0,, As all the houses were built of grey mud bricks, the village seemed deserted.\N当所有房屋都是用灰色泥砖建造的，村庄似乎荒芜了。
+Dialogue: 0,0:02:04.52,0:02:09.64,Default,,0,0,0,, The only sign of life being an ugly looking black goat on a short length of rope tied to\N生命的唯一迹象是一只丑陋的黑山羊
+Dialogue: 0,0:02:09.64,0:02:11.20,Default,,0,0,0,, a tree in.\N一棵树。
+Dialogue: 0,0:02:11.20,0:02:17.60,Default,,0,0,0,, A field nearby, sitting down on a dilapidated wooden fence near the field, we opened a couple\N附近的一个田野，坐在田野附近的破旧木栅栏上，我们打开了一对夫妇
+Dialogue: 0,0:02:17.60,0:02:21.44,Default,,0,0,0,, sardine: n.   沙丁鱼，沙丁鱼罐头\N of tins of sardines and had a picnic lunch.\N沙丁鱼的罐头，吃了野餐午餐。
+Dialogue: 0,0:02:21.44,0:02:26.32,Default,,0,0,0,, While at once, I noticed that my wife seemed to be filled with alarm.\N同时，我注意到我的妻子似乎充满了警报。
+Dialogue: 0,0:02:26.32,0:02:30.48,Default,,0,0,0,, rag: n.   破烂衣服\N Looking up I saw that we were surrounded by children and rags who were looking at us\N抬头看，我看到我们被看着我们的孩子和抹布包围着
+Dialogue: 0,0:02:30.48,0:02:32.48,Default,,0,0,0,, silently as we.\N像我们一样默默地。
+Dialogue: 0,0:02:32.48,0:02:36.40,Default,,0,0,0,, Eight, we offered them food and spoke to them kindly.\N八，我们为他们提供食物，并与他们交谈。
+Dialogue: 0,0:02:36.40,0:02:38.36,Default,,0,0,0,, But they remained motionless.\N但是他们仍然一动不动。
+Dialogue: 0,0:02:38.36,0:02:42.08,Default,,0,0,0,, I concluded that they were simply shy of strangers.\N我得出的结论是，他们只是害羞的陌生人。
+Dialogue: 0,0:02:42.08,0:02:47.08,Default,,0,0,0,, When we later walked down the main street of the villager, we were followed by a silent\N当我们后来沿着村民的主要街道行走时，我们被沉默
+Dialogue: 0,0:02:47.08,0:02:49.00,Default,,0,0,0,, procession: adj. 不动的\N procession of children.\N儿童游行。
+Dialogue: 0,0:02:49.00,0:02:53.56,Default,,0,0,0,, The village which had seemed deserted, immediately came to life.\N这个村庄似乎荒废了，立即栩栩如生。
+Dialogue: 0,0:02:53.56,0:02:55.64,Default,,0,0,0,, Faces appeared at windows.\N面孔出现在窗户上。
+Dialogue: 0,0:02:55.64,0:03:00.36,Default,,0,0,0,, Men in shirtsleeves stood outside their houses and glared at us.\N穿着衬衫的男人站在他们的房屋外面，瞪着我们。
+Dialogue: 0,0:03:00.36,0:03:04.04,Default,,0,0,0,, shawl: n.   披巾，围巾\N Old women in black shawls appeared at us from doorways.\N穿着黑色披肩的老妇从门口出现在我们身上。
+Dialogue: 0,0:03:04.04,0:03:08.48,Default,,0,0,0,, The most frightening thing of all was that not a sound could be heard.\N最令人恐惧的是，无法听到声音。
+Dialogue: 0,0:03:08.48,0:03:11.84,Default,,0,0,0,, There was no doubt that we were unwelcome visitors.\N毫无疑问，我们是不受欢迎的游客。
+Dialogue: 0,0:03:11.84,0:03:14.24,Default,,0,0,0,, We needed no further warning.\N我们不需要进一步的警告。
+Dialogue: 0,0:03:14.24,0:03:16.28,Default,,0,0,0,, Turning back down the main street.\N转向主要街道。
+Dialogue: 0,0:03:16.28,0:03:21.28,Default,,0,0,0,, quicken: v.   加快\N We quickened our pace and made our way rapidly towards the stream where we hoped the boatman\N我们加快了步伐，并迅速朝着我们希望船夫的溪流迈进
+Dialogue: 0,0:03:21.28,0:03:22.28,Default,,0,0,0,, was.\N曾是。
+Dialogue: 0,0:03:22.28,0:03:23.08,Default,,0,0,0,, Waiting.\N等待。

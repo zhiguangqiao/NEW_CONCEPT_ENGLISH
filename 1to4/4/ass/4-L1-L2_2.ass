@@ -1,0 +1,39 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.08,Default,,0,0,0,,Lesson 2   Spare that spider\N\N不要伤害蜘蛛\N\N
+Dialogue: 0,0:00:06.08,0:00:11.27,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:11.27,0:00:18.28,Default,,0,0,0,,How much of each year do spiders spend killing insects?蜘蛛每年用多长时间消灭害虫?\N\N
+Dialogue: 0,0:00:18.28,0:00:24.49,Default,,0,0,0,,Why,you may wonder, should spiders be our friends?\N\N你可能会觉得奇怪,蜘蛛 怎么会是我们的朋友呢?\N\N
+Dialogue: 0,0:00:24.49,0:00:27.39,Default,,0,0,0,,Because they destroy so many insects,\N\N因为它们能消灭那么多的昆虫,\N\N
+Dialogue: 0,0:00:27.39,0:00:32.01,Default,,0,0,0,,and insects include some of the greatest enemies of the human race.\N\N其中包括一些人类的大敌.\N\N
+Dialogue: 0,0:00:32.01,0:00:36.93,Default,,0,0,0,,Insects would make it impossible for us to live in the world;\N\N害虫会使我们无法在地球上生活下去;\N\N
+Dialogue: 0,0:00:36.93,0:00:42.02,Default,,0,0,0,,They would devour all our crops and kill our flocks and herds,\N\N它们会吞食我们的全部庄稼,杀死我们的成群的牛羊,\N\N
+Dialogue: 0,0:00:42.02,0:00:47.01,Default,,0,0,0,,if it were not for the protection we get from insect eating animals.\N\N幸亏人类受到一些食虫动物的保护才不至于此.\N\N
+Dialogue: 0,0:00:47.01,0:00:52.37,Default,,0,0,0,,beast: n.  野兽\N\NWe owe a lot to the birds and beasts who eat insects\N\N我们要十分感谢那些吃昆虫的鸟和兽,\N\N
+Dialogue: 0,0:00:52.37,0:00:58.24,Default,,0,0,0,,but all of them put together kill only a fraction of the number destroyed by spiders.\N\N然而把它们所杀死的昆虫全部加在一起也只相当于蜘蛛所消灭的一小部分.\N\N
+Dialogue: 0,0:00:58.24,0:01:02.30,Default,,0,0,0,,Moreover,unlike some of the other insect eaters,\N\N此外,蜘蛛不同于其他食虫动物,\N\N
+Dialogue: 0,0:01:02.30,0:01:07.33,Default,,0,0,0,,spiders never do the least harm to us or our belongings.\N\N它们丝毫不危害我们和我们的财物.\N\N
+Dialogue: 0,0:01:07.33,0:01:14.96,Default,,0,0,0,,Spiders are not insects,as many people think,nor even nearly related to them.\N\N许多人认为蜘蛛是昆虫, 其实并非如此,它们甚至与昆虫毫无关系.\N\N
+Dialogue: 0,0:01:14.96,0:01:18.86,Default,,0,0,0,,One can tell the difference almost at a glance,\N\N人们几乎一眼就能看出二者的差异,\N\N
+Dialogue: 0,0:01:18.86,0:01:25.37,Default,,0,0,0,,for a spider always has eight legs and an insect never more than six.\N\N因为蜘蛛都是8条腿,而昆虫的腿从不超过6条.\N\N
+Dialogue: 0,0:01:25.37,0:01:30.41,Default,,0,0,0,,How many spiders are engaged in this work on our behalf?\N\N有多少蜘蛛在为我们效力呢?\N\N
+Dialogue: 0,0:01:30.41,0:01:32.99,Default,,0,0,0,,One authority on spiders\N\N一位研究蜘蛛的权威\N\N
+Dialogue: 0,0:01:32.99,0:01:37.64,Default,,0,0,0,,census: n.  统计数字\N\Nmade a census of the spiders in a grass field in the south of England,\N\N对英国南部一块草坪上的蜘蛛作了一次调查,\N\N
+Dialogue: 0,0:01:37.64,0:01:44.92,Default,,0,0,0,,acre: n.  英亩\N\Nand he estimated that there were more than 2,250,000 in one acre;\N\N他估计每英亩草坪里有225万多只蜘蛛.\N\N
+Dialogue: 0,0:01:44.92,0:01:51.34,Default,,0,0,0,,that is something like 6,000,000 spiders of different kinds on a football pitch.\N\N这就是说,在一个足球场上约有600万只不同种类的蜘蛛.\N\N
+Dialogue: 0,0:01:51.34,0:01:56.98,Default,,0,0,0,,Spiders are busy for at least half the year in killing insects.\N\N蜘蛛至少有半年忙于吃昆虫.\N\N
+Dialogue: 0,0:01:56.98,0:02:02.73,Default,,0,0,0,,It is impossible to make more than the wildest guess at how many they kill,\N\N它们一年中消灭了多少昆虫,我们简直无法猜测, \N\N
+Dialogue: 0,0:02:02.73,0:02:07.84,Default,,0,0,0,,but they are hungry creatures,not content with only three meals a day.\N\N它们是吃不饱的动物, 不满意一日三餐.\N\N
+Dialogue: 0,0:02:07.84,0:02:15.13,Default,,0,0,0,,It has been estimated that the weight of all the insects destroyed by spiders in Britain in one year.\N\N据估计,在英国蜘蛛一年里所消灭昆虫的重量.\N\N
+Dialogue: 0,0:02:15.13,0:02:20.13,Default,,0,0,0,,would be greater than the total weight of all the human beings in the country.\N\N超过了这个国家人口的总重量.\N\N

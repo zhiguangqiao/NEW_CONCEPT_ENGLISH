@@ -1,0 +1,81 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.18,Default,,0,0,0,,Lesson 47 The great escape\N\N大逃亡\N\N
+Dialogue: 0,0:00:07.18,0:00:12.07,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:12.07,0:00:18.88,Default,,0,0,0,,What is one of the features of modern camping where nationa- lity is concerned?\N\N有国籍区分的现代露营的特征之一是什么?\N\N
+Dialogue: 0,0:00:18.88,0:00:24.64,Default,,0,0,0,,Economy is one powerful motive for camping,\N\N图省钱是露营的一个主要动机,\N\N
+Dialogue: 0,0:00:24.64,0:00:29.37,Default,,0,0,0,,since after the initial outlay upon equipment,or through hiring it,\N\N因为除了开始时购置或是租借一套露营装备外,\N\N
+Dialogue: 0,0:00:29.37,0:00:33.97,Default,,0,0,0,,the total expense can be far less than the cost of hotels.\N\N总费用算起来比住旅馆开支少得多.\N\N
+Dialogue: 0,0:00:33.97,0:00:37.82,Default,,0,0,0,,assumption: n.  假定\N\NBut,contrary to a popular assumption,\N\N但是,和一般的看法相反,\N\N
+Dialogue: 0,0:00:37.82,0:00:41.74,Default,,0,0,0,,it is far from being the only one,or even the greatest.\N\N这决非是仅有的,甚至不是最主要的动机.\N\N
+Dialogue: 0,0:00:41.74,0:00:46.89,Default,,0,0,0,,The man who manoeuvres carelessly into his 20 pounds' worth of space,\N\N如果游客漫不经心地驾车驶入一个花20镑租用的空位,\N\N
+Dialogue: 0,0:00:46.89,0:00:52.78,Default,,0,0,0,,at one of Europe's myriad permanent sites may find himself bumping a Bentley.\N\N在欧洲无数常年营地之一露营,那么他可能会碰见一辆本特利汽车.\N\N
+Dialogue: 0,0:00:52.78,0:01:00.64,Default,,0,0,0,,More likely,Ford Escort will be hub to hub with Renault or Mercedes,but rarely with bicycles made for two.\N\N更可能会望见一辆福特.康索尔和一辆雷诺或一辆梅塞迪斯并排停放着,不过双人自行车则不容易看到.\N\N
+Dialogue: 0,0:01:00.64,0:01:06.20,Default,,0,0,0,,That the equipment of modern camping becomes yearly more sophisticated,\N\N现代露营装备一年比一年讲究,\N\N
+Dialogue: 0,0:01:06.20,0:01:09.23,Default,,0,0,0,,paradox: n.  自相矛盾的呈, cynic: n.  愤世嫉俗者\N\Nis an entertaining paradox for the cynic,\N\N这对那些厌世嫉俗者来说是一件有趣的自相矛盾的事情,\N\N
+Dialogue: 0,0:01:09.23,0:01:15.07,Default,,0,0,0,,a brighter promise for the hopeful traveller who has sworn to get away from it all.\N\N而对于发誓用露营来摆脱烦恼的人来说,却带来了更光明的前景.\N\N
+Dialogue: 0,0:01:15.07,0:01:17.28,Default,,0,0,0,,It also provides--\N\N露营还提供--\N\N
+Dialogue: 0,0:01:17.28,0:01:22.77,Default,,0,0,0,,sociologist: n.  社会学家\N\Nand some student sociologist might care to base his thesis upon the phenomenon--\N\N学社会学的大学生来露营其目的很可能是根据观察到的露营现象去写论文--\N\N
+Dialogue: 0,0:01:22.77,0:01:25.63,Default,,0,0,0,,an escape of another kind.\N\N另一种形式的摆脱现实.\N\N
+Dialogue: 0,0:01:25.63,0:01:32.19,Default,,0,0,0,,The modern traveller is often a man who dislikes the Splendide and the Bellavista,\N\N现代露营旅游的人往往讨厌住"斯普兰迪德"和"贝拉维斯塔"这样的大酒店,\N\N
+Dialogue: 0,0:01:32.19,0:01:36.55,Default,,0,0,0,,shun: v.  避开\N\Nnot because he cannot afford,or shuns their material comforts,\N\N这并不是因为他们付不起钱,也不是为了躲避物质享受,\N\N
+Dialogue: 0,0:01:36.55,0:01:39.24,Default,,0,0,0,,but because he is afraid of them.\N\N而是因为他们害怕酒店.\N\N
+Dialogue: 0,0:01:39.24,0:01:46.18,Default,,0,0,0,,chambermaid: n.  女招待员\N\NAffluent he may be,but he is by no means sure what to tip the doorm- an or the chambermaid.\N\N他们可能很富有,但给看门人和房门女服务员多少小费,心中却根本没有数.\N\N
+Dialogue: 0,0:01:46.18,0:01:53.04,Default,,0,0,0,,boo: b.  呸的一声\N\NMaster in his own house he has little idea of when to say boo to a manager hotel.\N\N他们在家可能是主人,但不知道什么时候才能对酒店的经理表示不满.\N\N
+Dialogue: 0,0:01:53.04,0:01:57.45,Default,,0,0,0,,From all such fears camping releases him.\N\N露营使人们免除了这些忧虑.\N\N
+Dialogue: 0,0:01:57.45,0:02:00.93,Default,,0,0,0,,snobbery: n.  势利\N\NGranted,a snobbery of camping itself,\N\N诚然,露营地本身,\N\N
+Dialogue: 0,0:02:00.93,0:02:04.64,Default,,0,0,0,,based upon equipment and techniques,already exists,\N\N也存在以露营装备和方式取人的势利现象,\N\N
+Dialogue: 0,0:02:04.64,0:02:10.67,Default,,0,0,0,,but it is of a kind that,if he meets it,he can readily understand and deal with,\N\N但如果有这种情况,露营者也容易理解,知道如何对付,\N\N
+Dialogue: 0,0:02:10.67,0:02:15.26,Default,,0,0,0,,There is no superior 'they' in the shape of managements,\N\N但在露营地里根本不会有管人的"人上人",\N\N
+Dialogue: 0,0:02:15.26,0:02:19.15,Default,,0,0,0,,and hotel hierarchies to darken his holiday days.\N\N和酒店里的等级制度来使露营者的假日过得阴郁低沉.\N\N
+Dialogue: 0,0:02:19.15,0:02:23.53,Default,,0,0,0,,To such motives,yet another must be added.\N\N除了以上动机外,还应再加上一个.aa\N\N
+Dialogue: 0,0:02:23.53,0:02:28.88,Default,,0,0,0,,The contemporary phenomenon of car worship is to be explained,\N\N当前崇拜汽车现象可以解释为,\N\N
+Dialogue: 0,0:02:28.88,0:02:33.89,Default,,0,0,0,,entail: v.  便成为必要\N\Nnot least by the sense of independence and freedom that ownership entails.\N\N与所有权相伴的独立和自由意识.\N\N
+Dialogue: 0,0:02:33.89,0:02:38.49,Default,,0,0,0,,To this pleasure camping gives an exquisite refinement.\N\N因此开车去露营会给这种快乐意识增加一种优雅意境.\N\N
+Dialogue: 0,0:02:38.49,0:02:44.33,Default,,0,0,0,,From one's own front door to home or foreign hills or sands and back again,\N\N从自己的家门出发到国内国外的山区或沙滩上露营然后返回,\N\N
+Dialogue: 0,0:02:44.33,0:02:46.49,Default,,0,0,0,,everything is to hand.\N\N一切都很便利.\N\N
+Dialogue: 0,0:02:46.49,0:02:50.47,Default,,0,0,0,,Not only are the means of arriving at the holiday paradise,\N\N不仅是到达假日天堂的工具,\N\N
+Dialogue: 0,0:02:50.47,0:02:52.91,Default,,0,0,0,,entirely within one's own command and keeping,\N\N完全在自己掌握之中,\N\N
+Dialogue: 0,0:02:52.91,0:02:56.12,Default,,0,0,0,,but the means of escape from holiday hell,\N\N而且逃离假日地狱的工具,\N\N
+Dialogue: 0,0:02:56.12,0:03:00.09,Default,,0,0,0,,(if the beach proves too crowded,the local weather too inclement)\N\N(如海滩太挤,当地天气恶劣)\N\N
+Dialogue: 0,0:03:00.09,0:03:05.32,Default,,0,0,0,,are there,outside--or, as likely,part of--the tent.\N\N也就在外面伸手可及的地方,或者汽车本身可能就是帐篷的一个组成部分.\N\N
+Dialogue: 0,0:03:05.32,0:03:11.64,Default,,0,0,0,,Idealists have objected to the practice of camping,as to the package tour,\N\N理想主义者像反对旅行社安排一切的一揽子旅游一样反对露营的作法,\N\N
+Dialogue: 0,0:03:11.64,0:03:14.80,Default,,0,0,0,,that the traveller abroad thereby denies himself,\N\N说这种封闭的作法使到国外旅游者失去了,\N\N
+Dialogue: 0,0:03:14.80,0:03:19.03,Default,,0,0,0,,the opportunity of getting to know the people of the country visited.\N\N了解所去国家人民的机会.\N\N
+Dialogue: 0,0:03:19.03,0:03:24.84,Default,,0,0,0,,Insularity and self-containment, it is argued, go hand in hand.\N\N他们争论说,心胸狭窄和自我封闭是并存的.\N\N
+Dialogue: 0,0:03:24.84,0:03:31.12,Default,,0,0,0,,The opinion does not survive experience of a popular Continental camping place.\N\N但这种说法在受人欢迎的欧洲露营场地是站不住脚的.\N\N
+Dialogue: 0,0:03:31.12,0:03:36.83,Default,,0,0,0,,cater: v.  迎合\N\NHoliday hotels tend to cater for one nationality of visitors especially,\N\N假日旅馆有只接待来自一个国家的旅游者的倾向,\N\N
+Dialogue: 0,0:03:36.83,0:03:39.02,Default,,0,0,0,,sometimes exclusively.\N\N有时会达到排他的程度.\N\N
+Dialogue: 0,0:03:39.02,0:03:43.63,Default,,0,0,0,,Camping sites,by contrast,are highly cosmopolitan.\N\N而露营驻地则相反,是高度世界性的.\N\N
+Dialogue: 0,0:03:43.63,0:03:48.25,Default,,0,0,0,,preponderance: n.  优势\N\NGranted, a preponderance of Germans is a characteristic,\N\N确实,德国人占优势的特征,\N\N
+Dialogue: 0,0:03:48.25,0:03:51.41,Default,,0,0,0,,that seems common to most Mediterranean sites;\N\N在大多数地中海露营地里是个普遍现象;\N\N
+Dialogue: 0,0:03:51.41,0:03:55.92,Default,,0,0,0,,patronage: n.  恩惠，惠顾\N\Nbut as yet there is no overwhelmingly specialized patronage.\N\N但他们并没有特别的优待.\N\N
+Dialogue: 0,0:03:55.92,0:03:59.99,Default,,0,0,0,,Notices forbidding the open-air drying of clothes,\N\N禁止露天晒衣服、\N\N
+Dialogue: 0,0:03:59.99,0:04:03.30,Default,,0,0,0,,or the use of water points for car washing,\N\N禁止用水龙头冲洗汽车的布告,\N\N
+Dialogue: 0,0:04:03.30,0:04:08.71,Default,,0,0,0,,or those inviting' our camping friends' to a dance or a boat trip,\N\N和邀请露营朋友参加舞会、乘船观光的招贴,\N\N
+Dialogue: 0,0:04:08.71,0:04:12.31,Default,,0,0,0,,are printed not only in French or Italian or Spanish,\N\N不仅印成法语、意大利语西班牙语,\N\N
+Dialogue: 0,0:04:12.31,0:04:15.78,Default,,0,0,0,,but also in English, German and Dutch.\N\N而且也印成英语、德语、荷兰语.\N\N
+Dialogue: 0,0:04:15.78,0:04:22.09,Default,,0,0,0,,sauerkraut: n.  泡菜, vie: v.  竞争\N\NAt meal times the odour of sauerkraut vies with that of garlic.\N\N用饭的时候,德国泡菜味和大蒜味争相散发.\N\N
+Dialogue: 0,0:04:22.09,0:04:27.74,Default,,0,0,0,,The Frenchman's break- fast coffee competes with the Englishman's bacon and eggs.\N\N法国人的早点咖啡和英国人的咸肉煎蛋竞相比美.\N\N
+Dialogue: 0,0:04:27.74,0:04:31.70,Default,,0,0,0,,Whether the remarkable growth of organized camping,\N\N有组织的露营活动的明显发展是否,\N\N
+Dialogue: 0,0:04:31.70,0:04:36.49,Default,,0,0,0,,means the eventual death of the more independent kind is hard to say.\N\N意味着较独立的自我封闭式露营的最终消失,还很难说.\N\N
+Dialogue: 0,0:04:36.49,0:04:42.59,Default,,0,0,0,,Municipalities naturally want to sec- ure the campers' site fees and other custom.\N\N市政当局当然希望获得露营者的场地费和其他光临的好处.\N\N
+Dialogue: 0,0:04:42.59,0:04:45.62,Default,,0,0,0,,itinerant: n.  巡回者\N\NPolice are wary of itinerants\N\N警察则高度警惕那些游荡者,\N\N
+Dialogue: 0,0:04:45.62,0:04:50.36,Default,,0,0,0,,who cannot be traced to a recognized camp boundary or to four walls.\N\N他们没有固定营地或住处,四处游荡.\N\N
+Dialogue: 0,0:04:50.36,0:04:55.16,Default,,0,0,0,,But most probably it will all depend upon campers themselves,\N\N但最重要的或许是露营者自己,\N\N
+Dialogue: 0,0:04:55.16,0:04:59.83,Default,,0,0,0,,heath: v.  荒地\N\Nhow many heath fires they cause;how much litter they leave,\N\N即他们引起了多少场野火,留下了多少垃圾.\N\N
+Dialogue: 0,0:04:59.83,0:05:04.71,Default,,0,0,0,,alienate: v.  便疏远\N\Nin short,whether or not they wholly alienate landowners,\N\N总之,他们是否弄得土地的主人,\N\N
+Dialogue: 0,0:05:04.71,0:05:07.15,Default,,0,0,0,,and those who live in the countryside.\N\N和乡间的居民同他们反目.\N\N
+Dialogue: 0,0:05:07.15,0:05:09.28,Default,,0,0,0,,Only good scouting,\N\N只有优良的童子军活动,\N\N
+Dialogue: 0,0:05:09.28,0:05:14.28,Default,,0,0,0,,is likely to preserve the freedoms so dear to the heart of the eternal Boy Scout.\N\N才能保持不朽的童子军所衷心热爱的各项自由.\N\N

@@ -1,0 +1,35 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.76,Default,,0,0,0,, salvage: v.   救助，营救；打捞\N Lesson 32. A lost ship. The salvage operation had been a complete failure. The small ship,\N第32课。一艘丢失的船。打捞操作是完全失败的。小船，
+Dialogue: 0,0:00:07.76,0:00:14.88,Default,,0,0,0,, Elcor, which had been searching the barren sea for weeks, was on its way home. A radio message\N埃尔科（Elcor）正在搜寻贫瘠的大海数周，他正在回家。无线电消息
+Dialogue: 0,0:00:14.88,0:00:19.28,Default,,0,0,0,, from the mainland had been received by the ship's captain instructing him to give.\N该船的队长指示他给他付出。
+Dialogue: 0,0:00:20.08,0:00:26.08,Default,,0,0,0,, sunken: adj. 沉没的\N Up the search, the captain knew that another attempt would be made later. For the sunken ship\N在搜索中，船长知道稍后将进行另一次尝试。对于沉没的船
+Dialogue: 0,0:00:26.08,0:00:30.16,Default,,0,0,0,, cargo: n.   货物, bullion: n.   金条；银条, find: n.   找到的物品\N he was trying to find had been carrying a precious cargo of gold bullion.\N他试图发现载有一枚珍贵的金条货物。
+Dialogue: 0,0:00:31.12,0:00:37.92,Default,,0,0,0,, scour: v.   彻底搜索\N Despite the message, the captain of the Elcor decided to try once more. The sea bed was scoured\N尽管有消息，但Elcor的队长决定再次尝试。海床被搜寻
+Dialogue: 0,0:00:37.92,0:00:43.84,Default,,0,0,0,, item: n.   物件\N with powerful nets and there was tremendous excitement on boardwenda. Chest was raised from the\N有强大的网络，木板世界引起了极大的兴奋。胸部从
+Dialogue: 0,0:00:43.84,0:00:49.12,Default,,0,0,0,, bottom, though the crew were at first under the impression that the lost ship had been found.\N底部，尽管船员起初是在发现失落的船上的印象。
+Dialogue: 0,0:00:49.92,0:00:55.52,Default,,0,0,0,, chest: n.   大箱子, contents: n.   （复数）所装的东西\N The contents of the chest proved them wrong. What they had in fact found was a ship which had\N胸部的内容证明了他们错了。他们实际上发现的是一艘船
+Dialogue: 0,0:00:55.52,0:01:01.92,Default,,0,0,0,, chest: n.   大箱子, belongings: n.   （复数）所有物\N been sunk many years before. The chest contained the personal belongings of a seaman.\N被沉没了很多年。胸部包含一个海员的个人财产。
+Dialogue: 0,0:01:01.92,0:01:08.24,Default,,0,0,0,, Allen Fielding. There were books. Clothing and photographs. Together with letters which the\N艾伦·菲尔丁。有书。衣服和照片。以及字母
+Dialogue: 0,0:01:08.24,0:01:14.80,Default,,0,0,0,, salvage: v.   救助，营救；打捞\N seaman had once received from his wife. The captain of the Elcor ordered his men to salvage as\N海员曾经从妻子那里收到。埃尔科（Elcor）的队长命令他的士兵抢救
+Dialogue: 0,0:01:14.80,0:01:21.20,Default,,0,0,0,, item: n.   物件\N much as possible from the wreck. Nothing of value was found. But the numerous items which were\N从残骸中尽可能多。找不到价值。但是众多的项目
+Dialogue: 0,0:01:21.20,0:01:27.04,Default,,0,0,0,, brought to the surface proved to be of great interest from a heavy gun that was raised.\N事实证明，从一个重型枪中引起了人们的极大兴趣。
+Dialogue: 0,0:01:27.04,0:01:33.04,Default,,0,0,0,, chest: n.   大箱子, cruiser: n.   巡洋舰\N The captain realized that the ship must have been a cruiser. In another chest, which contained\N船长意识到这艘船一定是巡洋舰。在另一个箱子里
+Dialogue: 0,0:01:33.04,0:01:39.28,Default,,0,0,0,, belongings: n.   （复数）所有物\N the belongings of a ship's officer. There was an unfinished letter which had been written on March 14th.\N船员的财产。3月14日有一封未完成的信。
+Dialogue: 0,0:01:40.16,0:01:46.80,Default,,0,0,0,, 1,943. The captain learned from the letter that the name of the lost ship was the Karen.\N1,943。船长从信中得知失落的船的名字是凯伦。
+Dialogue: 0,0:01:47.52,0:01:54.32,Default,,0,0,0,, find: n.   找到的物品\N The most valuable find of all was the ship's logbook, parts of which it was still possible to read.\N最有价值的发现是该船的日志，其中仍有可能阅读。
+Dialogue: 0,0:01:54.32,0:01:59.12,Default,,0,0,0,, piece: v.   拼成整体\N From this the captain was able to piece together all the information that had come to light.\N由此，船长能够将所有消息揭示的所有信息拼凑在一起。
+Dialogue: 0,0:01:59.84,0:02:05.60,Default,,0,0,0,, convoy: n.   护航, submarine: n.   潜水艇\N The Karen had been sailing in a convoy to Russia when she was torpedoed by an enemy submarine.\N当凯伦（Karen）被敌方潜艇炸毁时，凯伦（Karen）一直在车队驶向俄罗斯。
+Dialogue: 0,0:02:06.48,0:02:12.64,Default,,0,0,0,, naval: adj. 海军的\N This was later confirmed by naval official at the Ministry of Defiance after the Elcor had returned.\N埃尔科（Elcor）返回后，海军官员在反抗部的海军官员后来证实了这一点。
+Dialogue: 0,0:02:12.64,0:02:21.36,Default,,0,0,0,, item: n.   物件\N Home, all the items that were found were sent to the war museum.\N家，所有发现的物品都被送到战争博物馆。

@@ -1,0 +1,33 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.08,Default,,0,0,0,, Lesson 22. By heart, some plays are so successful that they run for years on end.\N第22课。从心中，有些戏剧是如此成功，以至于他们连续多年奔跑。
+Dialogue: 0,0:00:06.88,0:00:13.04,Default,,0,0,0,, In many ways, this is unfortunate for the poor actors who are required to go on repeating the same\N在许多方面，对于要求继续重复同样的贫穷演员来说，这是不幸的
+Dialogue: 0,0:00:13.04,0:00:18.96,Default,,0,0,0,, part: n.   剧中的角色，台词\N line's night. After night, one would expect them to know their parts by heart and never have\N线的夜晚。夜晚后，人们会期望他们内心了解自己的各个部分，并且永远不会
+Dialogue: 0,0:00:18.96,0:00:26.48,Default,,0,0,0,, falter: v.   支吾，结巴说\N caused a falter. Yet this is not always the case. A famous actor in a highly successful play was\N导致步履蹒跚。但是并非总是如此。一位非常成功的戏剧中的著名演员是
+Dialogue: 0,0:00:26.48,0:00:33.12,Default,,0,0,0,, role: n.   角色, aristocrat: n.   贵族, imprison: v.   关押, Bastille: n.   巴士底狱\N once cast in the role of an aristocrat who had been imprisoned in the Bastille for 20 years.\N曾经扮演过一个贵族的角色，该贵族在巴士底狱中被囚禁了20年。
+Dialogue: 0,0:00:33.68,0:00:39.04,Default,,0,0,0,, In the last act, a jailer would always come on to the stage with a letter which he would hand to\N在最后一幕中，一位狱卒总是带着一封信给他交给的信
+Dialogue: 0,0:00:39.04,0:00:44.56,Default,,0,0,0,, the prisoner. Even though the noble was expected to read the letter at each performance,\N囚犯。即使预计贵族会在每次演出中阅读这封信，但
+Dialogue: 0,0:00:45.44,0:00:51.68,Default,,0,0,0,, he always insisted that it should be written out in full. One night, the jailer decided to play a\N他总是坚持认为应该全部写出。一天晚上，狱卒决定扮演
+Dialogue: 0,0:00:51.68,0:00:58.40,Default,,0,0,0,, colleague: n.   同事\N joke on his colleague to find out if. After so many performances, he had managed to learn the\N在他的同事开玩笑，以找出是否。经过如此多的表演，他设法学习了
+Dialogue: 0,0:00:58.40,0:01:04.16,Default,,0,0,0,, curtain: n.   （舞台上的）幕布, reveal: v.   使显露\N contents of the letter by heart. The curtain went up on the final act of the play and revealed\N字母的内容。幕布在剧本的最后一幕中升起，并揭示了
+Dialogue: 0,0:01:04.16,0:01:11.52,Default,,0,0,0,, aristocrat: n.   贵族, cell: n.   单人监房，监号\N the aristocrat sitting alone behind. Bars in his dark cell. Just then, the jailer appeared with\N贵族独自坐在身后。在他黑暗的牢房里的酒吧。就在这时，狱卒与
+Dialogue: 0,0:01:11.52,0:01:17.84,Default,,0,0,0,, aristocrat: n.   贵族, cell: n.   单人监房，监号\N the precious letter in his bands. He entered the cell and presented the letter to the aristocrat,\N乐队中的宝贵信。他进入牢房，并向贵族赠送这封信，
+Dialogue: 0,0:01:17.92,0:01:24.24,Default,,0,0,0,, blank: adj. 空白的\N but the copy he gave him had not been written out in full as usual. It was simply a blank sheet of\N但是他给他的副本并没有像往常一样全部写出来。只是一张空白的床单
+Dialogue: 0,0:01:24.24,0:01:31.28,Default,,0,0,0,, lines: n.   （剧本中的）台词\N paper. The jailer looked on eagerly. Anxious to see if his fellow actor had at last learned his lines.\N纸。狱卒热切地看着。渴望看看他的同伴终于学会了他的台词。
+Dialogue: 0,0:01:32.08,0:01:39.20,Default,,0,0,0,, blank: adj. 空白的, squint: v.   眯着（眼）看，瞄\N The noble stared at the blank sheet of paper for a few seconds. Then, squinting his eyes,\N贵族盯着空白纸几秒钟。然后，斜视他的眼睛，
+Dialogue: 0,0:01:39.20,0:01:45.76,Default,,0,0,0,, dim: adj. 昏暗\N he said, the light is dim, read the letter to me. And he promptly handed the sheet of paper to\N他说，光线很暗，读给我的信。他迅速将纸交给了
+Dialogue: 0,0:01:45.76,0:01:52.56,Default,,0,0,0,, the jailer, finding that he could not remember a word of the letter either. The jailer replied,\N狱卒发现他也不记得这封信的话。狱卒回答，
+Dialogue: 0,0:01:52.56,0:02:00.24,Default,,0,0,0,, dim: adj. 昏暗\N the light is indeed dim. Sire, I must get my glasses. With this, he hurried off the stage.\N光确实很昏暗。父亲，我必须戴上眼镜。因此，他急忙离开舞台。
+Dialogue: 0,0:02:00.88,0:02:07.12,Default,,0,0,0,, aristocrat: n.   贵族\N Much to the aristocrat's amusement. The jailer returned a few moments later with a pair of glasses\N贵族的娱乐很大。囚犯片刻后用一副眼镜返回
+Dialogue: 0,0:02:07.12,0:02:15.76,Default,,0,0,0,, proceed: v.   继续进行\N and the usual copy of the letter. With he proceeded to read to the prisoner.\N以及这封信的通常副本。随着他开始向囚犯读书。

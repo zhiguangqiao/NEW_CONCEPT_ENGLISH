@@ -1,0 +1,40 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:09.60,Default,,0,0,0,, Lesson 44. Speed and comfort. People traveling long distances frequently have to decide whether they would prefer to go by land.\N第44课。速度和舒适。长途旅行的人经常必须决定是否宁愿陆路去。
+Dialogue: 0,0:00:09.60,0:00:17.26,Default,,0,0,0,, positively: adv. 绝对地，完全地\N See, or air. Hardly anyone can positively enjoy sitting in a train for more than a few hours.\N看到或空气。几乎没有人可以积极喜欢坐在火车上超过几个小时。
+Dialogue: 0,0:00:17.26,0:00:24.36,Default,,0,0,0,, compartment: n.   列车客车厢内的分隔间（或单间）, cramped: adj. 窄小的, stuffy: adj. 憋气的，闷气的\N Train compartments soon get cramped and stuffy. It is almost impossible to take your mind off the journey.\N火车舱很快就会局促和闷闷不乐。几乎不可能摆脱旅程。
+Dialogue: 0,0:00:24.36,0:00:32.68,Default,,0,0,0,, monotonous: adj. 枯燥的，乏味的, rhythm: n.   有节奏的运动, click: v.   发出咔哒声, lull: v.   催人欲睡\N Reading is only a partial solution. For the monotonous rhythm of the wheels clicking on the rails soon lulls you to sleep.\N阅读只是部分解决方案。对于轮子的单调节奏，单击栏杆很快就会让您入睡。
+Dialogue: 0,0:00:32.68,0:00:41.56,Default,,0,0,0,, snatch: n.   短时，片段\N During the day, sleep comes in snatches. At night, when you really wish to go to sleep, you rarely manage to do so.\N白天，睡眠有抢夺。到了晚上，当您真的想睡觉时，您很少设法这样做。
+Dialogue: 0,0:00:41.56,0:00:48.92,Default,,0,0,0,, sleeper: n.   卧铺\N If you are lucky enough to get a sleeper, you spend half the night staring at the small blue light in the ceiling.\N如果您很幸运能够让卧铺者望去，那么您将半夜盯着天花板上的小蓝色灯。
+Dialogue: 0,0:00:48.92,0:00:52.10,Default,,0,0,0,, inspection: n.   检查\N Or fumbling to find you ticket for inspection.\N或摸索寻找检查票。
+Dialogue: 0,0:00:52.10,0:00:59.16,Default,,0,0,0,, destination: n.   目的地, exhaust: v.   使精疲力尽\N Inevitably you arrive at your destination almost exhausted. Long car journeys are even less pleasant.\N您不可避免地到达目的地几乎筋疲力尽。长途旅行甚至不那么愉快。
+Dialogue: 0,0:00:59.16,0:01:07.84,Default,,0,0,0,, motorway: n.   快车道\N For it is quite impossible even to read. On motorways you can, at least, travel fairly safely at high speeds.\N因为即使阅读也是完全不可能的。在高速公路上，您至少可以高速行驶。
+Dialogue: 0,0:01:07.84,0:01:15.92,Default,,0,0,0,, But more often than not, the greater part of the journey is spent on roads with few service stations and too much traffic.\N但是，通常，旅程的大部分时间都花在服务站很少和交通过多的道路上。
+Dialogue: 0,0:01:15.92,0:01:22.24,Default,,0,0,0,, ferry: n.   渡船, cruise: n.   巡游船, civilize: v.   使文明\N By comparison, ferry trips or cruises offer a great variety of civilized comforts.\N相比之下，渡轮旅行或游轮提供各种文明的舒适感。
+Dialogue: 0,0:01:22.24,0:01:31.08,Default,,0,0,0,, spacious: adj. 宽敞的\N You can stretch your legs on the spacious decks. Play games. Meet interesting people and enjoy good food. Always assuming.\N您可以在宽敞的甲板上伸展双腿。玩游戏。结识有趣的人并享受美食。总是假设。
+Dialogue: 0,0:01:31.08,0:01:40.40,Default,,0,0,0,, seasick: adj. 晕船的\N Of course, that the sea is calm. If it is not, and you are likely to get seasick, no form of transport could be worse.\N当然，大海很平静。如果不是，并且您可能会晕船，那么运输的形式可能会更糟。
+Dialogue: 0,0:01:40.40,0:01:52.36,Default,,0,0,0,, Even if you travel in ideal weather. Sea journeys take a long time. Relatively few people are prepared to sacrifice holiday time for the pleasure of traveling by sea.\N即使您在理想的天气下旅行。海上旅行需要很长时间。相对较少的人准备牺牲假期，以享受海上旅行的乐趣。
+Dialogue: 0,0:01:52.36,0:01:59.08,Default,,0,0,0,, intimidate: v.   恐吓，恫吓\N Aeroplanes have the reputation of being dangerous and even hardened travelers are intimidated by.\N飞机的声誉是被危险，甚至是坚强的旅行者都被吓倒了。
+Dialogue: 0,0:01:59.08,0:02:04.88,Default,,0,0,0,, disadvantage: n.   短处，缺点\N Them, they also have the disadvantage of being an expensive form of transport.\N他们，他们也有一种昂贵的运输形式的缺点。
+Dialogue: 0,0:02:04.88,0:02:18.00,Default,,0,0,0,, exhilarating: adj. 使人高兴的，令人兴奋的\N But nothing can match them for speed and comfort. Traveling at a height of 30,000 feet, far above the clouds, and at over 500 miles an hour is an exhilarating experience.\N但是没有什么可以匹配它们的速度和舒适。以30,000英尺的高度行驶，远远超过云端，每小时超过500英里，这是一种令人振奋的体验。
+Dialogue: 0,0:02:18.00,0:02:22.52,Default,,0,0,0,, You do not have to devise ways of taking your mind off the journey.\N您不必设计方法来摆脱困境。
+Dialogue: 0,0:02:22.52,0:02:31.20,Default,,0,0,0,, destination: n.   目的地\N For an aeroplane gets you to your destination rapidly. For a few hours, you settle back in a deep armchair to enjoy the flight.\N对于飞机，您可以迅速到达目的地。几个小时以来，您就会坐在深扶手椅上享受飞行。
+Dialogue: 0,0:02:31.20,0:02:36.64,Default,,0,0,0,, escapist: n.   逍遥者, champagne: n.   香槟洒\N The real escapist can watch a film and sip champagne on some services.\N真正的逃避现实者可以看电影并在某些服务中饮香槟。
+Dialogue: 0,0:02:36.64,0:02:42.44,Default,,0,0,0,, refinement: n.   精心的安排\N But even when such refinements are not available, there is plenty to keep you occupied.\N但是，即使没有这种改进，也有很多可以让您占领的。
+Dialogue: 0,0:02:42.44,0:02:47.48,Default,,0,0,0,, An aeroplane offers you an unusual and breathtaking view of the world.\N飞机为您提供了世界上不寻常而令人叹为观止的景色。
+Dialogue: 0,0:02:47.48,0:02:53.96,Default,,0,0,0,, soar: v.   高飞，翱翔, effortlessly: adv. 不费力地\N You soar effortlessly over high mountains and deep valleys. You really see the shape of the land.\N您毫不费力地在高山和深山谷上飞翔。您真的看到了土地的形状。
+Dialogue: 0,0:02:53.96,0:03:03.44,Default,,0,0,0,, landscape: n.   景色\N If the landscape is hidden from view, you can enjoy the extraordinary sight of unbroken cloud planes that stretch out for miles before you.\N如果隐藏了景观，您可以欣赏到不间断的云飞机的非凡景象，这些飞机在您之前延伸了几英里。
+Dialogue: 0,0:03:03.44,0:03:12.16,Default,,0,0,0,, While the sun shines brilliantly in a clear sky, the journey is so smooth that there is nothing to prevent you from reading or sleeping.\N虽然阳光在晴朗的天空中闪耀着，但旅程是如此顺利，以至于没有什么可以阻止您阅读或睡觉的。
+Dialogue: 0,0:03:12.16,0:03:20.20,Default,,0,0,0,, destination: n.   目的地, fresh: adj. 精神饱满的, uncrumpled: adj. 没有垮下来\N However you decide to spend your time. One thing is certain. You will arrive at your destination fresh and uncrumpled.\N但是，您决定花时间。一件事是肯定的。您将到达目的地，新鲜而浮出水面。
+Dialogue: 0,0:03:20.20,0:03:25.88,Default,,0,0,0,, You will not have to spend the next few days recovering from a long and arduous journey.\N您将不必在接下来的几天里从漫长而艰巨的旅程中恢复过来。

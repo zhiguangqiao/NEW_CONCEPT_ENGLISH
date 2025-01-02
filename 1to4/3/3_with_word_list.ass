@@ -1,0 +1,29 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.60,Default,,0,0,0,, archaeologist: n.   考古学家, rest: v.   倚放，放置\N Lesson 3. An unknown goddess. Some time ago. An interesting discovery was made by archaeologists\N第3课。一个未知的女神。一段时间以前。考古学家提出了一个有趣的发现
+Dialogue: 0,0:00:07.60,0:00:13.92,Default,,0,0,0,, Aegean: adj. 爱玲海的, explore: v.   考察，勘探\N on the Aegean island of Kea. An American team explored a temple which stands in an ancient\N在爱琴海岛的基亚岛上。一支美国团队探索了一座寺庙，该寺庙站在一个古老的地方
+Dialogue: 0,0:00:13.92,0:00:21.20,Default,,0,0,0,, promontory: n.   海角, prosperous: adj. （经济上）繁荣的，昌盛的\N city on the promontory of Ayrrheni. The city at one time must have been prosperous. For it enjoyed\NAyrrheni海角的城市。曾经曾经繁荣了这个城市。因为它很喜欢
+Dialogue: 0,0:00:21.20,0:00:27.92,Default,,0,0,0,, civilization: n.   文明\N a high level of civilization. Houses, often three stories high, were built of stone. They had\N高水平的文明。房屋通常高三层，是用石头建造的。他们有
+Dialogue: 0,0:00:27.92,0:00:34.32,Default,,0,0,0,, drainage: n.   排水\N large rooms with beautifully decorated walls. The city was equipped with a drainage system.\N大房间，装饰精美的墙壁。该市配备了排水系统。
+Dialogue: 0,0:00:34.32,0:00:37.92,Default,,0,0,0,, For a great many clay pipes were found beneath the narrow streets.\N在狭窄的街道下面发现了很多粘土管。
+Dialogue: 0,0:00:39.04,0:00:44.56,Default,,0,0,0,, archaeologist: n.   考古学家, explore: v.   考察，勘探, worship: n.   祟拜, hip: n.   屁股，臀部\N The temple which the archaeologists explored was used as a place of worship from the 15th.\N考古学家探索的圣殿被用作15日的礼拜场所。
+Dialogue: 0,0:00:45.36,0:00:53.04,Default,,0,0,0,, sacred: adj. 宗教的，神圣的, fragment: n.   碎片\N Century BC until Roman times. In the most sacred room of temple, clay fragments of 15 statues\NBC世纪直到罗马时代。在最神圣的寺庙房间里，15个雕像的粘土碎片
+Dialogue: 0,0:00:53.04,0:00:58.48,Default,,0,0,0,, were found. Each of these represented a goddess and had. At one time,\N被发现。这些中的每一个都代表了一个女神。一次，
+Dialogue: 0,0:00:58.48,0:01:04.80,Default,,0,0,0,, remains: n.   遗物，遗迹，废墟\N been painted, the body of one statue was found among remains dating from the 15th century BC.\N被涂漆了，一个雕像的尸体在公元前15世纪的遗体中发现。
+Dialogue: 0,0:01:05.60,0:01:12.24,Default,,0,0,0,, remains: n.   遗物，遗迹，废墟\N It's missing. Head happened to be among remains of the 5th century BC. This head must have been\N缺少。头部恰好是公元前5世纪的遗体。这个头一定是
+Dialogue: 0,0:01:12.24,0:01:19.28,Default,,0,0,0,, found in. Classical times and carefully preserved. It was very old and precious even then.\N在古典时期发现并精心保存。即使那样，它也很老。
+Dialogue: 0,0:01:19.28,0:01:25.04,Default,,0,0,0,, archaeologist: n.   考古学家, fragment: n.   碎片, reconstruct: v.   修复\N When the archaeologists reconstructed the fragments, they were amazed to find that the goddess\N当考古学家重建碎片时，他们惊讶地发现女神
+Dialogue: 0,0:01:25.04,0:01:31.76,Default,,0,0,0,, rest: v.   倚放，放置, hip: n.   屁股，臀部\N turned out to be a very modern looking woman. She stood three feet high and her hands rested on her hips.\N原来是一个非常现代的女人。她高高三英尺，双手搁在臀部上。
+Dialogue: 0,0:01:32.64,0:01:38.96,Default,,0,0,0,, She was wearing a full length skirt which swept the ground. Despite her great age, she was very\N她穿着一条横扫地面的全长裙子。尽管她年龄很高，但她非常
+Dialogue: 0,0:01:38.96,0:01:45.84,Default,,0,0,0,, archaeologist: n.   考古学家, graceful: adj. 优雅的, identity: n.   身份\N graceful indeed. But, so far, the archaeologists have been unable to discover her identity.\N确实是优雅的。但是，到目前为止，考古学家一直无法发现她的身份。

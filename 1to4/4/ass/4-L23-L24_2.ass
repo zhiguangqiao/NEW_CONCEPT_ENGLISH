@@ -1,0 +1,44 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.77,Default,,0,0,0,,Lesson 24 Beauty\N\N美\N\N
+Dialogue: 0,0:00:04.77,0:00:08.57,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:08.57,0:00:13.25,Default,,0,0,0,,What do glimpses of beauty,either in nature or art,\N\N对无论是对自然美还是艺术美的一瞥,\N\N
+Dialogue: 0,0:00:13.25,0:00:15.81,Default,,0,0,0,,often suggest to the human mind?\N\N往往会唤起人类什么样的遐想?\N\N
+Dialogue: 0,0:00:15.81,0:00:19.09,Default,,0,0,0,,A young man sees a sunset and,\N\N一个年轻人看到日落,\N\N
+Dialogue: 0,0:00:19.09,0:00:23.20,Default,,0,0,0,,unable to understand or to express the emotion that it rouses in him,\N\N由于无法理解和表达日落在他心中唤起的激情,\N\N
+Dialogue: 0,0:00:23.20,0:00:27.72,Default,,0,0,0,,concludes that it must be the gateway to a world that lies beyond.\N\N便得出结论:日落想必是通往遥远世界的大门.\N\N
+Dialogue: 0,0:00:27.72,0:00:33.38,Default,,0,0,0,,It is difficult for any of us in moments of intense aesthetic experience\N\N无论是谁,在强烈感受到美的时刻,aa\N\N
+Dialogue: 0,0:00:33.38,0:00:38.38,Default,,0,0,0,,to resist the suggestion that we are catching a glimpse of a light\N\N心中都不禁油然而生一种遐想:似乎我们瞥见的这一线光芒,\N\N
+Dialogue: 0,0:00:38.38,0:00:43.53,Default,,0,0,0,,realm: n.  世界\N\Nthat shines down to us from a different realm of existence, different and,\N\N来自于不同于我们这个世界的另一个世界,\N\N
+Dialogue: 0,0:00:43.53,0:00:48.11,Default,,0,0,0,,because the experience is intensely moving, in some way higher.\N\N而且由于美的强烈感染,感觉那个世界在某些方面比我们这个世界更美好.\N\N
+Dialogue: 0,0:00:48.11,0:00:55.53,Default,,0,0,0,,serenity: n.  静谧\N\NAnd,though the gleams blind and dazzle,yet do they convey a hint of beauty and serenity\N\N虽然这光芒令人眼花缭乱,但它确实给予我们一种美感和静谧的启示,\N\N
+Dialogue: 0,0:00:55.53,0:01:01.11,Default,,0,0,0,,greater than we have known or imagined. Greater too than we can describe;\N\N这种美感和静谧是我们从来不曾经历和无法想像的也是我们无法描述的,\N\N
+Dialogue: 0,0:01:01.11,0:01:05.70,Default,,0,0,0,,for language,which was invented to convey the meanings of this world\N\N因为我们发明的语言是用来描述我们这个世界的含义,\N\N
+Dialogue: 0,0:01:05.70,0:01:09.28,Default,,0,0,0,,cannot readily be fitted to the uses of another.\N\N不能随便拿来去描述另一个世界.\N\N
+Dialogue: 0,0:01:09.28,0:01:16.69,Default,,0,0,0,,That all great art has this power of suggesting a world beyond is undeniable.\N\N不可否认,一切伟大的艺术都具有使人遐想到进入天外世界的魅力.\N\N
+Dialogue: 0,0:01:16.69,0:01:19.94,Default,,0,0,0,,In some moods,nature shares it.\N\N在某种状态下,大自然也有这种魅力.\N\N
+Dialogue: 0,0:01:19.94,0:01:25.84,Default,,0,0,0,,There is no sky in June so blue that it does not point forward to a bluer,\N\N六月蔚蓝的天空总使人遥想一个更加蔚蓝的苍穹:\N\N
+Dialogue: 0,0:01:25.84,0:01:31.62,Default,,0,0,0,,no sunset so beautiful that it does not waken the vision of a greater beauty,\N\N美丽的落日总会引起一个更加绚丽的景象,\N\N
+Dialogue: 0,0:01:31.62,0:01:36.15,Default,,0,0,0,,a vision which passes before it is fully glimpsed,\N\N这景象未及饱览便一闪即逝,\N\N
+Dialogue: 0,0:01:36.15,0:01:41.27,Default,,0,0,0,,and in passing leaves an indefinable longing and regret.\N\N并在消逝中给人留下了不可名状的渴望和惆怅.\N\N
+Dialogue: 0,0:01:41.27,0:01:44.59,Default,,0,0,0,,But,if this world is not merely a bad joke,\N\N如果这个世界不只是一个拙劣的恶作剧,\N\N
+Dialogue: 0,0:01:44.59,0:01:48.48,Default,,0,0,0,,radiance: n.  发光\N\Nlife a vulgar flare amid the cool radiance of the stars,\N\N如果人生不只是群星寒光中平凡的一闪,\N\N
+Dialogue: 0,0:01:48.48,0:01:52.80,Default,,0,0,0,,and existence an empty laugh braying across the mysteries;\N\N如果存在不只是对神秘事物的一阵空虚的笑声,\N\N
+Dialogue: 0,0:01:52.80,0:01:57.69,Default,,0,0,0,,intimation: n.  暗示\N\Nif these intimations of a something behind and beyond\N\N如果某种玄妙事物的暗示\N\N
+Dialogue: 0,0:01:57.69,0:02:00.46,Default,,0,0,0,,are not evil humour born of indigestion,\N\N不是消化不良引起的邪恶情绪,\N\N
+Dialogue: 0,0:02:00.46,0:02:07.31,Default,,0,0,0,,or whimsies sent by the devil to mock and madden us,if,in a word\N\N也不是魔鬼为了捉弄我们使我们发狂而送给我们的邪念,一句话,\N\N
+Dialogue: 0,0:02:07.31,0:02:12.48,Default,,0,0,0,,beauty means something yet we must not seek to interpret the meaning.\N\N如果美有某种意义的话,我们千万不要去阐明它的意义.\N\N
+Dialogue: 0,0:02:12.48,0:02:17.94,Default,,0,0,0,,If we glimpse the unutterable,it is unwise to try to utter it,\N\N如果我瞥见了只可意会不可言传的事物,企图把它说出来,那是不明智的.\N\N
+Dialogue: 0,0:02:17.94,0:02:23.85,Default,,0,0,0,,invest: v.  赋予\N\Nnor should we seek to invest with significance that which we cannot grasp.\N\N对于我们不理解的事物,我们也不应该去赋予它某种意义.\N\N
+Dialogue: 0,0:02:23.85,0:02:28.85,Default,,0,0,0,,Beauty in terms of our human meanings is meaningless.\N\N用对我们人类有意义的词句来解释美是没有意义的\N\N

@@ -1,0 +1,42 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.48,Default,,0,0,0,,Lesson 14 The Butterfly Effect\N\N蝴蝶效应\N\N
+Dialogue: 0,0:00:05.48,0:00:09.42,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:09.42,0:00:17.86,Default,,0,0,0,,Why do small errors make it impossible,to predict the weather system with a high degree of accuracy?\N\N为什么小错误就能导致，天气预报的不精确?\N\N
+Dialogue: 0,0:00:17.86,0:00:25.07,Default,,0,0,0,,forecast: n.  预报\N\NBeyond two or three days,the world's best weather forecasts are speculative,\N\N世界上最好的两三天以上的天气预报具有很强的猜测性,\N\N
+Dialogue: 0,0:00:25.07,0:00:28.79,Default,,0,0,0,,and beyond six or seven they are worthless.\N\N如果超过六七天,天气预报就没有了任何价值.\N\N
+Dialogue: 0,0:00:28.79,0:00:31.47,Default,,0,0,0,,The Butterfly Effect is the reason.\N\N原因是蝴蝶效应.\N\N
+Dialogue: 0,0:00:31.47,0:00:33.89,Default,,0,0,0,,For small pieces of weather--\N\N对于小片的恶劣天气--\N\N
+Dialogue: 0,0:00:33.89,0:00:39.86,Default,,0,0,0,,forecast: n.  预报, blizzard: n.  暴风雪\N\N--and to a global forecaster,small can mean thunderstorms and blizzards--\N\N对一个全球性的气象预报员来说,"小"可以意味着雷暴雨和暴风雪--\N\N
+Dialogue: 0,0:00:39.86,0:00:43.06,Default,,0,0,0,,deteriorate: v.  变坏\N\Nany prediction deteriorates rapidly.\N\N任何预测的质量会很快下降.\N\N
+Dialogue: 0,0:00:43.06,0:00:46.13,Default,,0,0,0,,multiply: v.  增加\N\NErrors and uncertainties multiply,\N\N错误和不可靠性上升,\N\N
+Dialogue: 0,0:00:46.13,0:00:49.76,Default,,0,0,0,,cascading upward through a chain of turbulent features,\N\N接踵而来的是一系列湍流的徵状,\N\N
+Dialogue: 0,0:00:49.76,0:00:52.58,Default,,0,0,0,,from dust devils and squalls\N\N从小尘暴和暴风\N\N
+Dialogue: 0,0:00:52.58,0:00:56.98,Default,,0,0,0,,up to continent-size eddies that only satellites can see.\N\N发展到只有卫星上可以看到的席卷整块大陆的旋涡。\N\N
+Dialogue: 0,0:00:56.98,0:01:04.68,Default,,0,0,0,,grid: n.  坐标方格\N\NThe modern weather mo- dels work with a grid of points of the order of sixty miles apart,\N\N现代气象模型以一个坐标图来显示,图中每个点大约是间隔60英里.\N\N
+Dialogue: 0,0:01:04.68,0:01:09.22,Default,,0,0,0,,and even so,some starting data has to be guessed,\N\N既使是这样,有些开始时的资料也不得不依靠推测，\N\N
+Dialogue: 0,0:01:09.22,0:01:13.53,Default,,0,0,0,,since ground stations and satellites cannot see everywhere.\N\N因为地面工作站和卫星不可能看到地球上的每一个地方.\N\N
+Dialogue: 0,0:01:13.53,0:01:19.87,Default,,0,0,0,,sensor: n.  传感器\N\NBut suppose the earth could be covered with sensors spaced one foot apart,\N\N假设地球上可以布满传感器,每个相隔1英尺,\N\N
+Dialogue: 0,0:01:19.87,0:01:24.53,Default,,0,0,0,,rising at one-foot intervals all the way to the top of the atmosphere.\N\N并按1英尺的间隔从地面一直排列到大气层的顶端\N\N
+Dialogue: 0,0:01:24.53,0:01:30.76,Default,,0,0,0,,sensor: n.  传感器\N\NSuppose every sensor gives perfectly accurate readings of temperature,\N\N再假定每个传感器都极端准确地读出了温度、\N\N
+Dialogue: 0,0:01:30.76,0:01:36.38,Default,,0,0,0,,humidity: n.  温度, meteorologist: n.  气象学家\N\Npressure,humidity,and any other quantity a meteorologist would want.\N\N气压、湿度和气象学家需要的任何其他数据.\N\N
+Dialogue: 0,0:01:36.38,0:01:42.07,Default,,0,0,0,,Precisely at noon an infinitely powerful computer takes all the data\N\N在正午时分,一个功能巨大的计算机搜集了所有的资料,\N\N
+Dialogue: 0,0:01:42.07,0:01:51.21,Default,,0,0,0,,and calculates what will happen at each point at 12.01,then 12.02,then 12.03...\N\N并算出在每一个点上12:01,12:02,12:03... 时可能出现的情况.\N\N
+Dialogue: 0,0:01:51.21,0:01:56.60,Default,,0,0,0,,The computer will still be unable to predict\N\N计算机无法推断出,\N\N
+Dialogue: 0,0:01:56.60,0:02:01.81,Default,,0,0,0,,Princeton: n.  普林斯顿（美国城市名）, New Jersey: n.  新泽西（美国州名）\N\Nwhether Princeton,New Jersey,will have sun or rain on a day one month away.\N\N1个月以后的某一天,新泽西州的普林斯顿究竟是晴是雨.\N\N
+Dialogue: 0,0:02:01.81,0:02:05.81,Default,,0,0,0,,sensor: n.  传感器\N\NAt noon the spaces between the sensors ,\N\N正午时分,传感器之间的距离，\N\N
+Dialogue: 0,0:02:05.81,0:02:09.35,Default,,0,0,0,,fluctuation: n.  起伏，波动\N\Nwill hide fluctuations that the computer will not know about,\N\N会掩盖计算机无法知道的波动,\N\N
+Dialogue: 0,0:02:09.35,0:02:12.36,Default,,0,0,0,,deviation: n.  偏差\N\Ntiny deviations from the average.\N\N任何微小偏离平均值的变化.\N\N
+Dialogue: 0,0:02:12.36,0:02:19.93,Default,,0,0,0,,By 12.01,those fluctu- ations will already have created small errors one foot away.\N\N到12:01时,那些波动就已经会在1英尺远的地方造成偏差.\N\N
+Dialogue: 0,0:02:19.93,0:02:24.93,Default,,0,0,0,,Soon the errors will have multiplied to the ten-foot scale,and so on up to the size of the globe.\N\N很快这种偏差会增加到10英尺的范围,如此等等,一直到全球的范围.\N\N

@@ -1,0 +1,35 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.04,Default,,0,0,0,, Lesson 3-3. A day-t-remember. We have all experienced days when everything goes wrong.\N第3-3课。日常记者。我们已经经历了一切出错的日子。
+Dialogue: 0,0:00:07.04,0:00:12.72,Default,,0,0,0,, A day may begin well enough. But suddenly everything seems to get out of control.\N一天的开始可能已经足够好。但是突然，一切似乎都失控了。
+Dialogue: 0,0:00:12.72,0:00:18.24,Default,,0,0,0,, What invariably happens is that a great number of things choose to go wrong at precisely the same.\N总是发生的事情是，许多事情选择在完全相同的情况下出错。
+Dialogue: 0,0:00:19.12,0:00:24.24,Default,,0,0,0,, Moment. It is as if a single, unimportant event set up a chain of reactions.\N片刻。好像一个不重要的事件建立了一系列反应。
+Dialogue: 0,0:00:25.12,0:00:30.16,Default,,0,0,0,, Let us suppose that you are preparing a meal and keeping an eye on the baby at the same time.\N让我们假设您正在准备一顿饭并同时关注婴儿。
+Dialogue: 0,0:00:30.88,0:00:36.40,Default,,0,0,0,, prelude: n.   序幕，前奏, unforeseen: adj. 意料之外的, series: n.   系列, catastrophe: n.   大祸，灾难\N The telephone rings and this marks the prelude to an unforeseen series of catastrophes.\N电话响了，这标志着一系列不可预见的灾难的前奏。
+Dialogue: 0,0:00:37.28,0:00:43.44,Default,,0,0,0,, While you are on the phone, the baby pulls the tablecloth off the table, smashing half your\N当您打电话时，婴儿将桌布从桌子上拉出，砸碎了一半
+Dialogue: 0,0:00:43.44,0:00:49.36,Default,,0,0,0,, crockery: n.   陶器，瓦器\N best crockery and cutting himself in the process. You hang up hurriedly and attend to baby,\N最好的陶器和在此过程中割伤自己。你急忙挂在婴儿身上，
+Dialogue: 0,0:00:49.84,0:00:57.84,Default,,0,0,0,, crockery: n.   陶器，瓦器\N crockery, etc. Meanwhile, the meal gets burnt as if this were not enough to reduce you to tears.\N陶器等。同时，这顿饭被烧毁了，好像这还不足以减少您的眼泪。
+Dialogue: 0,0:00:57.84,0:01:05.52,Default,,0,0,0,, Your husband arrives, unexpectedly bringing three guests to dinner. Things can go wrong on a big scale.\N您的丈夫到达，出乎意料地带三名客人去吃晚饭。事情可能会大大出错。
+Dialogue: 0,0:01:05.52,0:01:12.08,Default,,0,0,0,, suburb: n.   郊区\N As a number of people recently discovered in Paramata, a suburb of Sydney during the rush hour\N正如许多人最近在高峰时段在悉尼郊区帕拉马塔（Parramatta）发现的那样
+Dialogue: 0,0:01:12.08,0:01:18.96,Default,,0,0,0,, collide: v.   猛撞\N one evening two cars collided and both drivers began to argue. The woman immediately behind the two\N一个晚上，两辆汽车碰撞，两辆驾驶员开始争论。那个女人紧随两者后面
+Dialogue: 0,0:01:18.96,0:01:25.68,Default,,0,0,0,, learner: n.   初学者, panic: n.   惊慌，恐慌\N cars happened to be a learner. She suddenly got into a panic and stopped her car. This made the\N汽车恰好是学习者。她突然陷入恐慌，停了车。这使得
+Dialogue: 0,0:01:25.68,0:01:32.24,Default,,0,0,0,, driver following her break hard. His wife was sitting beside him holding a large cake. As she was\N驾驶员努力休息。他的妻子坐在他旁边拿着一个大蛋糕。就像她一样
+Dialogue: 0,0:01:32.24,0:01:38.72,Default,,0,0,0,, windscreen: n.   （汽车的）挡风玻璃\N thrown forward, the cake went right through the windscreen and landed on the road. Seeing a cake\N向前扔了蛋糕，穿过挡风玻璃，降落在路上。看到蛋糕
+Dialogue: 0,0:01:38.72,0:01:44.88,Default,,0,0,0,, flying through the air. A lorry driver who was drawing up alongside the car pulled up all of a\N飞过空中。一名货车司机，他在汽车旁边开车，拉起了所有
+Dialogue: 0,0:01:44.88,0:01:50.40,Default,,0,0,0,, sudden. The lorry was loaded with empty beer bottles and hundreds of them slid off the back of\N突然。货车装满了空的啤酒瓶，其中数百个滑落在后面
+Dialogue: 0,0:01:50.40,0:01:58.08,Default,,0,0,0,, the vehicle. And on to the road. This led to yet another angry argument. Meanwhile, the traffic\N车辆。并上路。这导致了另一个愤怒的论点。同时，交通
+Dialogue: 0,0:01:58.08,0:02:03.52,Default,,0,0,0,, piled up behind. It took the police nearly an hour to get the traffic on the move again.\N堆积在后面。警察花了将近一个小时才能再次行动。
+Dialogue: 0,0:02:04.32,0:02:11.20,Default,,0,0,0,, stray: adj. 迷失的，离群的\N In the meantime, the lorry driver had to sweep up hundreds of broken bottles. Only two stray dogs\N同时，卡车司机不得不扫除数百瓶破碎的瓶子。只有两只流浪狗
+Dialogue: 0,0:02:11.20,0:02:17.52,Default,,0,0,0,, confusion: n.   混乱, greedily: adv. 贪婪地, devour: v.   狼吞虎咽地吃\N benefited from all this confusion. For they greedily devoured what was left of the cake. It was\N从所有这些混乱中受益。因为他们贪婪地吞噬了蛋糕的剩下的东西。是
+Dialogue: 0,0:02:17.52,0:02:19.76,Default,,0,0,0,, just one of those days.\N只是其中之一。

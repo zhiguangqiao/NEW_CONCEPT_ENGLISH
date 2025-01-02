@@ -1,0 +1,55 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.56,Default,,0,0,0,,Lesson 39 What every writer wants\N\N作家之所需\N\N
+Dialogue: 0,0:00:06.56,0:00:10.63,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:10.63,0:00:17.08,Default,,0,0,0,,How do professional writers ignore what they were taught at school about writing?\N\N职业作家怎样忽视他们在学校接受的写作教育?\N\N
+Dialogue: 0,0:00:17.08,0:00:20.83,Default,,0,0,0,,I have known very few writers,\N\N我所认识的作家寥寥无几,\N\N
+Dialogue: 0,0:00:20.83,0:00:25.29,Default,,0,0,0,,confess: v.  承认\N\Nbut those I have known and whom I respect, confess at once\N\N然而凡是我所认识和尊敬的作家,都立即承认\N\N
+Dialogue: 0,0:00:25.29,0:00:30.80,Default,,0,0,0,,that they have little idea where they are going when they first set pen to paper.\N\N在他们动笔时,不清楚要写什么,怎么写.\N\N
+Dialogue: 0,0:00:30.80,0:00:34.17,Default,,0,0,0,,They have a character, perhaps two;\N\N他们心中有一个或两个角色;\N\N
+Dialogue: 0,0:00:34.17,0:00:39.77,Default,,0,0,0,,inspiration: n.  灵感\N\Nthey are in that condition of eager discomfort which passes for inspiration\N\N他们处于急切不安的状态而这被当作是灵感.\N\N
+Dialogue: 0,0:00:39.77,0:00:45.40,Default,,0,0,0,,all admit radical changes of destination once the journey has begun;\N\N他们无不承认,一旦"旅程"开始,"目的地"常 有急剧的变化.\N\N
+Dialogue: 0,0:00:45.40,0:00:51.39,Default,,0,0,0,,Kashmir: n.  克什米尔\N\None,to my certain knowledge,spent nine months on a novel about Kashmir,\N\N据我所知,有位作家花了9个月的时间写了一部有关克什米尔的小说,\N\N
+Dialogue: 0,0:00:51.39,0:00:55.14,Default,,0,0,0,,then reset the whole thing in the Scottish Highlands.\N\N后来却把整个故事背景换成了苏格兰高地.\N\N
+Dialogue: 0,0:00:55.14,0:01:01.08,Default,,0,0,0,,I never heard of anyone making a 'skeleton',as we were taught at school.\N\N我从未听说过任何一位作家像我们在学校学的那样,动笔前先列什么提纲.\N\N
+Dialogue: 0,0:01:01.08,0:01:08.01,Default,,0,0,0,,In the breaking and remaking,in the timing interweaving,beginning afresh,\N\N在剪裁修改、构思时间、穿插情节、以至从头重写的过程中,\N\N
+Dialogue: 0,0:01:08.01,0:01:11.46,Default,,0,0,0,,discern: v.  辨明，领悟\N\Nthe writer comes to discern things in his material\N\N作家会领悟到素材中有很多东西\N\N
+Dialogue: 0,0:01:11.46,0:01:15.11,Default,,0,0,0,,which were not consciously in his mind when he began.\N\N是他刚动笔时所未意识到的.\N\N
+Dialogue: 0,0:01:15.11,0:01:17.78,Default,,0,0,0,,This organic process,\N\N这种有机的加工过程\N\N
+Dialogue: 0,0:01:17.78,0:01:22.41,Default,,0,0,0,,often leading to moments of extraordinary self-discovery,\N\N往往达到不寻常自我发现的境界,\N\N
+Dialogue: 0,0:01:22.41,0:01:25.27,Default,,0,0,0,,is of an indescribable fascination.\N\N具有难以言表的构思魅力\N\N
+Dialogue: 0,0:01:25.27,0:01:33.11,Default,,0,0,0,,blur: v.  使...模糊不清\N\NA blurred image appears,he adds a brushstroke and another and it is gone,\N\N一个朦胧的形象出现在作家脑海里,他左添一笔,右添一笔,形象反而消逝了,\N\N
+Dialogue: 0,0:01:33.11,0:01:38.32,Default,,0,0,0,,but something was there,and he will not rest till he has captured it.\N\N可是,好像还有什么东西存在着,不把它捕捉到,作家是不会罢休的.\N\N
+Dialogue: 0,0:01:38.32,0:01:44.41,Default,,0,0,0,,yeast: n.  激动\N\NSometimes the yeast within a writer outlives a book he has written.\N\N有时,一个作家一本书写完了,但兴奋仍不消散.\N\N
+Dialogue: 0,0:01:44.41,0:01:49.06,Default,,0,0,0,,I have heard of writers who read nothing but their own books,\N\N我听说一些作家,除了自己的书外,别的书一概不读,\N\N
+Dialogue: 0,0:01:49.06,0:01:52.66,Default,,0,0,0,,like adolescents they stand before the mirror,\N\N犹如希腊神话中那位漂亮少年,站在镜前,\N\N
+Dialogue: 0,0:01:52.66,0:01:57.16,Default,,0,0,0,,fathom: v.  领悟，彻底了解\N\Nand still cannot fathom the exact outline of the vision before them.\N\N不能辨认出自身的真面目.\N\N
+Dialogue: 0,0:01:57.16,0:02:03.06,Default,,0,0,0,,For the same reason, writers talk interminably about their own books,\N\N由于这个原因,作家喋喋不休地谈论自己的书,\N\N
+Dialogue: 0,0:02:03.06,0:02:08.10,Default,,0,0,0,,winkling out hidden meanings, super-imposing new ones,\N\N挖掘其隐晦的含义,增添新的含义,aa\N\N
+Dialogue: 0,0:02:08.10,0:02:10.99,Default,,0,0,0,,begging response from those around them.\N\N询问周围人的反应.\N\N
+Dialogue: 0,0:02:10.99,0:02:15.14,Default,,0,0,0,,Of course a writer doing this is misunderstood,\N\N作家如此行事当然会被人误解,\N\N
+Dialogue: 0,0:02:15.14,0:02:19.25,Default,,0,0,0,,he might as well try to explain a crime or a love affair.\N\N还不如给人讲一个犯罪案件或一个恋爱故事.\N\N
+Dialogue: 0,0:02:19.25,0:02:23.51,Default,,0,0,0,,He is also, incidentally,an unforgivable bore.\N\N顺便说一句,他也是个不可饶恕的令人厌烦的人.\N\N
+Dialogue: 0,0:02:23.51,0:02:28.51,Default,,0,0,0,,This temptation to cover the distance between himself and the reader,\N\N作家这种企图消除自己和读者之间距离,\N\N
+Dialogue: 0,0:02:28.51,0:02:34.76,Default,,0,0,0,,to study his image in the sight of those who do not know him,can be his undoing,\N\N企图用不了解自己的人的观点来研究自己塑造的形象的作法会导致他的毁灭,\N\N
+Dialogue: 0,0:02:34.76,0:02:37.72,Default,,0,0,0,,he has begun to write to please.\N\N因为他已开始为取悦他人而写作了.\N\N
+Dialogue: 0,0:02:37.72,0:02:43.55,Default,,0,0,0,,A young English writer made the pertinent observation a year or two back\N\N一两年前,一位年轻的英国作家发表了中肯的看法\N\N
+Dialogue: 0,0:02:43.55,0:02:49.59,Default,,0,0,0,,that the talent goes into the first draft, and the art into the drafts that follow.\N\N他说,初稿是才华,以后各稿是艺术.\N\N
+Dialogue: 0,0:02:49.59,0:02:53.90,Default,,0,0,0,,For this reason also the writer,like any other artist,\N\N也是由于这个原因,作家同任何艺术家一样,\N\N
+Dialogue: 0,0:02:53.90,0:02:59.10,Default,,0,0,0,,has no resting place, no crowd or movement in which he may take comfort,\N\N找不到可休息的场所,找不到伙伴和活动使自己得到安逸.\N\N
+Dialogue: 0,0:02:59.10,0:03:04.56,Default,,0,0,0,,no judgment from outside which can replace the judgment from within.\N\N任何局外人的判断也比不上他自己内心的正确判断.\N\N
+Dialogue: 0,0:03:04.56,0:03:08.96,Default,,0,0,0,,A writer makes order out of the anarchy of his heart,\N\N一旦作家从内心的紊乱中理出头绪,\N\N
+Dialogue: 0,0:03:08.96,0:03:14.67,Default,,0,0,0,,he submits himself to a more ruthless discipline than any critic dreamed of,\N\N就应按任何评论家想象不到的无情规范约束自己去写作,\N\N
+Dialogue: 0,0:03:14.67,0:03:20.04,Default,,0,0,0,,flirt: v.  调情\N\Nand when he flirts with fame,he is taking time off from living with himself,\N\N当他沽名钓誉时,他就脱离了自我生活,\N\N
+Dialogue: 0,0:03:20.04,0:03:25.04,Default,,0,0,0,,from the search for what his world contains at its inmost point.\N\N脱离了对自己灵魂最深处世界的探索.\N\N

@@ -1,0 +1,34 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.76,Default,,0,0,0,, illogical: adj. 不合逻辑的，无章法的\N Lesson 23. One man's meat is another man's poison. People become quite illogical when they try to\N第23课。一个人的肉是另一个男人的毒药。人们试图
+Dialogue: 0,0:00:07.76,0:00:14.96,Default,,0,0,0,, decide what can be eaten and what cannot be eaten. If you lived in the Mediterranean, for instance,\N确定可以吃什么，什么不能吃。例如，如果您住在地中海
+Dialogue: 0,0:00:14.96,0:00:20.96,Default,,0,0,0,, octopus: n.   章鱼, delicacy: n.   美味，佳肴\N you would consider octopus a great delicacy. You would not be able to understand why some people\N您会认为章鱼是一个很好的美味佳肴。您将无法理解为什么有些人
+Dialogue: 0,0:00:20.96,0:00:27.60,Default,,0,0,0,, repulsive: adj. 令人反感的，令人生厌的, stomach: n.   胃, turn: v.   感到恶心，翻胃, fry: v.   油炸\N find it repulsive. On the other hand, your stomach would turn at the idea of frying potatoes in\N发现它令人反感。另一方面，您的胃会以将土豆炒的想法转向
+Dialogue: 0,0:00:27.60,0:00:34.72,Default,,0,0,0,, fat: n.  （动物，植物）油\N animal fat, the normally accepted. Practice in many northern countries. The sad truth is that\N动物脂肪，通常被接受。在许多北部国家进行练习。可悲的事实是
+Dialogue: 0,0:00:34.72,0:00:40.24,Default,,0,0,0,, most of us have been brought up to eat certain foods and we stick to them all. Our lives.\N我们大多数人已经长大了，以食用某些食物，我们坚持所有食物。我们的生活。
+Dialogue: 0,0:00:40.80,0:00:45.12,Default,,0,0,0,, abuse: n.   辱骂，责骂, snail: n.   蜗牛\N No creature has received more praise and abuse than the common garden snail.\N没有比普通花园蜗牛获得更多的赞美和虐待。
+Dialogue: 0,0:00:45.92,0:00:52.08,Default,,0,0,0,, snail: n.   蜗牛, luxury: n.   奢移品，珍品\N Cooked in wine, snails are a great luxury in various parts of the world. There are countless\N蜗牛在葡萄酒中煮熟，在世界各地都是巨大的奢侈品。有无数
+Dialogue: 0,0:00:52.08,0:00:59.52,Default,,0,0,0,, snail: n.   蜗牛, associate: v.   联想到\N people who, ever since their early years, have learned to associate snails with food. My friend,\N自从他们早年以来就学会了将蜗牛与食物联系在一起的人。我的朋友，
+Dialogue: 0,0:00:59.52,0:01:06.00,Default,,0,0,0,, snail: n.   蜗牛\N Robert, lives in a country where snails are despised. As his flat is in a large town,\N罗伯特（Robert）居住在一个鄙视蜗牛的国家。当他的公寓在一个大镇上，
+Dialogue: 0,0:01:06.00,0:01:12.40,Default,,0,0,0,, snail: n.   蜗牛\N he has no garden of his own. For years he has been asking me to collect snails from my garden and\N他没有自己的花园。多年来，他一直要求我从我的花园里收集蜗牛，
+Dialogue: 0,0:01:12.40,0:01:20.08,Default,,0,0,0,, appeal: v.   引起兴致, shower: n.   阵雨\N take them to him. The idea never appealed to me very much. But one day, after heavy shower,\N带他们去他。这个想法从未对我很吸引我。但是有一天，大洗完澡后，
+Dialogue: 0,0:01:20.08,0:01:25.76,Default,,0,0,0,, snail: n.   蜗牛, stroll: n.   溜达，散步\N I happened to be walking in my garden when I noticed a huge number of snails taking a stroll on.\N当我注意到大量的蜗牛漫步时，我碰巧在花园里散步。
+Dialogue: 0,0:01:26.64,0:01:34.72,Default,,0,0,0,, impulse: n.   冲动, dozen: n.   12个，一打\N Some of my prize plants, acting on a sudden impulse. I collected several dozen, put them in a paper bag\N我的一些奖励植物突然冲动。我收集了几十个，把它们放在纸袋里
+Dialogue: 0,0:01:34.72,0:01:40.40,Default,,0,0,0,, and took them to Robert. Robert was delighted to see me and equally pleased with my little gift.\N并把他们带到罗伯特。罗伯特很高兴见到我，同样对我的小礼物感到高兴。
+Dialogue: 0,0:01:41.20,0:01:46.24,Default,,0,0,0,, I left the bag in the hall and Robert and I went into the living room where we talked for a couple.\N我把袋子留在大厅里，罗伯特和罗伯特走进了我们聊了一对夫妇的客厅。
+Dialogue: 0,0:01:47.04,0:01:53.20,Default,,0,0,0,, snail: n.   蜗牛\N Of hours, I had forgotten all about the snails when Robert suddenly said that I must stay to dinner.\N几个小时，当罗伯特突然说我必须留下晚餐时，我就忘记了蜗牛。
+Dialogue: 0,0:01:54.08,0:02:01.12,Default,,0,0,0,, fancy: v.   喜爱，喜欢\N Snails would, of course, be the main dish. I did not fancy the idea and I reluctantly followed\N当然，蜗牛是主菜。我不喜欢这个主意，我勉强遵循
+Dialogue: 0,0:02:01.12,0:02:08.08,Default,,0,0,0,, snail: n.   蜗牛\N Robert out of the room. To our dismay, we saw that there were snails everywhere. They had escaped\N罗伯特离开房间。令我们沮丧的是，我们看到到处都有蜗牛。他们逃脱了
+Dialogue: 0,0:02:08.08,0:02:14.40,Default,,0,0,0,, from the paper bag and had taken complete possession of the hall. I have never been able to look at a\N从纸袋中完全拥有大厅。我从来没有看过
+Dialogue: 0,0:02:14.40,0:02:24.40,Default,,0,0,0,, snail: n.   蜗牛\N snail since then.\N从那以后蜗牛。

@@ -1,0 +1,28 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.04,Default,,0,0,0,, gangster: n.   歹徒,强盗, Chicago: n.   芝加哥(美国城市)\N Lesson 14. A noble gangster. There was a time when the owners of shops and businesses in Chicago\N第14课。贵族黑帮。曾经有一段时间
+Dialogue: 0,0:00:07.04,0:00:14.16,Default,,0,0,0,, gangster: n.   歹徒,强盗, protection: n.   保护\N that to pay large sums of money. Two gangsters in return for protection. If the money was not paid\N支付大笔钱。两个黑帮以换取保护。如果没有付款
+Dialogue: 0,0:00:14.16,0:00:19.44,Default,,0,0,0,, gangster: n.   歹徒,强盗, promptly: adv. 准时地, destroy: v.   毁掉;消灭\N promptly, the gangsters would quickly put a man out of business by destroying his shop.\N枪手很快就会迅速通过摧毁他的商店来使一个人失业。
+Dialogue: 0,0:00:20.24,0:00:28.00,Default,,0,0,0,, protection: n.   保护\N Obtaining protection money is not a modern crime. As long ago as the 14th century, an Englishman,\N获得保护资金不是现代犯罪。直到14世纪，英国人
+Dialogue: 0,0:00:28.00,0:00:34.08,Default,,0,0,0,, remarkable: adj. 不寻常的\N Sir John Hockwood made the remarkable discovery that people would rather pay large sums of money\N约翰·霍克伍德爵士（Sir John Hockwood）提出了一个非凡的发现，人们宁愿付出大笔钱
+Dialogue: 0,0:00:34.08,0:00:42.24,Default,,0,0,0,, gangster: n.   歹徒,强盗, destroy: v.   毁掉;消灭\N than have their life. Work destroyed by gangsters. 600 years ago, Sir Johann Hockwood arrived in\N而不是拥有他们的生命。被黑帮摧毁的工作。600年前，约翰·霍克伍德爵士到达
+Dialogue: 0,0:00:42.24,0:00:48.88,Default,,0,0,0,, Florence: n.   佛罗伦萨(意大利城市)\N Italy with a band of soldiers and settled near Florence. He soon made a name for himself and came\N意大利有一群士兵，在佛罗伦萨附近定居。他很快就为自己起了名字，来了
+Dialogue: 0,0:00:48.88,0:00:55.60,Default,,0,0,0,, city-state: n.   (古代)城邦\N to be known to the Italians as Giovanni Accuto. Whenever the Italian city-states were at war with\N意大利人称为Giovanni Accuto。每当意大利城市国家与
+Dialogue: 0,0:00:55.60,0:01:01.44,Default,,0,0,0,, hire: v.   租出,雇给, prince: n.   君主,诸候\N each other, Hockwood used to hire his soldiers to princes who were willing to pay the high price\N彼此，霍克伍德曾经雇用他的士兵到愿意付出高价的王子
+Dialogue: 0,0:01:01.44,0:01:09.04,Default,,0,0,0,, he demanded. In times of peace, when business was bad, Hockwood and his men would march into a city\N他要求。在和平时期，当生意不好时，霍克伍德和他的士兵将进军一个城市
+Dialogue: 0,0:01:09.04,0:01:15.92,Default,,0,0,0,, protection: n.   保护\N state and, after burning down a few farms, would offer to go away protection money was paid to them.\N州并烧毁了几个农场后，将付款给他们提供保护资金。
+Dialogue: 0,0:01:16.48,0:01:23.12,Default,,0,0,0,, Hockwood made large sums of money in this way. In spite of this, the Italians regarded him as a\N霍克伍德以这种方式赚了大笔钱。尽管如此，意大利人还是将他视为
+Dialogue: 0,0:01:23.12,0:01:29.68,Default,,0,0,0,, Florentine: n.   佛罗伦萨人, funeral: n.   葬礼\N sort of hero. When he died at the age of 80, the Florentines gave him a state funeral and had a\N有点英雄。当他80岁时去世时，佛罗伦萨给了他一场葬礼，并有一个
+Dialogue: 0,0:01:29.68,0:01:36.08,Default,,0,0,0,, dedicate: v.   奉献,题献给, memory: n.   纪念, valiant: adj. 英勇的\N pictured with as dedicated to the memory of the most valiant soldier and most notable leader.\N描绘的是献给最英勇的士兵和最著名的领导者的记忆。
+Dialogue: 0,0:01:36.08,0:01:45.04,Default,,0,0,0,, Senior Giovanni Hockwood.\N高级乔瓦尼·霍克伍德（Giovanni Hockwood）。

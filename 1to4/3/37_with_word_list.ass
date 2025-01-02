@@ -1,0 +1,49 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.84,Default,,0,0,0,, Lesson 37.\N第37课。
+Dialogue: 0,0:00:01.84,0:00:03.96,Default,,0,0,0,, The West Haven Express.\N西黑文快车。
+Dialogue: 0,0:00:03.96,0:00:07.52,Default,,0,0,0,, punctual: adj. 准时的\N We have learned to expect that trains will be punctual.\N我们已经学会了期望火车是守时的。
+Dialogue: 0,0:00:07.52,0:00:12.56,Default,,0,0,0,, condition: v.   使习惯于, unshakable: adj. 不可动摇的\N After years of conditioning, most of us have developed an unshakable faith in railway\N经过多年的调理，我们大多数人对铁路发展了不可动摇的信仰
+Dialogue: 0,0:00:12.56,0:00:14.40,Default,,0,0,0,, timetables.\N时间表。
+Dialogue: 0,0:00:14.40,0:00:17.08,Default,,0,0,0,, Ships may be delayed by storms.\N船可能会因暴风雨而延迟。
+Dialogue: 0,0:00:17.08,0:00:20.08,Default,,0,0,0,, cancel: v.   取消\N Flights may be canceled because of bad weather.\N由于天气恶劣，可能会取消航班。
+Dialogue: 0,0:00:20.08,0:00:22.48,Default,,0,0,0,, But trains must be on time.\N但是火车必须准时。
+Dialogue: 0,0:00:22.48,0:00:28.20,Default,,0,0,0,, exceptionally: adv. 例外地, dislocate: v.   打乱（计划等）\N Only an exceptionally heavy snowfall might temporarily dislocate railway services.\N只有一个异常大的降雪可能会暂时脱离铁路服务。
+Dialogue: 0,0:00:28.20,0:00:33.40,Default,,0,0,0,, blame: v.   责怪\N It is all too easy to blame the railway authorities when something does go wrong.\N当出现问题时，很容易责怪铁路当局。
+Dialogue: 0,0:00:33.40,0:00:39.28,Default,,0,0,0,, The truth is that when mistakes occur, they are more likely to be ours than theirs.\N事实是，当出现错误时，它们比我们的更有可能是我们的。
+Dialogue: 0,0:00:39.28,0:00:44.76,Default,,0,0,0,, express: n.   快车；, consult: v.   请教，查阅\N After consulting my railway timetable, I noted with satisfaction that there was an express\N咨询了我的铁路时间表后，我满意地注意到
+Dialogue: 0,0:00:44.76,0:00:47.04,Default,,0,0,0,, train to West Haven.\N火车前往西黑文。
+Dialogue: 0,0:00:47.04,0:00:53.48,Default,,0,0,0,, direct: adv. 径直地\N It went direct from my local station and the journey lasted mere hour and 17 minutes.\N它直接从我当地的车站进行，旅程持续了仅17分钟。
+Dialogue: 0,0:00:53.48,0:00:58.52,Default,,0,0,0,, When I boarded the train, I could not help noticing that a great many local people got\N当我登上火车时，我不禁注意到很多当地人得到了
+Dialogue: 0,0:00:58.52,0:01:00.20,Default,,0,0,0,, on as well.\N也要。
+Dialogue: 0,0:01:00.20,0:01:03.52,Default,,0,0,0,, odd: adj. 奇怪的，异常的\N At the time, this did not strike me as odd.\N当时，这并没有让我奇怪。
+Dialogue: 0,0:01:03.52,0:01:10.16,Default,,0,0,0,, reflect: v.   细想\N I reflected that there must be a great many local people besides myself who wished to take.\N我反映出，除了我自己外，还必须有很多当地人。
+Dialogue: 0,0:01:10.16,0:01:12.44,Default,,0,0,0,, Advantage of this excellent service.\N这项出色服务的优势。
+Dialogue: 0,0:01:12.44,0:01:16.04,Default,,0,0,0,, Neither was I surprised when the train stopped at widely.\N当火车广泛停下来时，我都不感到惊讶。
+Dialogue: 0,0:01:16.04,0:01:19.56,Default,,0,0,0,, A tiny station a few miles along the line.\N沿线几英里的小型车站。
+Dialogue: 0,0:01:19.56,0:01:23.40,Default,,0,0,0,, express: n.   快车；, mighty: adj. 强大的，有力的\N Even a mighty express train can be held up by signals.\N即使是强大的快车火车也可以通过信号固定。
+Dialogue: 0,0:01:23.40,0:01:28.48,Default,,0,0,0,, But when the train dottolled at station after station, I began to wonder.\N但是，当火车在车站一个站点旁边散发时，我开始怀疑。
+Dialogue: 0,0:01:28.48,0:01:34.84,Default,,0,0,0,, express: n.   快车；\N It suddenly dawned on me that this express was not roaring down the line at 90 miles an hour.\N我突然意识到，这种快递并没有以每小时90英里的速度咆哮。
+Dialogue: 0,0:01:34.84,0:01:37.48,Default,,0,0,0,, chug: v.   咔嚓咔嚓地响\N But barely chugging along at 30.\N但几乎没有爬行30。
+Dialogue: 0,0:01:37.48,0:01:42.96,Default,,0,0,0,, One hour and 17 minutes passed and we had not even covered half the distance.\N一小时17分钟过去了，我们甚至没有覆盖一半的距离。
+Dialogue: 0,0:01:42.96,0:01:47.04,Default,,0,0,0,, express: n.   快车；\N I asked a passenger if this was the West Haven express.\N我问乘客是否这是西黑文快车。
+Dialogue: 0,0:01:47.04,0:01:49.00,Default,,0,0,0,, But he had not even heard of it.\N但是他甚至没有听说过。
+Dialogue: 0,0:01:49.04,0:01:52.72,Default,,0,0,0,, lodge: v.   提出, complaint: n.   抱怨\N I determined to lodge a complaint as soon as we arrived.\N我决心在我们到达后立即提出投诉。
+Dialogue: 0,0:01:52.72,0:01:58.24,Default,,0,0,0,, Two hours later, I was talking angrily to the station master at West Haven.\N两个小时后，我在西黑文（West Haven）愤怒地与车站大师交谈。
+Dialogue: 0,0:01:58.24,0:02:03.72,Default,,0,0,0,, When he denied the train's existence, I borrowed his copy of the timetable.\N当他否认火车的存在时，我借用了他的时间表的副本。
+Dialogue: 0,0:02:03.72,0:02:08.04,Default,,0,0,0,, triumph: n.   胜利\N There was a note of triumph in my voice when I told him that it was there in black and\N当我告诉他那是黑色和
+Dialogue: 0,0:02:08.04,0:02:09.04,Default,,0,0,0,, white.\N白色的。
+Dialogue: 0,0:02:09.04,0:02:12.88,Default,,0,0,0,, Glancing at it briefly, he told me to look again.\N短暂地瞥了一眼，他告诉我再次看。
+Dialogue: 0,0:02:12.88,0:02:18.08,Default,,0,0,0,, asterisk: n.   星号（*）, conduct: v.   引向，引导\N A tiny asterisk conducted me to a footnote at the bottom of the page.\N一个小的星号将我带到页面底部的脚注。
+Dialogue: 0,0:02:18.08,0:02:20.88,Default,,0,0,0,, It said, this service has been suspended.\N它说，这项服务已被暂停。

@@ -1,0 +1,33 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.03,Default,,0,0,0,,Lesson 1  Finding fossil man\N\N发现化石人\N\N
+Dialogue: 0,0:00:06.03,0:00:10.24,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答问题.\N\N
+Dialogue: 0,0:00:10.24,0:00:16.00,Default,,0,0,0,,legend: n.  传说，传奇\N\NWhy are legends handed down by storytellers useful?\N\N为什么由讲述人传下来的传奇故事很有用?\N\N
+Dialogue: 0,0:00:16.00,0:00:26.47,Default,,0,0,0,,We can read of things that happened 5,000 years ago in the Near East,where people first learned to write.\N\N我们从书籍中可以读到五千年前近东发生的事情,那里的人最早学会了写字.\N\N
+Dialogue: 0,0:00:26.47,0:00:32.75,Default,,0,0,0,,But there are some parts of the world where even now people cannot write.\N\N但直到现在,世界上仍然有些地方,人们还不会书写.\N\N
+Dialogue: 0,0:00:32.75,0:00:40.13,Default,,0,0,0,,recount: v.  叙述, saga: n.  英雄故事\N\NThe only way that they can preserve their history is to recount it as sagas.\N\N他们保存历史的唯一办法是将历史当作传说讲述,\N\N
+Dialogue: 0,0:00:40.13,0:00:45.27,Default,,0,0,0,,legend: n.  传说，传奇\N\N--legends handed down from one generation of storytellers to another.\N\N--由讲述人一代接一代地将史实描述为传奇故事口传下来.\N\N
+Dialogue: 0,0:00:45.27,0:00:49.08,Default,,0,0,0,,legend: n.  传说，传奇\N\NThese legends are useful,\N\N这些传说是很有用的,\N\N
+Dialogue: 0,0:00:49.08,0:00:55.04,Default,,0,0,0,,migration: n.  迁移，移居\N\Nbecause they can tell us something about migrations of people who lived long ago,\N\N因为它们能告诉我们以往人们迁居的情况,\N\N
+Dialogue: 0,0:00:55.04,0:00:58.81,Default,,0,0,0,,but none could write down what they did.\N\N但是,没有人能把他们当时做的事情记载下来.\N\N
+Dialogue: 0,0:00:58.81,0:01:09.20,Default,,0,0,0,,ancestor: n.  祖先\N\NAnthropologists wondered where the remote ancestors of the Polynesian peoples now living in the Pacific Islands came from.\N\N人类学家过去不清楚波利尼西亚人的祖先即如今生活在太平洋诸岛的人类来自何方.\N\N
+Dialogue: 0,0:01:09.20,0:01:17.35,Default,,0,0,0,,saga: n.  英雄故事, Indonesia: n.  印度尼西亚\N\NThe sagas of these people explain that some of them came from Indonesia about 2,000 years ago.\N\N当地人的传说却告诉人们其中有一部分是约在两千年前从印度尼西亚迁来的.\N\N
+Dialogue: 0,0:01:17.35,0:01:27.79,Default,,0,0,0,,saga: n.  英雄故事\N\NBut the first people who were like ourselves lived so long ago that even their sagas, if they had any,are forgotten.\N\N但是,和我们相似的原始人生活的年代太久远了,因此,有关他们的传说即使有如今也失传了.\N\N
+Dialogue: 0,0:01:27.79,0:01:34.01,Default,,0,0,0,,legend: n.  传说，传奇, archaeologist: n.  考古学家\N\NSo archaeologists have neither history nor legends to help them to find out\N\N于是,考古学家们既缺乏历史记载,又无口头传说来帮助他们弄清\N\N
+Dialogue: 0,0:01:34.01,0:01:37.06,Default,,0,0,0,,where the first 'modern men' came from.\N\N最早的"现代人"是从哪里来的.\N\N
+Dialogue: 0,0:01:37.06,0:01:44.49,Default,,0,0,0,,flint: n.  燧石\N\NFortunately,however, ancient men made tools of stone,especially flint,\N\N然而,幸运的是,远古人用石头制作了工具, 特别是用燧石,\N\N
+Dialogue: 0,0:01:44.49,0:01:48.52,Default,,0,0,0,,because this is easier to shape than other kinds.\N\N因为燧石较之其他石头更易成形.\N\N
+Dialogue: 0,0:01:48.52,0:01:54.75,Default,,0,0,0,,rot: n.  烂掉\N\NThey may also have used wood and skins, but these have rotted away.\N\N他们也可能用过木头和兽皮,但这类东西早已腐烂殆尽.\N\N
+Dialogue: 0,0:01:54.75,0:02:01.93,Default,,0,0,0,,Stone does not decay, and so the tools of long ago have remained\N\N石头是不会腐烂的,因此, 远古时代的石头工具得以保存了下来,\N\N
+Dialogue: 0,0:02:01.93,0:02:06.93,Default,,0,0,0,,when even the bones of the men who made them have disappeared without trace.\N\N尽管制造这些工具的人的骨头早已荡然无存.aa\N\N

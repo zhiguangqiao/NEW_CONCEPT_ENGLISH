@@ -1,0 +1,29 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.52,Default,,0,0,0,, Lesson 1. A Puma at large. Pumas are large. Cat-like animals which are found in America.\N第1课。彪马很大。在美国发现的类似猫的动物。
+Dialogue: 0,0:00:07.52,0:00:13.60,Default,,0,0,0,, spot: v.   看出，发现\N When reports came into London zoo that a wild Puma had been spotted 45 miles south of London.\N当有报道说，伦敦动物园说，在伦敦以南45英里处发现了一个野生美洲狮。
+Dialogue: 0,0:00:14.40,0:00:21.84,Default,,0,0,0,, evidence: n.   证据, accumulate: v.   积累，积聚\N They were not taken seriously. However, as the evidence began to accumulate, experts from the zoo\N他们没有被认真对待。但是，随着证据开始积累，动物园的专家
+Dialogue: 0,0:00:21.84,0:00:27.76,Default,,0,0,0,, oblige: v.   使……感到必须\N felt obliged to investigate. For the descriptions given by people who claimed to have seen the Puma\N感到有义务进行调查。对于自称看过彪马的人的描述
+Dialogue: 0,0:00:27.76,0:00:34.16,Default,,0,0,0,, hunt: n.   追猎；寻找\N were extraordinarily similar. The hunt for the Puma began in a small village where a woman\N非常相似。对彪马的追捕始于一个小村庄，一个女人
+Dialogue: 0,0:00:34.16,0:00:41.76,Default,,0,0,0,, picking blackberries saw a large cat. Only five yards away from her. It immediately ran away\N采摘黑莓看到了一只大猫。离她只有五码远。它立即逃跑了
+Dialogue: 0,0:00:41.76,0:00:47.52,Default,,0,0,0,, when she saw it, and experts confirmed that a Puma will not attack a human being unless it is\N当她看到它时，专家确认，除非是
+Dialogue: 0,0:00:47.52,0:00:54.08,Default,,0,0,0,, corner: v.   使走投无路，使陷入困境\N cornered. The search proved difficult. For the Puma was often observed at one place in the morning\N拐弯。搜索证明很困难。因为在早上经常在一个地方观察到彪马
+Dialogue: 0,0:00:54.08,0:01:01.20,Default,,0,0,0,, trail: n.   一串，一系列\N and at another place 20 miles away. In the evening, wherever it went, it left behind at a trail\N在20英里外的另一个地方。晚上，无论走到哪里，都留在一条小径上
+Dialogue: 0,0:01:01.20,0:01:07.84,Default,,0,0,0,, print: n.   印痕\N of dead deer and small animals like rabbits. Popprints were seen in a number of places and Puma\N死去的鹿和小动物，例如兔子。在多个地方和美洲狮都看到了流行型
+Dialogue: 0,0:01:07.84,0:01:14.24,Default,,0,0,0,, cling: v.   粘\N fur was found clinging to bushes. Several people complained of cat-like noises at night and a\N发现皮毛紧贴灌木丛。几个人在晚上抱怨猫般的声音，一个
+Dialogue: 0,0:01:14.24,0:01:20.88,Default,,0,0,0,, convince: v.   使……信服\N businessman on a fishing trip saw the. Puma up a tree, the experts were now fully convinced that\N商人在钓鱼之旅中看到了。Puma上一棵树，专家现在完全确信
+Dialogue: 0,0:01:21.04,0:01:28.24,Default,,0,0,0,, the animal was a Puma. But where had it come from? As no Puma's had been reported missing from any zoo\N动物是赤褐色。但是它来自哪里？因为没有puma据报道任何动物园缺少
+Dialogue: 0,0:01:28.24,0:01:33.76,Default,,0,0,0,, somehow: adv. 不知怎么搞地，不知什么原因\N in the country. This one must have been in the possession of a private collector and somehow\N在国家。这一定是一个私人收藏家，并以某种方式拥有
+Dialogue: 0,0:01:33.76,0:01:41.36,Default,,0,0,0,, hunt: n.   追猎；寻找, disturb: v.   令人不安\N managed to escape. The hunt went on for several weeks. But the Puma was not caught. It is disturbing\N设法逃脱。狩猎持续了几个星期。但是没有抓住美洲狮。这令人不安
+Dialogue: 0,0:01:41.36,0:01:51.84,Default,,0,0,0,, to think that a dangerous wild animal is still at large in the quiet countryside.\N认为危险的野生动物在安静的乡村仍然很大。

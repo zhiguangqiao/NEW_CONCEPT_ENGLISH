@@ -1,0 +1,45 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.90,Default,,0,0,0,,Lesson 10 Silicon valley\N\N硅谷\N\N
+Dialogue: 0,0:00:04.90,0:00:09.11,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:09.11,0:00:15.38,Default,,0,0,0,,anarchy: n.  无政府状态，混乱\N\NWhat does the computer industry thrive on apart from anarchy?\N\N除了无政府状态外,计算机工业还赖何兴旺?\N\N
+Dialogue: 0,0:00:15.38,0:00:21.56,Default,,0,0,0,,Technology trends may push Silicon Valley back to the future.\N\N技术的发展趋势有可能把硅谷重新推向未来.\N\N
+Dialogue: 0,0:00:21.56,0:00:26.33,Default,,0,0,0,,circuit: n.  线路，电路\N\NCarver Mead,a pioneer in integrated circuits\N\N卡弗.米德--集成电路的一位先驱,aa\N\N
+Dialogue: 0,0:00:26.33,0:00:31.53,Default,,0,0,0,,California: n.  加利福尼亚（美国州名）\N\Nand a professor of computer science at the California Institute of Technology,\N\N加州理工学院的计算机教授--\N\N
+Dialogue: 0,0:00:31.53,0:00:37.10,Default,,0,0,0,,workstation: n.  工作站\N\Nnotes there are now workstations that enable engineers to design,\N\N注意到,现在有些计算机工作站使工程师可以在他们的办公桌上设计、\N\N
+Dialogue: 0,0:00:37.10,0:00:41.27,Default,,0,0,0,,chip: n.  芯片，集成电路片，集成块\N\Ntest and produce chips right on their desks,\N\N试验和生产芯片,\N\N
+Dialogue: 0,0:00:41.27,0:00:46.26,Default,,0,0,0,,newsletter: n.  时事通讯, Macintosh: n.  苹果机，一种个人电脑\N\Nmuch the way and editor creates a newsletter on a Macintosh.\N\N就像一位编辑在苹果机上编出一份时事通讯一样.\N\N
+Dialogue: 0,0:00:46.26,0:00:53.45,Default,,0,0,0,,chip: n.  芯片，集成电路片，集成块\N\NAs the time and cost of making a chip drop to a few days and a few hundred dollars,\N\N由于制造一块芯片的时间已缩短至几天,费用也只有几百美元,\N\N
+Dialogue: 0,0:00:53.45,0:00:57.39,Default,,0,0,0,,engineers may soon be free to let their imaginations soar\N\N因此,工程技术人员可能很快就可以充分发挥他们的想象力,\N\N
+Dialogue: 0,0:00:57.39,0:01:00.86,Default,,0,0,0,,penalize: v.  处罚，惩罚\N\Nwithout being penalized by expensive failures.\N\N而不会因失败而造成经济上的损失.\N\N
+Dialogue: 0,0:01:00.86,0:01:03.86,Default,,0,0,0,,Mead predicts that inventors\N\N米德预言发明者\N\N
+Dialogue: 0,0:01:03.86,0:01:09.58,Default,,0,0,0,,chip: n.  芯片，集成电路片，集成块, customize: v.  按顾客具体需要制造\N\Nwill be able to perfe- ct powerful customized chips over a weekend at the office--\N\N可以在办公室用一个周末生产出完美、功能强劲的定制芯片--\N\N
+Dialogue: 0,0:01:09.58,0:01:13.64,Default,,0,0,0,,spawn: v.  引起，酿成\N\Nspawning a new generation of garage start-ups\N\N--造就新一代从汽车间起家的技术人员,\N\N
+Dialogue: 0,0:01:13.64,0:01:19.73,Default,,0,0,0,,and giving the U.S. a jump on its foreign rivals in getting new product to market fast\N\N在把产品推向市场方面使美国把它的外国对手们打个措手不及.\N\N
+Dialogue: 0,0:01:19.73,0:01:24.61,Default,,0,0,0,,'We've got more garages with smart people,' Mead observes\N\N"我们有更多的汽车间, 而那里有许多聪明人," 米德说.\N\N
+Dialogue: 0,0:01:24.61,0:01:26.95,Default,,0,0,0,,anarchy: n.  无政府状态，混乱\N\N'We really thrive on anarchy.'\N\N"我们确实是靠这种无政府状态发展起来的."\N\N
+Dialogue: 0,0:01:26.95,0:01:33.60,Default,,0,0,0,,oriental: n.  东方人\N\NAnd on Asians. Already,orientals and Asian Americans,\N\N依靠的还有亚洲人.东方人和亚裔美国人，\N\N
+Dialogue: 0,0:01:33.60,0:01:38.52,Default,,0,0,0,,constitute: v.  构成\N\Nconstitute the majority of the engineering staffs at many Valley firms.\N\N是硅谷许多公司中工程技术员的主力.\N\N
+Dialogue: 0,0:01:38.52,0:01:44.19,Default,,0,0,0,,And Chinese,Korean, Filipino and Indian engineers\N\N中国、韩国、菲律宾和印度的工程师\N\N
+Dialogue: 0,0:01:44.19,0:01:48.33,Default,,0,0,0,,California: n.  加利福尼亚（美国州名）, drove: n.  群\N\Nare graduating in droves from California's colleges.\N\N一批批地从加州的大学毕业.\N\N
+Dialogue: 0,0:01:48.33,0:01:52.09,Default,,0,0,0,,As the heads of next-generation start-ups,\N\N作为新崛起一代的带头人,\N\N
+Dialogue: 0,0:01:52.09,0:01:56.41,Default,,0,0,0,,innovator: n.  发明者\N\Nthese Asian innovators can draw on customs and languages\N\N亚裔发明家可以凭借他们在习惯和语言上的优势,\N\N
+Dialogue: 0,0:01:56.41,0:02:00.66,Default,,0,0,0,,forge: v.  发展\N\Nto forge tighter links with crucial Pacific Rim markets.\N\N与关键的太平洋沿岸市场建立起更加牢固的联系.\N\N
+Dialogue: 0,0:02:00.66,0:02:08.24,Default,,0,0,0,,For instance,Alex Au,a Stanford Ph.D.from Hong Kong,has set up a Taiwan factory\N\N比如说,亚历克斯.奥,一位来自香港的斯坦福大学博士,已经在台湾建厂,\N\N
+Dialogue: 0,0:02:08.24,0:02:12.37,Default,,0,0,0,,chip: n.  芯片，集成电路片，集成块\N\Nto challenge Japan's near lock on the memorychip market.\N\N对日本在内存条市场上近似垄断的局面提出了挑战。\N\N
+Dialogue: 0,0:02:12.37,0:02:18.26,Default,,0,0,0,,California: n.  加利福尼亚（美国州名）\N\NIndia-born N.Damodar Reddy's tiny California company ,\N\N印度出生的N.达莫达.雷迪经营的小小的加州公司，\N\N
+Dialogue: 0,0:02:18.26,0:02:22.83,Default,,0,0,0,,chip: n.  芯片，集成电路片，集成块, Kansas: n.  堪萨斯（美国州名）\N\Nreopened an At&T chip plant in Kansas City last spring\N\N去春在堪萨斯城重新启用了美国电话电报公司的一家芯片工厂,\N\N
+Dialogue: 0,0:02:22.83,0:02:25.80,Default,,0,0,0,,Missouri: n.  密苏里（美国州名）\N\Nwith financing from the state of Missouri.\N\N并从密苏里州获取了财政上的支持.\N\N
+Dialogue: 0,0:02:25.80,0:02:28.68,Default,,0,0,0,,Before it becomes a retirement village,\N\N在硅谷变成一个退休村之前,\N\N
+Dialogue: 0,0:02:28.68,0:02:33.68,Default,,0,0,0,,Silicon Valley may prove a classroom for building a global business.\N\N它很可能成为建立全球商业的一个教学场地.\N\N

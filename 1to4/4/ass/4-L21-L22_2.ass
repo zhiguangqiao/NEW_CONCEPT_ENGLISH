@@ -1,0 +1,47 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.93,Default,,0,0,0,,Lesson 22 Knowledge and progress\N\N知识和进步\N\N
+Dialogue: 0,0:00:04.93,0:00:08.64,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,回答以下问题.\N\N
+Dialogue: 0,0:00:08.64,0:00:13.97,Default,,0,0,0,,In what two areas have people made no 'progress' at all?\N\N在哪两个方面,人类根本没有取得进步?\N\N
+Dialogue: 0,0:00:13.97,0:00:20.05,Default,,0,0,0,,loom: v.  赫然耸起\N\NWhy does the idea of progress loom so large in the modern world?\N\N为什么进步这个概念在现代世界显得如此突出?\N\N
+Dialogue: 0,0:00:20.05,0:00:25.96,Default,,0,0,0,,Surely because progress of a particular kind is actually taking place around us\N\N无疑是因为有一种特殊的进步实际上正在我们周围发生,\N\N
+Dialogue: 0,0:00:25.96,0:00:28.67,Default,,0,0,0,,and is becoming more and more manifest.\N\N而且变得越来越明显.\N\N
+Dialogue: 0,0:00:28.67,0:00:35.19,Default,,0,0,0,,morality: n.  道德\N\NAlthough mankind has undergone no general improvement in intelligence or morality,\N\N虽然人类在智力和道德上没有得到普遍提高,\N\N
+Dialogue: 0,0:00:35.19,0:00:39.62,Default,,0,0,0,,it has made extraordinary progress in the accumulation of knowledge.\N\N但在知识积累方面却取得了巨大的进步.\N\N
+Dialogue: 0,0:00:39.62,0:00:45.18,Default,,0,0,0,,Knowledge began to increase as soon as the thoughts of one individual\N\N知识的积累从一个人的思想\N\N
+Dialogue: 0,0:00:45.18,0:00:48.61,Default,,0,0,0,,communicate: v.  交流，交际\N\Ncould be communicated to another by means of speech.\N\N能通过语言的方式传达给另一个人的那一刻就开始了.\N\N
+Dialogue: 0,0:00:48.61,0:00:52.97,Default,,0,0,0,,With the invention of writing,a great advance was made,\N\N随着书写的发明,又迈进了一大步,aa\N\N
+Dialogue: 0,0:00:52.97,0:00:58.39,Default,,0,0,0,,communicate: v.  交流，交际\N\Nfor knowledge could then be not only communicated but also stored.\N\N因为这样一来,知识不仅能交流,而且能储存了.\N\N
+Dialogue: 0,0:00:58.39,0:01:05.70,Default,,0,0,0,,Libraries made education possible,and education in its turn added to libraries:\N\N藏书使教育成为可能,而教育反过来又丰富了藏书,\N\N
+Dialogue: 0,0:01:05.70,0:01:10.16,Default,,0,0,0,,the growth of knowledge followed a kind of compound interest law,\N\N因为知识的增长遵循着一种"滚雪球"的规律.\N\N
+Dialogue: 0,0:01:10.16,0:01:14.28,Default,,0,0,0,,enhance: v.  增进\N\Nwhich was greatly enhanced by the invention of printing.\N\N印刷术的发明又大大提高了知识增长的速度.\N\N
+Dialogue: 0,0:01:14.28,0:01:19.15,Default,,0,0,0,,All this was comparatively slow until,with the coming of science,\N\N所有这些发展都比较缓慢而随着科学的到来,\N\N
+Dialogue: 0,0:01:19.15,0:01:22.16,Default,,0,0,0,,tempo: n.  速率\N\Nthe tempo was suddenly raised.\N\N增长的速度才突然加快.\N\N
+Dialogue: 0,0:01:22.16,0:01:27.54,Default,,0,0,0,,Then knowledge began to be accumulated according to a systematic plan.\N\N于是,知识便开始有系统有计划地积累起来.\N\N
+Dialogue: 0,0:01:27.54,0:01:33.31,Default,,0,0,0,,trickle: n.  涓涓细流, torrent: n.  滔滔洪流\N\NThe trickle became a stream:the stream has now become a torrent.\N\N涓涓细流汇成了小溪,小溪现已变成了奔腾的江河.\N\N
+Dialogue: 0,0:01:33.31,0:01:40.00,Default,,0,0,0,,Moreover,as soon as new knowledge is acquired,it is now turned to practical account.\N\N而且,新知识一旦获得,便得到实际应用.\N\N
+Dialogue: 0,0:01:40.00,0:01:43.40,Default,,0,0,0,,What is called 'modern civilization'\N\N所谓"现代文明"\N\N
+Dialogue: 0,0:01:43.40,0:01:47.46,Default,,0,0,0,,is not the result of a balanced development of all man's nature,\N\N并不是人的天性平衡发展的结果,\N\N
+Dialogue: 0,0:01:47.46,0:01:51.89,Default,,0,0,0,,but of accumulated knowledge applied to practical life.\N\N而是积累起来的知识应用到实际生活中的结果.\N\N
+Dialogue: 0,0:01:51.89,0:01:54.94,Default,,0,0,0,,humanity: n.  人类\N\NThe problem now facing humanity is:\N\N现在人类面临的问题是:\N\N
+Dialogue: 0,0:01:54.94,0:01:58.19,Default,,0,0,0,,What is going to be done with all this knowledge?\N\N用这些知识去做什么?\N\N
+Dialogue: 0,0:01:58.19,0:02:02.78,Default,,0,0,0,,As is so often pointed out,knowledge is a two-edged weapon\N\N正像人们常常指出的,知识是一把双刃刀,\N\N
+Dialogue: 0,0:02:02.78,0:02:05.83,Default,,0,0,0,,which can be used equally for good or evil.\N\N可以用于造福,也可用来为害.\N\N
+Dialogue: 0,0:02:05.83,0:02:09.47,Default,,0,0,0,,It is now being used indifferently for both.\N\N人们现在正漫不经心地把知识用于这两个方面,\N\N
+Dialogue: 0,0:02:09.47,0:02:14.01,Default,,0,0,0,,Could any spectacle, for instance,be more grimly whimsical\N\N例如:还有什么情景比以下这些更可怕,更怪诞--\N\N
+Dialogue: 0,0:02:14.01,0:02:17.75,Default,,0,0,0,,shatter: v.  毁坏\N\Nthan that of gunners using science to shatter men's bodies\N\N炮兵利用科学毁坏人体、\N\N
+Dialogue: 0,0:02:17.75,0:02:21.35,Default,,0,0,0,,while,close at hand, surgeons use it to restore them?\N\N而外科医生就在附近用科学抢救被炮兵毁坏的人体.\N\N
+Dialogue: 0,0:02:21.35,0:02:24.16,Default,,0,0,0,,We have to ask ourselves very seriously\N\N我们不得不严肃地问问我们自己:\N\N
+Dialogue: 0,0:02:24.16,0:02:27.12,Default,,0,0,0,,what will happen if this twofold use of knowledge,\N\N如果继续利用它的这种双重性,\N\N
+Dialogue: 0,0:02:27.12,0:02:32.12,Default,,0,0,0,,with its ever-increasing power,continues.\N\N随着知识力量的日益增长将会发生什么情况?\N\N

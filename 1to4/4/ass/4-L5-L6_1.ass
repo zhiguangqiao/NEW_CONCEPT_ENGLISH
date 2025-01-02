@@ -1,0 +1,43 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.92,Default,,0,0,0,,Lesson 5 Youth\N\N青年\N\N
+Dialogue: 0,0:00:03.92,0:00:08.16,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:08.16,0:00:13.08,Default,,0,0,0,,How does the writer like to treat young people?\N\N作者认为应该怎样对待年轻人?\N\N
+Dialogue: 0,0:00:13.08,0:00:18.38,Default,,0,0,0,,People are always talking about 'the problem of youth'.\N\N人们总是在谈论"青年问题".\N\N
+Dialogue: 0,0:00:18.38,0:00:22.00,Default,,0,0,0,,leave: n.  允许\N\NIf there is one--which I take leave to doubt\N\N如果这个问题存在的话--请允许我对此持怀疑态度--\N\N
+Dialogue: 0,0:00:22.00,0:00:26.86,Default,,0,0,0,,--then it is older people who create it, not the young themselves.\N\N那么,这个问题是由老年人而不是青年人造成的.\N\N
+Dialogue: 0,0:00:26.86,0:00:33.72,Default,,0,0,0,,fundamentals: n.  基本原则\N\NLet us get down to fundamentals and agree that the young are after all human beings\N\N让我们来认真研究一些基本事实:承认青年人也是人.\N\N
+Dialogue: 0,0:00:33.72,0:00:35.89,Default,,0,0,0,,--people just like their elders.\N\N--和他们的长辈一样的人\N\N
+Dialogue: 0,0:00:35.89,0:00:40.24,Default,,0,0,0,,There is only one difference between an old man and a young one:\N\N老人和青年人只有一个区别:\N\N
+Dialogue: 0,0:00:40.24,0:00:43.78,Default,,0,0,0,,the young man has a glorious future before him\N\N青年人有光辉灿烂的前景\N\N
+Dialogue: 0,0:00:43.78,0:00:51.50,Default,,0,0,0,,rub: n.  难题\N\Nand the old one has a splendid future behind him:and maybe that is where the rub is.\N\N而老年人的辉煌已成为过去:问题的症结恐怕就在这里.\N\N
+Dialogue: 0,0:00:51.50,0:00:57.00,Default,,0,0,0,,When I was a teenager, I felt that I was just young and uncertain--\N\N我十几岁时,总感到自己年轻,有些事情拿不准—\N\N
+Dialogue: 0,0:00:57.00,0:01:00.06,Default,,0,0,0,,that I was a new boy in a huge school,\N\N我是一所大学校里的一名新生,\N\N
+Dialogue: 0,0:01:00.06,0:01:03.15,Default,,0,0,0,,and I would have been very pleased to be regarded\N\N我当时很乐意被看成\N\N
+Dialogue: 0,0:01:03.15,0:01:05.92,Default,,0,0,0,,as something so interesting as a problem.\N\N像一个问题那样有趣的东西.\N\N
+Dialogue: 0,0:01:05.92,0:01:10.64,Default,,0,0,0,,identity: n.  身份\N\NFor one thing,being a problem gives you a certain identity,\N\N因为这至少使我得到了某种承认,\N\N
+Dialogue: 0,0:01:10.64,0:01:15.42,Default,,0,0,0,,and that is one of the things the young are busily engaged in seeking.\N\N这正是年轻人所热衷追求的.\N\N
+Dialogue: 0,0:01:15.42,0:01:19.07,Default,,0,0,0,,I find young people exciting.\N\N我觉得年轻人令人振奋,\N\N
+Dialogue: 0,0:01:19.07,0:01:21.36,Default,,0,0,0,,They have an air of freedom,\N\N他们无拘无束,\N\N
+Dialogue: 0,0:01:21.36,0:01:26.89,Default,,0,0,0,,commitment: n.  信奉\N\Nand they have not a dreary commitment to mean ambitions or love of comfort.\N\N既不追逐卑鄙的名利,也不贪图生活的舒适.\N\N
+Dialogue: 0,0:01:26.89,0:01:32.98,Default,,0,0,0,,devotion: n.  热爱\N\NThey are not anxious social climbers,and they have no devotion to material things.\N\N他们不热衷于向上爬,也不一味追求物质享受.\N\N
+Dialogue: 0,0:01:32.98,0:01:38.49,Default,,0,0,0,,All this seems to me to link them with life and the origins of things.\N\N在我看来,所有这些使他们与生命和万物之源联系在了一起.\N\N
+Dialogue: 0,0:01:38.49,0:01:41.64,Default,,0,0,0,,It's as if they were, in some sense,\N\N从某种意义上讲,\N\N
+Dialogue: 0,0:01:41.64,0:01:47.25,Default,,0,0,0,,cosmic beings in violent and lively contrast with us suburban creatures.\N\N他们似乎是宇宙人,同我们这些凡夫俗子形成了强烈而鲜明的对照.\N\N
+Dialogue: 0,0:01:47.25,0:01:52.18,Default,,0,0,0,,All that is in my mind when I meet a young person.\N\N每逢我遇到年轻人,脑子里就想到这些.\N\N
+Dialogue: 0,0:01:52.18,0:01:58.38,Default,,0,0,0,,He may be conceited, ill-mannered, presumptuous or fatuous,\N\N年轻人也许狂妄自负, 瞬息万变,举止无理,傲慢放肆,愚昧无知,\N\N
+Dialogue: 0,0:01:58.38,0:02:04.25,Default,,0,0,0,,cliche: n.  陈词滥调\N\Nbut I do not turn for protection to dreary cliches about respect for elders--\N\N但我不会用应当尊重长者这一套陈词滥调来为我自己辩护--\N\N
+Dialogue: 0,0:02:04.25,0:02:07.77,Default,,0,0,0,,as if mere age were a reason for respect.\N\N似乎年长就是受人尊敬的理由.\N\N
+Dialogue: 0,0:02:07.77,0:02:10.95,Default,,0,0,0,,I accept that we are equals,\N\N我认为我和他们是平等的,\N\N
+Dialogue: 0,0:02:10.95,0:02:15.95,Default,,0,0,0,,and I will argue with him,as an equal,if I think he is wrong.\N\N如果我认为他们错了,我就以平等的身份和他们争个明白.\N\N

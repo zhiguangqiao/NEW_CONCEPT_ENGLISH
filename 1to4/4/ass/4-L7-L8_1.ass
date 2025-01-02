@@ -1,0 +1,33 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.98,Default,,0,0,0,,Lesson 7 Bats\N\N蝙蝠\N\N
+Dialogue: 0,0:00:04.98,0:00:08.86,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:08.86,0:00:15.92,Default,,0,0,0,,bat: n.  蝙蝠\N\NIn what way does echo-location in bats play an utilitarian role?\N\N蝙蝠的回声定位在哪些方面有重大实用价值?\N\N
+Dialogue: 0,0:00:15.92,0:00:22.08,Default,,0,0,0,,Not all sounds made by animals serve as language,\N\N动物发出的声音不都是用作语言交际,\N\N
+Dialogue: 0,0:00:22.08,0:00:33.55,Default,,0,0,0,,bat: n.  蝙蝠\N\Nand we have only to turn to that extraord- inary discovery of echo-location in bats to see a case in which the voice plays a strictly utilitarian role.\N\N我们只要看一看蝙蝠回声定位这一极不寻常的发现就可以探究一下声音在什么情况下有绝对的实用价值.\N\N
+Dialogue: 0,0:00:33.55,0:00:41.65,Default,,0,0,0,,appreciation: n.  理解\N\NTo get a full appreciation of what this means we must turn first to some recent human inventions.\N\N要透彻理解这句话的意义,我们应先回顾一下人类最近的几项发明.\N\N
+Dialogue: 0,0:00:41.65,0:00:50.05,Default,,0,0,0,,Everyone knows that if he shouts in the vicinity of a wall or a mountainside,an echo will come back\N\N大家都知道,在墙壁或山腰附近发出喊声,就会听到回声.\N\N
+Dialogue: 0,0:00:50.05,0:00:56.17,Default,,0,0,0,,elapse: v.  障碍物\N\NThe further off this solid obstruction,the longer time will elapse for the return of the echo.\N\N固体障碍物越远,回声返回所用时间就越长.\N\N
+Dialogue: 0,0:00:56.17,0:01:02.92,Default,,0,0,0,,hull: n.  消逝\N\NA sound made by tappi- ng on the hull of a ship will be reflected from the sea bottom,\N\N敲打船体所发出的声音会从海底传回来,\N\N
+Dialogue: 0,0:01:02.92,0:01:08.28,Default,,0,0,0,,interval: n.  船体, receipt: n.  间隔\N\Nand by measuring the time interval between the taps and the receipt of the echoes,\N\N测出敲打和接到回声间隔的时间,\N\N
+Dialogue: 0,0:01:08.28,0:01:12.15,Default,,0,0,0,,the depth of the sea at that point can be calculated.\N\N便可算出该处海洋的深度.\N\N
+Dialogue: 0,0:01:12.15,0:01:18.90,Default,,0,0,0,,apparatus: n.  收到\N\NSo was born the echo-sounding apparatus,now in general use in ships.\N\N这样就产生了目前各种船舶上普遍应用的回声探测仪.\N\N
+Dialogue: 0,0:01:18.90,0:01:26.86,Default,,0,0,0,,Every solid object will reflect a sound,varying according to the size and nature of the object.\N\N任何固体都反射声音,反射的声音因物体的大小和性质的不同而不同.\N\N
+Dialogue: 0,0:01:26.86,0:01:29.62,Default,,0,0,0,,shoal: n.  仪器\N\NA shoal of fish will do this.\N\N鱼群也反射声音.\N\N
+Dialogue: 0,0:01:29.62,0:01:37.51,Default,,0,0,0,,shoal: n.  仪器\N\NSo it is a comparatively simple step from locating the sea bottom to locating a shoal of fish.\N\N因此相当简单从测定海深发展到测定鱼群.\N\N
+Dialogue: 0,0:01:37.51,0:01:41.69,Default,,0,0,0,,apparatus: n.  收到\N\NWith experience,and with improved apparatus,\N\N根据经验和改进了的仪器,\N\N
+Dialogue: 0,0:01:41.69,0:01:52.45,Default,,0,0,0,,shoal: n.  仪器, herring: n.  鱼群, cod: n.  鳕鱼\N\Nit is now possible not only to locate a shoal but to tell if it is herring,cod,or other well-known fish,by the pattern of its echo.\N\N不仅能够确定鱼群的位置而且可以根据鱼群回声的特点分辨是鲱鱼,鳕鱼,还是人们所熟悉的其他鱼\N\N
+Dialogue: 0,0:01:52.45,0:01:59.71,Default,,0,0,0,,bat: n.  蝙蝠, squeak: n.  尖叫声\N\NIt has been found that certain bats emit squeaks and by receiving the echoes,\N\N人们发现,某些蝙蝠能发出尖叫声,并能通过接受回声\N\N
+Dialogue: 0,0:01:59.71,0:02:06.63,Default,,0,0,0,,They can locate and steer clear of obstacles--or locate flying insects on which they feed.\N\N来确定并躲开障碍物,或找到它们赖以为生的昆虫.\N\N
+Dialogue: 0,0:02:06.63,0:02:11.63,Default,,0,0,0,,bat: n.  蝙蝠\N\NThis echo-location in bats is often compared with radar,the principle of which is similar.\N\N蝙蝠的这种回声定位常可与雷达相比较,其原理是相似的.\N\N

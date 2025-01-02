@@ -1,0 +1,45 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.60,Default,,0,0,0,, pastoral: adj. 田园的\N Lesson 41. Illusions of pastoral peace. The quiet life of the country-aws never appealed to me.\N第41课。牧师和平的幻想。乡村仇恨的安静生活从未吸引我。
+Dialogue: 0,0:00:07.60,0:00:13.84,Default,,0,0,0,, City-born and city-bred. I have always regarded the country as something you look at through a train window.\N城市出生和城市繁殖。我一直将这个国家视为您通过火车窗户看的东西。
+Dialogue: 0,0:00:14.64,0:00:20.56,Default,,0,0,0,, Or something you occasional visit during the weekend. Most of my friends live in the city.\N或您偶尔在周末访问的东西。我的大多数朋友都住在这座城市。
+Dialogue: 0,0:00:20.56,0:00:24.32,Default,,0,0,0,, rapture: n.   欣喜\N Yet they always go into raptures at the mere mention of the country.\N然而，仅仅提到这个国家，他们总是猛地猛地。
+Dialogue: 0,0:00:25.04,0:00:30.88,Default,,0,0,0,, extol: v.   赞美，颂扬\N Though they extol the virtues of the peaceful life, only one of him has ever gone to live in the\N尽管他们赞扬了和平生活的美德，但他中只有一个人去过
+Dialogue: 0,0:00:30.88,0:00:37.20,Default,,0,0,0,, illusion: n.   幻想，错觉\N country and he was back in town within six months. Even he still lives under the illusion that\N乡村，他在六个月内回到城镇。甚至他仍然生活在一个幻想之下
+Dialogue: 0,0:00:37.20,0:00:44.08,Default,,0,0,0,, superior: adj. 优越的\N country life is somehow superior to town life. He is forever talking about the friendly people.\N乡村生活在某种程度上优于城镇生活。他永远谈论友好的人。
+Dialogue: 0,0:00:44.08,0:00:51.04,Default,,0,0,0,, The clean atmosphere, the closeness to nature and the gentle pace of living. Nothing can be compared.\N干净的氛围，与自然的亲密关系和生活的柔和节奏。没有什么可以比较。
+Dialogue: 0,0:00:51.04,0:00:57.84,Default,,0,0,0,, twitter: v.   （鸟）吱吱叫，嘁嘁喳喳叫\N He maintains, with the first cockroach, the twittering of birds at dawn, the sight of the rising\N他坚持第一个蟑螂，在黎明时twitter着鸟，看到了上升的景象
+Dialogue: 0,0:00:57.84,0:01:04.40,Default,,0,0,0,, pastoral: adj. 田园的, glint: v.   闪烁, pasture: n.   牧场, idyllic: adj. 田园诗的\N sun glinting on the trees and pastures. This idyllic pastoral scene is only part of the picture.\N阳光在树木和牧场上闪烁。这个田园诗般的田园场景只是图片的一部分。
+Dialogue: 0,0:01:04.96,0:01:11.04,Default,,0,0,0,, virtually: adv. 几乎，差不多\N My friend fails to mention the long and friendless winter evenings in front of the TV, virtually.\N我的朋友实际上没有提及电视前面漫长而无朋友的冬天晚上。
+Dialogue: 0,0:01:11.84,0:01:17.76,Default,,0,0,0,, The only form of entertainment. He says nothing about the poor selection of goods in the shops.\N唯一的娱乐形式。他对商店中商品的选择不佳一无所知。
+Dialogue: 0,0:01:18.56,0:01:24.08,Default,,0,0,0,, Or about those unfortunate people who have to travel from the country to the city every day to get.\N或关于每天必须从该国到城市旅行的不幸的人。
+Dialogue: 0,0:01:24.80,0:01:31.20,Default,,0,0,0,, dubious: adj. 可疑的，怀疑的, privilege: n.   特权\N To work, why people are prepared to tolerate a four-hour journey each day for the dubious privilege of.\N为了工作，为什么人们准备容忍每天四个小时的旅程，以获得可疑的特权。
+Dialogue: 0,0:01:32.00,0:01:37.92,Default,,0,0,0,, misery: n.   苦难\N Living in the country is beyond me. They could be saved so much misery and expense if they chose\N生活在该国超越了我。如果他们选择的话，他们可能会被挽救太多的痛苦和费用
+Dialogue: 0,0:01:37.92,0:01:44.40,Default,,0,0,0,, pastoral: adj. 田园的\N to live in the city where they rightly. Belong. If you can do without the few pastoral pleasures of\N住在他们正确的城市。属于。如果您可以在没有一些田园乐趣的情况下做
+Dialogue: 0,0:01:44.56,0:01:49.68,Default,,0,0,0,, the country, you will find the city can provide you with the best that life can offer.\N这个国家，您会发现这座城市可以为您提供生活所能提供的最好的。
+Dialogue: 0,0:01:50.56,0:01:56.56,Default,,0,0,0,, You never have to travel miles to see your friends. They invariably line nearby and are always\N您永远不必旅行英里即可见到您的朋友。他们总是在附近的线条，总是
+Dialogue: 0,0:01:56.56,0:02:03.68,Default,,0,0,0,, acquaintance: n.   熟人\N available for an informal chat or an evening's. Entertainment. Some of my acquaintances in the country\N可用于非正式聊天或晚上。娱乐。我在该国的一些熟人
+Dialogue: 0,0:02:03.68,0:02:10.40,Default,,0,0,0,, treat: n.   难得的乐事，享受\N come up to town once or twice a year to visit the theater. As a special treat, for them this is a\N每年一次或两次去镇上去剧院。作为特殊享受，对他们来说，这是
+Dialogue: 0,0:02:10.40,0:02:16.00,Default,,0,0,0,, major operation which involves considerable planning. As the play draws to its close,\N大型操作涉及大量计划。随着戏剧的结束，
+Dialogue: 0,0:02:16.56,0:02:23.04,Default,,0,0,0,, dweller: n.   居住者\N they wonder whether they will ever catch that last train home. The CIT dweller never experiences\N他们想知道他们是否会赶上最后一列火车回家。CIT居民从未经历过
+Dialogue: 0,0:02:23.04,0:02:30.40,Default,,0,0,0,, anxieties of this sort. The latest exhibitions. Films. Or plays are only a short bus ride away.\N这种焦虑。最新展览。电影。或比赛只有很短的公共汽车。
+Dialogue: 0,0:02:31.12,0:02:39.60,Default,,0,0,0,, Shopping. Two. As always a pleasure. The latest exhibitions. Films. Or plays are only a short bus ride\N购物。二。一如既往的乐趣。最新展览。电影。或比赛只是一小段公共汽车
+Dialogue: 0,0:02:39.60,0:02:46.64,Default,,0,0,0,, away. Shopping. Two. As always a pleasure. There is so much variety that you never have to make\N离开。购物。二。一如既往的乐趣。有很多变化，你永远不必做
+Dialogue: 0,0:02:46.64,0:02:52.96,Default,,0,0,0,, stagger: v.   摇晃，蹒跚\N do with second best country people run wild. When they go shopping in the city and stagger home\N与第二最好的乡村人一起奔跑。当他们在城市购物时交错家时
+Dialogue: 0,0:02:52.96,0:02:59.84,Default,,0,0,0,, exotic: adj. 导乎寻常的，外来的\N loaded with as many of the exotic items as they can carry. Nor is the city without its moments of\N装有尽可能多的异国情调的物品。这座城市也不是没有它的时刻
+Dialogue: 0,0:02:59.84,0:03:05.84,Default,,0,0,0,, glow: n.   白炽光\N beauty. There is something comforting about the warm glow shed by advertisements on cold wet winter\N美丽。在寒冷的潮湿冬天，广告散发出温暖的光芒有些安慰
+Dialogue: 0,0:03:05.84,0:03:12.08,Default,,0,0,0,, descend: v.   缩进，隐藏\N nights. Few things could be more impressive than the piece that descends on deserted city streets at.\N夜晚。几乎没有什么比在荒芜的城市街道上降落的东西更令人印象深刻的。
+Dialogue: 0,0:03:12.96,0:03:17.84,Default,,0,0,0,, Weekends when the thousands that travel to work every day are tucked away in their homes in the\N周末，每天上班的成千上万的人都被藏在他们的家中
+Dialogue: 0,0:03:18.64,0:03:25.04,Default,,0,0,0,, dweller: n.   居住者\N country. It has always been a mystery to me who city dwellers, who appreciate all these things.\N国家。这对我来说一直是一个谜，谁喜欢所有这些事情。
+Dialogue: 0,0:03:25.04,0:03:32.24,Default,,0,0,0,, Opsdenitly pretend that they would prefer to live in the country.\NOpsDenitity假装他们宁愿住在该国。

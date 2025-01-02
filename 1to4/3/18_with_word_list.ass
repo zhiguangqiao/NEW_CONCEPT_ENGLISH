@@ -1,0 +1,29 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.36,Default,,0,0,0,, current: n.   电流, sculpture: n.   雕塑\N Lesson 18. Electric currents in modern art. Modern sculpture rarely surprises us anymore.\N第18课。现代艺术中的电流。现代雕塑很少会让我们感到惊讶。
+Dialogue: 0,0:00:07.36,0:00:14.32,Default,,0,0,0,, mistaken: adj. 错误的\N The idea that modern art can only be seen in museums is mistaken. Even people who take no interest\N现代艺术只能在博物馆中看到的想法是错误的。甚至不感兴趣的人
+Dialogue: 0,0:00:14.32,0:00:20.88,Default,,0,0,0,, sculpture: n.   雕塑\N in art cannot have failed to notice examples of modern sculpture. On display in public places,\N在艺术中​​，不可能没有注意到现代雕塑的例子。在公共场所展出，
+Dialogue: 0,0:00:21.60,0:00:28.56,Default,,0,0,0,, strange forms stand in gardens. And outside buildings and shops. We have got quite used to them.\N奇怪的形式站在花园中。以及外部建筑物和商店。我们已经习惯了他们。
+Dialogue: 0,0:00:29.12,0:00:33.60,Default,,0,0,0,, Some so-called modern pieces have been on display for nearly 80 years.\N一些所谓的现代作品已经展出了将近80年。
+Dialogue: 0,0:00:34.72,0:00:42.08,Default,,0,0,0,, sculpture: n.   雕塑, exhibit: n.   展品，陈列品\N In spite of this, some people, including myself, were surprised by a recent exhibition of modern sculpture.\N尽管如此，包括我本人在内的某些人对最近的现代雕塑展览感到惊讶。
+Dialogue: 0,0:00:42.88,0:00:47.12,Default,,0,0,0,, gallery: n.   美术馆\N The first thing I saw when I entered the art gallery was a notice which said,\N我进入美术馆时看到的第一件事是通知说：
+Dialogue: 0,0:00:47.84,0:00:54.96,Default,,0,0,0,, exhibit: n.   展品，陈列品\N do not touch the exhibits. Some of them are dangerous. The objects on display were pieces of moving\N不要触摸展览。其中一些很危险。展示的对象是移动的一部分
+Dialogue: 0,0:00:54.96,0:01:01.28,Default,,0,0,0,, sculpture: n.   雕塑\N sculpture. Oddly shaped forms that are suspended form the ceiling and move in response to a gust of\N雕塑。奇怪形状的形式，悬浮形式的天花板和响应的阵风移动
+Dialogue: 0,0:01:01.28,0:01:09.44,Default,,0,0,0,, wind are. Quite familiar to everybody. These objects, however, were different, lined up against the\N风是。每个人都很熟悉。但是，这些物体不同，与
+Dialogue: 0,0:01:09.44,0:01:16.00,Default,,0,0,0,, attach: v.   连，系, sphere: n.   球体, magnetize: v.   使磁化\N wall. There were long thin wires attached to metal spheres. The spheres had been magnetized and\N墙。金属球上有很长的细线。球被磁化了，
+Dialogue: 0,0:01:16.00,0:01:22.16,Default,,0,0,0,, repel: v.   排斥\N attracted or repelled each other all the time. In the center of the hall, there were a number of\N一直吸引或击退。在大厅的中心，有很多
+Dialogue: 0,0:01:22.16,0:01:28.24,Default,,0,0,0,, flicker: v.   闪烁\N tall structures which contained colored lights. These lights flickered continuously like traffic\N高的结构，其中包含彩色灯光。这些灯像流量一样连续闪烁
+Dialogue: 0,0:01:28.24,0:01:34.48,Default,,0,0,0,, emit: v.   放射, flash: v.   闪光\N lights which have gone mad. Sparks were emitted from small black boxes and red lamps flashed on\N生气的灯。火花是从小黑盒子和红色灯闪烁的
+Dialogue: 0,0:01:34.48,0:01:41.12,Default,,0,0,0,, exhibit: n.   展品，陈列品, prehistoric: adj. 史前的，老掉牙的, electronic: adj. 电子的\N and off angrily. It was rather like an exhibition of prehistoric electronic equipment. These\N愤怒地。这就像史前电子设备的展览。这些
+Dialogue: 0,0:01:41.12,0:01:48.08,Default,,0,0,0,, peculiar: adj. 奇异的, shock: v.   令人震惊，刺激人, emotionally: adv. 事情上\N peculiar forms not only seemed designed to shock people emotionally, but to give them electric shocks as well.\N奇特的形式不仅旨在使人们在情感上震惊，而且还给他们带来了电击。

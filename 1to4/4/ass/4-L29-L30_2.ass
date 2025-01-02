@@ -1,0 +1,57 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.16,Default,,0,0,0,,Lesson 30 Exploring the sea-floor\N\N海底勘探\N\N
+Dialogue: 0,0:00:05.16,0:00:09.20,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:09.20,0:00:16.23,Default,,0,0,0,,How did people probably imagine the sea-floor before it was investigated?\N\N在开展海底研究前,人们想象中的海底是什么样的?\N\N
+Dialogue: 0,0:00:16.23,0:00:21.78,Default,,0,0,0,,Our knowledge of the oceans a hundred years ago\N\N100年前,我们关于海洋的认识\N\N
+Dialogue: 0,0:00:21.78,0:00:26.35,Default,,0,0,0,,was confined to the 2-dimensional shape of the sea surface\N\N仅限于知道海面是二维平面形的,\N\N
+Dialogue: 0,0:00:26.35,0:00:31.30,Default,,0,0,0,,navigation: n.  航海\N\Nand the hazards of navigation presented by the irregularities in depth\N\N以及浅水区的深浅不一给航行带来的危险性,\N\N
+Dialogue: 0,0:00:31.30,0:00:34.20,Default,,0,0,0,,of the shallow water close to the land.\N\N即靠边近陆地的浅水区.\N\N
+Dialogue: 0,0:00:34.20,0:00:38.73,Default,,0,0,0,,The open sea was deep and mysterious,\N\N无边无际的海洋深邃而又神秘,\N\N
+Dialogue: 0,0:00:38.73,0:00:44.19,Default,,0,0,0,,and anyone who gave more than a passing thought to the bottom confines of the oceans\N\N凡是稍稍想过大海海底的人\N\N
+Dialogue: 0,0:00:44.19,0:00:48.04,Default,,0,0,0,,probably assumed that the sea bed was flat.\N\N大概都会认为海底是平坦的.\N\N
+Dialogue: 0,0:00:48.04,0:00:56.34,Default,,0,0,0,,sounding: n.  水深度, fathom: n.  寻（1寻等于1.8米）\N\NSir James Clark Ross had obtained a sounding of over 2,400 fathoms in 1839,\N\N1839年,詹姆斯.克拉克.罗斯爵士曾测得海水深度超过2,400英寻;\N\N
+Dialogue: 0,0:00:56.34,0:00:59.34,Default,,0,0,0,,but it was not until 1869,\N\N但直到1869年,\N\N
+Dialogue: 0,0:00:59.34,0:01:06.26,Default,,0,0,0,,when H.M.S.Porcupine was put at the disposal of the Royal Society for several cruises\N\N皇家学会用英国"豪猪"号舰艇进行了几次巡航后,\N\N
+Dialogue: 0,0:01:06.26,0:01:11.49,Default,,0,0,0,,sounding: n.  水深度\N\Nthat a series of deep soundings was obtained in the Atlantic\N\N才在大西洋测得一个个海水深度,\N\N
+Dialogue: 0,0:01:11.49,0:01:15.57,Default,,0,0,0,,and the first samples were collected by dredging the bottom.\N\N同时通过挖掘海底,取得了研究海底的首批样品.\N\N
+Dialogue: 0,0:01:15.57,0:01:20.62,Default,,0,0,0,,expedition: n.  远征\N\NShortly after this the famous H.M.S. Challenger expedition\N\N此后不久,英国著名的 "挑战者"号舰艇对海底的那次考察,\N\N
+Dialogue: 0,0:01:20.62,0:01:23.12,Default,,0,0,0,,established the study of the sea-floor\N\N把对海床的研究确立为\N\N
+Dialogue: 0,0:01:23.12,0:01:28.30,Default,,0,0,0,,physicist: n.  物理学家\N\Nas a subject worthy of the most qualified physicists and geologists.\N\N一个值得一流物理学家和地质学家从事的研究课题.\N\N
+Dialogue: 0,0:01:28.30,0:01:33.62,Default,,0,0,0,,A burst of activity associated with the laying of submarine cables\N\N铺设海底电缆的热潮\N\N
+Dialogue: 0,0:01:33.62,0:01:36.45,Default,,0,0,0,,soon confirmed the Challenger's observation\N\N很快证实了"挑战者"号的观察结果:\N\N
+Dialogue: 0,0:01:36.45,0:01:40.81,Default,,0,0,0,,that many parts of the ocean were two to three miles deep,\N\N海洋中很多地方可深达两三英里,\N\N
+Dialogue: 0,0:01:40.81,0:01:45.92,Default,,0,0,0,,magnitude: n.  很多\N\Nand the existence of underwater features of considerable magnitude.\N\N水下特征差异极大.\N\N
+Dialogue: 0,0:01:45.92,0:01:52.95,Default,,0,0,0,,sounding: n.  水深度\N\NToday,enough soundings are available to enable a relief map of the Atlantic to be drawn\N\N现在已有足够的水深测量数据来绘制一张大西洋洋底地形图,\N\N
+Dialogue: 0,0:01:52.95,0:01:58.01,Default,,0,0,0,,topography: n.  地形\N\Nand we know something of the great variety of the sea bed's topography.\N\N而且我们对海底地形的千变万化也有了一定的了解.\N\N
+Dialogue: 0,0:01:58.01,0:02:02.27,Default,,0,0,0,,Since the sea covers the greater part of the earth's surface,\N\N既然海洋覆盖着地球的大部分表面,\N\N
+Dialogue: 0,0:02:02.27,0:02:05.35,Default,,0,0,0,,it is quite reasonable to regard the sea floor\N\N因此完全有理由把海床\N\N
+Dialogue: 0,0:02:05.35,0:02:08.55,Default,,0,0,0,,crust: n.  地壳\N\Nas the basic form of the crust of the earth\N\N看作地壳的基本模壳,\N\N
+Dialogue: 0,0:02:08.55,0:02:12.33,Default,,0,0,0,,with,superimposed upon it,the continents,\N\N上面附加着大陆\N\N
+Dialogue: 0,0:02:12.33,0:02:15.85,Default,,0,0,0,,together with the islands and other features of the oceans.\N\N以及岛屿和海洋的其他形态.\N\N
+Dialogue: 0,0:02:15.85,0:02:19.87,Default,,0,0,0,,tableland: n.  高地\N\NThe continents form rugged tablelands\N\N大陆是崎岖不平的高地,\N\N
+Dialogue: 0,0:02:19.87,0:02:24.41,Default,,0,0,0,,which stand nearly three miles above the floor of the open ocean.\N\N高出辽阔海洋海底近三英里.\N\N
+Dialogue: 0,0:02:24.41,0:02:26.62,Default,,0,0,0,,From the shore line,\N\N从海岸线\N\N
+Dialogue: 0,0:02:26.62,0:02:32.16,Default,,0,0,0,,out to a distance which may be anywhere from a few miles to a few hundred miles,\N\N向大海延伸几英里到几百英里的区域\N\N
+Dialogue: 0,0:02:32.16,0:02:39.33,Default,,0,0,0,,runs the gentle slope of the continental shelf,geologically part of the continents\N\N是大陆架慢坡,从地质学上来说,它是大陆的一部分.\N\N
+Dialogue: 0,0:02:39.33,0:02:43.51,Default,,0,0,0,,The real dividing line between continents and oceans\N\N大陆和海洋的真正分界线\N\N
+Dialogue: 0,0:02:43.51,0:02:46.59,Default,,0,0,0,,occurs at the foot of a steeper slope.\N\N是在陡坡脚下.\N\N
+Dialogue: 0,0:02:46.59,0:02:54.16,Default,,0,0,0,,fathom: n.  寻（1寻等于1.8米）\N\NThis continental slope usually starts at a place somewhere near the 100-fathom mark\N\N大陆架慢坡开始的地方一般是从差不多100英寻水深处,\N\N
+Dialogue: 0,0:02:54.16,0:02:56.51,Default,,0,0,0,,and in the course of a few hundred miles\N\N一直延伸到几百英里远,\N\N
+Dialogue: 0,0:02:56.51,0:03:03.85,Default,,0,0,0,,fathom: n.  寻（1寻等于1.8米）\N\Nreaches the true ocean floor at 2,500-3,500 fathoms.\N\N深达2,500至3,500的地方,那里才是真正的海底.\N\N
+Dialogue: 0,0:03:03.85,0:03:09.22,Default,,0,0,0,,The slope averages about 1 in 30,but contains steep,\N\N坡度平均约为1/30, 但其中包括陡峭的,\N\N
+Dialogue: 0,0:03:09.22,0:03:15.24,Default,,0,0,0,,sediment: n.  沉淀物, terrace: n.  阶地\N\Nprobably vertical, cliffs, and gentle sediment-covered terraces,\N\N乃至垂直的峭壁和沉积物覆盖的缓和的阶梯地带,\N\N
+Dialogue: 0,0:03:15.24,0:03:19.45,Default,,0,0,0,,and near its lower reaches there is a long tailing-off\N\N在这个地带的低处是很长的一段尾沙地段,\N\N
+Dialogue: 0,0:03:19.45,0:03:22.19,Default,,0,0,0,,which is almost certainly the result of\N\N基本上可以断定,\N\N
+Dialogue: 0,0:03:22.19,0:03:27.19,Default,,0,0,0,,erode: v.  侵蚀\N\Nmaterial transported out to deep water after being eroded from the continental masses.\N\N这个地段是大陆块体上侵蚀下来的物质被水冲到深水处形成的.\N\N

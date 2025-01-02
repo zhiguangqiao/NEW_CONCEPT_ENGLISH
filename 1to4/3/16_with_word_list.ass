@@ -1,0 +1,28 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.12,Default,,0,0,0,, Lesson 16. Mary had a little lamb. Mary and her husband, Demetri, lived in the tiny village of\N第16课。玛丽有一点羔羊。玛丽和她的丈夫德米特里（Demetri）住在一个小村庄
+Dialogue: 0,0:00:07.12,0:00:13.44,Default,,0,0,0,, Peracura in southern Greece. One of Mary's prized possessions was a little white lamb which her\N希腊南部的Peracura。玛丽珍贵的财产之一是一个白色的小羔羊
+Dialogue: 0,0:00:13.44,0:00:19.52,Default,,0,0,0,, tie: v.   拴，系\N husband had given her. She kept it tied to a tree in a field during the day and went to fetch it\N丈夫给了她。她白天把它绑在田野里的一棵树上，然后去拿它
+Dialogue: 0,0:00:19.52,0:00:27.68,Default,,0,0,0,, every evening. One evening, however, the lamb was missing, the rope had been cut, so it was obvious\N每天晚上。但是，一个晚上，羔羊丢失了，绳子被切了，很明显
+Dialogue: 0,0:00:27.68,0:00:34.16,Default,,0,0,0,, that the lamb had been stolen. When Demetri came in from the fields, his wife told him what had\N羔羊被盗了。当德米特（Demetri）从田地进来时，他的妻子告诉他
+Dialogue: 0,0:00:34.16,0:00:40.64,Default,,0,0,0,, happened. Demetri at once set out to find the thief. He knew it would not prove difficult in such a\N发生了。Demetri立即着手找到小偷。他知道这在这样的人中并不困难
+Dialogue: 0,0:00:40.64,0:00:47.28,Default,,0,0,0,, theft: n.   偷盗行为，偷盗案\N small village. After telling several of his friends about the theft, Demetri found out that his\N小村庄。在告诉了他的几个朋友有关盗窃的信息之后，德米特利发现他的
+Dialogue: 0,0:00:47.28,0:00:54.88,Default,,0,0,0,, neighbor, Aleco, had suddenly acquired a new lamb. Demetri immediately went to Aleco's house and\N邻居Aleco突然获得了一个新的羔羊。Demetri立即去了Aleco的家，
+Dialogue: 0,0:00:54.88,0:01:00.72,Default,,0,0,0,, accuse: v.   指控\N angrily accused him of stealing the lamb. He told him he had better return it where he would call\N愤怒地指责他偷了羊羔。他告诉他，他最好返回他会打电话的地方
+Dialogue: 0,0:01:00.72,0:01:08.08,Default,,0,0,0,, the police. Aleco denied taking it and led Demetri into his backyard. It was true that he had just\N警察。Aleco否认将其带到他的后院。的确，他只是
+Dialogue: 0,0:01:08.08,0:01:15.28,Default,,0,0,0,, bought a lamb. He explained, but his lamb was black. A shamed of having acted so rashly.\N买了羊肉。他解释说，但他的羔羊是黑色的。如此轻率的行为感到羞耻。
+Dialogue: 0,0:01:15.28,0:01:21.52,Default,,0,0,0,, accuse: v.   指控, apologize: v.   道歉\N Demetri apologized to Aleco for having accused him. While they were talking it began to rain and\NDemetri向Aleco道歉，因为他指责他。当他们说话时，下雨了
+Dialogue: 0,0:01:21.52,0:01:28.48,Default,,0,0,0,, Demetri stayed in Aleco's house until the rain stopped. When he went outside half an hour later,\N德米特里（Demetri）留在亚历科（Aleco）的房子里，直到下雨停止。半小时后他出门时，
+Dialogue: 0,0:01:28.48,0:01:35.92,Default,,0,0,0,, dye: v.   染\N he was astonished to find the little black lamb was almost white. Its wool, which had been dyed black,\N他惊讶地发现黑羔羊几乎是白色的。它的羊毛被染成黑色，
+Dialogue: 0,0:01:35.92,0:01:39.92,Default,,0,0,0,, had been washed clean by the rain.\N被雨水洗净了。

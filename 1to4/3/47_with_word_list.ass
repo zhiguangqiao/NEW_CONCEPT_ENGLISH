@@ -1,0 +1,45 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.88,Default,,0,0,0,, overpopulated: adj. 人口多的\N Lesson 47. Too high a price? Pollution is the price we pay for an overpopulated,\N第47课。价格太高？污染是我们为人口过多的价格支付的价格
+Dialogue: 0,0:00:06.88,0:00:12.64,Default,,0,0,0,, over-industrialized: adj. 过度工业化的\N over-industrialized planet. When you come to think about it, there are only four ways you can\N过度工业化的星球。当您考虑一下时，只有四种方法可以
+Dialogue: 0,0:00:12.64,0:00:18.40,Default,,0,0,0,, deal with rubbish. Dump it, burn it, turn it into something you can use again.\N处理垃圾。倾倒它，燃烧，将其变成可以再次使用的东西。
+Dialogue: 0,0:00:18.40,0:00:25.20,Default,,0,0,0,, sheer: adj. 纯粹的，不掺杂的\N Attempt to produce less of it. We keep trying all four methods. But he sheer volume of rubbish we\N尝试少生产它。我们一直在尝试所有四种方法。但是他的垃圾量很大
+Dialogue: 0,0:00:25.20,0:00:32.64,Default,,0,0,0,, worldwide: adv. 在全世界, overwhelm: v.   制服，使不知所措\N produce worldwide threatens to overwhelm us. Rubbish, however, is only part of the problem of\N在全球生产威胁着我们。但是，垃圾只是问题的一部分
+Dialogue: 0,0:00:32.64,0:00:38.88,Default,,0,0,0,, polluting our planet. The need to produce ever-increasing quantities of cheap food leads to a different\N污染我们的星球。需要生产越来越多的廉价食品导致不同的需求
+Dialogue: 0,0:00:38.88,0:00:45.84,Default,,0,0,0,, pollution: n.   污染\N kind of pollution. Industrialized farming methods produce cheap meat products. Beef,\N污染。工业化农业方法生产廉价的肉类产品。牛肉，
+Dialogue: 0,0:00:45.84,0:00:52.00,Default,,0,0,0,, pesticide: n.   杀虫剂, fertilizer: n.   肥料\N pork and chicken. The use of pesticides and fertilizers produces cheap grain and vegetables.\N猪肉和鸡肉。农药和肥料的使用会产生廉价的谷物和蔬菜。
+Dialogue: 0,0:00:52.48,0:00:59.44,Default,,0,0,0,, The price we pay for cheap food may be already too high. Mad cow disease, BSE,\N我们为廉价食品支付的价格可能已经太高了。疯牛病，BSE，
+Dialogue: 0,0:00:59.44,0:01:06.80,Default,,0,0,0,, salmonella: n.   沙门氏菌\N in cattle, salmonella and chicken and eggs, and wisteria in dairy products. And if you think you'll\N在牛，沙门氏菌，鸡肉和鸡蛋中，以及乳制品中的紫藤。如果你认为你会
+Dialogue: 0,0:01:06.80,0:01:12.80,Default,,0,0,0,, vegetarian: n.   吃素的人\N abandon meat and become a vegetarian, you have the choice of very expensive organically grown\N放弃肉并成为素食主义者，您可以选择有机种植的非常昂贵的
+Dialogue: 0,0:01:12.80,0:01:19.20,Default,,0,0,0,, pesticide: n.   杀虫剂\N vegetables or a steady diet of pesticides. Every time you think you're eating fresh salads and\N蔬菜或农药持续饮食。每当您认为自己吃新鲜的沙拉和
+Dialogue: 0,0:01:19.20,0:01:26.56,Default,,0,0,0,, insidious: adj. 暗中为害的\N vegetables, or just having an innocent glass of water. However, there is an even more insidious kind\N蔬菜，或者只是喝一杯无辜的水。但是，有一种更阴险的
+Dialogue: 0,0:01:26.56,0:01:34.40,Default,,0,0,0,, pollution: n.   污染, urban: adj. 城市的\N of pollution that particularly affects urban areas and invades. Our daily lives. And that is noise.\N特别影响城市地区和入侵的污染。我们的日常生活。那就是噪音。
+Dialogue: 0,0:01:34.40,0:01:40.16,Default,,0,0,0,, Berglare alarms going off at any time of the day or night serve only to annoy passers-by-end.\N白天或晚上的任何时候，Berglare警报都会逐渐烦恼。
+Dialogue: 0,0:01:40.96,0:01:47.44,Default,,0,0,0,, burglar: n.   窃贼, scream: v.   尖叫\N Actually assist burglars to burgl. Car alarms constantly scream at us in the street and are a source\N实际帮助窃贼到达伯格尔。汽车警报在街上不断向我们尖叫，是来源
+Dialogue: 0,0:01:47.44,0:01:54.48,Default,,0,0,0,, profound: adj. 极度的, irritation: n.   烦躁\N of profound irritation. A recent survey of the effects of noise revealed. Surprisingly,\N深刻刺激。最近发现了噪声影响的最新调查。出奇，
+Dialogue: 0,0:01:54.48,0:02:00.16,Default,,0,0,0,, pollution: n.   污染, incessantly: adv. 连续不断地\N that dogs barking incessantly in the night rated the highest form of noise pollution on a scale.\N那只狗在夜间不断地吠叫，在尺度上评价了最高形式的噪声污染。
+Dialogue: 0,0:02:01.04,0:02:07.76,Default,,0,0,0,, Ranging from 1 to 7, the survey revealed a large number of sources of noise that we really dislike.\N调查范围从1到7，揭示了我们真正不喜欢的大量噪音来源。
+Dialogue: 0,0:02:08.56,0:02:13.68,Default,,0,0,0,, Lawn mowers whining on a summer's day. Late night parties in apartment blocks.\N草坪割草机在夏天的日子里抱怨。公寓街区的深夜聚会。
+Dialogue: 0,0:02:14.24,0:02:20.80,Default,,0,0,0,, Noisy neighbors. Vehicles of al-kinds. Especially large container trucks thundering through\N嘈杂的邻居。Al-Kinds的车辆。尤其是大型集装箱卡车穿过
+Dialogue: 0,0:02:20.80,0:02:28.16,Default,,0,0,0,, helicopter: n.   直升飞机\N quiet village. Plains and helicopters flying overhead. Large radios carried round in public places\N安静的村庄。平原和直升机飞过头顶。大型收音机在公共场所围绕
+Dialogue: 0,0:02:28.16,0:02:34.64,Default,,0,0,0,, maximum: adj. 最大的, technology: n.   技术, contribution: n.   贡献\N and played at maximum volume. New technology has also made its own contribution to noise.\N并以最大音量播放。新技术还为噪音做出了贡献。
+Dialogue: 0,0:02:35.20,0:02:41.28,Default,,0,0,0,, mobile: adj. 可移动的\N A lot of people object to mobile phones. Especially when they are used in public places like\N很多人反对手机。特别是当它们在公共场所使用时
+Dialogue: 0,0:02:41.28,0:02:47.92,Default,,0,0,0,, mobile: adj. 可移动的\N restaurants or on public transport. Loud conversations on mobile phones invade our thoughts or\N餐馆或公共交通工具。手机上的大声对话侵犯了我们的想法或
+Dialogue: 0,0:02:47.92,0:02:54.48,Default,,0,0,0,, pollution: n.   污染\N interrupt the pleasure of meeting. Friends for a quiet chat. The noise pollution survey revealed\N打断见面的乐趣。朋友进行安静的聊天。噪声污染调查显示
+Dialogue: 0,0:02:54.48,0:03:01.52,Default,,0,0,0,, a rather spurring and possibly amusing old-fashioned source of. Noise. It turned out to be snoring.\N一个相当激烈的，可能是有趣的老式来源。噪音。原来是打s。
+Dialogue: 0,0:03:02.16,0:03:08.72,Default,,0,0,0,, snore: v.   打鼾, offender: v.   冒犯者\N Men were found to be the worst offenders. It was revealed that 20% of men in their mid-30s snore.\N发现男人是最糟糕的罪犯。据透露，30年代中期的男性中有20％的男性打sn。
+Dialogue: 0,0:03:09.68,0:03:16.88,Default,,0,0,0,, staggering: adj. 令人惊愕的\N This figure rises to a staggering 60% of men in their 60s. Against these figures,\N这个数字上升到60多岁的60％的男性。在这些数字上
+Dialogue: 0,0:03:16.88,0:03:23.92,Default,,0,0,0,, snore: v.   打鼾\N it was found that only 5% of women snore regularly, while the rest are constantly woken or kept awake\N发现只有5％的女性定期打sn，而其余的则不断醒来或保持清醒
+Dialogue: 0,0:03:23.92,0:03:32.72,Default,,0,0,0,, trumpet: v.   吹号, partner: n.   伙伴\N by their trumpeting partners. Whatever the source of noise, one thing is certain. Silence. It seems\N通过他们的小号伙伴。无论噪音的来源是什么，一件事是可以肯定的。沉默。它似乎
+Dialogue: 0,0:03:32.72,0:03:34.72,Default,,0,0,0,, has become a golden memory.\N已经成为金色的记忆。

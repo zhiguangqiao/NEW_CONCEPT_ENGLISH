@@ -1,0 +1,53 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.94,Default,,0,0,0,,Lesson 27 The 'Vasa'\N\N "瓦萨"号\N\N
+Dialogue: 0,0:00:05.94,0:00:09.79,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:09.79,0:00:16.08,Default,,0,0,0,,What happened to the 'Vasa' almost immediately after she was launched?\N\N"瓦萨"号刚启航就发生了什么事情?\N\N
+Dialogue: 0,0:00:16.08,0:00:19.49,Default,,0,0,0,,From the seventeenth-century empire of Sweden,\N\N从17世纪瑞典帝国\N\N
+Dialogue: 0,0:00:19.49,0:00:25.66,Default,,0,0,0,,galleon: n.  大型帆船\N\Nthe story of a galleon that sank at the start of her maiden voyage in 1628\N\N有个流传至今的故事,说是1628年,一艘大帆船在处女航开始时就沉没了,\N\N
+Dialogue: 0,0:00:25.66,0:00:28.78,Default,,0,0,0,,must be one of the strangest tales of the sea.\N\N这无疑是航海史上最离奇的事件之一.\N\N
+Dialogue: 0,0:00:28.78,0:00:34.41,Default,,0,0,0,,Stockholm: n.  斯德哥尔摩\N\NFor nearly three and a half centuries she lay at the bottom of Stockholm harbour\N\N这艘大船在期德歌尔摩港口的海底躺了将近3个世纪,\N\N
+Dialogue: 0,0:00:34.41,0:00:37.85,Default,,0,0,0,,until her discovery in 1956.\N\N直到1956年才被发现.\N\N
+Dialogue: 0,0:00:37.85,0:00:43.89,Default,,0,0,0,,flagship: n.  旗舰\N\NThis was the Vasa, royal flagship of the great imperial fleet.\N\N这就是"瓦萨"号,帝国大舰队的皇家旗舰.\N\N
+Dialogue: 0,0:00:43.89,0:00:48.64,Default,,0,0,0,,King Gustavus Adolphus 'The Northern Hurricane',\N\N号称"北方飓风"的国王古斯塔夫斯.阿道尔弗,\N\N
+Dialogue: 0,0:00:48.64,0:00:52.86,Default,,0,0,0,,then at the height of his military success in the 'Thirty Years' War,\N\N当时正处在"三十年战争" 的军事鼎盛阶段,\N\N
+Dialogue: 0,0:00:52.86,0:00:56.55,Default,,0,0,0,,armament: n.  军械\N\Nhad dictated her measurements and armament.\N\N他亲自规定了这艘船的规模和武器配备.\N\N
+Dialogue: 0,0:00:56.55,0:01:00.96,Default,,0,0,0,,mount: v.  架有, bronze: n.  青铜, cannon: n.  加农炮\N\NTriple gun-decks mounted sixty-four bronze cannon.\N\N3层的火炮甲板上装着64门青铜加农炮,\N\N
+Dialogue: 0,0:01:00.96,0:01:06.01,Default,,0,0,0,,She was intended to play a leading role in the growing might of Sweden.\N\N目的就是要在不断增长的瑞典势力中起主导作用.\N\N
+Dialogue: 0,0:01:06.01,0:01:12.30,Default,,0,0,0,,As she was prepared for her maiden voyage on August 10, 1628,\N\N1628年8月10日,"瓦萨"号准备首航时,\N\N
+Dialogue: 0,0:01:12.30,0:01:15.16,Default,,0,0,0,,Stockholm: n.  斯德哥尔摩\N\NStockholm was in a ferment.\N\N斯德歌尔摩一片欢腾.\N\N
+Dialogue: 0,0:01:15.16,0:01:18.39,Default,,0,0,0,,From the Skeppsbron and surrounding islands\N\N人们从斯开波斯布朗和周围的岛屿aa\N\N
+Dialogue: 0,0:01:18.39,0:01:20.81,Default,,0,0,0,,the people watched this thing of beauty\N\N前来观看这艘美丽的战船\N\N
+Dialogue: 0,0:01:20.81,0:01:24.19,Default,,0,0,0,,begin to spread her sails and catch the wind.\N\N扬帆起航,乘风前进.\N\N
+Dialogue: 0,0:01:24.19,0:01:28.94,Default,,0,0,0,,They had laboured for three years to produce this floating work of art;\N\N瑞典人辛辛苦苦干了3年才建成这件水上艺术品,\N\N
+Dialogue: 0,0:01:28.94,0:01:34.19,Default,,0,0,0,,she was more richly carved and ornamented than any previous ship.\N\N它比以往任何船只雕刻得都更加精美,装饰得都更加华丽.\N\N
+Dialogue: 0,0:01:34.19,0:01:43.14,Default,,0,0,0,,The high stern castle was a riot of carved gods,demons,knights, kings,warriors,\N\N高耸的船楼上雕刻着令人眼花缭乱的神仙,妖魔,骑士,国王,武士,\N\N
+Dialogue: 0,0:01:43.14,0:01:50.28,Default,,0,0,0,,mermaids,cherubs;and zoomorphic animal shapes ablaze with red and gold and blue,\N\N美人鱼和小天使,还有用红色,金黄色,蓝色绘制的光彩夺目的兽形图案,\N\N
+Dialogue: 0,0:01:50.28,0:01:54.36,Default,,0,0,0,,symbols of courage, power,and cruelty,\N\N象征着勇敢、力量和残暴,\N\N
+Dialogue: 0,0:01:54.36,0:02:00.67,Default,,0,0,0,,were portrayed to stir the imaginations of the superstitious sailors of the day.\N\N以激起当时崇尚迷信的水手们的想象.\N\N
+Dialogue: 0,0:02:00.67,0:02:08.53,Default,,0,0,0,,cannon: n.  加农炮\N\NThen the cannons of the anchored warships thundered a salute to which the Vasa fired in reply.\N\N这时,停泊在港口的其他战船向"瓦萨"号鸣炮致礼,"瓦萨"号也鸣炮回礼.\N\N
+Dialogue: 0,0:02:08.53,0:02:12.45,Default,,0,0,0,,As she emerged from her drifting cloud of gun smoke\N\N当"瓦萨"号从弥漫的礼炮烟去中出现时,\N\N
+Dialogue: 0,0:02:12.45,0:02:15.58,Default,,0,0,0,,with the water churned to foam beneath her bow,\N\N船头下浪花四溅,\N\N
+Dialogue: 0,0:02:15.58,0:02:21.65,Default,,0,0,0,,her flags flying, pennants waving, sails filling in the breeze,\N\N舰旗迎风招展,三角旗随风飘动,微风鼓起风帆,\N\N
+Dialogue: 0,0:02:21.65,0:02:25.64,Default,,0,0,0,,and the red and gold or her superstructure ablaze with colour,\N\N金碧辉煌的船楼闪耀着灿烂的色彩.\N\N
+Dialogue: 0,0:02:25.64,0:02:32.00,Default,,0,0,0,,Stockholm: n.  斯德哥尔摩\N\Nshe presented a more majestic spectacle than Stockholmers had ever seen before.\N\N"瓦萨"号展现的壮观景象是斯德歌尔摩人从未见过的.\N\N
+Dialogue: 0,0:02:32.00,0:02:37.82,Default,,0,0,0,,All gun-ports were open and the muzzles peeped wickedly from them.\N\N船上的炮眼都开着,炮口虎视眈眈地向外窥视着.\N\N
+Dialogue: 0,0:02:37.82,0:02:46.41,Default,,0,0,0,,As the wind freshened there came a sudden squall and the ship made a strange movement, listing to port.\N\N当风力增强时,突然刮来阵大风,瓦萨号奇怪地摇晃了一下便向左舷倾斜.\N\N
+Dialogue: 0,0:02:46.41,0:02:56.76,Default,,0,0,0,,cannon: n.  加农炮\N\NThe Ordnance officer ordered all the port cannon to be heaved to starboard to counteract the list but the steepening angle of the decks increased.\N\N炮长命令把左舷上所有大炮搬到右舷上来以抵消船的倾斜,但甲板的倾斜度仍在增加.\N\N
+Dialogue: 0,0:02:56.76,0:03:01.34,Default,,0,0,0,,Then the sound of rumbling thunder reached the watchers on the shore,\N\N然后岸上的观众听到船上发出了雷鸣般的轰响,\N\N
+Dialogue: 0,0:03:01.34,0:03:06.76,Default,,0,0,0,,as cargo,ballast, ammunition and 400 people\N\N原来是物品、压舱物、弹药和400个人\N\N
+Dialogue: 0,0:03:06.76,0:03:11.55,Default,,0,0,0,,went sliding and crashing down to the port side of the steeply listing ship.\N\N轰地一声滑向了陡斜的左舷.\N\N
+Dialogue: 0,0:03:11.55,0:03:18.56,Default,,0,0,0,,The lower gun-ports were now belew water and the inrush sealed the ship's fate.\N\N此时下层炮眼已淹没在水里,涌进船舱的水给瓦萨号带来了难以逃脱的厄运.\N\N
+Dialogue: 0,0:03:18.56,0:03:25.48,Default,,0,0,0,,In that first glorious hour,the mighty Vasa, which was intended to rule the Baltic,\N\N就这样,想要统治波罗的海的大型战舰"瓦舰"号,\N\N
+Dialogue: 0,0:03:25.48,0:03:30.48,Default,,0,0,0,,sank with all flags flying--in the harbour of her birth.\N\N在它壮丽的起航时刻,带着全身飘扬的彩旗,沉没在了它诞生的港口.\N\N

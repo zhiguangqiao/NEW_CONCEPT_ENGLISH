@@ -1,0 +1,25 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:08.00,Default,,0,0,0,, fascination: n.   魅力，迷惑力\N Lesson 34. A happy discovery. Antique shops exert a peculiar fascination on a great many people.\N第34课。一个快乐的发现。古董店对许多人产生了奇特的迷恋。
+Dialogue: 0,0:00:08.00,0:00:14.00,Default,,0,0,0,, antique: n.   古董，古玩\N The more expensive kind of antique shop where rare objects are beautifully displayed in glass cases.\N较昂贵的古董店，在玻璃箱中呈现稀有物品。
+Dialogue: 0,0:00:14.00,0:00:24.00,Default,,0,0,0,, antique: n.   古董，古玩, forbidding: adj. 望而生畏的，望而却步的, muster: v.   鼓起, pretentious: adj. 自命不凡的，矫饰的\N To keep them free from dust is usually a forbidding place. But no one has to muster up courage to enter a less pretentious antique shop.\N使它们摆脱灰尘通常是一个禁止的地方。但是，没有人能鼓起勇气进入一家不那么自命不凡的古董店。
+Dialogue: 0,0:00:24.00,0:00:34.00,Default,,0,0,0,, labyrinth: n.   迷宫, musty: adj. 陈腐的，发霉的, rarity: n.   稀世珍品, assorted: adj. 各式各样的, junk: n.   破烂货，废品\N There is always hope that in its labyrinth of musty, dark, disordered rooms a real rarity will be found amongst the piles of assorted junk that little the...\N总是希望，在它的迷宫，黑暗，无序的房间的迷宫中，将在各种各样的垃圾中发现真正的稀有度，这几乎没有...
+Dialogue: 0,0:00:34.00,0:00:48.00,Default,,0,0,0,, rarity: n.   稀世珍品, dedicated: adj. 专心致志的\N Floors. No one discovers a rarity by chance. A truly dedicated bargain hunter must have patience. And above all, the ability to recognize the worth of something when he sees it.\N地板。没有人会偶然发现稀有性。真正敬业的讨价还价猎人必须有耐心。最重要的是，当他看到事物时，能够识别价值的能力。
+Dialogue: 0,0:00:48.00,0:01:00.00,Default,,0,0,0,, dealer: v.   商人, cherish: v.   期望，渴望, amply: adv. 足够地\N To do this, he must be at least as knowledgeable as the dealer. Like a scientist bent on making a discovery. He must cherish the hope that one day he will be amply rewarded.\N为此，他必须至少与经销商一样知识渊博。就像科学家一心一意的发现。他必须珍惜希望有一天他会得到充分回报的希望。
+Dialogue: 0,0:01:00.00,0:01:10.00,Default,,0,0,0,, masterpiece: n.   杰作, mere: adj. 仅仅的\N My old friend, Frank Haliday, is just such a person. He has often described to me how he picked up a masterpiece for a mere fifty dollars.\N我的老朋友弗兰克·哈利迪（Frank Haliday）就是这样的人。他经常向我描述他是如何以仅五十美元而挑选杰作的。
+Dialogue: 0,0:01:10.00,0:01:20.00,Default,,0,0,0,, antique: n.   古董，古玩\N One Saturday morning, Frank visited an antique shop in my neighborhood. As he had never been there before, he found a great deal to interest him.\N一个星期六的早晨，弗兰克参观了我附近的一家古董店。由于他以前从未去过那里，他发现了很多让他感兴趣的。
+Dialogue: 0,0:01:20.00,0:01:34.00,Default,,0,0,0,, The morning passed rapidly and Frank was about to leave when he noticed a large packing case lying. On the floor, the morning passed rapidly and Frank just come in. But that he could not be bothered to open it.\N早晨迅速过去，当弗兰克注意到一个大包装箱躺在谎言时，他即将离开。在地板上，早晨迅速过去，弗兰克（Frank）刚进来。但是他不愿意打开它。
+Dialogue: 0,0:01:34.00,0:01:48.00,Default,,0,0,0,, dealer: v.   商人, carve: v.   镌刻, dagger: n.   短剑，匕首\N Frank begged him to do so and the dealer reluctantly prized it open. The contents were disappointing. Apart from an interesting-looking carved dagger, the box was full of crockery. Much of it broken.\N弗兰克（Frank）恳求他这样做，经销商勉强地公开了它。内容令人失望。除了一个有趣的雕刻匕首外，盒子里还充满了陶器。它的大部分都打破了。
+Dialogue: 0,0:01:48.00,0:02:02.00,Default,,0,0,0,, miniature: adj. 小巧的，小型的, composition: n.   构图\N Frank gently lifted the crockery out of the box and suddenly noticed a miniature painting at the bottom of the packing case. As its composition and line reminded him of an Italian painting he knew well.\N弗兰克（Frank）轻轻地将陶器从盒子里抬起，突然注意到包装箱底部的微型绘画。当它的作品和线条使他想起了一幅他非常了解的意大利画。
+Dialogue: 0,0:02:02.00,0:02:23.00,Default,,0,0,0,, dealer: v.   商人, masterpiece: n.   杰作\N He decided to buy it, glancing at it briefly. The dealer told him that it was worth fifty dollars. Frank could hardly conceal his excitement. For he knew that he had made a real discovery, the tiny painting proved to be an unknown masterpiece by Correggio and was worth hundreds of thousands of pounds.\N他决定购买它，短暂地瞥了一眼。经销商告诉他，价值五十美元。弗兰克几乎无法掩饰他的兴奋。因为他知道自己已经做出了真正的发现，这幅小画被证明是Correggio的一部杰作，价值数十万英镑。

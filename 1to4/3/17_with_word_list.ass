@@ -1,0 +1,37 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.92,Default,,0,0,0,, suspension: n.   悬，吊\N Lesson 17, the longest suspension, bridge in the world,\N第17课，最长的悬架，世界上的桥梁，
+Dialogue: 0,0:00:04.92,0:00:09.04,Default,,0,0,0,, Verisano, an Italian about whom little is known,\Nverisano，一个鲜为人知的意大利语，
+Dialogue: 0,0:00:09.04,0:00:14.32,Default,,0,0,0,, sailed into New York Harbor in 1524 and named it on Gilem.\N1524年，航行到纽约港，并在吉利姆（Gilem）命名。
+Dialogue: 0,0:00:14.32,0:00:17.52,Default,,0,0,0,, agreeable: adj. 宜人的, situation: n.   地点，地方\N He described it as a very agreeable situation\N他形容这是一个非常令人愉快的情况
+Dialogue: 0,0:00:17.52,0:00:21.60,Default,,0,0,0,, locate: v.   位于\N located within two small hills in the midst of which.\N位于其中的两个小山丘中。
+Dialogue: 0,0:00:21.60,0:00:28.00,Default,,0,0,0,, Float a great river, though Verisano is by no means considered to be a great explorer.\N浮动一条大河，尽管Verisano绝不是一位伟大的探险家。
+Dialogue: 0,0:00:28.08,0:00:30.80,Default,,0,0,0,, immortal: adj. 永生的，流芳百世的\N His name will probably remain immortal.\N他的名字可能会不朽。
+Dialogue: 0,0:00:30.80,0:00:39.84,Default,,0,0,0,, suspension: n.   悬，吊\N For on November 21st, 1964, the longest suspension bridge in the world was named after him.\N对于1964年11月21日，世界上最长的悬架桥以他的名字命名。
+Dialogue: 0,0:00:39.84,0:00:44.48,Default,,0,0,0,, The Verisano bridge, which was designed by Othmar Amman,\N由奥斯玛·安曼（Othmar Ammann）设计的Verrazano桥
+Dialogue: 0,0:00:44.48,0:00:47.04,Default,,0,0,0,, Brooklyn: n.   布鲁克林（纽约一区名）, Staten: n.   斯塔顿（岛）\N joins Brooklyn to Staten Island.\N加入布鲁克林到史坦顿岛。
+Dialogue: 0,0:00:47.04,0:00:50.64,Default,,0,0,0,, span: n.   跨度\N It has a span of 4,260 feet.\N它的跨度为4,260英尺。
+Dialogue: 0,0:00:50.64,0:00:56.56,Default,,0,0,0,, The bridge is so long that the shape of the earth had to be taken into account by its designer.\N桥梁太长了，以至于地球的形状必须由其设计师考虑在内。
+Dialogue: 0,0:00:56.56,0:00:59.92,Default,,0,0,0,, cable: n.   缆索\N Two great towers support four huge cables.\N两座很棒的塔楼支撑着四根大电缆。
+Dialogue: 0,0:00:59.92,0:01:05.44,Default,,0,0,0,, concrete: n.   混凝土\N The towers are built on immense underwater platforms make of steel and concrete.\N这些塔楼建在巨大的水下平台上，由钢和混凝土制成。
+Dialogue: 0,0:01:05.44,0:01:10.32,Default,,0,0,0,, The platforms extend to a depth of over 100 feet under the sea.\N这些平台延伸到海底以上100英尺的深度。
+Dialogue: 0,0:01:10.32,0:01:13.28,Default,,0,0,0,, These alone took 16 months to build.\N仅这些就需要16个月才能建造。
+Dialogue: 0,0:01:13.28,0:01:19.36,Default,,0,0,0,, Above the surface of the water, the towers rise to a height of nearly 700 feet.\N在水面上方，塔楼上升到近700英尺的高度。
+Dialogue: 0,0:01:19.36,0:01:23.20,Default,,0,0,0,, cable: n.   缆索, suspend: v.   悬挂\N They support the cables from which the bridge has been suspended.\N他们支撑桥被悬挂的电缆。
+Dialogue: 0,0:01:23.28,0:01:28.16,Default,,0,0,0,, cable: n.   缆索, length: n.   根，段\N Each of the four cables contains 26,108 lengths of wire.\N这四根电缆中的每根都包含26,108条电线。
+Dialogue: 0,0:01:29.04,0:01:32.40,Default,,0,0,0,, estimate: v.   估计\N It has been estimated that if the bridge were packed with cars,\N据估计，如果桥上装满了汽车，
+Dialogue: 0,0:01:33.28,0:01:36.88,Default,,0,0,0,, capacity: n.   承受量\N it would still only be carrying a third of its total capacity.\N它仍然只有其总容量的三分之一。
+Dialogue: 0,0:01:37.76,0:01:42.56,Default,,0,0,0,, However, size and strength are not the only important things about this bridge.\N但是，大小和强度并不是这座桥的唯一重要事情。
+Dialogue: 0,0:01:43.44,0:01:50.00,Default,,0,0,0,, immensity: n.   巨大, elegant: adj. 优美别致的\N Despite its immensity, it is both simple and elegant, fulfilling its designer's dream to create\N尽管它很大，但它既简单又优雅，实现了设计师的梦想
+Dialogue: 0,0:01:50.00,0:01:54.00,Default,,0,0,0,, faintly: adv. 微细地\N an enormous object drawn as faintly as possible.\N尽可能微弱地绘制的巨大物体。

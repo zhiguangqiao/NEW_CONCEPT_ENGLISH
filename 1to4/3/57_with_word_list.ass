@@ -1,0 +1,42 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.72,Default,,0,0,0,, Lesson 57. Back in the old country. I stopped to let the car cool off and to study the map.\N第57课。回到旧国家。我停下来让汽车冷却并研究地图。
+Dialogue: 0,0:00:07.44,0:00:13.60,Default,,0,0,0,, alien: adj. 异国的，外国的\N I had expected to be near my objective by now. But everything still seemed alien to me.\N我已经期望到现在已经接近我的目标。但是一切对我来说仍然是陌生的。
+Dialogue: 0,0:00:13.60,0:00:20.40,Default,,0,0,0,, I was only five when my father had taken me abroad. And that we 18 years ago. When my mother had\N当父亲带我出国时，我只有五岁。而且我们18年前。当我妈妈有
+Dialogue: 0,0:00:20.40,0:00:26.08,Default,,0,0,0,, died after a tragic accident. He did not quickly recover from the shock and loneliness.\N一场悲惨的事故死亡。他没有迅速从震惊和孤独中恢复过来。
+Dialogue: 0,0:00:26.64,0:00:33.28,Default,,0,0,0,, Everything around him was full of her presence. Continually reopening the wound. So he decided to\N他周围的一切都充满了她的存在。不断重新打开伤口。所以他决定
+Dialogue: 0,0:00:33.28,0:00:38.80,Default,,0,0,0,, emigrate: v.   移居（国外）, absorb: v.   全神贯注于\N emigrate. In the new country he became absorbed in making a new life for the two of us.\N移民。在新国家，他吸收了我们两个人的新生活。
+Dialogue: 0,0:00:39.76,0:00:45.68,Default,,0,0,0,, So that he gradually ceased to grieve. He did not marry again and I was brought up without a woman's\N这样他逐渐停止了悲伤。他没有再次结婚，没有女人的
+Dialogue: 0,0:00:45.68,0:00:53.04,Default,,0,0,0,, care. But I lacked for nothing. For he was both father and mother to me. He always meant to go back\N关心。但是我一无所获。因为他是我的父亲和母亲。他总是打算回去
+Dialogue: 0,0:00:53.04,0:00:59.44,Default,,0,0,0,, embedded: adj. 扎牢的\N on day. But not to stay. His roots and mind bad become too firmly embedded in the new land.\N在一天。但不要留下来。他的根源和思想变得太牢固地嵌入了新土地。
+Dialogue: 0,0:01:00.24,0:01:04.16,Default,,0,0,0,, But he wanted to see the old folk again and to visit my mother's grave.\N但是他想再次见到老人，拜访我母亲的坟墓。
+Dialogue: 0,0:01:04.88,0:01:10.80,Default,,0,0,0,, mortally: adv. 致命地\N He became mortally ill a few months before we had planned to go in. When he knew that he was\N在我们计划进去之前的几个月之前，他病了。当他知道自己是
+Dialogue: 0,0:01:10.80,0:01:17.12,Default,,0,0,0,, dying. He made me promise to go on my own. I hired a car the day after landing and bought a\N垂死。他让我保证自己去。着陆后的第二天，我租了一辆汽车
+Dialogue: 0,0:01:17.12,0:01:23.84,Default,,0,0,0,, comprehensive: adj. 广泛的；丰富的\N comprehensive book of maps. Which I found most helpful on the cross-country journey. But which I\N综合地图书。我发现这对越野旅程最有帮助。但是我
+Dialogue: 0,0:01:23.84,0:01:30.48,Default,,0,0,0,, did not think I should need on the last stage. It was not that I actually remembered anything at all.\N认为我不应该在最后阶段需要。这并不是我实际上还记得任何事情。
+Dialogue: 0,0:01:30.48,0:01:35.44,Default,,0,0,0,, milestone: n.   里程碑\N But my father had described over and over again what we should see at every milestone.\N但是我父亲一遍又一遍地描述了我们在每个里程碑上应该看到的东西。
+Dialogue: 0,0:01:36.24,0:01:42.64,Default,,0,0,0,, territory: n.   领地；地区\N After leaving the nearest town. So that I was positive I should recognize it as familiar territory.\N离开最近的城镇后。这样我就很肯定，我应该将其视为熟悉的领域。
+Dialogue: 0,0:01:43.44,0:01:50.24,Default,,0,0,0,, Well, I had been wrong. For I was now lost. I looked at the map and then at the millimeter.\N好吧，我错了。因为我现在迷路了。我看了看地图，然后看着毫米。
+Dialogue: 0,0:01:50.24,0:01:56.40,Default,,0,0,0,, I had come 10 miles since leaving the town. And at this point, according to my father,\N自从离开小镇以来，我已经走了10英里。据我父亲说，这一点
+Dialogue: 0,0:01:56.40,0:02:02.16,Default,,0,0,0,, spire: n.  （教堂的）塔尖\N I should be looking at farms and cottages in a valley. With the spire of the church of our village\N我应该看山谷中的农场和小屋。在我们村庄的教堂里
+Dialogue: 0,0:02:02.16,0:02:10.32,Default,,0,0,0,, spire: n.  （教堂的）塔尖\N showing in the far distance. I could see no valley. No farms. No cottages and no church spire.\N在远处显示。我看不到山谷。没有农场。没有小屋，没有教堂的尖顶。
+Dialogue: 0,0:02:10.32,0:02:16.64,Default,,0,0,0,, Only a lake. I decided that I must have taken a wrong turning somewhere. So I drove back to the\N只有一个湖。我决定我一定在某个地方转过了错误。所以我开车回到
+Dialogue: 0,0:02:16.64,0:02:23.52,Default,,0,0,0,, retrace: v.   返回，重走\N town and began to retrace the route. Taking frequent glances at the map. I landed up at the same\N镇，开始追溯这条路线。经常看地图。我降落在同一
+Dialogue: 0,0:02:23.52,0:02:30.32,Default,,0,0,0,, stumble: v.   趔趄地走\N corner. The curious thing was that the lake was not marked on the map. I left as if I had stumbled\N角落。奇怪的是，该湖没有在地图上标记。我离开了好像偶然发现了
+Dialogue: 0,0:02:30.32,0:02:37.20,Default,,0,0,0,, into a nightmare country. As you sometimes do in dreams and as in a nightmare. There was nobody\N进入一个噩梦国家。就像您有时在梦中和噩梦中所做的那样。没有人
+Dialogue: 0,0:02:37.20,0:02:43.68,Default,,0,0,0,, in sight to help me. Fortunately for me, as I was wondering what to do next. There appeared on\N在视线中帮助我。对我来说幸运的是，我想知道下一步该怎么做。出现在那里
+Dialogue: 0,0:02:43.68,0:02:50.96,Default,,0,0,0,, horizon: n.   地平线\N the horizon a man on horseback riding in my direction. I waited till he came near. Then I asked him\N地平线，一个骑马的男人朝我的方向骑行。我等到他靠近。然后我问他
+Dialogue: 0,0:02:50.96,0:02:57.28,Default,,0,0,0,, the way to our old village. He said that there was now no village. I thought he must have misunderstood\N通往我们旧村庄的路。他说现在没有村庄。我以为他一定被误解了
+Dialogue: 0,0:02:57.28,0:03:04.80,Default,,0,0,0,, me. So I repeated its name. This time he pointed to the lake. The village no longer existed because it\N我。所以我重复了它的名字。这次他指着湖。村庄不再存在，因为它
+Dialogue: 0,0:03:04.80,0:03:13.12,Default,,0,0,0,, reservoir: n.   水库\N had been submerged. And all the valley too. The lake was not a natural one. But a man made reservoir.\N被淹没了。还有所有的山谷。湖不是一个自然的湖泊。但是一个人做了水库。

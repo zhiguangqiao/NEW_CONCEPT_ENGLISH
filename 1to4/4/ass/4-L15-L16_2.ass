@@ -1,0 +1,41 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.14,Default,,0,0,0,,Lesson 16 The modern city\N\N现代城市\N\N
+Dialogue: 0,0:00:05.14,0:00:09.18,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:09.18,0:00:14.10,Default,,0,0,0,,What is the author's main argument about the modern city?\N\N作者关于现代城市的主要论点是什么?\N\N
+Dialogue: 0,0:00:14.10,0:00:17.95,Default,,0,0,0,,In the organization of industrial life\N\N在工业生活的组织中,\N\N
+Dialogue: 0,0:00:17.95,0:00:23.43,Default,,0,0,0,,the influence of the factory upon the physiological and mental state of the workers，\N\N工厂对工人的生理和精神状态的影响,\N\N
+Dialogue: 0,0:00:23.43,0:00:25.70,Default,,0,0,0,,has been completely neglected.\N\N完全被忽视了.\N\N
+Dialogue: 0,0:00:25.70,0:00:29.15,Default,,0,0,0,,Modern industry is based on the conception\N\N现代工业的基本概念是:\N\N
+Dialogue: 0,0:00:29.15,0:00:32.15,Default,,0,0,0,,of the maximum production at lowest cost,\N\N以最低成本获取最多产品,\N\N
+Dialogue: 0,0:00:32.15,0:00:35.97,Default,,0,0,0,,in order that an individual or a group of individuals,\N\N为的是让某个个人或一部分人，\N\N
+Dialogue: 0,0:00:35.97,0:00:38.66,Default,,0,0,0,,may earn as much money as possible.\N\N尽可能多地赚钱.\N\N
+Dialogue: 0,0:00:38.66,0:00:45.71,Default,,0,0,0,,It has expanded without any idea of the true nature of the human beings who run the machines,\N\N现代工业发展起来了,却根本没想到操作机器的人的本质.\N\N
+Dialogue: 0,0:00:45.71,0:00:48.04,Default,,0,0,0,,consideration: n.  考虑\N\Nand without giving any consideration\N\N工厂毫不顾及\N\N
+Dialogue: 0,0:00:48.04,0:00:52.41,Default,,0,0,0,,descendant: n.  子孙，后代\N\Nto the effects produced on the individuals and on their descendants\N\N会给工人及其后代带来何种影响\N\N
+Dialogue: 0,0:00:52.41,0:00:56.77,Default,,0,0,0,,artificial: n.  人工的, impose: v.  强加\N\Nby the artificial mode of existence imposed by the factory.\N\N而把一种人为的生存方式强加给工人.\N\N
+Dialogue: 0,0:00:56.77,0:01:01.38,Default,,0,0,0,,The great cities have been built with no regard for us.\N\N大城市的建设毫不关心我们.\N\N
+Dialogue: 0,0:01:01.38,0:01:04.76,Default,,0,0,0,,dimension: n.  直径, skyscraper: n.  摩天大楼\N\NThe shape and dimensions of the skyscrapers,\N\N摩天大楼的形状和尺寸，\N\N
+Dialogue: 0,0:01:04.76,0:01:11.22,Default,,0,0,0,,depend entirely on the necessity of obtaining the maximum income per square foot of ground,\N\N完全取决于每平方英尺地皮取得最大收入，\N\N
+Dialogue: 0,0:01:11.22,0:01:16.29,Default,,0,0,0,,tenant: n.  租户\N\Nand of offering to the tenants offices and apartments that please them.\N\N以及向租房人提供使他满意的办公室和住房这两种需要.\N\N
+Dialogue: 0,0:01:16.29,0:01:20.86,Default,,0,0,0,,This caused the construction of gigantic buildings,\N\N这样就导致了许多摩天大厦拔地而起,\N\N
+Dialogue: 0,0:01:20.86,0:01:25.49,Default,,0,0,0,,where too large masses of human beings are crowded together.\N\N大厦内众多的人挤在一起。\N\N
+Dialogue: 0,0:01:25.49,0:01:29.44,Default,,0,0,0,,Civilized men like such a way of living.\N\N文明人喜欢这样一种生活方式.\N\N
+Dialogue: 0,0:01:29.44,0:01:34.17,Default,,0,0,0,,luxury: n.  豪华\N\NWhile they enjoy the comfort and banal luxury of their dwelling,\N\N在享受自己住宅的舒适和庸俗的豪华时,\N\N
+Dialogue: 0,0:01:34.17,0:01:38.71,Default,,0,0,0,,deprive: v.  剥夺\N\Nthey do not realize that they are deprived of the necessities of life.\N\N却没有意识到被剥夺了生活所必需的东西.\N\N
+Dialogue: 0,0:01:38.71,0:01:42.76,Default,,0,0,0,,edifice: n.  大厦\N\NThe modern city consists of monstrous edifices,\N\N现代化的城市的组成部分有大得吓人的高楼，\N\N
+Dialogue: 0,0:01:42.76,0:01:47.87,Default,,0,0,0,,and of dark,narrow streets full of petrol fumes and toxic gases,\N\N和阴暗狭窄、充斥着汽油味和有毒气体的街道,\N\N
+Dialogue: 0,0:01:47.87,0:01:51.92,Default,,0,0,0,,torn by the noise of the taxicabs,lorries and buses,\N\N街道上出租汽车,卡车,公共汽车的噪音刺耳难忍，\N\N
+Dialogue: 0,0:01:51.92,0:01:55.73,Default,,0,0,0,,throng: v.  挤满，壅塞\N\Nand thronged ceaselessly by great crowds.\N\N络绎不绝的人群挤来挤去。\N\N
+Dialogue: 0,0:01:55.73,0:02:00.73,Default,,0,0,0,,Obviously,it has not been planned for the good of its inhabitants.\N\N显然,现代化的城市不是为居民的利益而规划的.\N\N

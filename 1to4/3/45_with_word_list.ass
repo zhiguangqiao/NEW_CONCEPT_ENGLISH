@@ -1,0 +1,34 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:09.68,Default,,0,0,0,, democratic: adj. 民主的, restrict: v.   限制\N Lesson 45. The power of the press. In democratic countries any efforts to restrict the freedom of the press are rightly condemned.\N第45课。新闻界的力量。在民主国家，正确谴责了限制新闻自由的任何努力。
+Dialogue: 0,0:00:09.68,0:00:19.36,Default,,0,0,0,, abuse: v.   滥用\N However, this freedom can easily be abused. Stories about people often attract far more public attention than political events.\N但是，这种自由很容易被滥用。关于人们的故事通常比政治事件吸引更多的公众关注。
+Dialogue: 0,0:00:19.36,0:00:28.16,Default,,0,0,0,, Though we may enjoy reading about the lives of others, it is extremely doubtful whether we would equally enjoy reading about ourselves.\N尽管我们可能喜欢阅读他人的生活，但我们是否同样喜欢阅读自己的生活是非常令人怀疑的。
+Dialogue: 0,0:00:28.24,0:00:37.44,Default,,0,0,0,, contention: n.   论点, untold: adj. 数不尽\N Acting on the contention that facts are sacred, reporters can cause untold suffering to individuals by publishing details about their private lives.\N根据事实是神圣的论点，记者可以通过发布有关其私人生活的细节来给个人造成不为人知的痛苦。
+Dialogue: 0,0:00:38.32,0:00:49.04,Default,,0,0,0,, Newspapers exert such tremendous influence that they can not only bring about major changes to the lives of ordinary people but can even overthrow a government.\N报纸发挥了如此巨大的影响，以至于他们不仅可以为普通百姓的生活带来重大变化，而且可以推翻政府。
+Dialogue: 0,0:00:49.04,0:00:53.20,Default,,0,0,0,, The story of a poor family that acquired fame and fortune overnight.\N一个贫穷家庭一夜之间获得名望和财富的故事。
+Dialogue: 0,0:00:54.00,0:01:03.92,Default,,0,0,0,, Dramatically illustrates the power of the press. The family lived in Aberdeen, a small town of 23,000 inhabitants in South Dakota.\N戏剧性地说明了新闻界的力量。这个家庭住在南达科他州的23,000名居民的阿伯丁（Aberdeen）。
+Dialogue: 0,0:01:03.92,0:01:09.76,Default,,0,0,0,, perpetual: adj. 永久的\N As the parents had five children, life was a perpetual struggle against poverty.\N由于父母有五个孩子，生活是与贫困的永久斗争。
+Dialogue: 0,0:01:09.76,0:01:15.20,Default,,0,0,0,, They were expecting their sixth child and were faced with even more pressing economic problems if.\N他们期待自己的第六个孩子，如果面对更紧迫的经济问题，如果经济问题。
+Dialogue: 0,0:01:16.00,0:01:20.96,Default,,0,0,0,, They had only had one more child. The fact would have passed unnoticed.\N他们只有一个孩子。事实本来不会被注意到。
+Dialogue: 0,0:01:21.04,0:01:26.00,Default,,0,0,0,, obscurity: n.   默默无闻\N They would have continued to struggle against economic odds and would have lived in obscurity.\N他们本来会继续与经济困难斗争，并会陷入晦涩之处。
+Dialogue: 0,0:01:26.80,0:01:35.20,Default,,0,0,0,, quintuplet: n.   五胞胎之一\N But they suddenly became the parents of quintuplets. An aeroplane arrived in Aberdeen bringing 60 reporters and photographers.\N但是他们突然成为了五重奏的父母。一架飞机抵达阿伯丁，带来了60名记者和摄影师。
+Dialogue: 0,0:01:35.76,0:01:42.72,Default,,0,0,0,, The rise to fame was swift. Television cameras and newspapers carried the news to everyone in the country.\N崛起的名声很快。电视摄像机和报纸将新闻传给了该国所有人。
+Dialogue: 0,0:01:43.52,0:01:49.68,Default,,0,0,0,, exclusive: adj. 独占的，独家的\N Newspapers and magazines offered the family huge sums for the exclusive rights to publish stories.\N报纸和杂志为全家提供了巨额资金，以发表故事的独家权利。
+Dialogue: 0,0:01:50.56,0:02:00.08,Default,,0,0,0,, And photographs. Gifts poured in not only from unknown people, but room baby food and soap manufacturers who wished to advertise their products.\N和照片。礼物不仅来自未知的人，而且是室内婴儿食品和肥皂制造商，他们希望宣传他们的产品。
+Dialogue: 0,0:02:00.96,0:02:06.64,Default,,0,0,0,, The old farmhouse the family lived in was to be replaced by new $500,000 home.\N这个家庭居住的旧农舍将被新的$ 500,000房屋所取代。
+Dialogue: 0,0:02:07.44,0:02:15.92,Default,,0,0,0,, Reporters kept pressing for interviews so lawyers had to be employed to act as spokesman for the family at press conferences.\N记者一直敦促采访，因此必须聘请律师在新闻发布会上担任家庭发言人。
+Dialogue: 0,0:02:16.16,0:02:22.08,Default,,0,0,0,, nursery: n.   育婴室，保育室\N While the five babies were babies were still quietly sleeping in oxygen tents in hospital nursery.\N五个婴儿是婴儿，仍然在医院托儿所的氧气帐篷里安静地睡觉。
+Dialogue: 0,0:02:22.88,0:02:29.36,Default,,0,0,0,, Their parents were paying the price for fame. It would never again be possible for them to lead normal lives.\N他们的父母正在为成名的代价付出代价。他们再也不会过正常生活了。
+Dialogue: 0,0:02:30.16,0:02:36.00,Default,,0,0,0,, commercialization: n.   商品化\N They had become the victims of commercialization. For their names had acquired a market value.\N他们已成为商业化的受害者。因为他们的名字已经获得了市场价值。
+Dialogue: 0,0:02:36.56,0:02:42.48,Default,,0,0,0,, commodity: n.   商品\N Instead of being five new family members, these children had immediately become a commodity.\N这些孩子不是成为五个新家庭成员，而是立即成为商品。

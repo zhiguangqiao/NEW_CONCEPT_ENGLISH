@@ -1,0 +1,51 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.86,Default,,0,0,0,,Lesson 38 Water and the traveller\N\N38  水和旅行者\N\N
+Dialogue: 0,0:00:05.86,0:00:09.61,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:09.61,0:00:13.57,Default,,0,0,0,,What does this text describe?\N\N本文叙述了什么?\N\N
+Dialogue: 0,0:00:13.57,0:00:22.09,Default,,0,0,0,,sanitation: n.  卫生，卫生设备\N\NContamination of water supplies is usually due to poor sanitation close to water sources,\N\N水源的污染通常是由于接近水源的地方卫生条件太差而造成的:\N\N
+Dialogue: 0,0:00:22.09,0:00:28.93,Default,,0,0,0,,sewage: n.  污水, leakage: n.  泄漏\N\Nsewage disposal into the sources themselves leakage of sewage into distribution systems,\N\N污水排入水源,污水渗入给水系统,aa\N\N
+Dialogue: 0,0:00:28.93,0:00:32.51,Default,,0,0,0,,or contamination with industrial or farm waste.\N\N或工农业污水造成污染.\N\N
+Dialogue: 0,0:00:32.51,0:00:37.21,Default,,0,0,0,,Even if a piped water supply is safe at its source,\N\N既使管道供水系统在水源处是安全的,\N\N
+Dialogue: 0,0:00:37.21,0:00:40.81,Default,,0,0,0,,it is not always safe by the time it reaches the tap.\N\N等水到达龙头时就不一定总是安全的了.\N\N
+Dialogue: 0,0:00:40.81,0:00:47.45,Default,,0,0,0,,Intermittent tap water supplies should be regarded as particularly suspect.\N\N断断续续的水管应该被视为是非常可疑的.\N\N
+Dialogue: 0,0:00:47.45,0:00:53.74,Default,,0,0,0,,Travellers on short trips to areas with water supplies of uncertain quality\N\N短途旅行到水质不保险的地区时,\N\N
+Dialogue: 0,0:00:53.74,0:00:59.28,Default,,0,0,0,,should avoid drinking tap water,or untreated water from any other source.\N\N应避免饮用水龙头的水或未经处理任何其他来源的水.\N\N
+Dialogue: 0,0:00:59.28,0:01:05.60,Default,,0,0,0,,It is best to keep to hot drinks,bottled or canned drinks of well-known brand names,\N\N最好仅饮用开水,名牌瓶装或罐装水,\N\N
+Dialogue: 0,0:01:05.60,0:01:11.29,Default,,0,0,0,,international standard of water treatment are usually followed at bottling plants.\N\N装瓶厂通常遵循国际水处理的标准.\N\N
+Dialogue: 0,0:01:11.29,0:01:15.45,Default,,0,0,0,,Carbonated drinks are acidic,and slightly safer.\N\N碳酸饮料是酸性的,就更安全一些.aa\N\N
+Dialogue: 0,0:01:15.45,0:01:19.47,Default,,0,0,0,,Make sure that all bottles are opened in your presence,\N\N确保瓶子是当着你的面开启的,\N\N
+Dialogue: 0,0:01:19.47,0:01:22.41,Default,,0,0,0,,and that their rims are clean and dry.\N\N而且瓶口清洁干燥.\N\N
+Dialogue: 0,0:01:22.41,0:01:26.45,Default,,0,0,0,,Boiling is always a good way of treating water.\N\N烧开一直是水处理的一种好办法.\N\N
+Dialogue: 0,0:01:26.45,0:01:29.90,Default,,0,0,0,,Some hotels supply boiled water on request\N\N有的酒店根据要求可提供开水,\N\N
+Dialogue: 0,0:01:29.90,0:01:33.63,Default,,0,0,0,,and this can be used for drinking,or for brushing teeth.\N\N这些开水可用于饮用和刷牙.\N\N
+Dialogue: 0,0:01:33.63,0:01:39.83,Default,,0,0,0,,Portable boiling elements that can boil small quantities of water are useful\N\N如果条件允许,可以煮少量水的便携式热水装置是有用的,\N\N
+Dialogue: 0,0:01:39.83,0:01:42.68,Default,,0,0,0,,when the right voltage of electricity is available.\N\N这个条件就是有相配的电压.\N\N
+Dialogue: 0,0:01:42.68,0:01:47.60,Default,,0,0,0,,Refuse politely any cold drink from an unknown source.\N\N应谢绝任何不明来源的冷饮.\N\N
+Dialogue: 0,0:01:47.60,0:01:52.31,Default,,0,0,0,,Ice is only as safe as the water from which it is made,\N\N冰块只有当制造冰块的水安全时才是保险的,\N\N
+Dialogue: 0,0:01:52.31,0:01:56.28,Default,,0,0,0,,and should not be put in drinks unless it is known to be safe.\N\N只有知道冰块安全时才能加入饮料.\N\N
+Dialogue: 0,0:01:56.28,0:02:02.50,Default,,0,0,0,,Drinks can be cooled by placing them on ice rather than adding ice to them.\N\N可以把饮料置于冰块之上来冷却,而不是把冰块加进饮料之中.\N\N
+Dialogue: 0,0:02:02.50,0:02:06.22,Default,,0,0,0,,disinfectant: n.  消毒剂\N\NAlcohol may be a medical disinfectant,\N\N酒精可能是医学上的消毒剂,\N\N
+Dialogue: 0,0:02:06.22,0:02:09.45,Default,,0,0,0,,sterilize: v.  消毒\N\Nbut should not be relied upon to sterilize water.\N\N但决不可用来消毒饮用水.\N\N
+Dialogue: 0,0:02:09.45,0:02:15.67,Default,,0,0,0,,Ethanol is more effective at a concentration of 50-70 per cent;\N\N乙醇的浓度为50%至70%时比较有效,\N\N
+Dialogue: 0,0:02:15.67,0:02:21.23,Default,,0,0,0,,below 20 per cent,its bactericidal action is negligible.\N\N浓度低于20%时,杀菌能力基本上就不存在了.\N\N
+Dialogue: 0,0:02:21.23,0:02:28.19,Default,,0,0,0,,alcohol: n.  酒精\N\NSpirits labelled 95 proof contain only about 47 per cent alcohol.\N\N强度标为95的酒中含47%的酒精.\N\N
+Dialogue: 0,0:02:28.19,0:02:31.05,Default,,0,0,0,,alcohol: n.  酒精\N\NBeware of methylated alcohol,\N\N要提防甲基化酒精,\N\N
+Dialogue: 0,0:02:31.05,0:02:35.88,Default,,0,0,0,,which is very poisonous and should never be added to drinking water.\N\N那是剧毒的,永远不能掺入饮用水.aa\N\N
+Dialogue: 0,0:02:35.88,0:02:39.85,Default,,0,0,0,,If no other safe water supply can be obtained\N\N如果没有其他安全的饮用水,\N\N
+Dialogue: 0,0:02:39.85,0:02:44.05,Default,,0,0,0,,tap water that is too hot to touch can be left to cool\N\N水管中流出的烫手的水可以留下来冷却,\N\N
+Dialogue: 0,0:02:44.05,0:02:46.37,Default,,0,0,0,,and is generally safe to drink.\N\N这种水一般是安全的.\N\N
+Dialogue: 0,0:02:46.37,0:02:49.38,Default,,0,0,0,,Those planning a trip to remote areas,\N\N那些计划去偏远地区旅行,\N\N
+Dialogue: 0,0:02:49.38,0:02:54.10,Default,,0,0,0,,or intending to live in countries where drinking water is not readily available,\N\N或在饮用水不现成的国家居住的人,\N\N
+Dialogue: 0,0:02:54.10,0:02:59.10,Default,,0,0,0,,should know about the various possible methods for making water safe.\N\N应该知道如何使水适于饮用的各种办法.\N\N

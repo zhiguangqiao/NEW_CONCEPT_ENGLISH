@@ -1,0 +1,56 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.05,Default,,0,0,0,,portfolio: n.  投资组合\N\NLesson 48 Planning a share portfolio\N\N规划股份投资\N\N
+Dialogue: 0,0:00:06.05,0:00:10.42,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:10.42,0:00:15.38,Default,,0,0,0,,How does the older investor differ in his approach to investment,\N\N老年投资者在决定投资方面,\N\N
+Dialogue: 0,0:00:15.38,0:00:17.34,Default,,0,0,0,,from the younger investor?\N\N与年轻人有什么不同?\N\N
+Dialogue: 0,0:00:17.34,0:00:23.78,Default,,0,0,0,,tipster: n.  （以提供证券投机等内部消息为主的）情报贩子\N\NThere is no shortage of tipsters around offering 'get-rich- quick' opportunities.\N\N我们周围不乏情报贩子,向人们提供迅速发财致富的机遇.\N\N
+Dialogue: 0,0:00:23.78,0:00:27.07,Default,,0,0,0,,But if you are a serious private investor,\N\N但是,如果你是一个认真的私人投资者,\N\N
+Dialogue: 0,0:00:27.07,0:00:31.56,Default,,0,0,0,,Las Vegas: n.  拉斯韦加斯, fritter: v.  挥霍，浪费\N\Nleave the Las Vegas mentality to those with money to fritter.\N\N就把拉斯韦加斯的心态留给那些有钱可供挥霍的人.\N\N
+Dialogue: 0,0:00:31.56,0:00:35.66,Default,,0,0,0,,portfolio: n.  投资组合\N\NThe serious investor needs a proper 'portfolio'--\N\N认真的投资者需要一份正规的投资组合表--\N\N
+Dialogue: 0,0:00:35.66,0:00:38.36,Default,,0,0,0,,a well-planned selection of investments,\N\N一种计划很周密的投资选择,\N\N
+Dialogue: 0,0:00:38.36,0:00:41.54,Default,,0,0,0,,with a definite structure and a clear aim.\N\N包括你的投资结构和明确的目标.\N\N
+Dialogue: 0,0:00:41.54,0:00:47.43,Default,,0,0,0,,But exactly how does a newcomer to the stock market go about achieving that?\N\N但是,一个股票市场的新手又如何能做到这一点呢?\N\N
+Dialogue: 0,0:00:47.43,0:00:52.03,Default,,0,0,0,,reputable: n.  享有声望的, broker: n.  经纪人\N\NWell,if you go to five reputable stock brokers,\N\N如果你去向5位有威望的股票经纪人咨询,\N\N
+Dialogue: 0,0:00:52.03,0:00:54.73,Default,,0,0,0,,and ask them what you should do with your money,\N\N询问你应该如何使用你的资金,\N\N
+Dialogue: 0,0:00:54.73,0:00:58.13,Default,,0,0,0,,you're likely to get five different answers,\N\N你很可能得到5种不同的答复,\N\N
+Dialogue: 0,0:00:58.13,0:01:03.32,Default,,0,0,0,,--even if you give all the relevant information about your age,family,\N\N即便你提供了所有关于你的年龄,家庭,\N\N
+Dialogue: 0,0:01:03.32,0:01:06.78,Default,,0,0,0,,finance: n.  资金，财源\N\Nfinances and what you want from your investments.\N\N财源和你想从投资中获得好处的信息.\N\N
+Dialogue: 0,0:01:06.78,0:01:11.88,Default,,0,0,0,,portfolio: n.  投资组合\N\NMoral? There is no one 'right' way to structure a portfolio,\N\N这是个道德问题吗?没有一种完全"正确"的方法来排列这种投资组合,aa\N\N
+Dialogue: 0,0:01:11.88,0:01:15.36,Default,,0,0,0,,However,there are undoubtedly some wrong ways,\N\N然而,却毫无疑问地有几种错误的方法,\N\N
+Dialogue: 0,0:01:15.36,0:01:21.12,Default,,0,0,0,,and you can be sure that none of our five advisers would have suggested sinking all,\N\N可以相信5位经纪人中不会有人建议你把全部资金投入,\N\N
+Dialogue: 0,0:01:21.12,0:01:25.40,Default,,0,0,0,,(or perhaps any) of your money into Periwigs.\N\N(或一部分)资金投入佩里威格斯公司.\N\N
+Dialogue: 0,0:01:25.40,0:01:27.98,Default,,0,0,0,,So what should you do?\N\N那么你该怎么做呢?\N\N
+Dialogue: 0,0:01:27.98,0:01:31.67,Default,,0,0,0,,We'll assume that you have sorted out the basics,\N\N我们假定你已把基本情况弄清楚了,\N\N
+Dialogue: 0,0:01:31.67,0:01:37.67,Default,,0,0,0,,mortgage: n.  抵押贷款, pension: n.  养老金\N\Nlike mortgages, pensions,insurance and access to sufficient cash reserves.\N\N如抵押贷款、养老金、保险金和动用现金储备的机会.\N\N
+Dialogue: 0,0:01:37.67,0:01:41.43,Default,,0,0,0,,You should then establish your own individual aims.\N\N然后,你一定要建立起自己的目标.aa\N\N
+Dialogue: 0,0:01:41.43,0:01:47.84,Default,,0,0,0,,These are partly a matter of personal circumstances,partly a matter of psychology.\N\N这里一方面是个人所处的环境,另一方面是个心理学的问题.\N\N
+Dialogue: 0,0:01:47.84,0:01:55.45,Default,,0,0,0,,For instance,if you are older you have less time to recover from any major losses,\N\N比如说,如果你年纪较大,你从重大投资损失中恢复过来的时间就较少,\N\N
+Dialogue: 0,0:01:55.45,0:01:58.93,Default,,0,0,0,,pension: n.  养老金\N\Nand you may well wish to boost your pension income.\N\N你就很希望能够提高你的养老金收入.\N\N
+Dialogue: 0,0:01:58.93,0:02:05.89,Default,,0,0,0,,So preserving your capital and generating extra income are your main priorities.\N\N因此,你的首要任务就是保护你的资金和引发额外的收入.\N\N
+Dialogue: 0,0:02:05.89,0:02:11.02,Default,,0,0,0,,portfolio: n.  投资组合\N\NIn this case,you'd probably construct a portfolio with some shares,\N\N在这种情况下,你大概想制定出一份包括某些股份的投资组合,\N\N
+Dialogue: 0,0:02:11.02,0:02:16.03,Default,,0,0,0,,gilt: n.  金边证券（高度可靠的证券）\N\N(but not high risk ones),along with gilts,cash deposits,\N\N(但不是风险很大的股份)同时还有高度可靠的证券,现金储蓄,\N\N
+Dialogue: 0,0:02:16.03,0:02:22.01,Default,,0,0,0,,and perhaps convertib- les or the income shares of split capit- al investment trusts.\N\N可能还有可换证券,或分割资本投资信托公司的所得股.\N\N
+Dialogue: 0,0:02:22.01,0:02:26.51,Default,,0,0,0,,If you are younger,and in a solid financial position,\N\N如果你年轻一些,并且经济状况可靠,\N\N
+Dialogue: 0,0:02:26.51,0:02:29.47,Default,,0,0,0,,you may decide to take an aggressive approach--\N\N你可能会采用一种积极进取的方式--\N\N
+Dialogue: 0,0:02:29.47,0:02:33.83,Default,,0,0,0,,but only if you're blessed with a sanguine disposition,\N\N但是你必须性格开朗,\N\N
+Dialogue: 0,0:02:33.83,0:02:37.29,Default,,0,0,0,,and won't suffer sleepless nights over share prices.\N\N不会因股票价格的浮动而夜不能眠.\N\N
+Dialogue: 0,0:02:37.29,0:02:40.86,Default,,0,0,0,,If you recognize yourself in this description,\N\N如果你觉得你的情况是这样的话,\N\N
+Dialogue: 0,0:02:40.86,0:02:45.32,Default,,0,0,0,,portfolio: n.  投资组合\N\Nyou might include a couple of heady growth stocks in your portfolio,\N\N你可在投资组合中包括几项有令人陶醉的增值前景的增长股,\N\N
+Dialogue: 0,0:02:45.32,0:02:48.51,Default,,0,0,0,,alongside your more pedestrian investments.\N\N和其他比较平淡的投资项目放在一起.\N\N
+Dialogue: 0,0:02:48.51,0:02:52.07,Default,,0,0,0,,Once you have decided on your investment aims,\N\N一旦你的投资目标确立以后,\N\N
+Dialogue: 0,0:02:52.07,0:02:55.16,Default,,0,0,0,,you can then decide where to put your money.\N\N你就可以决定你的钱投向何处.\N\N
+Dialogue: 0,0:02:55.16,0:02:58.74,Default,,0,0,0,,The golden rule here is spread your risk.\N\N这里的指导原则是:分散你的投资风险.\N\N
+Dialogue: 0,0:02:58.74,0:03:03.11,Default,,0,0,0,,if you put all of your money into Periwigs International,\N\N如果你把所有资金投入佩里威格斯国际公司,\N\N
+Dialogue: 0,0:03:03.11,0:03:08.11,Default,,0,0,0,,you're setting yourself up as a hostage to fortune.\N\N你就把自己当成了命运的人质.\N\N

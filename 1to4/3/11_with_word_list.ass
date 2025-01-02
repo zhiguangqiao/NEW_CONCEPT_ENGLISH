@@ -1,0 +1,30 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.44,Default,,0,0,0,, guilty: adj. 犯罪的，违法的, tolerant: adj. 宽容的\N Lesson 11, not guilty. Customs officers are quite tolerant these days. But they can still stop you\N第11课，无罪。如今，海关官员非常宽容。但是他们仍然可以阻止你
+Dialogue: 0,0:00:07.44,0:00:13.04,Default,,0,0,0,, declare: v.   申报\N when you are going through the green channel and have nothing to declare. Even really honest people\N当您经过绿色频道并且无需声明时。甚至非常诚实的人
+Dialogue: 0,0:00:13.04,0:00:18.96,Default,,0,0,0,, guilty: adj. 犯罪的，违法的, hardened: adj. 有经验的, professional: adj. 职业的，专业的, smuggler: n.   走私者\N are often made to feel guilty. The hardened professional smuggler, on the other hand,\N通常会感到内gui。另一方面，坚强的专业走私者
+Dialogue: 0,0:00:18.96,0:00:25.52,Default,,0,0,0,, is never troubled by such feelings. Even if he has 500 gold watches hidden in his suitcase.\N从来没有被这种感觉困扰。即使他的手提箱里有500张金表。
+Dialogue: 0,0:00:26.40,0:00:32.80,Default,,0,0,0,, When I returned for Mabraud recently, a particularly efficient young customs officer clearly\N当我最近返回马布劳德时，一位特别有效的年轻海关官员显然
+Dialogue: 0,0:00:32.80,0:00:39.76,Default,,0,0,0,, declare: v.   申报, smuggler: n.   走私者\N regarded me as a smuggler. Have you anything to declare? He asked, looking me in the eye.\N把我视为走私者。您有什么要声明的吗？他问，看着我。
+Dialogue: 0,0:00:40.40,0:00:45.52,Default,,0,0,0,, confidently: adv. 自信地\N No, I answered confidently. Would you mind unlocking this suitcase, please?\N不，我自信地回答。您介意解锁此手提箱吗？
+Dialogue: 0,0:00:46.32,0:00:52.56,Default,,0,0,0,, Single quote dot. Not at all, I answered. The officer went through the case with great care.\N单引号点。一点也不，我回答。军官非常谨慎地处理了案件。
+Dialogue: 0,0:00:52.80,0:00:59.20,Default,,0,0,0,, dreadful: adj. 可怕的，一团糟的\N All the thing I had packed so carefully were soon in a dreadful mess. I felt sure I would never be\N我所仔细的所有东西很快就陷入了可怕的混乱之中。我确定我永远不会
+Dialogue: 0,0:00:59.20,0:01:06.72,Default,,0,0,0,, able to close the case again. Suddenly, I saw the officers face light up. He had spotted a tiny\N能够再次关闭案件。突然，我看到军官面对面。他发现了一个很小的
+Dialogue: 0,0:01:06.72,0:01:15.12,Default,,0,0,0,, pounce: v.   猛抓，扑住, sarcastically: adv. 讽刺地\N bottle at the bottom of my case and he pounced on it with delight. Perfume. EH? He asks sarcastically.\N瓶子在我箱子的底部，他高兴地猛扑了它。香水。嗯？他讽刺地问。
+Dialogue: 0,0:01:15.12,0:01:21.52,Default,,0,0,0,, declare: v.   申报, exempt: adj. 被免除的, duty: n.   税\N You should have declared that. Perfume is not exempt from import duty. But it isn't Perfume,\N您应该宣布这一点。香水不能免除进口义务。但这不是香水，
+Dialogue: 0,0:01:21.52,0:01:28.32,Default,,0,0,0,, gel: n.   凝胶, mixture: n.   混合物\N I said. It's hair gel. Then I added with a smile. It's a strange mixture I make myself.\N我说。这是头发凝胶。然后我笑了笑。我自己做的是一种奇怪的混合物。
+Dialogue: 0,0:01:28.88,0:01:36.72,Default,,0,0,0,, unscrew: v.   拧开\N As I expected, he did not believe me. Try it. I said encouragingly. The officer unscrewed the cap\N正如我所期望的，他不相信我。尝试一下。我鼓舞人心。军官推开了帽子
+Dialogue: 0,0:01:36.72,0:01:43.20,Default,,0,0,0,, nostril: n.   鼻孔\N and put the bottle to his nostrils. He was greeted by an unpleasant smell which convinced him that I\N并把瓶子放在他的鼻孔上。他被一种令人不愉快的气味迎接了他，这使他说服了我
+Dialogue: 0,0:01:43.20,0:01:50.00,Default,,0,0,0,, chalk: n.   粉笔\N was telling the truth. A few minutes later, I was able to hurry away with precious chalk marks on my\N在说实话。几分钟后，我能够用宝贵的粉笔标记在我的
+Dialogue: 0,0:01:50.00,0:02:00.00,Default,,0,0,0,, baggage: n.   行李\N baggage.\N行李。

@@ -1,0 +1,45 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.78,Default,,0,0,0,, Lesson 25.\N第25课。
+Dialogue: 0,0:00:01.78,0:00:07.14,Default,,0,0,0,, The Kuddy Sark, one of the most famous sailing ships of the 19th century.\NKuddy Sark是19世纪最著名的帆船之一。
+Dialogue: 0,0:00:07.14,0:00:10.92,Default,,0,0,0,, The Kuddy Sark, can still be seen at Greewich.\N萨克（Sark）仍然可以在格林威治（Greenwich）看到。
+Dialogue: 0,0:00:10.92,0:00:16.02,Default,,0,0,0,, She stands on dry land and is visited by thousands of people each year.\N她站在干旱的土地上，每年有成千上万的人拜访。
+Dialogue: 0,0:00:16.02,0:00:20.86,Default,,0,0,0,, impressive: adj. 给人深刻印象的\N She serves as an impressive reminder of the great ships of past before they were replaced\N在替换之前，她令人印象深刻地想起了过去的巨大船只
+Dialogue: 0,0:00:20.86,0:00:22.38,Default,,0,0,0,, by.\N经过。
+Dialogue: 0,0:00:22.38,0:00:23.86,Default,,0,0,0,, Steam ships.\N蒸汽船。
+Dialogue: 0,0:00:23.86,0:00:29.98,Default,,0,0,0,, vessel: n.   轮船，大木船\N Sailing vessels like the Kuddy Sark were used to carry tea from China and wool from Australia.\N诸如Kuddy Sark之类的帆船被用来从中国和澳大利亚的羊毛中携带茶。
+Dialogue: 0,0:00:29.98,0:00:35.04,Default,,0,0,0,, The Kuddy Sark was one of the fastest sailing ships that has ever been built.\N萨克（Sark）是有史以来最快的帆船之一。
+Dialogue: 0,0:00:35.04,0:00:38.56,Default,,0,0,0,, The only other ship to match her was the Thermopoly.\N唯一与她相匹配的另一艘船是热门。
+Dialogue: 0,0:00:38.56,0:00:45.88,Default,,0,0,0,, Both these ships set out from Shanghai on June 18, 1872 on an exciting race to England.\N这两艘船于1872年6月18日从上海出发，参加了一场激动人心的英格兰比赛。
+Dialogue: 0,0:00:45.88,0:00:52.84,Default,,0,0,0,, This race, which went on for exactly four exactly four months, was the last of its kind.\N这场比赛恰好四个月持续了四个月，这是最后一场比赛。
+Dialogue: 0,0:00:52.84,0:00:57.36,Default,,0,0,0,, It marked the end of the great tradition of ships with sails and the beginning of a new\N它标志着帆船的伟大传统的终结和新的
+Dialogue: 0,0:00:57.36,0:00:58.64,Default,,0,0,0,, era: n.   时期，时代\N era.\N时代。
+Dialogue: 0,0:00:58.68,0:01:04.48,Default,,0,0,0,, Java: n.   爪哇（印度尼西亚一岛）\N The first of the two ships to reach Java after the race had begun was the Thermopoly.\N比赛开始后，两艘船到达Java的第一艘船中的第一艘是热门。
+Dialogue: 0,0:01:04.48,0:01:08.56,Default,,0,0,0,, But on the Indian Ocean, the Kuddy Sark took lead.\N但是在印度洋，萨克（Sark）王位领先。
+Dialogue: 0,0:01:08.56,0:01:11.88,Default,,0,0,0,, It seemed certain that she would be the first ship home.\N似乎可以肯定的是她将是第一艘船。
+Dialogue: 0,0:01:11.88,0:01:14.88,Default,,0,0,0,, But during the race she had a lot of bad luck.\N但是在比赛中，她有很多厄运。
+Dialogue: 0,0:01:14.88,0:01:21.08,Default,,0,0,0,, In August, she was struck by a very heavy storm during which her rudder was torn away.\N八月，她被一场非常严重的暴风雨击中，在那儿，她的舵被撕开了。
+Dialogue: 0,0:01:21.08,0:01:26.52,Default,,0,0,0,, roll: v.   颠簸，摇摆, steer: v.   掌握方向\N The Kuddy Sark rolled from side to side and it became impossible to steer her.\N那个狂热的萨克从一侧到另一侧滚动，无法引导她。
+Dialogue: 0,0:01:26.52,0:01:32.92,Default,,0,0,0,, temporary: adj. 临时的, plank: n.   大块木板, fit: v.   安装\N A temporary rudder was made on board from spare planks and it was fitted with great difficulty.\N用备用木板在船上制作了一个临时的舵，并遇到了很大的困难。
+Dialogue: 0,0:01:32.92,0:01:35.76,Default,,0,0,0,, This greatly reduced the speed of the ship.\N这大大降低了船的速度。
+Dialogue: 0,0:01:35.76,0:01:40.52,Default,,0,0,0,, For there was a danger that if she traveled too quickly, this rudder would be torn away\N因为有一个危险，如果她旅行得太快，那么这个舵将被撕掉
+Dialogue: 0,0:01:40.52,0:01:42.04,Default,,0,0,0,, as well.\N也
+Dialogue: 0,0:01:42.04,0:01:45.76,Default,,0,0,0,, Because of this, the Kuddy Sark lost her lead.\N因此，Sark的罪魁祸首失去了领先。
+Dialogue: 0,0:01:45.76,0:01:51.68,Default,,0,0,0,, fit: v.   安装\N After crossing the equator, the captain called in at a port to have a new rudder fitted.\N越过赤道后，船长在港口呼唤安装了一个新的舵。
+Dialogue: 0,0:01:51.68,0:01:55.64,Default,,0,0,0,, But by now the Thermopoly was over 500 miles ahead.\N但是到目前为止，热区已超过500英里。
+Dialogue: 0,0:01:55.64,0:02:01.10,Default,,0,0,0,, fit: v.   安装\N Though the new rudder was fitted at tremendous speed, it was impossible for the Kuddy Sark to\N尽管新的舵以极高的速度安装了，但Kuddy Sark不可能
+Dialogue: 0,0:02:01.10,0:02:02.20,Default,,0,0,0,, win.\N赢。
+Dialogue: 0,0:02:02.20,0:02:05.84,Default,,0,0,0,, She arrived in England a week after the Thermopoly.\N热门一周后，她到达英格兰。
+Dialogue: 0,0:02:05.84,0:02:10.92,Default,,0,0,0,, delay: n.   耽误\N Even this was remarkable, considering that she had had so many delays.\N考虑到她有很多延误，这也非常了不起。
+Dialogue: 0,0:02:10.92,0:02:15.40,Default,,0,0,0,, Jesus no doubt that if she had not lost her rudder she would have won the race easily.\N耶稣毫无疑问，如果她没有失去舵，她会很容易赢得比赛。

@@ -1,0 +1,43 @@
+[Script Info]
+Title: Generated Subtitle
+Original Script: Python Script
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:07.04,Default,,0,0,0,, Lesson 53. In the public interest, the Scandinavian countries are much admired all over the world\N第53课。为了公共利益，斯堪的纳维亚国家在世界各地都倍受钦佩
+Dialogue: 0,0:00:07.04,0:00:13.44,Default,,0,0,0,, evolve: v.   逐渐形成\N for their enlightened social policies. Sweden has evolved an excellent system for protecting\N为了他们开明的社会政策。瑞典发展了一个绝佳的保护系统
+Dialogue: 0,0:00:13.44,0:00:21.68,Default,,0,0,0,, high-handed: adj. 高压的，专横的, incompetent: adj. 不够格的，不称职的\N the individual citizen from high-handed or incompetent public officers. The system has worked so well\N来自高管或无能的公职人员的公民。该系统运行良好
+Dialogue: 0,0:00:21.68,0:00:27.36,Default,,0,0,0,, that it has been adopted in other countries too. The Swedes were the first to recognize that\N它也已在其他国家采用。瑞典人是第一个认识到的人
+Dialogue: 0,0:00:27.36,0:00:34.64,Default,,0,0,0,, public official like civil servants. Police officers, health inspectors or tax collectors can\N公务员像公务员。警察，卫生检查员或收税员可以
+Dialogue: 0,0:00:34.64,0:00:41.04,Default,,0,0,0,, make mistakes or act over zealously in the belief that they are serving the public. As long\N犯错误或热心行事，因为他们相信他们正在为公众服务。只要很长
+Dialogue: 0,0:00:41.04,0:00:48.08,Default,,0,0,0,, safeguard: v.   保护\N ago as 1809, the Swedish parliament introduced a scheme to safeguard the interest of the individual.\N瑞典议会以前是1809年，提出了一项保护个人利益的计划。
+Dialogue: 0,0:00:48.88,0:00:54.40,Default,,0,0,0,, parliamentary: adj. 国会的\N A parliamentary committee representing all political parties appoints a person who is suitably\N代表所有政党的议会委员会任命一个适当的人
+Dialogue: 0,0:00:55.20,0:01:01.28,Default,,0,0,0,, grievance: n.   不平，冤屈\N qualified to investigate private grievances against the state. The official title of the person\N有资格调查针对国家的私人不满。该人的正式头衔
+Dialogue: 0,0:01:01.28,0:01:07.68,Default,,0,0,0,, is, Justity Ombudsman. But the Swedes commonly refer to him as the J.O. or, Ombudsman.\N是，公正监察员。但是瑞典人通常称他为J.O.或者，监察员。
+Dialogue: 0,0:01:08.64,0:01:15.12,Default,,0,0,0,, The Ombudsman is not subject to political pressure. He investigates complaints large and small\N监察员不承受政治压力。他调查了大小的投诉
+Dialogue: 0,0:01:15.12,0:01:21.12,Default,,0,0,0,, that come to him from all levels of society. As complaints must be made in writing,\N从社会各个层面来到他身边。由于必须以书面形式提出投诉
+Dialogue: 0,0:01:21.12,0:01:28.24,Default,,0,0,0,, the Ombudsman receives an average of 1,200 letters a year. He has eight lawyer assistants to\N监察员平均每年收到1200封信。他有八名律师助理
+Dialogue: 0,0:01:28.24,0:01:34.88,Default,,0,0,0,, secretive: adj. 保密的\N help him and examines every single letter in detail. There is nothing secretive about the Ombudsman's\N帮助他并详细检查每个字母。申诉专员没有什么秘密的
+Dialogue: 0,0:01:34.88,0:01:42.48,Default,,0,0,0,, correspondence: n.   来往信件\N work for his correspondence is open to public. Inspection, if a citizen's complaint is justified,\N他的信件工作向公众开放。检查，如果公民的投诉是合理的，
+Dialogue: 0,0:01:42.48,0:01:48.48,Default,,0,0,0,, the Ombudsman will act on his behalf. The action he takes varies according to the nature of the\N监察员将代表他采取行动。他采取的行动会根据
+Dialogue: 0,0:01:48.48,0:01:55.28,Default,,0,0,0,, alter: v.   改变\N complaint. He may gently reprimand an official or even suggest to parliament that allow the altered.\N抱怨。他可能会轻轻谴责官员，甚至建议允许改变的议会。
+Dialogue: 0,0:01:56.00,0:02:02.40,Default,,0,0,0,, The following case is a typical example of the Ombudsman's work. A foreigner living in a Swedish\N以下情况是申诉专员作品的典型例子。居住在瑞典的外国人
+Dialogue: 0,0:02:02.40,0:02:09.52,Default,,0,0,0,, village wrote to the Ombudsman complaining that he had been ill-treated by the police. Simply because\N村庄写信给申诉专员，抱怨说他已经受到警察的虐待。仅仅是因为
+Dialogue: 0,0:02:09.52,0:02:15.52,Default,,0,0,0,, he was a foreigner, the Ombudsman immediately wrote to the chief of police in the district asking\N他是外国人，申诉专员立即写信给该地区的警察局长
+Dialogue: 0,0:02:15.60,0:02:21.52,Default,,0,0,0,, him to send a record. Of the case, there was nothing in the record to show that the foreigner's\N他发送记录。在案件中，记录中没有什么可以证明外国人的
+Dialogue: 0,0:02:21.52,0:02:28.96,Default,,0,0,0,, accusation: n.   谴责，指控\N complaint was justified in the chief. Of police strongly denied the accusation. It was impossible\N酋长的投诉是有道理的。警察强烈否认了这一指控。这是不可能的
+Dialogue: 0,0:02:28.96,0:02:34.96,Default,,0,0,0,, for the Ombudsman to take action, but when he received a similar complaint from another foreigner\N申诉专员采取行动，但是当他收到另一个外国人的类似投诉时
+Dialogue: 0,0:02:34.96,0:02:41.68,Default,,0,0,0,, in the same village. He immediately sent one of his layers to investigate the matter. The lawyer\N在同一个村庄。他立即派出他的一层调查此事。律师
+Dialogue: 0,0:02:41.68,0:02:48.08,Default,,0,0,0,, ascertain: v.   查出，查明\N ascertained that a policeman had indeed dealt roughly with foreigners on several occasions.\N确定一名警察确实多次与外国人进行了大致处理。
+Dialogue: 0,0:02:48.08,0:02:53.60,Default,,0,0,0,, prejudiced: adj. 有偏见的，不公平的\N The fact that the policeman was prejudiced against foreigners could not be recorded in the official\N警察对外国人有偏见的事实无法记录在官员中
+Dialogue: 0,0:02:54.48,0:03:01.12,Default,,0,0,0,, files. It was only possible for the Ombudsman to find this out by sending one of his representatives to\N文件。申诉专员只有将他的一位代表发送给
+Dialogue: 0,0:03:01.92,0:03:08.00,Default,,0,0,0,, check the facts. The policeman in question was severely reprimanded and was informed that if any\N检查事实。有问题的警察受到了严厉谴责，并被告知，如果有的话
+Dialogue: 0,0:03:08.00,0:03:15.20,Default,,0,0,0,, prompt: adj. 即时的\N further complaints were lodged against him, he would prosecute it. The Ombudsman's prompt action\N进一步提出了针对他的投诉，他会起诉。监察员的及时行动
+Dialogue: 0,0:03:15.20,0:03:23.92,Default,,0,0,0,, that once put an end to an unpleasant practice which might have gone unnoticed.\N这曾经结束了可能没有引起注意的令人不愉快的练习。

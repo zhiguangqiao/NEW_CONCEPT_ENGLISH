@@ -1,0 +1,76 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.06,Default,,0,0,0,,Lesson 44 Patterns of culture\N\N文化的模式\N\N
+Dialogue: 0,0:00:05.06,0:00:08.68,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:08.68,0:00:13.13,Default,,0,0,0,,What influences us from the moment of birth?\N\N什么东西从我们一出生就开始影响我们?\N\N
+Dialogue: 0,0:00:13.13,0:00:20.04,Default,,0,0,0,,Custom has not commonly been regarded as a subject of any great moment.\N\N风俗一般未被认为是什么重要的课题.\N\N
+Dialogue: 0,0:00:20.04,0:00:26.68,Default,,0,0,0,,The inner workings of our own brains we feel to be uniquely worthy of investigation,\N\N我们觉得,只有我们大脑内部的活动情况才值得研究,\N\N
+Dialogue: 0,0:00:26.68,0:00:33.12,Default,,0,0,0,,but custom,we have a way of thinking,is behaviour at is most commonplace.\N\N至于风俗呢,只是些司空见惯的行为而已.\N\N
+Dialogue: 0,0:00:33.12,0:00:37.74,Default,,0,0,0,,As a matter of fact,it is the other way around.\N\N事实上,情况正好相反.\N\N
+Dialogue: 0,0:00:37.74,0:00:43.68,Default,,0,0,0,,Traditional custom, taken the world over, is a mass of detailed behaviour,\N\N从世界范围来看,传统风俗是由许多细节性的习惯行为组成,\N\N
+Dialogue: 0,0:00:43.68,0:00:49.87,Default,,0,0,0,,more astonishing than what any one person can ever evolve in individual actions,\N\N它比任何个人养成的行为都更加引人注目,\N\N
+Dialogue: 0,0:00:49.87,0:00:51.78,Default,,0,0,0,,no matter how aberrant.\N\N不管个人行为多么异常.\N\N
+Dialogue: 0,0:00:51.78,0:00:55.70,Default,,0,0,0,,Yet that is a rather trivial aspect of the matter.\N\N这只是问题的一个次要的侧面.\N\N
+Dialogue: 0,0:00:55.70,0:00:58.58,Default,,0,0,0,,The fact of first-rate importance\N\N最重要的是,\N\N
+Dialogue: 0,0:00:58.58,0:01:03.64,Default,,0,0,0,,is the predominant role that custom plays in experience and in belief,\N\N风俗在实践中和信仰上所起的举足轻重的作用,\N\N
+Dialogue: 0,0:01:03.64,0:01:06.93,Default,,0,0,0,,manifest: v.  表明\N\Nand the very great varieties it may manifest.\N\N以及它所表现出来的极其丰富多彩的形式.\N\N
+Dialogue: 0,0:01:06.93,0:01:12.47,Default,,0,0,0,,No man ever looks at the world with pristine eyes.\N\N没有一个人是用纯洁而无偏见的眼光看待世界.\N\N
+Dialogue: 0,0:01:12.47,0:01:19.10,Default,,0,0,0,,He sees it edited by a definite set of custo- ms and institutions and ways of thinking.\N\N人们所看到的是一个受特定的风俗习惯、制度和思想方式剪辑过的世界.\N\N
+Dialogue: 0,0:01:19.10,0:01:25.05,Default,,0,0,0,,stereotype: n.  陈规\N\NEven in his philosophical probings he cannot go behind these stereotypes.\N\N甚至在哲学领域的探索中人们也无法超越这些定型的框框.\N\N
+Dialogue: 0,0:01:25.05,0:01:28.39,Default,,0,0,0,,his very concepts of the true and the false,\N\N人们关于真与伪的概念,\N\N
+Dialogue: 0,0:01:28.39,0:01:32.15,Default,,0,0,0,,will still have reference to his particular traditional customs.\N\N依然和特定的传统风俗有关.\N\N
+Dialogue: 0,0:01:32.15,0:01:36.24,Default,,0,0,0,,John Dewey has said in all seriousness,\N\N约翰.杜威曾经非常严肃地指出:\N\N
+Dialogue: 0,0:01:36.24,0:01:40.69,Default,,0,0,0,,that the part played by custom in shaping the behaviour of the individual,\N\N风俗在形成个人行为方面所起的作用,\N\N
+Dialogue: 0,0:01:40.69,0:01:44.46,Default,,0,0,0,,as against any way in which he can affect traditional custom,\N\N和一个人对风俗的任何影响相比,\N\N
+Dialogue: 0,0:01:44.46,0:01:49.70,Default,,0,0,0,,is as the proportion of the total vocabulary of his mother tongue,\N\N就好像他本国语言的总词汇量,\N\N
+Dialogue: 0,0:01:49.70,0:01:52.75,Default,,0,0,0,,against those words of his own baby talk,\N\N和自己咿呀学语时,\N\N
+Dialogue: 0,0:01:52.75,0:01:55.87,Default,,0,0,0,,vernacular: n.  方言\N\Nthat are taken up into the vernacular of his family.\N\N从他家庭所接纳的他的词汇量之比.\N\N
+Dialogue: 0,0:01:55.87,0:01:59.60,Default,,0,0,0,,When one seriously studies the social orders,\N\N当一个人认真地研究,\N\N
+Dialogue: 0,0:01:59.60,0:02:02.65,Default,,0,0,0,,that have had the opportunity to develop autonomously,\N\N自发形成的社会秩序时,\N\N
+Dialogue: 0,0:02:02.65,0:02:07.96,Default,,0,0,0,,the figure becomes no more than an exact and matter-of -fact observation.\N\N杜威的比喻就是他实事求是观察得来的形象化的说法.\N\N
+Dialogue: 0,0:02:07.96,0:02:13.73,Default,,0,0,0,,accommodation: n.  适应\N\NThe life history of the individual is first and foremost an accommodation,\N\N个人的生活史首先就是一个融合史,\N\N
+Dialogue: 0,0:02:13.73,0:02:18.64,Default,,0,0,0,,to the patterns and standards traditionally handed down in his community.\N\N一个个人与他所在社团内世代相传形成的生活方式和准则相融合的历史.\N\N
+Dialogue: 0,0:02:18.64,0:02:20.84,Default,,0,0,0,,From the moment of his birth,\N\N从他呱呱坠地时起,\N\N
+Dialogue: 0,0:02:20.84,0:02:25.64,Default,,0,0,0,,the customs into which he is born shape his experience and behaviour.\N\N他所生于其中的风俗就开始塑造他的经历和行为规范.\N\N
+Dialogue: 0,0:02:25.64,0:02:30.38,Default,,0,0,0,,By the time he can talk,he is the little creature of his culture,\N\N到他会说话时,他就是传统文化塑造的一个小孩子了;\N\N
+Dialogue: 0,0:02:30.38,0:02:34.74,Default,,0,0,0,,and by the time he is grown and able to take part in its activities,\N\N等他长大了,能做各种事了,\N\N
+Dialogue: 0,0:02:34.74,0:02:40.29,Default,,0,0,0,,its habits are his habits,its beliefs his beliefs,\N\N他的社团的习惯就是他的习惯,他的社团的信仰就是他的信仰,\N\N
+Dialogue: 0,0:02:40.29,0:02:44.01,Default,,0,0,0,,ts impossibilities his impossibilities.\N\N他的社团不能做的事就是他不能做的事.\N\N
+Dialogue: 0,0:02:44.01,0:02:49.21,Default,,0,0,0,,Every child that is born into his group will share them with him,\N\N每一个和他诞生在同一个社团中的孩子和他一样具有相同的风俗:\N\N
+Dialogue: 0,0:02:49.21,0:02:53.24,Default,,0,0,0,,and no child born into one on the opposite side of the globe,\N\N而在地球的另一边,诞生在另一个社团的孩子,\N\N
+Dialogue: 0,0:02:53.24,0:02:56.08,Default,,0,0,0,,can ever achieve the thousandth part.\N\N与他就很少有相同的风俗.\N\N
+Dialogue: 0,0:02:56.08,0:02:58.34,Default,,0,0,0,,There is no social problem,\N\N没有任何一个社会问题,\N\N
+Dialogue: 0,0:02:58.34,0:03:04.10,Default,,0,0,0,,it is more incumbent upon us to understand than this of the role of custom.\N\N比得上风俗的作用问题更要求我们对它理解.\N\N
+Dialogue: 0,0:03:04.10,0:03:08.50,Default,,0,0,0,,Until we are intelligent as to its laws and varieties,\N\N直到我们理解了风俗的规律性和多样性,\N\N
+Dialogue: 0,0:03:08.50,0:03:14.14,Default,,0,0,0,,the main complicating facts of human life must remain unintelligible.\N\N我们才能明白人类生活中主要的复杂现象.\N\N
+Dialogue: 0,0:03:14.14,0:03:17.84,Default,,0,0,0,,The study of custom can be profitable,\N\N对风俗的研究要作到全面,\N\N
+Dialogue: 0,0:03:17.84,0:03:22.08,Default,,0,0,0,,proposition: n.  主张\N\Nonly after certain preliminary propositions have been accepted,\N\N就只有当某些基本的主张被接受下来,\N\N
+Dialogue: 0,0:03:22.08,0:03:26.35,Default,,0,0,0,,proposition: n.  主张\N\Nand some of these propositions have been violently opposed\N\N同时有些主张被激烈反对时,才能有所成就.\N\N
+Dialogue: 0,0:03:26.35,0:03:30.69,Default,,0,0,0,,In the first place, any scientific study requires that,\N\N首先,任何科学研究都要求人们,\N\N
+Dialogue: 0,0:03:30.69,0:03:38.17,Default,,0,0,0,,there be no preferent- ial weighting of one or another of the items in the series,it selects for its consideration.\N\N对诸多因素不能厚此薄彼偏向某一方面,有选择地去加以考虑.\N\N
+Dialogue: 0,0:03:38.17,0:03:41.39,Default,,0,0,0,,In all the less controversial fields,\N\N在一切争议较小的领域里\N\N
+Dialogue: 0,0:03:41.39,0:03:47.13,Default,,0,0,0,,termite: n.  白蚁\N\Nlike the study of cacti or termites or the nature of nebulae,\N\N如对仙人掌、白蚁或星云性质的研究,\N\N
+Dialogue: 0,0:03:47.13,0:03:51.87,Default,,0,0,0,,the necessary method of study is to group the relevant material,\N\N应采取的研究方法是,把有关各方面的材料汇集起来,\N\N
+Dialogue: 0,0:03:51.87,0:03:56.19,Default,,0,0,0,,variant: n.  不同的\N\Nand to take note of all possible variant forms and conditions.\N\N同时注意任何可能出现的异常情况和条件.\N\N
+Dialogue: 0,0:03:56.19,0:04:01.66,Default,,0,0,0,,In this way,we have learned all that we know of the laws of astronomy,\N\N用这种方法,我们完全掌握了天文学的规律,\N\N
+Dialogue: 0,0:04:01.66,0:04:05.58,Default,,0,0,0,,or of the habits of the social insects, let us say.\N\N和昆虫群居的习性,我们可以这么说.\N\N
+Dialogue: 0,0:04:05.58,0:04:11.24,Default,,0,0,0,,It is only in the study of man himself that the major social sciences,\N\N只是在对人类自身的研究中,各主要的社会学科,\N\N
+Dialogue: 0,0:04:11.24,0:04:17.18,Default,,0,0,0,,have substituted the study of one local variation,that of Western civilization.\N\N才用对一个局部地区各种情况(如对西方文明)的研究来代替对全人类的研究.\N\N
+Dialogue: 0,0:04:17.18,0:04:22.26,Default,,0,0,0,,Anthropology was by definition impossible,\N\N只要有以下几点存在,人类学按其定义来说就无法存在,这几点是:\N\N
+Dialogue: 0,0:04:22.26,0:04:26.04,Default,,0,0,0,,as long as these distinctions between ourselves and the primitive,\N\N我们同原始人的区别,\N\N
+Dialogue: 0,0:04:26.04,0:04:33.40,Default,,0,0,0,,pagan: n.  异教徒\N\Nourselves and the bar- barian,ourselves and the pagan,held sway over people's minds.\N\N我们同野蛮人,我们同异教徒之间存在的区别在人的思想中占主导地位.\N\N
+Dialogue: 0,0:04:33.40,0:04:37.86,Default,,0,0,0,,sophistication: n.  老练\N\NIt was necessary first to arrive at that degree of sophistication,\N\N我们首先需要达到这样一种成熟的程度:\N\N
+Dialogue: 0,0:04:37.86,0:04:42.92,Default,,0,0,0,,where we no longer set our own belief against our neighbour's superstition.\N\N不用自己的信仰去反对我们邻居的迷信.\N\N
+Dialogue: 0,0:04:42.92,0:04:46.12,Default,,0,0,0,,It was necessary to recognize that\N\N必须认识到,\N\N
+Dialogue: 0,0:04:46.12,0:04:51.12,Default,,0,0,0,,premise: n.  前提\N\Nthese institutions which are based on the same premises,let us say the supernatural,must be considered together,our own among the rest.\N\N这些建立在相同前提基础上的风俗,暂且可以说是超自然的东西,必须放在一起加以考虑,我们自己的风俗和其他民族的风俗都在其中.\N\N

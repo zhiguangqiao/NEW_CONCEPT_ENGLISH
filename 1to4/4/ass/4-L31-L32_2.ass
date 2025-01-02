@@ -1,0 +1,56 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:06.29,Default,,0,0,0,,Lesson 32 Galileo reborn\N\N伽利略的复生\N\N
+Dialogue: 0,0:00:06.29,0:00:10.24,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:10.24,0:00:16.72,Default,,0,0,0,,What has modified our traditional view of Galileo in recent times?\N\N近期是什么改变了人们对伽利略的传统看法?\N\N
+Dialogue: 0,0:00:16.72,0:00:23.46,Default,,0,0,0,,controversy: n.  争议，争论\N\NIn his own lifetime Galileo was the centre of violent controversy,\N\N伽利略在世时是激烈论战的中心.\N\N
+Dialogue: 0,0:00:23.46,0:00:27.67,Default,,0,0,0,,dust: n.  纠纷，骚动\N\Nbut the scientific dust has long since settled,\N\N但是,自他逝世以来,那场科学上的纷争早已平息了下来,\N\N
+Dialogue: 0,0:00:27.67,0:00:32.51,Default,,0,0,0,,clash: n.  冲突, Inquisition: n.  （罗马天主教的）宗教法庭\N\Nand today we can see even his famous clash with the Inquisition\N\N甚至他和宗教法庭的著名冲突,今天我们也能\N\N
+Dialogue: 0,0:00:32.51,0:00:35.01,Default,,0,0,0,,perspective: n.  观点，看法\N\Nin something like its proper perspective.\N\N正确如实地看待.\N\N
+Dialogue: 0,0:00:35.01,0:00:39.64,Default,,0,0,0,,But,in contrast,it is only in modern times\N\N但是相比之下,只是在现代\N\N
+Dialogue: 0,0:00:39.64,0:00:44.63,Default,,0,0,0,,that Galileo has become a problem child for historians of science.\N\N对于科学史家来说,伽利略才变成一个新的难题.\N\N
+Dialogue: 0,0:00:44.63,0:00:50.31,Default,,0,0,0,,The old view of Galileo was delightfully uncomplicated.\N\N令人高兴的是,过去对伽利略的看法并不复杂.\N\N
+Dialogue: 0,0:00:50.31,0:00:54.13,Default,,0,0,0,,He was,above all,a man who experimented:\N\N他首先是个实验工作者,\N\N
+Dialogue: 0,0:00:54.13,0:00:59.75,Default,,0,0,0,,despise: v.  蔑视, Aristotelian: n.  亚里士多德学派的人\N\Nwho despised the prejudice and book learning of the Aristotelians,\N\N他蔑视亚里士多德学派的偏见和空洞的书本知识,\N\N
+Dialogue: 0,0:00:59.75,0:01:04.13,Default,,0,0,0,,who put his questions to nature instead of to the ancients,\N\N他向自然界而不是向古人提出问题,\N\N
+Dialogue: 0,0:01:04.13,0:01:07.33,Default,,0,0,0,,and who drew his conclusions fearlessly.\N\N并大胆地得出自己的结论.\N\N
+Dialogue: 0,0:01:07.33,0:01:11.21,Default,,0,0,0,,He had been the first to turn a telescope to the sky,\N\N他是第一个把望远镜对准天空的人,\N\N
+Dialogue: 0,0:01:11.21,0:01:16.78,Default,,0,0,0,,Aristotle: n.  亚里士多德（公元前384-322，古希腊哲学家）, Ptolemy: n.  托勒密（公元90-168，古希腊天文学家）\N\Nand he had seen there evidence enough to overthrow Aristotle and Ptolemy together.\N\N观察到的论据足以把亚里士多德和托勒密一起推翻.\N\N
+Dialogue: 0,0:01:16.78,0:01:20.30,Default,,0,0,0,,He was the man who climbed the Leaning Tower of Pisa\N\N他就是那个曾经爬上比萨斜塔,\N\N
+Dialogue: 0,0:01:20.30,0:01:23.07,Default,,0,0,0,,and dropped various weights from the top,\N\N从塔顶向下抛掷各种重物的人;\N\N
+Dialogue: 0,0:01:23.07,0:01:26.29,Default,,0,0,0,,who rolled balls down inclined planes,\N\N他就是那个使球体沿斜面向下滚动,\N\N
+Dialogue: 0,0:01:26.29,0:01:30.07,Default,,0,0,0,,generalize: v.  归纳\N\Nand then generalized the results of his many experiments\N\N然后将多次实验结果概括\N\N
+Dialogue: 0,0:01:30.07,0:01:32.91,Default,,0,0,0,,into the famous law of free fall.\N\N成著名的自由落体定律的人.\N\N
+Dialogue: 0,0:01:32.91,0:01:36.39,Default,,0,0,0,,But a closer study of the evidence,\N\N但是,进一步研究,\N\N
+Dialogue: 0,0:01:36.39,0:01:40.52,Default,,0,0,0,,supported by a deeper sense of the period, and particularly\N\N对那个时代的深化了解,尤其是\N\N
+Dialogue: 0,0:01:40.52,0:01:46.09,Default,,0,0,0,,undercurrent: n.  潜流\N\Nby a new consciousness of the philosophical undercurrents in the scientific revolution,\N\N以科学革命中哲学潜流的新意识为依据,\N\N
+Dialogue: 0,0:01:46.09,0:01:49.63,Default,,0,0,0,,has profoundly modified this view of Galileo.\N\N就会极大地改变对伽利略的看法.\N\N
+Dialogue: 0,0:01:49.63,0:01:55.01,Default,,0,0,0,,Today,although the old Galileo lives on in many popular writings,\N\N今天,虽然已故的伽利略继续活在许多通俗读物中\N\N
+Dialogue: 0,0:01:55.01,0:02:00.23,Default,,0,0,0,,among historians of science a new and more sophisticated picture has emerged.\N\N但在科学史家中间,一个新的更加复杂的伽利略的形象出现了.\N\N
+Dialogue: 0,0:02:00.23,0:02:06.60,Default,,0,0,0,,At the same time our sympathy for Galileo's opponents has grown somewhat.\N\N与此同时,我们对伽利略的反对派的同情也有所增加.\N\N
+Dialogue: 0,0:02:06.60,0:02:11.05,Default,,0,0,0,,His telescopic observations are justly immortal;\N\N伽利略用望远镜所作的观察确实是不朽的,\N\N
+Dialogue: 0,0:02:11.05,0:02:13.72,Default,,0,0,0,,they aroused great interest at the time,\N\N这些观察在当时引起了人们极大的兴趣,\N\N
+Dialogue: 0,0:02:13.72,0:02:17.33,Default,,0,0,0,,they had important theoretical consequences,\N\N具有重要的理论意义,\N\N
+Dialogue: 0,0:02:17.33,0:02:25.01,Default,,0,0,0,,and they provided a striking demonstration of the potentialities hidden in instruments and apparatus.\N\N并充分显示出了仪表和仪器的潜在力量.\N\N
+Dialogue: 0,0:02:25.01,0:02:30.87,Default,,0,0,0,,But can we blame those who looked and failed to see what Galileo saw,\N\N但我们怎能去责备观察了天空但没有看到伽利略所看到的东西的那些人呢?\N\N
+Dialogue: 0,0:02:30.87,0:02:36.03,Default,,0,0,0,,if we remember that to use a telescope at the limit of its powers\N\N想想看,使用一架倍数有限的望远镜\N\N
+Dialogue: 0,0:02:36.03,0:02:41.07,Default,,0,0,0,,familiarity: n.  熟悉的\N\Ncalls for long experience and intimate familiarity with one's instrument?\N\N需要长期的经验和对自己仪器的极度熟悉.\N\N
+Dialogue: 0,0:02:41.07,0:02:47.15,Default,,0,0,0,,Was the philosopher who refused to look through Galileo's telescope more culpable\N\N某位哲学家曾拒绝使用伽利略的望远镜去观察天空\N\N
+Dialogue: 0,0:02:47.15,0:02:54.68,Default,,0,0,0,,nebula: n.  星云\N\Nthan those who alleged that the spiral nebulae observed with Lord Rosse's great telescope in the 1840s\N\N有人曾声称19世纪40年代通过罗斯勋爵高倍望远镜观测到的螺旋状星云\N\N
+Dialogue: 0,0:02:54.68,0:02:56.97,Default,,0,0,0,,scratch: n.  擦痕\N\Nwere scratches left by the grinder?\N\N是磨镜工留下的磨痕.难道哲学家比这些造谣者应受到更大的遣责吗?\N\N
+Dialogue: 0,0:02:56.97,0:03:01.89,Default,,0,0,0,,We can perhaps forgive those who said the moons of Jupiter\N\N或许我们该原谅那些当初把木星卫星\N\N
+Dialogue: 0,0:03:01.89,0:03:07.02,Default,,0,0,0,,were produced by Galileo's spyglass if we recall that in his day,\N\N说成是伽利略用小望远镜变出来的人们,\N\N
+Dialogue: 0,0:03:07.02,0:03:09.00,Default,,0,0,0,,as for centuries before,\N\N因为伽利略之前的几个世纪期间,\N\N
+Dialogue: 0,0:03:09.00,0:03:17.23,Default,,0,0,0,,contrivance: n.  器械\N\Ncurved glass was the popular contrivance for producing not truth but illusion,untruth;\N\N曲面镜一直是一种流行的把戏装置,用于产生幻影而非真象.\N\N
+Dialogue: 0,0:03:17.23,0:03:22.23,Default,,0,0,0,,distort: v.  歪曲\N\Nand if a single curved glass would distort nature,how much more would a pair of them?\N\N试想如果一片曲面镜就可歪曲自然,伽利略的两片对自然的歪曲又该多大?\N\N

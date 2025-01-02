@@ -1,0 +1,48 @@
+[Script Info]
+Title: Converted from LRC
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,PingFang SC,20,&H00FFFFFF,&H00FFFFFF,&H0037FFFF,&HFF000000,0,1,0,0,100,100,0,0,1,1,0,4,50,50,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.83,Default,,0,0,0,,Lesson 35 Space odyssey\N\N35 太空探索\N\N
+Dialogue: 0,0:00:04.83,0:00:08.88,Default,,0,0,0,,First listen and then answer the following question.\N\N听录音,然后回答以下问题.\N\N
+Dialogue: 0,0:00:08.88,0:00:14.93,Default,,0,0,0,,When will it be possible for us to think seriously about colonising Mars?\N\N什么时候人类才有可能认真地考虑征服火星?\N\N
+Dialogue: 0,0:00:14.93,0:00:21.17,Default,,0,0,0,,hub: n.  （活动的）中心\N\NThe Moon is likely to become the industrial hub of the Solar System\N\N月球很可能成为太阳系的工业中心,\N\N
+Dialogue: 0,0:00:21.17,0:00:24.04,Default,,0,0,0,,supplying the rocket fuels for its ships,\N\N为航天飞船提供燃料,\N\N
+Dialogue: 0,0:00:24.04,0:00:29.43,Default,,0,0,0,,oxygen: n.  氧气\N\Neasily obtainable from the lunar rocks in the form of liquid oxygen.\N\N这种燃料就是能够从月球岩石中很容易提炼出液态氧.\N\N
+Dialogue: 0,0:00:29.43,0:00:32.49,Default,,0,0,0,,The reason lies in its gravity.\N\N其原因在于月球的重力.\N\N
+Dialogue: 0,0:00:32.49,0:00:36.99,Default,,0,0,0,,Because the Moon has only an eightieth of the Earth's mass,\N\N因为月球的重量只有地球的1/80,\N\N
+Dialogue: 0,0:00:36.99,0:00:40.76,Default,,0,0,0,,it requires 97% less energy\N\N因此,只需消耗3%的能量,\N\N
+Dialogue: 0,0:00:40.76,0:00:44.85,Default,,0,0,0,,to travel the quarter of a million miles from the Moon to Earth-orbit\N\N就能飞跃25万英里从月球到达地球轨道,\N\N
+Dialogue: 0,0:00:44.85,0:00:49.40,Default,,0,0,0,,than the 200 mile-journey from Earth's surface into orbit!\N\N这是相对从地球表面进入地球轨道的200英里所耗能量来说的!\N\N
+Dialogue: 0,0:00:49.40,0:00:54.42,Default,,0,0,0,,This may sound fantastic,but it is easily calculated.\N\N这点听起来令人难以置信,但却很容易计算出来.\N\N
+Dialogue: 0,0:00:54.42,0:01:00.69,Default,,0,0,0,,To escape from the Earth in a rocket,one must travel at seven miles per second.\N\N要乘坐一枚火箭飞离地球,火箭的速度要达到每秒7英里,\N\N
+Dialogue: 0,0:01:00.69,0:01:06.84,Default,,0,0,0,,The comparable speed from the Moon is only 1.5 miles per second.\N\N而从月球出发的相应速度只是每秒1.5英里.\N\N
+Dialogue: 0,0:01:06.84,0:01:12.41,Default,,0,0,0,,Because the gravity on the Moon's surface is only a sixth of Earth's\N\N由于月球表面的重力仅是地球表面的1/6\N\N
+Dialogue: 0,0:01:12.41,0:01:16.65,Default,,0,0,0,,Apollo: n.  阿波罗\N\N(remember how easily the Apollo astronauts bounded along),\N\N(还记得阿波罗飞船中的宇航员轻松地跳跃),\N\N
+Dialogue: 0,0:01:16.65,0:01:24.19,Default,,0,0,0,,accelerate: v.  加速\N\Nit takes much less energy to accelerate to that 1.5mps than it does on Earth.\N\N在月球上加速到每秒1.5英里比在地球上所用能源要少得多.\N\N
+Dialogue: 0,0:01:24.19,0:01:28.06,Default,,0,0,0,,Moon dwellers will be able to fly in space\N\N月球居民在太空遨游,\N\N
+Dialogue: 0,0:01:28.06,0:01:33.51,Default,,0,0,0,,at only three per cent of the cost of similar journeys by their terrestrial cousins.\N\N其费用仅是地球上朋友飞越同样路程所需费用的3%.\N\N
+Dialogue: 0,0:01:33.51,0:01:40.44,Default,,0,0,0,,Arthur C.Clark once suggested a revolutionary idea passes through three phases:\N\N亚瑟.C.克拉克曾提议,一种创新的想法要经过以下3个阶段:\N\N
+Dialogue: 0,0:01:40.44,0:01:45.02,Default,,0,0,0,,1 'It's impossible--don't waste my time.'\N\N1 "根本不可能,不要浪费我的时间."\N\N
+Dialogue: 0,0:01:45.02,0:01:50.19,Default,,0,0,0,,2 'It's possible,but not worth doing.'\N\N2 "可能,但不值得做."\N\N
+Dialogue: 0,0:01:50.19,0:01:55.36,Default,,0,0,0,,3 'I said it was a good idea all along.'\N\N3 "我一直说这是个好想法."\N\N
+Dialogue: 0,0:01:55.36,0:02:03.68,Default,,0,0,0,,The idea of colonising Mars--a world 160 times more distant than the Moon--\N\N征服火星的计划--一个比月球远160倍的星球--\N\N
+Dialogue: 0,0:02:03.68,0:02:07.62,Default,,0,0,0,,will move decisively from the second phase to the third,\N\N可以明确地从第2阶段进入第3阶段,\N\N
+Dialogue: 0,0:02:07.62,0:02:12.10,Default,,0,0,0,,when a significant number of people are living permanently in space.\N\N如果有相当数量的人永久性地住在太空的话.\N\N
+Dialogue: 0,0:02:12.10,0:02:17.06,Default,,0,0,0,,fascination: n.  魅力\N\NMars has an extraordinary fascination for would-be voyagers.\N\N火星对未来的星际旅客来说有着特殊的魅力.\N\N
+Dialogue: 0,0:02:17.06,0:02:23.19,Default,,0,0,0,,America,Russia and Europe are filled with enthusiasts--\N\N美国、俄罗斯和欧洲都有许多热心此项事业的人--\N\N
+Dialogue: 0,0:02:23.19,0:02:29.14,Default,,0,0,0,,many of them serious and senior scientists- who dream of sending people to it.\N\N他们中的不少人是认真和资深的科学家--他们一直梦想着把人送上火星.\N\N
+Dialogue: 0,0:02:29.14,0:02:32.02,Default,,0,0,0,,Their aim is understandable.\N\N他们的目标是可以理解的.\N\N
+Dialogue: 0,0:02:32.02,0:02:37.37,Default,,0,0,0,,It is the one world in the Solar System that is most like the Earth.\N\N火星是太阳系里与地球最相似的一颗行星.\N\N
+Dialogue: 0,0:02:37.37,0:02:43.95,Default,,0,0,0,,It is a world of red sandy deserts (hence its name the Red Planet),\N\N这是一个红色沙漠的世界(因而得名:红色行星),\N\N
+Dialogue: 0,0:02:43.95,0:02:51.27,Default,,0,0,0,,chasm: n.  断层，裂口\N\Ncloudless skies,savage sandstorms,chasms wider than the Grand Canyon\N\N无云的天空,凶猛的沙暴,比大峡谷还宽的裂缝,\N\N
+Dialogue: 0,0:02:51.27,0:02:55.23,Default,,0,0,0,,and at least one mountain more than twice as tall as Everest.\N\N起码有一座山有珠穆朗玛峰的近两倍高.\N\N
+Dialogue: 0,0:02:55.23,0:03:00.23,Default,,0,0,0,,It seems ideal for settlement.\N\N看起来,它很适合居住.\N\N
