@@ -3,10 +3,7 @@
 import os
 from gtts import gTTS
 
-def process_text_file(input_file, output_file):
-    if os.path.isfile(output_file):
-        print(f"Error: Output video file '{output_file}' already exists.")
-        return
+def process_text_file(input_file, output_dir):
     import re
 
     # 读取文本文件内容
@@ -26,13 +23,20 @@ def process_text_file(input_file, output_file):
 
     # 保留不包含中文的行
     filtered_lines = [line for line in lines if not re.search(r'[\u4e00-\u9fff]', line)]
+    header = " ".join(filtered_lines)
+    header = re.sub(r'\s+', ' ', header)
+    output_file = os.path.join(output_dir, header + '.mp3')
 
+    if os.path.isfile(output_file):
+        print(f"Error: Output video file '{output_file}' already exists.")
+        return
     # 合并过滤后的行
-    title = "\n".join(filtered_lines)
+    title = "...\n".join(filtered_lines)
 
     english_text = sections[2].strip()
-    tts = gTTS(title + '\n' + english_text, lang="en")  # 设置语言为中文（可以自动处理中英文混合）
+    tts = gTTS(title + '...\n' + english_text, lang="en", slow=True)  # 设置语言为中文（可以自动处理中英文混合）
     tts.save(output_file)
+    return output_file
 
 def process_directory(input_dir, output_dir):
     if not os.path.exists(output_dir):
@@ -41,12 +45,11 @@ def process_directory(input_dir, output_dir):
     for filename in os.listdir(input_dir):
         input_path = os.path.join(input_dir, filename)
         if os.path.isfile(input_path) and filename.endswith('.TXT'):
-            output_path = os.path.join(output_dir, os.path.splitext(filename)[0] + '.mp3')
             try:
-                process_text_file(input_path, output_path)
+                output_path = process_text_file(input_path, output_dir)
                 print(f"处理完成: {filename} -> {output_path}")
             except Exception as e:
-                print(f"处理文件 {filename} 时出错:")
+                print(f"处理文件 {filename} 时出错: {e}")
 
 # 调用示例
 input_dir = '1to4/3'  # 输入文件夹
